@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BEIRO%2C+FRANCISCO+AV.+Y+LASTRA+AV.&v2=true

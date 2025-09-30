@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RAMIREZ+DE+VELASCO%2C+JUAN+Y+BONPLAND&v2=true

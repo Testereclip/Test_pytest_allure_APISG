@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MEANA%2C+BENITO%2C+CNEL.+Y+ALVARADO&v2=true

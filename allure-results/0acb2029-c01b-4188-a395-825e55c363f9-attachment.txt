@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ORTIZ%2C+CARLOS+Y+MEMBRILLAR&v2=true

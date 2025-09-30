@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BELTRAN%2C+NELLY+Y+GANDARILLAS%2C+MANUELA&v2=true

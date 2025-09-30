@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RICCHERI%2C+PABLO%2C+TTE.+GRAL.+Y+SOLIER%2C+DANIEL+DE%2C+ALTE.&v2=true

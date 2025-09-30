@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PLAZA%2C+VICTORINO+DE+LA%2C+DR.+Y+SOURIGUES%2C+CARLOS%2C+CNEL.&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CIUDAD+DE+LA+PAZ+Y+LARRALDE%2C+CRISOLOGO+AV.&v2=true

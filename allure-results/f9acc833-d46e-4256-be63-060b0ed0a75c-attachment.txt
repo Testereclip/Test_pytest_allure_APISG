@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=STORNI+ALFONSINA+Y+FERNANDEZ%2C+MACEDONIO&v2=true

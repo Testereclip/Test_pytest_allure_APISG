@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PASAJE+DE+LOS+TRABAJADORES+Y+PASAJE+ESPERANZA&v2=true

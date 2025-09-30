@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=WHITE+Y+FALCON%2C+RAMON+L.%2CCNEL.&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BARCO+CENTENERA+DEL+Y+ESQUIU&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=AUTOPISTA+PERITO+MORENO+Y+AMEGHINO%2C+FLORENTINO%2C+DR.&v2=true

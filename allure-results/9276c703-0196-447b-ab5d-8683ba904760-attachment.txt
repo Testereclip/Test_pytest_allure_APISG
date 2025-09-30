@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ESTADO+DE+ISRAEL+AV.+Y+PRINGLES&v2=true

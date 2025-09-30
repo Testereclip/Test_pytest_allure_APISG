@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SALMUN+FEIJOO%2C+JOSE+AARON+Y+QUINQUELA+MARTIN%2C+BENITO&v2=true

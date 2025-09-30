@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BONAVENA%2C+OSCAR+NATALIO+Y+RIO+CUARTO&v2=true

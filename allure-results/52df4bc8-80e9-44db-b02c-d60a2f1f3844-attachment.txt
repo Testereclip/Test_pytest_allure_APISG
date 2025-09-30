@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=EZEIZA+Y+PENELON%2C+JOSE&v2=true

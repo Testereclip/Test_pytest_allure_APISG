@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CARRILLO%2C+RAMON%2C+DR.+Y+AROLAS%2C+EDUARDO&v2=true

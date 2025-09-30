@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BERMEJO%2C+ANTONIO+DR.+Y+PIEDRA+BUENA+AV.&v2=true

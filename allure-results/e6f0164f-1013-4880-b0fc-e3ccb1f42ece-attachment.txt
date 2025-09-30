@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ARREGUI+Y+EL+PAMPERO&v2=true

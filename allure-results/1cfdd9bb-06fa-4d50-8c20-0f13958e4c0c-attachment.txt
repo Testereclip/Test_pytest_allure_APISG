@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SOLORZANO+PEREIRA%2C+JUAN+DE+Y+NAZARRE&v2=true

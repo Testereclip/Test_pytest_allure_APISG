@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LARREA+Y+MANSILLA%2C+LUCIO+NORBERTO%2C+GENERAL&v2=true

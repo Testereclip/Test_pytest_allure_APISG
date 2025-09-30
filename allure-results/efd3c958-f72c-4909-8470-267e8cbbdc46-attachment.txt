@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=OLAVARRIA+Y+POLIZA%2C+PRACTICO&v2=true

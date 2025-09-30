@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PAULA+Y+RODRIGUEZ+ALVES%2C+JOSE+DE+1094&v2=true

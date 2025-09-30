@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DE+LOS+INMIGRANTES+AV.+Y+PUENTE+PEATONAL+RETIRO&v2=true

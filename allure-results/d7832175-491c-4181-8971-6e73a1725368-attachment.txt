@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BATLLE+Y+ORDO%C3%91EZ%2C+JOSE+P.T.+6685&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GOMEZ+MIRANDA%2C+FLORENTINA+Y+KAHLO%2C+FRIDA&v2=true

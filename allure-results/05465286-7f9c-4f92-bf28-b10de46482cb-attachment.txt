@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BOLIVAR+Y+GARCIA%2C+MARTIN+AV.&v2=true

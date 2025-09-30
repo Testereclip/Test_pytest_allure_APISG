@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BARROS+PAZOS%2C+JOSE+Y+BARCO+CENTENERA+DEL+AV.&v2=true

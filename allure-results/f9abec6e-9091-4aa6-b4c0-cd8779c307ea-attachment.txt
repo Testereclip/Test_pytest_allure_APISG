@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=TRES+ARROYOS+Y+CAMPANA&v2=true

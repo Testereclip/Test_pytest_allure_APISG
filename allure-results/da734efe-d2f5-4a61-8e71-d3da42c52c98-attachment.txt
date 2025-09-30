@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GILARDI%2C+GILARDO+Y+SAN+MARTIN&v2=true

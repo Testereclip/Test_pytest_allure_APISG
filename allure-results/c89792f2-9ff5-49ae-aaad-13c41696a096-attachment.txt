@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ARENALES+Y+9+DE+JULIO+AV.&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MACIEL%2C+FRANCISCO+A.+Y+PLANES&v2=true

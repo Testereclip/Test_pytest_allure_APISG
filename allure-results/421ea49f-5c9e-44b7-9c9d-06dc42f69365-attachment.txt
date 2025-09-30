@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LAFAYETTE+Y+SANTO+DOMINGO&v2=true

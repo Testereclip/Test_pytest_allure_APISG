@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=HIDALGO+Y+VILA%2C+NICOLAS&v2=true

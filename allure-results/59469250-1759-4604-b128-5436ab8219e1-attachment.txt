@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SOLANO+LOPEZ%2C+F.%2C+MARISCAL+Y+ZAMUDIO&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=OLAZABAL+Y+GOLFARINI%2C+JUAN+ANGEL%2C+DR.&v2=true

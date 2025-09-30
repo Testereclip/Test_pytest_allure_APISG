@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SAN+MARTIN+AV.+Y+CITTADINI%2C+BASILIO&v2=true

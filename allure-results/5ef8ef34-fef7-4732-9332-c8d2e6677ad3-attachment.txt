@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SALGUERO%2C+JERONIMO+Y+OBLIGADO+RAFAEL%2C+AV.COSTANERA&v2=true

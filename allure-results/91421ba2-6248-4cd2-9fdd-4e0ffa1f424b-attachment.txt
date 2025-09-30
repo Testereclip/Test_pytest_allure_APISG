@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PATRICIAS+ARGENTINAS+AV.+Y+BALDRICH%2C+JUAN+A.+DE%2C+CNEL.&v2=true

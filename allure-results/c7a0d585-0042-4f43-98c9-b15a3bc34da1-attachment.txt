@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ACOYTE+Y+VIALE%2C+LUIS&v2=true

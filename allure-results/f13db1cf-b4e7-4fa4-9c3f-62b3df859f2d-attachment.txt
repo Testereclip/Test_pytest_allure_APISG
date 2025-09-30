@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=AGUADO%2C+ALEJANDRO+M.+DE+Y+ELIZALDE%2C+RUFINO+DE&v2=true

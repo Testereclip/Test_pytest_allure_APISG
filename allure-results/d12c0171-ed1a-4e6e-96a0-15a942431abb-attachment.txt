@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GALICIA+Y+CUCHA+CUCHA&v2=true

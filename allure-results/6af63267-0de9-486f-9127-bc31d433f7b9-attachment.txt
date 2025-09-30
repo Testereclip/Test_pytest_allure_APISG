@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=FREIRE%2C+RAMON%2C+CAP.+GRAL.+Y+RIVERA%2C+PEDRO+I.%2C+DR.&v2=true

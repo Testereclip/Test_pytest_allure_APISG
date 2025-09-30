@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CROVARA+Y+CRUZ%2C+OSVALDO&v2=true

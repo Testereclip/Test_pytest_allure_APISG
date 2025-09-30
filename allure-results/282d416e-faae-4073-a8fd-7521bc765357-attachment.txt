@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ESPRONCEDA+Y+VARELA%2C+JOSE+PEDRO&v2=true

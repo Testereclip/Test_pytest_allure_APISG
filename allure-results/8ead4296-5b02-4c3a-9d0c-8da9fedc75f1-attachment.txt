@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CALVO%2C+CARLOS+Y+AUTOPISTA+25+DE+MAYO&v2=true

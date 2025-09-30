@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SAENZ%2C+MANUELA+Y+DEALESSI%2C+PIERINA&v2=true

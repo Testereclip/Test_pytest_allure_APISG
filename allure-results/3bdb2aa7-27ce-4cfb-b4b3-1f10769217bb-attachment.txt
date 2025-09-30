@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DEGLIOUMINI%2C+DELIA+Y+PARADO+DE+BELLIDO%2C+MARIA&v2=true

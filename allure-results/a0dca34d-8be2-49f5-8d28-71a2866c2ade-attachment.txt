@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SKENNON%2C+MIGUEL+Y+TUYUTI&v2=true

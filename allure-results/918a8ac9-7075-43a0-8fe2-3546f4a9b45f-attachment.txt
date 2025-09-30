@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BAVIO%2C+ERNESTO+A.+Y+SOLIER%2C+DANIEL+DE%2C+ALTE.&v2=true

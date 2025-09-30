@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GAINZA%2C+MARTIN+DE%2C+GRAL.+Y+ROJAS&v2=true

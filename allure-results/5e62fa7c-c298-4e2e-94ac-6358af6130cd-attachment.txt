@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=YERBAL+Y+BEDOYA%2C+ELIAS&v2=true

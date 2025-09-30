@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=1+DE+AGOSTO+DIA+DE+LA+PACHAMAMA+Y+GANDARILLAS%2C+MANUELA&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VIDELA%2C+NICOLAS+E.+Y+LA+NAVE&v2=true

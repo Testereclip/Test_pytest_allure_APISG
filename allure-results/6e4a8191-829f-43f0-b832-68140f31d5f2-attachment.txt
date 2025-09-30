@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=TEJEDOR+Y+DEL+PROGRESO&v2=true

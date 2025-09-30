@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RIVADAVIA+MARTIN%2C+COMODORO+Y+CABILDO+AV.&v2=true

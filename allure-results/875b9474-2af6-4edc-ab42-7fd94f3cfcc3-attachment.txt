@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GARDEL%2C+CARLOS+Y+JAURES%2C+JEAN&v2=true

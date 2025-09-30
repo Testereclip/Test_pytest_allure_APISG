@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=AQUINO+Y+GUARDIA+NACIONAL&v2=true

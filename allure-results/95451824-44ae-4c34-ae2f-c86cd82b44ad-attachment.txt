@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BRANDSEN+Y+AUTOPISTA+1+SUR+PRESIDENTE+ARTURO+FRONDIZI&v2=true

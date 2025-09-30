@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BALBOA+Y+PJE.PARTICULAR+%28ALT.+BALBOA+458%29&v2=true

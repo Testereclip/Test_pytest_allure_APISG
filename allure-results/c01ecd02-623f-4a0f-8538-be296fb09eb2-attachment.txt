@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BELAUSTEGUI%2C+LUIS%2C+DR.+Y+CALDERON+DE+LA+BARCA%2C+PEDRO&v2=true

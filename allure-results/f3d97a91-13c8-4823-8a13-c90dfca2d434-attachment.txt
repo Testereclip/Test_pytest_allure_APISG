@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CABRERA%2C+JOSE+A.+Y+DORREGO&v2=true

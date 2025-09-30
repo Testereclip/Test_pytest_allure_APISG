@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ORTIZ+DE+OCAMPO+AV.+Y+TEDIN%2C+JUEZ&v2=true

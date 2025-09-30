@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CABRERA%2C+DELFO+Y+23+DE+JUNIO&v2=true

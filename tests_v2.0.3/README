@@ -30,3 +30,19 @@ allure generate allure-errores -o reporte-errores --clean
 *****Correr solo los casos que no son errores en el test_cruces_totales
 pytest -m "not known_issue" --alluredir=allure-regression
 allure generate allure-regression -o reporte-regression --clean
+
+3. Ejecutar los comandos 
+***Para correr solo los errores conocidos:
+pytest -m known_issue --alluredir=allure-errores
+allure generate allure-errores 
+
+**Para correr solo los casos que no son errores (regresión):
+pytest -m "not known_issue and regresion" --alluredir=allure-regression
+allure generate allure-regression 
+
+4. Ver los reportes
+Para ver el reporte de errores:
+allure open reporte-errores
+
+Para ver el reporte de regresión:
+allure open reporte-regression

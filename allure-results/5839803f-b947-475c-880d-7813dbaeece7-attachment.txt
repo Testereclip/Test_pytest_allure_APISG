@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RABANAL%2C+FRANCISCO%2C+INTENDENTE+AV.+Y+EREZCANO+AV.&v2=true

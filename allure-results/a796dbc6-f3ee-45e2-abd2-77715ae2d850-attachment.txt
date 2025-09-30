@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SANABRIA+Y+MAGARI%C3%91OS+CERVANTES%2C+A.&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ALBARI%C3%91O+Y+SCHMIDL%2C+ULRICO&v2=true

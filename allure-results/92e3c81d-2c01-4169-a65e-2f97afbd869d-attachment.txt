@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GOMEZ%2C+JUAN+CARLOS+Y+CASEROS+AV.&v2=true

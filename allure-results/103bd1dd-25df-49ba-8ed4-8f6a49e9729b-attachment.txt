@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CHAGAS%2C+CARLOS+Y+SASTRE%2C+MARCOS&v2=true

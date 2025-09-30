@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LAMAS%2C+ANDRES+Y+GAVILAN&v2=true

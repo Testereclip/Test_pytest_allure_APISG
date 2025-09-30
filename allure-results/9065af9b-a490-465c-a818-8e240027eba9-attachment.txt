@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RIESTRA+AV.+Y+OZANAM+FEDERICO%2C+BEATO&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LA+TRILLA+Y+SALVIGNY&v2=true

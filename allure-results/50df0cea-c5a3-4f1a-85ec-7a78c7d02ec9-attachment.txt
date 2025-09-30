@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LADINES+Y+GONZALEZ%2C+JOAQUIN+V.&v2=true

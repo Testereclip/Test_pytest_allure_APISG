@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SENDERO+DE+LA+FUERZA+Y+SENDERO+14+DE+MAYO&v2=true

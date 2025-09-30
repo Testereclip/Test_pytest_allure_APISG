@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VEDIA%2C+AGUSTIN+DE+Y+GIACCHINO%2C+PEDRO+E.%2C+CAPITAN+DE+FRAGATA&v2=true

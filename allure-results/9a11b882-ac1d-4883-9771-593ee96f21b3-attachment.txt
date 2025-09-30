@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=AUTOPISTA+PRESIDENTE+DR.+RAUL+RICARDO+ALFONSIN+Y+GONZALEZ+GASS%2C+GABRIELA&v2=true

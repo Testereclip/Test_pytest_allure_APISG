@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CONI%2C+EMILIO+R.%2C+DR.+Y+PONCE%2C+ANIBAL&v2=true

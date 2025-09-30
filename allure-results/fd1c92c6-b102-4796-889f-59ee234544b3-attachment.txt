@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MARTI%2C+JOSE+Y+BUSTILLO%2C+JOSE+M.%2C+GRAL.&v2=true

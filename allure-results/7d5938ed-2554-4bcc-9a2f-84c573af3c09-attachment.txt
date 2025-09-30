@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=NEUQUEN+Y+BIEDMA%2C+JOSE+JUAN&v2=true

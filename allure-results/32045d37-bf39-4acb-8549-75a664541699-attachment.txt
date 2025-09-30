@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ARGERICH+Y+VALLE+PJE.+PARTICULAR+%28ALT.+ARGERICH+500%29&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VIDAL+Y+MALHARRO%2C+MARTIN+A.&v2=true

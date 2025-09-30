@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=FOREST+AV.+Y+ZARRAGA&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=FERNANDEZ%2C+SARA+BEATRIZ+Y+MACHU+PICCHU&v2=true

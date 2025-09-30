@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MANSO+JUANA+Y+DE+LA+BARRA%2C++EMMA&v2=true

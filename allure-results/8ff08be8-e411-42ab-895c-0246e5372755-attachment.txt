@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GRANDOLI%2C+MARTIN+Y+RUCCI%2C+JOSE+IGNACIO&v2=true

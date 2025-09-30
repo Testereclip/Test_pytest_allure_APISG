@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=COCHRANE+Y+DEL+FOMENTISTA+AV.&v2=true

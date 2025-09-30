@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BOGOTA+Y+ANDRADE%2C+OLEGARIO%2C+V.&v2=true

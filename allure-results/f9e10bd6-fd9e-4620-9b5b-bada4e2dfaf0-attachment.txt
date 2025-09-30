@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GUAYMALLEN+Y+LANCHEROS+DEL+PLATA&v2=true

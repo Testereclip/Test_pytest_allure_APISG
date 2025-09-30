@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=IRIGOYEN%2C+BERNARDO+DE+Y+DE+MAYO+AV.&v2=true

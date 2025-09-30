@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LAFAYETTE+Y+PIAZZOLLA%2C+ASTOR&v2=true

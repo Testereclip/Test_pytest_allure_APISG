@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SAENZ+VALIENTE%2C+JUAN+PABLO+Y+SAENZ+VALIENTE%2C+JUAN+PABLO+%28PJE+PART+RIVER+PLATE%29&v2=true

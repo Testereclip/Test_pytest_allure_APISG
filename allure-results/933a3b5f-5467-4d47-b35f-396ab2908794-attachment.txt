@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BAIGORRIA+Y+GORDILLO%2C+JOSE+O.%2C+CNEL.&v2=true

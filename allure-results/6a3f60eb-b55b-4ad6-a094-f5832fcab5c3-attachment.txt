@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LAFUENTE+Y+DIRECTORIO+AV.&v2=true

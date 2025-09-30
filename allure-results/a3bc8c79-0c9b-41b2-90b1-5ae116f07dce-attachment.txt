@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SEGUI%2C+F.+J.%2C+ALTE.+Y+GALICIA&v2=true

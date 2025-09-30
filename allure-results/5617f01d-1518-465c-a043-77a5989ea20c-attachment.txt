@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CRUZ%2C+OSVALDO+Y+PADRE+DANIEL+DE+LA+SIERRA+PASEO&v2=true

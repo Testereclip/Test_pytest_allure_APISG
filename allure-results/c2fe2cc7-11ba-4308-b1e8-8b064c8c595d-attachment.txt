@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LAGUNA+Y+PASILLO+LATINOS&v2=true

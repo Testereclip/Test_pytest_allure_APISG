@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VEGA%2C+VENTURA+DE+LA+Y+EINSTEIN%2C+ALBERTO&v2=true

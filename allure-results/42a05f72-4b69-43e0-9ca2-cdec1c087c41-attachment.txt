@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SEGUI%2C+JUAN+FRANCISCO+Y+SCALABRINI+ORTIZ%2C+RAUL&v2=true

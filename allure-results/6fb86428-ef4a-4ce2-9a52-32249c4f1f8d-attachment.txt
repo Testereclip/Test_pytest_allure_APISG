@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GOLETA+JULIET+Y+CORBETA+BELFAST&v2=true

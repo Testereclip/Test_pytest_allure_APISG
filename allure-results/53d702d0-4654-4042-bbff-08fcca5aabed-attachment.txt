@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PARAGUAY+Y+CARRANZA%2C+ANGEL+JUSTINIANO&v2=true

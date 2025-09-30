@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DIAZ+COLODRERO+Y+NU%C3%91EZ&v2=true

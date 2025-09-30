@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VILLAFA%C3%91E%2C+WENCESLAO+Y+ESPORA%2C+TOMAS%2C+CORONEL+DE+MARINA&v2=true

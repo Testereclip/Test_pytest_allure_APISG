@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CAMINO%2C+MIGUEL+ANDRES+Y+FERNANDEZ%2C+MACEDONIO&v2=true

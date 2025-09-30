@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BUFANO%2C+ALFREDO+R.+Y+DIAZ%2C+CESAR%2C+GRAL.&v2=true

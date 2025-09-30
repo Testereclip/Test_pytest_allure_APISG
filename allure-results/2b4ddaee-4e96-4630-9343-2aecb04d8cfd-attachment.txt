@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ARMAUER+HANSEN%2C+GERARDO%2C+DR.+Y+LA+PAMPA&v2=true

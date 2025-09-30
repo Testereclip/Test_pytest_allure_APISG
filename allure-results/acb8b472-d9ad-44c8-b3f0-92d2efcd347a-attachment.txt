@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ARREDONDO%2C+VIRREY+Y+AMENABAR&v2=true

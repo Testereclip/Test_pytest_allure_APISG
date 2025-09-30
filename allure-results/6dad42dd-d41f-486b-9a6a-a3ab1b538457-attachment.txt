@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RICCIO%2C+GUSTAVO+Y+ALBERDI%2C+JUAN+BAUTISTA+AV.&v2=true

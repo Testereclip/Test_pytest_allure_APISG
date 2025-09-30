@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=FIGUEROA+ALCORTA%2C+PRES.+AV.+Y+BELLO%2C+ANDRES&v2=true

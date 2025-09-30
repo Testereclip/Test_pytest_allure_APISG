@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VIEYRA+Y+ECHAGUE%2C+PEDRO&v2=true

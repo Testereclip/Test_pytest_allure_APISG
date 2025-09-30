@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=FINLANDIA+Y+SCHMIDL%2C+ULRICO&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PAZ+Y+FIGUEROA%2C+MARIA+ANTONIA+DE+LA+4524&v2=true

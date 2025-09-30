@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DEMARIA%2C+ISIDORO+Y+PLANES&v2=true

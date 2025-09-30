@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ALBERDI%2C+JUAN+BAUTISTA+AV.+Y+TERRY%2C+JOSE+A.&v2=true

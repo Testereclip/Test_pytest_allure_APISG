@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=COSSETTINI%2C+OLGA+Y+SANCHEZ+DE+THOMPSON%2C+MARIQUITA&v2=true

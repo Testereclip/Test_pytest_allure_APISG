@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LOS+CEDROS+Y+DEL+PALO+SANTO&v2=true

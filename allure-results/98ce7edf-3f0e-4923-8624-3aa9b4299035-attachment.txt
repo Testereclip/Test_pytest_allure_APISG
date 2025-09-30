@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LAFAYETTE+Y+CRUZ%2C+OSVALDO+AV.&v2=true

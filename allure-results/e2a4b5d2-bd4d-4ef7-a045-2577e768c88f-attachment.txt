@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=JENNER%2C+EDUARDO%2C+DR.+Y+AUTOPISTA+25+DE+MAYO&v2=true

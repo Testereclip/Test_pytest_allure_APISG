@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MOSCONI+GENERAL+AV.+Y+ZAMUDIO&v2=true

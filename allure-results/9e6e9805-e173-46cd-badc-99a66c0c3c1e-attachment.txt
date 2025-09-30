@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SAN+MARTIN+AV.+Y+ROUSSEAU%2C+JUAN+J.&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PEREZ%2C+ROQUE+Y+AZURDUY+JUANA&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=8+DE+JULIO+DE+2008+Y+IGUAZU&v2=true

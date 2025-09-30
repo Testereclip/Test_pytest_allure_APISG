@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=EZEIZA+Y+EL+GAUCHO&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CANTILO%2C+INT.+Y+GUIRALDES%2C+INT.&v2=true

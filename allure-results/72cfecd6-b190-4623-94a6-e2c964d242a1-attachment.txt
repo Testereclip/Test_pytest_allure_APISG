@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=OLIDEN+Y+SANTIAGO+DE+CHILE&v2=true

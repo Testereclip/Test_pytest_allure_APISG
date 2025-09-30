@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LAFERRERE%2C+GREGORIO+DE+Y+MARTI%2C+JOSE&v2=true

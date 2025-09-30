@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=HUGO%2C+VICTOR+Y+CANTILO%2C+JOSE+LUIS&v2=true

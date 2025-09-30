@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CABRERA%2C+JOSE+A.+Y+ACU%C3%91A+DE+FIGUEROA%2C+FRANCISCO&v2=true

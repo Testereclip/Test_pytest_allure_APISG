@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=UNAMUNO%2C+MIGUEL+DE+Y+MORRIS%2C+WILLIAM+C.&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LOPEZ+BUCHARDO%2C+CARLOS+Y+GUTTERO%2C+ALFREDO&v2=true

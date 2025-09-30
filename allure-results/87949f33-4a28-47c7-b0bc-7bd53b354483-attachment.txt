@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MUJICA%2C+JOSE+PIO+Y+RAMIREZ%2C+CARLOS+M.&v2=true

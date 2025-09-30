@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=FRANKLIN+Y+PUEYRREDON%2C+HONORIO%2C+DR.+AV.&v2=true

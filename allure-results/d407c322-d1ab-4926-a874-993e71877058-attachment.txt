@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LANTERI+JULIETA+Y+EZCURRA%2C+ENCARNACION&v2=true

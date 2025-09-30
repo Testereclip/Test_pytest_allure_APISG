@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CALVO%2C+CARLOS+AV.+Y+MARMOL%2C+JOSE&v2=true

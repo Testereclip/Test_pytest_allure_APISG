@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=TRIUNVIRATO+AV.+Y+GARCIA%2C+TEODORO&v2=true

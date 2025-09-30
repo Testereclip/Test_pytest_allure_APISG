@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PY%2C+COMODORO+AV.+Y+CORBETA+URUGUAY&v2=true

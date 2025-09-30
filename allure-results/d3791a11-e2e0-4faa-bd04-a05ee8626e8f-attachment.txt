@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VELEZ+SARSFIELD+AV.+Y+ZEPITA&v2=true

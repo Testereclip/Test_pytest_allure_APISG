@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CHAVEZ%2C+JORGE+Y+TONELERO&v2=true

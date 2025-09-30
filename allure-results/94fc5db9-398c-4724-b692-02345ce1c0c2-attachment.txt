@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CUBAS%2C+JOSE+Y+FERNANDEZ+DE+ENCISO&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VARELA+AV.+Y+RAMIREZ%2C+CARLOS+M.&v2=true

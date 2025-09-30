@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=AUTOPISTA+PRESIDENTE+HECTOR+J.+CAMPORA+Y+JANER%2C+ANA+MARIA&v2=true

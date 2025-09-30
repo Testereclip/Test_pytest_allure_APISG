@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LISTA%2C+RAMON%2C+CORONEL+Y+HUGO%2C+VICTOR&v2=true

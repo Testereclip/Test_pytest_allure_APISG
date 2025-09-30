@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ROMERO%2C+EDUARDO%2C+SGTO.+Y+RICCHERI%2C+PABLO%2C+TTE.+GRAL.&v2=true

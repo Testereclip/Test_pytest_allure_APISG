@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BORGES%2C+JORGE+LUIS+Y+GUEMES&v2=true

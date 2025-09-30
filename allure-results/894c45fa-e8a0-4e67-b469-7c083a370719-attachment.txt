@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RIVERA%2C+PEDRO+I.%2C+DR.+Y+DE+LOS+CONSTITUYENTES+AV.&v2=true

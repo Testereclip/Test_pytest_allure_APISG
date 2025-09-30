@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=EINSTEIN%2C+ALBERTO+Y+PITTALUGA%2C+EDUARDO%2C+DR.&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PEREZ%2C+JOSE+JULIAN+Y+MEXICO&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ARIAS+Y+VUELTA+DE+OBLIGADO&v2=true

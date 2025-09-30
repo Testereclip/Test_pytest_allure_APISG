@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CABELLO+Y+REPUBLICA+ARABE+SIRIA&v2=true

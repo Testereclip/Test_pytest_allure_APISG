@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PATRICIAS+ARGENTINAS+AV.+Y+CURIE%2C+MARIA+AV.&v2=true

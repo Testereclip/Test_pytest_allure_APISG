@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CAFAYATE+Y+BERGANTIN+GENERAL+BALCARCE&v2=true

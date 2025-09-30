@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BERUTI+Y+SANCHEZ+DE+BUSTAMANTE&v2=true

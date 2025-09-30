@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PARERA+Y+QUINTANA%2C+MANUEL%2C+PRES.&v2=true

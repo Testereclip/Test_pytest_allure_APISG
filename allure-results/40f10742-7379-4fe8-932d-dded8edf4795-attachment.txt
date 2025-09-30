@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PI+Y+MARGALL+Y+NECOCHEA&v2=true

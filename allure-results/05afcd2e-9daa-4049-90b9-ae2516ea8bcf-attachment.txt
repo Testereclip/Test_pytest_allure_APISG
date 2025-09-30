@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=AVELLANEDA+AV.+Y+ALVAREZ%2C+DONATO%2C+TTE.+GRAL.&v2=true

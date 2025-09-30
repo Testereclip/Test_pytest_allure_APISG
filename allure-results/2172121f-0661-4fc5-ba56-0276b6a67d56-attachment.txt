@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=27+DE+FEBRERO+AV.+Y+VEDIA%2C+AGUSTIN+DE&v2=true

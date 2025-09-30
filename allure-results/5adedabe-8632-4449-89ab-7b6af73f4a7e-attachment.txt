@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=FRIAS%2C+EUSTOQUIO%2C+TTE.+GENERAL+Y+AGUIRRE&v2=true

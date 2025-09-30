@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BORDABEHERE%2C+ENZO+Y+CITTADINI%2C+BASILIO&v2=true

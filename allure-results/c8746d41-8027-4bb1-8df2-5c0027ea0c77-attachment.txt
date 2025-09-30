@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GANDHI%2C+MAHATMA+Y+OLAYA&v2=true

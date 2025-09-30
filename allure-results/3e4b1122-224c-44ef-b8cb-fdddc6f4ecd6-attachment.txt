@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BRAILLE%2C+LUIS+Y+CORTINA&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MONROE+Y+MONTA%C3%91ESES&v2=true

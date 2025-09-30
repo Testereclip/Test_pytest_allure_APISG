@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ARENAL%2C+CONCEPCION+Y+GIRARDOT&v2=true

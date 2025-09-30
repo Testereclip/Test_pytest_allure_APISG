@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RESERVISTAS+ARGENTINOS+Y+VIEDMA%2C+FRANCISCO+DE&v2=true

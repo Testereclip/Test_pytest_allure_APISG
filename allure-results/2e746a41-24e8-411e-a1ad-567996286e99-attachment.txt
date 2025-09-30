@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CAFFARENA%2C+AGUSTIN+R.+Y+BRIN%2C+MINISTRO&v2=true

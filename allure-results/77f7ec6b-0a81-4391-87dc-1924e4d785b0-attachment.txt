@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=FERNANDEZ+MORENO%2C+BALDOMERO+Y+NAON%2C+JUAN+JOSE&v2=true

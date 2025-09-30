@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LARA%2C+JUANA+MARIA+DE+Y+ARAUJO&v2=true

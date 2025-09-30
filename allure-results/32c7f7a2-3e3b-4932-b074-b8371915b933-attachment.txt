@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DRAGO%2C+LUIS+MARIA+Y+LAVALLEJA&v2=true

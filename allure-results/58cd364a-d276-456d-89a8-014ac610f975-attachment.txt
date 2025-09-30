@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CARRANZA%2C+CARLOS+Y+CALDERON+DE+LA+BARCA%2C+PEDRO&v2=true

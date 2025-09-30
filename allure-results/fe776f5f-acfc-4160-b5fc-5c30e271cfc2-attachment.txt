@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ALVAR+NU%C3%91EZ+Y+PALACIOS%2C+ALFREDO+L.&v2=true

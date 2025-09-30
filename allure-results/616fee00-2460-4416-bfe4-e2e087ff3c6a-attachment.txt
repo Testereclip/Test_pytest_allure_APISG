@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LAMBARE+Y+GUARDIA+VIEJA&v2=true

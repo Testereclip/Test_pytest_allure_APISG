@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SANTA+CRUZ+Y+LOS+PATOS&v2=true

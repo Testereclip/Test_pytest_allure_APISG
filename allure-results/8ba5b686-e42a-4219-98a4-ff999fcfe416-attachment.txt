@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PERETTE%2C+CARLOS+H.+Y+TOTORA&v2=true

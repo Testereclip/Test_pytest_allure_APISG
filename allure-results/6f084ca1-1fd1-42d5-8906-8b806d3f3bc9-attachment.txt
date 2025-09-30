@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ROCA%2C+CNEL.+AV.+Y+PERGAMINO&v2=true

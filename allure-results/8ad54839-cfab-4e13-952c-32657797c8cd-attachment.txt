@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PERU+Y+ROCA%2C+JULIO+A.%2C+PRESIDENTE+DIAGONAL+SUR+AV.&v2=true

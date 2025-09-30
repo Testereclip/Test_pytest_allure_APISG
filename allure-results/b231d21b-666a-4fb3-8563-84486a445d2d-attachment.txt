@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CABRAL%2C+SGTO.+Y+ESMERALDA&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LOREA%2C+ISIDRO+AV.+Y+VELARDE%2C+PEDRO&v2=true

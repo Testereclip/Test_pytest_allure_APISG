@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LASCANO+Y+HUGO%2C+VICTOR&v2=true

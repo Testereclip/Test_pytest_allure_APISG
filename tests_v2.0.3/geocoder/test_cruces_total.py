@@ -44,8 +44,6 @@ DIRECCIONES_CON_ERRORES = {
     "AÑASCO Y TRELLES, MANUEL R.",
     "BALCARCE Y AUTOPISTA 25 DE MAYO",
     "BARCO CENTENERA DEL Y AUTOPISTA 25 DE MAYO",
-    "BASTIDAS, MICAELA Y 8 DE MARZO",
-    "BASTIDAS, MICAELA Y GILDA",
     "BRANDSEN Y AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI",
     "BRASIL Y AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI",
     "CAFAYATE Y FRAGATA 25 DE MAYO",
@@ -111,20 +109,27 @@ DIRECCIONES_CON_ERRORES = {
     "VIEL Y AUTOPISTA 25 DE MAYO",
     "VIEYTES Y IRIARTE, GRAL."
 }
-
-@pytest.mark.parametrize("caso", cargar_casos())
+# Parametrización con marcadores dinámicos
+@pytest.mark.parametrize(
+    "caso",
+    [
+        pytest.param(c, marks=pytest.mark.known_issue) if c["direccion"] in DIRECCIONES_CON_ERRORES else c
+        for c in cargar_casos()
+    ]
+)
+@pytest.mark.regresion
 @allure.epic("Validaciones de geocoder")
 @allure.feature("Geocoder con cruces totales")
 @allure.severity(allure.severity_level.NORMAL)
 def test_datos_geocoder_con_atributos(caso):
     direccion = caso["direccion"]
-    
-    # Si la dirección está en la lista de errores, marca el test como known_issue
-    if direccion in DIRECCIONES_CON_ERRORES:
-        pytest.current_test.marker = pytest.mark.known_issue
 
-def test_datos_geocoder_con_atributos(caso):
-    direccion = caso["direccion"]
+    if direccion in DIRECCIONES_CON_ERRORES:
+        allure.dynamic.tag("known_issue")
+        allure.dynamic.description(f"Test para dirección con error conocido: {direccion}")
+    else:
+        allure.dynamic.tag("regresion")
+        allure.dynamic.description(f"Test de regresión para dirección: {direccion}")
 
     allure.dynamic.title(f"Validar geocoder para '{direccion}'")
     allure.dynamic.parameter("Dirección", direccion)
@@ -143,7 +148,6 @@ def test_datos_geocoder_con_atributos(caso):
 
     data = response.json().get("data", {})
 
-    # 👇 Reemplaza los dos pasos anteriores (nombreCalle_1 y nombreCalle_2) por este:
     with allure.step("Validar calles de la intersección (orden no importa)"):
         esperado = {caso["nombreCalle_1"], caso["nombreCalle_2"]}
         obtenido = {data.get("nombreCalle_1"), data.get("nombreCalle_2")}

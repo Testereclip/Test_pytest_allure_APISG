@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SAN+BLAS+Y+LAS+ACACIAS&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VIDAL+Y+PEDRAZA%2C+MANUELA&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VIRGILIO+Y+ALVAREZ+JONTE+AV.&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PUMACAHUA+Y+RECUERO%2C+CASIMIRO%2C+TTE.+CNEL.&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=TREINTA+Y+TRES+ORIENTALES+Y+LOPEZ+ANAUT%2C+PEDRO%2C+DR.&v2=true

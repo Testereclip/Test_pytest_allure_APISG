@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=QUINQUELA+MARTIN%2C+BENITO+Y+DE+LAS+MUJERES+DEL+BARRIO+LA+BOCA%2C+PASEO+PEATONAL+COSTERO&v2=true

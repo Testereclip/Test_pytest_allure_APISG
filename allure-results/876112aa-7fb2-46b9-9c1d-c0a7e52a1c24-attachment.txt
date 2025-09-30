@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MUZILLI%2C+CAROLINA+Y+POLA&v2=true

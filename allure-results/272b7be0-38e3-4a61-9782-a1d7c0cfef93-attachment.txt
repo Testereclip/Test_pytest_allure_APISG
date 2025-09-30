@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GRAMAJO+GUTIERREZ%2C+ALFREDO+Y+CACHI&v2=true

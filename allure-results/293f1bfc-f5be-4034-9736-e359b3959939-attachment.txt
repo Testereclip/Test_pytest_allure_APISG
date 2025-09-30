@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VELEZ+SARSFIELD+AV.+Y+PUENTE+VICTORINO+DE+LA+PLAZA&v2=true

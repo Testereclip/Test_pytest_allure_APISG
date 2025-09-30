@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BAIGORRIA+Y+ROJAS%2C+DIEGO+DE&v2=true

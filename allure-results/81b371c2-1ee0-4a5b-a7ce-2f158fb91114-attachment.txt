@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RIGLOS+Y+BONIFACIO%2C+JOSE&v2=true

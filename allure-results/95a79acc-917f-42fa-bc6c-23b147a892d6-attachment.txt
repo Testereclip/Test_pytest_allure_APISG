@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CARACAS+Y+DIAZ%2C+CESAR%2C+GRAL.&v2=true

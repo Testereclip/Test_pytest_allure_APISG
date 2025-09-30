@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PRINGLES+Y+MITRE%2C+BARTOLOME&v2=true

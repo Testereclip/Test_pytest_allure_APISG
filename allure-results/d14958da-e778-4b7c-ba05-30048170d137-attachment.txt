@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ESCALADA+AV.+Y+ZELARRAYAN&v2=true

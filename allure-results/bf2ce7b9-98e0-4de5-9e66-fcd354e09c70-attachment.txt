@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=FIGUEROA+ALCORTA%2C+PRES.+AV.+Y+CASTILLA%2C+RAMON%2C+MARISCAL&v2=true

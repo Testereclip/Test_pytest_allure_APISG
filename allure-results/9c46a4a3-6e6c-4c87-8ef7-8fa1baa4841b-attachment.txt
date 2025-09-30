@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SEGUROLA+AV.+Y+BACACAY&v2=true

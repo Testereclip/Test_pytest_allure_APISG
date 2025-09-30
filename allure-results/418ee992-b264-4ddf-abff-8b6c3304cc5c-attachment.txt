@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GELLY+Y+OBES%2C+GRAL.+AV.+Y+AGOTE%2C+LUIS+DR.&v2=true

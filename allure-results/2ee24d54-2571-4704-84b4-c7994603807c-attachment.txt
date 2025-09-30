@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=3+DE+FEBRERO+Y+UGARTE%2C+MANUEL&v2=true

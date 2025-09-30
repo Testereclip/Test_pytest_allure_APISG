@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ALLENDE+Y+ALVEAR%2C+EMILIO%2C+DE&v2=true

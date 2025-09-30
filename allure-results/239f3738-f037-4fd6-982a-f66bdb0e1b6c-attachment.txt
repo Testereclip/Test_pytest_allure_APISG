@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RIVAS%2C+JOAQUIN%2C+ALFEREZ+DE+FRAGATA+Y+BALBIN%2C+JOSE+CELEDONIO&v2=true

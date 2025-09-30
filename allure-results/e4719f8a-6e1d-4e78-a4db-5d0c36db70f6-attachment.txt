@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ARBELETCHE%2C+ANIBAL+P.+Y+LAS+PALMAS&v2=true

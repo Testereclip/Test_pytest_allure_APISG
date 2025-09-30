@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LOS+PATOS+Y+COLONIA+AV.&v2=true

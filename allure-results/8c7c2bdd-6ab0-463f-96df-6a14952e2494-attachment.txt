@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SOLANO+LOPEZ%2C+F.%2C+MARISCAL+Y+ARTIGAS%2C+JOSE+GERVASIO%2C+GRAL.&v2=true

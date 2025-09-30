@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=TABORDA%2C+DIOGENES+Y+TRAFUL&v2=true

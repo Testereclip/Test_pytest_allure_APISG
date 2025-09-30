@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=REMEDIOS+Y+BERMUDEZ%2C+JORGE&v2=true

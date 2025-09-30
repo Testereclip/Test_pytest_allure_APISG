@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CASTA%C3%91ON+Y+CONDOR&v2=true

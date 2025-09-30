@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VILELA+Y+RIVADAVIA+MARTIN%2C+COMODORO&v2=true

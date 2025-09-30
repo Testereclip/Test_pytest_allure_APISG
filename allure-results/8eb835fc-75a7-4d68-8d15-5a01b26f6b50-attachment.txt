@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DIAZ+VELEZ+AV.+Y+ESNAOLA&v2=true

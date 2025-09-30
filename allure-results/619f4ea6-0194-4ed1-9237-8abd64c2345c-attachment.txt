@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MARTINEZ+CASTRO+Y+CHILAVERT%2C+MARTINIANO%2C+CORONEL&v2=true

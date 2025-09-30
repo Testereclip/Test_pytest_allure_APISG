@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GELLY+Y+OBES%2C+GRAL.+AV.+2293&v2=true

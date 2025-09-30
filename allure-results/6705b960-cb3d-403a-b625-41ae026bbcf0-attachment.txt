@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BUERAS+Y+JACQUES%2C+AMADEO&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=11+DE+SEPTIEMBRE+DE+1888+Y+JURAMENTO+AV.&v2=true

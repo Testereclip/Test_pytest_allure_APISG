@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DESAGUADERO+Y+NUEVA+YORK&v2=true

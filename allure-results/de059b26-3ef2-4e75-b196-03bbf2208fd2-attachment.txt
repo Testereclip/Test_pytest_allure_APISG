@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ORTIZ+DE+OCAMPO+AV.+Y+ELIZALDE%2C+RUFINO+DE&v2=true

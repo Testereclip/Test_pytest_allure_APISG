@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BANCHS+ENRIQUE+Y+GAITO%2C+CONSTANTINO&v2=true

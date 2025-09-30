@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=IRIGOYEN%2C+BERNARDO+DE+Y+HUMBERTO+1%C2%B0&v2=true

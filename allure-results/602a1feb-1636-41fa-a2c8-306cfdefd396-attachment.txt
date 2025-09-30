@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CONSTITUCION+Y+LUCA%2C+ESTEBAN+DE&v2=true

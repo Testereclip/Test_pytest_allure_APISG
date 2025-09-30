@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SALGUERO%2C+JERONIMO+Y+LAS+HERAS+GENERAL+AV.&v2=true

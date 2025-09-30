@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CONSTITUCION+Y+PRUDAN%2C+MANUEL+SILVESTRE%2C+TTE.&v2=true

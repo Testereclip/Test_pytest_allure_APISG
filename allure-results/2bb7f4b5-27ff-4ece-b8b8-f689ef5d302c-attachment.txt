@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=QUICHUA+Y+ISLA+DE+PASCUA&v2=true

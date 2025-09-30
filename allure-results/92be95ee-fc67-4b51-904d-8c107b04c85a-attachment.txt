@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ROOSEVELT+FRANKLIN+D.+Y+ACHA%2C+MARIANO%2C+GRAL.&v2=true

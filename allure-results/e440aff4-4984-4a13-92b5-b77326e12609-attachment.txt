@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CANE%2C+MIGUEL+Y+TEDIN%2C+JUEZ&v2=true

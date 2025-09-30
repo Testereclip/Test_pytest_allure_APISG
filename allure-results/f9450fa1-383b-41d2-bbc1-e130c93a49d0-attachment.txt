@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BARZANA+Y+CONSTANTINOPLA&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CALIFORNIA+Y+SANTA+MARIA+DEL+BUEN+AIRE&v2=true

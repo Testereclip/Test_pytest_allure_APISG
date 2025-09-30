@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MOLIERE+Y+GROUSSAC%2C+PAUL&v2=true

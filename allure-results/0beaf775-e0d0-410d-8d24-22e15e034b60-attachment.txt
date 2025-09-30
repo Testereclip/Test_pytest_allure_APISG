@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LOPE+DE+VEGA+AV.+Y+NAVARRO&v2=true

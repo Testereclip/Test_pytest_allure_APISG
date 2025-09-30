@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CONGRESO+AV.+Y+SAN+FRANCISCO+DE+ASIS&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MISIONES+Y+YRIGOYEN%2C+HIPOLITO&v2=true

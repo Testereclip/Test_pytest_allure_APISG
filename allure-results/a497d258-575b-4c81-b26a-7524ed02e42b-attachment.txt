@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RUCCI%2C+JOSE+IGNACIO+Y+SARAZA&v2=true

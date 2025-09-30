@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BUNGE%2C+INT.+Y+BELLO%2C+ANDRES&v2=true

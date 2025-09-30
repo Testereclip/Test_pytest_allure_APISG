@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LACROZE%2C+FEDERICO+AV.+Y+DELGADO&v2=true

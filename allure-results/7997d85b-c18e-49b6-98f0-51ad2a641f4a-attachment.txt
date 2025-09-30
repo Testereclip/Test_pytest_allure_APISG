@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=COSSETTINI%2C+OLGA+Y+PACINI+DE+ALVEAR+REGINA&v2=true

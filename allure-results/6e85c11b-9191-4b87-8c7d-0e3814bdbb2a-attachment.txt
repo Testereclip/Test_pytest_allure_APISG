@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=AUSTRALIA+AV.+Y+SALOM&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=%C3%91ANDUTI+Y+SAN+BLAS&v2=true

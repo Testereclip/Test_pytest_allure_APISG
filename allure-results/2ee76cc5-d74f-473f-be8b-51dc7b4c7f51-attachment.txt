@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ZINNY+Y+PUEYRREDON%2C+PRILIDIANO&v2=true

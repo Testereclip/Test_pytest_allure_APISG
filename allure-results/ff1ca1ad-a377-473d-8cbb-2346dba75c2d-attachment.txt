@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BRUSELAS+Y+SASTRE%2C+MARCOS&v2=true

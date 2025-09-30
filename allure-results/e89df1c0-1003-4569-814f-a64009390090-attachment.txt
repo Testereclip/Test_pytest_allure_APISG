@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CARRANZA%2C+ADOLFO+P.+Y+FERNANDEZ+ESPIRO+DIEGO&v2=true

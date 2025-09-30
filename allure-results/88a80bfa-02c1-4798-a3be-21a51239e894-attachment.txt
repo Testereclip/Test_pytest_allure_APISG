@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PUENTE+PEATONAL+ALT.+SAN+JUAN+BAUTISTA+DE+LA+SALLE+Y+AUTOPISTA+DELLEPIANE+LUIS+TTE.+GRAL.&v2=true

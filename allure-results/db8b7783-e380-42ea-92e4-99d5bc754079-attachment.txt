@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PUEYRREDON+AV.+Y+JUNCAL&v2=true

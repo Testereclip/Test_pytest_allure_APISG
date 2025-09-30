@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CURATELLA+MANES%2C+PABLO+Y+ACHUPALLAS&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GOMEZ%2C+VALENTIN+Y+SANCHEZ+DE+BUSTAMANTE&v2=true

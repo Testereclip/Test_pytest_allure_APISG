@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SARAZA+Y+LOPEZ%2C+JORGE+EDUARDO%2C+CABO+2%C2%BA&v2=true

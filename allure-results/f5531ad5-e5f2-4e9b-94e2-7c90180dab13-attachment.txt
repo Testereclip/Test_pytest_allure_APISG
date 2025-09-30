@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ROOSEVELT+FRANKLIN+D.+Y+MOLDES&v2=true

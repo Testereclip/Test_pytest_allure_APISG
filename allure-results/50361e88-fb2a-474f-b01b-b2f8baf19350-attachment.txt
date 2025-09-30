@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GENDARMERIA+NACIONAL+AV.+Y+ANTARTIDA+ARGENTINA+AV.&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ARIAS+Y+FREIRE%2C+RAMON%2C+CAP.+GRAL.&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=KENNEDY%2C+JOHN+FITZGERALD+Y+DEL+LIBERTADOR+AV.&v2=true

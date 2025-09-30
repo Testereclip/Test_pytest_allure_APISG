@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VARELA%2C+JOSE+PEDRO+Y+HAWAI&v2=true

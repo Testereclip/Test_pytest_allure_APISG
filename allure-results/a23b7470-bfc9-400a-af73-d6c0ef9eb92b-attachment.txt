@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ANTARTIDA+ARGENTINA+AV.+Y+CALLE+INTERNA+ACCESO+RETIRO&v2=true

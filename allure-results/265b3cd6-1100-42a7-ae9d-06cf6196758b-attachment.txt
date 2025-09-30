@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LANTERI+JULIETA+Y+VERA+PE%C3%91ALOZA%2C++ROSARIO&v2=true

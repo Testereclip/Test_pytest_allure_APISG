@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CABELLO+Y+RUGGIERI%2C+SILVIO+L.&v2=true

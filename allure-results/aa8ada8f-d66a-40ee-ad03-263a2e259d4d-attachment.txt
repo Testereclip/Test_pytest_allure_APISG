@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DON+PEDRO+DE+MENDOZA+AV.+Y+CERRI%2C+DANIEL%2C+GRAL.&v2=true

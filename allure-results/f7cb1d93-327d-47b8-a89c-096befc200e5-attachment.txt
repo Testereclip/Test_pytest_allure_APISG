@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BUTTY%2C+ENRIQUE%2C+ING.+Y+ALEM%2C+LEANDRO+N.+AV.&v2=true

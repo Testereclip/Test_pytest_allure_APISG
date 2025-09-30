@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MORO%2C+JUANA+Y+GANDARILLAS%2C+MANUELA&v2=true

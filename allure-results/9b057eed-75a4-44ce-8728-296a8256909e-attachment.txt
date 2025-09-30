@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MENDOZA+Y+TRIUNVIRATO+AV.&v2=true

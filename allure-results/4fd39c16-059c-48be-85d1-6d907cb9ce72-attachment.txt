@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BETHLEM+Y+DON+ANSELMO+AIETA&v2=true

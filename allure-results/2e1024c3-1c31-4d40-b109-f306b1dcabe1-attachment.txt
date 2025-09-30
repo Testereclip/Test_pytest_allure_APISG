@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=AGOTE+PEDRO+Y+BAVIO%2C+ERNESTO+A.&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ISABEL%2C+INFANTA+AV.+Y+DEL+LIBERTADOR+AV.&v2=true

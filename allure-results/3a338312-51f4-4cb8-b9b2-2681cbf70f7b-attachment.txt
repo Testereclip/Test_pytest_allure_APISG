@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GUAYQUIRARO+Y+FERREYRA%2C+ANDRES&v2=true

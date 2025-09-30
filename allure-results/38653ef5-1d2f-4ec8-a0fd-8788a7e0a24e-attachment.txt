@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ALTOLAGUIRRE+Y+CAMINO%2C+MIGUEL+ANDRES&v2=true

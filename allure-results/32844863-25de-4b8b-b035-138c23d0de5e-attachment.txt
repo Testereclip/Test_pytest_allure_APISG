@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ZALDIVAR+PEDRO+F.+Y+UZAL%2C+FRANCISCO+DE&v2=true

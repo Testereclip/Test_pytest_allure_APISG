@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DIAZ%2C+CESAR%2C+GRAL.+Y+GONZALEZ%2C+JOAQUIN+V.&v2=true

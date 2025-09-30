@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PERON%2C+EVA+AV.+Y+GUERRERO%2C+SIMON&v2=true

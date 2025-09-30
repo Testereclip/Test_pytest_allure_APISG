@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=NEWTON+Y+GELLY+Y+OBES%2C+GRAL.+AV.&v2=true

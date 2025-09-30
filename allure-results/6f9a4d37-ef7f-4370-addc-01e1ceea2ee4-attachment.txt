@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PASAJE+27+DE+MAYO+Y+LAGUNA&v2=true

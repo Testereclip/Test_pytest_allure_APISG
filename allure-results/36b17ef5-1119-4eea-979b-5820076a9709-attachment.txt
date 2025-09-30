@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CARRERAS%2C+SANTIAGO+DE+LAS+Y+MEDINA&v2=true

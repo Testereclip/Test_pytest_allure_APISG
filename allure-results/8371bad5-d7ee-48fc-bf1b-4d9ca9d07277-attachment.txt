@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GUALEGUAYCHU+Y+DON+CRISTOBAL&v2=true

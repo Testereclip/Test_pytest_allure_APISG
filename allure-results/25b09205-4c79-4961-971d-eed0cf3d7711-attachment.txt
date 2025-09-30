@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=COOKE%2C+JOHN+W.+Y+SAN+PEDRITO&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CALDERON+DE+LA+BARCA%2C+PEDRO+Y+DIAZ%2C+CESAR%2C+GRAL.&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ACU%C3%91A+DE+FIGUEROA%2C+FRANCISCO+Y+CORRIENTES+AV.&v2=true

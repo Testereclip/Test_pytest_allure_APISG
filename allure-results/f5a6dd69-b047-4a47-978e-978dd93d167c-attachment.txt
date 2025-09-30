@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DIAZ%2C+AVELINO+Y+CACHIMAYO&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PASEO+COLON+AV.+Y+COCHABAMBA&v2=true

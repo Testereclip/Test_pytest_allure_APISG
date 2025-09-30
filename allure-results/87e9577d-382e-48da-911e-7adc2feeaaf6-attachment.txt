@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ESTADO+PLURINACIONAL+DE+BOLIVIA+Y+NAZARRE&v2=true

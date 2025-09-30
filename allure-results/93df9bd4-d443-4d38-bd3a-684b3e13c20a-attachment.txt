@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SUAREZ+Y+RODRIGUEZ%2C+MARTIN&v2=true

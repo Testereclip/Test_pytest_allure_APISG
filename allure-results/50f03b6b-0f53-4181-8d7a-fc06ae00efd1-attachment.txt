@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DE+LA+INDUSTRIA+Y+ZUVIRIA&v2=true

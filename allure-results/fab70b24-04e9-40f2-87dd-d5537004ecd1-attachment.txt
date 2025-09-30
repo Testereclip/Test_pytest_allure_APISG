@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PEDRAZA%2C+MANUELA+Y+11+DE+SEPTIEMBRE+DE+1888&v2=true

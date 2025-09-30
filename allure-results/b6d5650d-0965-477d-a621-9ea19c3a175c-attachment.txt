@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MIRALLA+Y+GARCIA+GRANDE+DE+ZEQUEIRA%2C+SEVERO&v2=true

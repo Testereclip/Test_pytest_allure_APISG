@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=AROLAS%2C+EDUARDO+Y+PARACAS&v2=true

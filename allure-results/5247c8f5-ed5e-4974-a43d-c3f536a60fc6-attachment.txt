@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ESTADO+PLURINACIONAL+DE+BOLIVIA+Y+MARCOARTU+PASAJE+%28PJE.+PARTICULAR%29&v2=true

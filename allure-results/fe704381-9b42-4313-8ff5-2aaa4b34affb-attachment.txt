@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=TAPALQUE+Y+CARDENAS%2C+CNEL.+AV.&v2=true

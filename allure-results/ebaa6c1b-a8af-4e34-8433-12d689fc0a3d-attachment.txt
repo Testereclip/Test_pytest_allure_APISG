@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CORREA+MORALES%2C+LUCIO+Y+CULPINA&v2=true

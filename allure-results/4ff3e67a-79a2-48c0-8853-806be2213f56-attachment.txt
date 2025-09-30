@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SENDERO+MUJERES+VICTORIOSAS+Y+BATLLE+Y+ORDO%C3%91EZ%2C+JOSE+P.T.&v2=true

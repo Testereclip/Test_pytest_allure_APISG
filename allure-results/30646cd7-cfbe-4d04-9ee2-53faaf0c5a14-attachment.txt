@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LAS+HERAS%2C+GENERAL+Y+RODRIGUEZ+PE%C3%91A&v2=true

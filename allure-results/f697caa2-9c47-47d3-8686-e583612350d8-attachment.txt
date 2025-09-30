@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VALDIVIA%2C+PEDRO+DE+Y+MELINCUE&v2=true

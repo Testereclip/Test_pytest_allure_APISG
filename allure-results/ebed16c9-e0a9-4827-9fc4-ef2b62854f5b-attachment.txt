@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=IRIARTE%2C+GRAL.+AV.+Y+SANTA+MAGDALENA&v2=true

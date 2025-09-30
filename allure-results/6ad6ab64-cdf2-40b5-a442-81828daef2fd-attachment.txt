@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MIRALLA+Y+AUTOPISTA+DELLEPIANE+LUIS+TTE.+GRAL.&v2=true

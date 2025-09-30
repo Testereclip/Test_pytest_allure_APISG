@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SENDERO+6+DE+AGOSTO+Y+JUAN+PABLO+II&v2=true

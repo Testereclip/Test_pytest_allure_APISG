@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LAFAYETTE+Y+IRIARTE%2C+GRAL.+AV.&v2=true

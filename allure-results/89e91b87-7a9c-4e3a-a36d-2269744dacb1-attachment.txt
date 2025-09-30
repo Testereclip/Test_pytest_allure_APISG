@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=AUTOPISTA+PERITO+MORENO+Y+LOPE+DE+VEGA&v2=true

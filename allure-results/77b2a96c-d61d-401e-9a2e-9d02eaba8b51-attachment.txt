@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ALVAREZ+THOMAS+AV.+Y+LE+BRETON%2C+TOMAS+A.&v2=true

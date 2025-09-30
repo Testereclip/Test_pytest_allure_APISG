@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ESCALADA+AV.+Y+SELVETTI%2C+HUMBERTO&v2=true

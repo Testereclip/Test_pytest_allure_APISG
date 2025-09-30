@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GAONA+AV.+Y+ESTADO+PLURINACIONAL+DE+BOLIVIA&v2=true

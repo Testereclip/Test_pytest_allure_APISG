@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LA+RABIDA+%28S%29+AV.+Y+LA+RABIDA+%28N%29+AV.&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VERA+Y+ALVAREZ%2C+JULIAN&v2=true

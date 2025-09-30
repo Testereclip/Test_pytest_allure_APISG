@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ESTRELLA+FEDERAL+Y+O%27CONNOR%2C+ELSA&v2=true

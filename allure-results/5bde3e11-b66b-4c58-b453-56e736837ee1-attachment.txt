@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GRANDOLI%2C+MARTIN+Y+LEGUIZAMON%2C+MARTINIANO&v2=true

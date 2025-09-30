@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GORDILLO%2C+TIMOTEO+Y+FERRE&v2=true

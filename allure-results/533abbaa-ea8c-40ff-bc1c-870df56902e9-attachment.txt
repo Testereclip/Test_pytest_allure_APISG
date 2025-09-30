@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=TORRES+PAREDES%2C+FRANCISCO+Y+CHILAVERT%2C+MARTINIANO%2C+CORONEL&v2=true

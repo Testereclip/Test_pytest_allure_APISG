@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=NEUQUEN+Y+ROBLA%2C+JUAN+F.%2C+DE+LA&v2=true

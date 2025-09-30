@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DEALESSI%2C+PIERINA+Y+GUEMES%2C+MACACHA&v2=true

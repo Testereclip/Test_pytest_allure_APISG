@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ASUNCION+Y+CALDERON+DE+LA+BARCA%2C+PEDRO&v2=true

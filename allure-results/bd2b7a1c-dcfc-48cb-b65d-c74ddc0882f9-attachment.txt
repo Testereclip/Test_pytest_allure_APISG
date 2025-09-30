@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SAN+MARTIN+AV.+Y+PASAJE+2+DE+ABRIL&v2=true

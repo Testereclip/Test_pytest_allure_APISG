@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GARCIA+DEL+RIO+AV.+Y+ZAPIOLA&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PALOS+Y+BLANES%2C+JUAN+MANUEL&v2=true

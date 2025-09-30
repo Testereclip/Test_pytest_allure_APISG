@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=POMAR%2C+GREGORIO+TTE.+CNEL.+Y+CHICLANA+AV.&v2=true

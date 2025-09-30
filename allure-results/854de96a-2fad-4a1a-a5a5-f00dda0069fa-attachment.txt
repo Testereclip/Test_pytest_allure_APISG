@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=KRAUSE%2C+JULIO%2C+ING.+Y+LARRAYA&v2=true

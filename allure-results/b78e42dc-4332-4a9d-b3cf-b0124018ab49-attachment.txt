@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BENEDETTI%2C+OSVALDO+E.%2C+DIP.NAC.+Y+PJE.PARTICULAR+%28ALT.+BENEDETTI+170%29&v2=true

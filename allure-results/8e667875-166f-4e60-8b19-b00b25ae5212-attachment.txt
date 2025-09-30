@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BORCHES%2C+JOSE+Y+HUSARES&v2=true

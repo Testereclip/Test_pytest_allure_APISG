@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=TRELLES%2C+MANUEL+R.+AV.+Y+A%C3%91ASCO&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DEGLIOUMINI%2C+DELIA+Y+GONZALEZ+DE+FANNING%2C+TERESA&v2=true

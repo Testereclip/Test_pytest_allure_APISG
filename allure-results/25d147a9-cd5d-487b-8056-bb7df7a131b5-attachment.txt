@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VEDIA%2C+AGUSTIN+DE+Y+SOMELLERA&v2=true

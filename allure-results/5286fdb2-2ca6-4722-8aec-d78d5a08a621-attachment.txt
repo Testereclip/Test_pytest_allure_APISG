@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GUTENBERG+Y+NUEVA+YORK&v2=true

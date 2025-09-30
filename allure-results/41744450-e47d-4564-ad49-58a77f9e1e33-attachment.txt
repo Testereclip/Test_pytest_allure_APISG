@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SANABRIA+Y+SOLA%2C+MANUEL&v2=true

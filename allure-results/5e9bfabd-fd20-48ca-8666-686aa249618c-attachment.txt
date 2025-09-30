@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GARCIA%2C+CEFERINO%2C+AGENTE+Y+ALVAREZ+JONTE+AV.&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CHASSAING%2C+JUAN+Y+BALBOA&v2=true

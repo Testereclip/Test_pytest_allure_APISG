@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=%C3%91ANDUBAY+Y+PUNTA+CORRAL&v2=true

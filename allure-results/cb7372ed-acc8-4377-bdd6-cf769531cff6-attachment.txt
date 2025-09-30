@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LEON%2C+BERNARDO+DE+Y+BIARRITZ&v2=true

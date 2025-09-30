@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=FIGUEROA+ALCORTA%2C+PRES.+AV.+Y+PUENTE+PEATONAL+CARLOS+SANCHEZ+VIAMONTE&v2=true

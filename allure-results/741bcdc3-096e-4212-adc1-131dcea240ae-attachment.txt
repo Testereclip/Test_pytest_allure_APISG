@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BONIFACIO%2C+JOSE+Y+LAUTARO&v2=true

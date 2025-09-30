@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ISLA+DE+PASCUA+Y+MAPUCHES&v2=true

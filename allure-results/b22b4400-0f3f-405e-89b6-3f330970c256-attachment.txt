@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=COSTA+RICA+Y+SCALABRINI+ORTIZ%2C+RAUL+AV.&v2=true

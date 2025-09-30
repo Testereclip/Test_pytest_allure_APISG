@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MACHAIN+Y+BACH%2C+JUAN+SEBASTIAN&v2=true

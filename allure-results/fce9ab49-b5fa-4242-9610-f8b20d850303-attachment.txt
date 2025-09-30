@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=14+DE+JULIO+Y+ALVAREZ%2C+DONATO%2C+TTE.+GRAL.+AV.&v2=true

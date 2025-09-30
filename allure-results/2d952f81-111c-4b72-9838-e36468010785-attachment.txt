@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GUIDO+Y+SPANO%2C+CARLOS+1178&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PERGAMINO+Y+TROXLER%2C+JULIO&v2=true

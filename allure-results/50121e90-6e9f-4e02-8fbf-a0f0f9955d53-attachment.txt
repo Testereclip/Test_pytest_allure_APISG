@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ARANGUREN%2C+JUAN+F.%2C+DR.+Y+MORELOS&v2=true

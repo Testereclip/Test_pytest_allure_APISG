@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ALSINA%2C+VALENTIN+AV.+Y+TORNQUIST%2C+ERNESTO+AV.&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PAINE%2C+AIME+Y+EYLE%2C+PETRONA&v2=true

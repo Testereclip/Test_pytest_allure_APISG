@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GOLETA+MANUELITA+Y+GOLETA+SANTA+CRUZ&v2=true

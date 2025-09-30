@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=FRAY+JUSTO+SANTAMARIA+DE+ORO+Y+SOLER&v2=true

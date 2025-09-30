@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=COLMO%2C+ALFREDO+Y+EINSTEIN%2C+ALBERTO&v2=true

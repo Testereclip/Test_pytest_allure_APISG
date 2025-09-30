@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=JAURES%2C+JEAN+Y+SARMIENTO&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PARAGUAY+Y+BUTTY%2C+ENRIQUE%2C+ING.&v2=true

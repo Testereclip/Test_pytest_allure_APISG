@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SANABRIA+Y+LYNCH+ARRIBALZAGA%2C+FELIX&v2=true

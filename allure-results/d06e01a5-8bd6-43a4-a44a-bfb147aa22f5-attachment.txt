@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MANSO+JUANA+Y+GRIERSON%2C+CECILIA&v2=true

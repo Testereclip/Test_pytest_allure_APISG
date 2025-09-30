@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=HUMBERTO+1%C2%B0+Y+LANGER%2C+MARIE&v2=true

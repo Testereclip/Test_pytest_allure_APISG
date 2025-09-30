@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CAFFARENA%2C+AGUSTIN+R.+Y+VILLAFA%C3%91E%2C+WENCESLAO&v2=true

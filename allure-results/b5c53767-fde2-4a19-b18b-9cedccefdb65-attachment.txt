@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=23+DE+AGOSTO+DE+1997+Y+IGUAZU&v2=true

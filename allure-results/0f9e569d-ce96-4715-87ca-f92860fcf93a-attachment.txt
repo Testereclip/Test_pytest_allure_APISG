@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GIUFFRA%2C+JOSE+M.%2CDR.+Y+PASEO+COLON+AV.&v2=true

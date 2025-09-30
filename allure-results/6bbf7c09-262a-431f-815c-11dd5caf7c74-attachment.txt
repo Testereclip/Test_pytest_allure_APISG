@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RAVIGNANI%2C+EMILIO%2C+DR.+Y+ANCON&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MAGARI%C3%91OS+CERVANTES%2C+A.+Y+ALVAREZ%2C+DONATO%2C+TTE.+GRAL.+AV.&v2=true

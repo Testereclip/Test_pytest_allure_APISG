@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SARAZA+Y+VILLA+DE+MASNOU&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MARTINEZ%2C+JUAN+ESTEBAN+Y+NAZARRE&v2=true

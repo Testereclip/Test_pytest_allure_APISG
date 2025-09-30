@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PALME%2C+OLOF+Y+DEHEZA&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ALVAREZ%2C+DONATO%2C+TTE.+GRAL.+Y+ARANGUREN%2C+JUAN+F.%2C+DR.&v2=true

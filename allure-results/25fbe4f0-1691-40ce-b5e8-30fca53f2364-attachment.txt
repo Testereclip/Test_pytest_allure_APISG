@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ACOSTA+%C3%91U+Y+8+DE+JULIO+DE+2008&v2=true

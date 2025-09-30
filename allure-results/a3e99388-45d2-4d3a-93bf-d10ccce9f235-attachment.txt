@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GIMENEZ%2C+ANGEL+M.+Y+ROSARIO&v2=true

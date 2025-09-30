@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CYMES%2C+JUAN+Y+BONIFACIO+CHANAMPA%2C+DANIEL&v2=true

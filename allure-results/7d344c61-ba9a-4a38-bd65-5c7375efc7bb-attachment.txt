@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VESPUCIO+Y+CERRI%2C+DANIEL%2C+GRAL.&v2=true

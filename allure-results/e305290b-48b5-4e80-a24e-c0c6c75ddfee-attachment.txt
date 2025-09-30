@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GOLETA+JULIA+Y+BERGANTIN+GOLETA+ESPORA&v2=true

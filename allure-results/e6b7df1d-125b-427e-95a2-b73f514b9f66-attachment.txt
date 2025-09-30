@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=27+DE+FEBRERO+AV.+Y+O%27GORMAN&v2=true

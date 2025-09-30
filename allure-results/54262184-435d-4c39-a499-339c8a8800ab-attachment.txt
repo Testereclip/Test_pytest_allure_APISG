@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ATUEL+Y+FAVALORO%2C+RENE+DR.&v2=true

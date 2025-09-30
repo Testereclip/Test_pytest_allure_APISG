@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CABELLO+Y+ORTIZ+DE+OCAMPO&v2=true

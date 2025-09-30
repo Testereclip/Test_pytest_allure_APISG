@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GOLETA+SANTA+CRUZ+Y+PAILEBOT+DAVISON&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=JORGE+Y+GONCALVES+DIAS&v2=true

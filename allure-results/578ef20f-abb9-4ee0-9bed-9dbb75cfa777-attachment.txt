@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GAITAN%2C+LUIS+Y+VALLE%2C+MARIA+R.+DEL&v2=true

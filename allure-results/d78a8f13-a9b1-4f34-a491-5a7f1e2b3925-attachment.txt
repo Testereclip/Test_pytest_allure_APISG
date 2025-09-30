@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DIEZ+DE+MEDINA%2C+CLEMENTE+Y+MOM&v2=true

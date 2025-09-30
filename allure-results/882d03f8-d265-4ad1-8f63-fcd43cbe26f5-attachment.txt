@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SAN+ROQUE+GONZALEZ+DE+SANTA+CRUZ+Y+10+DE+OCTUBRE+DE+1996&v2=true

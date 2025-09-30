@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BERGANTIN+NANCY+Y+SUMACA+ITATI&v2=true

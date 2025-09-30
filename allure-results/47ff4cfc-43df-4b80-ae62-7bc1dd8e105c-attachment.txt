@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MANUEL+CASTRO+Y+CORONEL+OSORIO&v2=true

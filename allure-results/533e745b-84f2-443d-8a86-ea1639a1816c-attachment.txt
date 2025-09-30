@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ALCARAZ+Y+PORCEL+DE+PERALTA%2C+MANUEL&v2=true

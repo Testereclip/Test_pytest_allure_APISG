@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=EL+MAESTRO+Y+ROSARIO&v2=true

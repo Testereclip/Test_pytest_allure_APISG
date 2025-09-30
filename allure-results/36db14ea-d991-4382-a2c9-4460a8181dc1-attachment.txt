@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SERRANO+Y+MU%C3%91ECAS&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BAUZA%2C+FRANCISCO+Y+SIMBRON&v2=true

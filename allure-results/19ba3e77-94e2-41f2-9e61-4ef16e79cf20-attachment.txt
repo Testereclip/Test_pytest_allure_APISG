@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ROGER%2C+ENRIQUE%2C+A.%2C+AVDOR.+Y+RIO+CUARTO&v2=true

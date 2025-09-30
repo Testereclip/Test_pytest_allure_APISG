@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MONTEAGUDO+Y+PAZ%2C+JOSE+C.&v2=true

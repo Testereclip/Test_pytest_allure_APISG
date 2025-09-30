@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RODO%2C+JOSE+E.+Y+VUCETICH%2C+JUAN&v2=true

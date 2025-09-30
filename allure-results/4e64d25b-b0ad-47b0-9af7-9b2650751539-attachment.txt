@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GARCIA%2C+TEODORO+Y+ZAPIOLA&v2=true

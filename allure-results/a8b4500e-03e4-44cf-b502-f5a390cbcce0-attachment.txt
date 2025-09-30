@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=HERNANDARIAS+Y+PILCOMAYO&v2=true

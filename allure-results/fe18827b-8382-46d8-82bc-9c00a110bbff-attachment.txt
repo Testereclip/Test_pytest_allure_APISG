@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=REPETTO%2C+NICOLAS%2C+DR.+Y+GALICIA&v2=true

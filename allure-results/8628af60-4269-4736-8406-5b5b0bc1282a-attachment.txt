@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SAN+JUAN+AV.+Y+BOCAYUVA%2C+QUINTINO&v2=true

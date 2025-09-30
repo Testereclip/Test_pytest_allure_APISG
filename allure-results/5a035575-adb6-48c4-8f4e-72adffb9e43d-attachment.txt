@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PERON%2C+JUAN+DOMINGO%2C+TTE.+GENERAL+Y+CASTELLI&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RONDEAU+Y+MU%C3%91IZ&v2=true

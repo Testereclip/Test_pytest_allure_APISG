@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MOLINA+Y+CASTRO%2C+EMILIO+AV.&v2=true

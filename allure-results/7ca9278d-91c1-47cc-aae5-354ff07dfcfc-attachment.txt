@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PINELO%2C+LEON+Y+HOMERO&v2=true

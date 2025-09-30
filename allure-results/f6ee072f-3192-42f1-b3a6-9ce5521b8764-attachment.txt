@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LEGUIZAMON%2C+MARTINIANO+Y+PATRON&v2=true

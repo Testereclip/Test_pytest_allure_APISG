@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RIVAS%2C+JOAQUIN%2C+ALFEREZ+DE+FRAGATA+Y+RAWSON+DE+DELLEPIANE%2C+ELVIRA+AV.&v2=true

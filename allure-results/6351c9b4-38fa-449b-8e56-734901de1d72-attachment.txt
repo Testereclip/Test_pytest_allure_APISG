@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SANTA+MAGDALENA+Y+ALVARADO&v2=true

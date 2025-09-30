@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VIALE%2C+LUIS+Y+CRUZ%2C+JUANA+INES+DE+LA%2C+SOR&v2=true

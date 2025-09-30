@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CASTILLO%2C+RAMON+S.%2C+PRES.+AV.+Y+AUTOPISTA+ARTURO+ILLIA&v2=true

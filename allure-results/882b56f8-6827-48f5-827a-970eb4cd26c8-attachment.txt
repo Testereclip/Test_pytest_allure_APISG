@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=IRIARTE%2C+GRAL.+Y+REGIMIENTO+DE+PATRICIOS+AV.&v2=true

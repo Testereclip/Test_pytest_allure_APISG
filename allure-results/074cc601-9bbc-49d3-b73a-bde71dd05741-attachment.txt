@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=JUAREZ%2C+BENITO+Y+NOGOYA&v2=true

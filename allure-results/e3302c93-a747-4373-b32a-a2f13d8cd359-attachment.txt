@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PUENTE+PEATONAL+CARLOS+SANCHEZ+VIAMONTE+Y+SENDERO+PEATONAL+PUEYRREDON&v2=true

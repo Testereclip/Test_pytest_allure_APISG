@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BONPLAND+Y+VEGA%2C+NICETO%2C+CNEL.+AV.&v2=true

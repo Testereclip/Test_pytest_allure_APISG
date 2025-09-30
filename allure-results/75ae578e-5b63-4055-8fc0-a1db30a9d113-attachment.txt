@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ARAOZ+DE+LAMADRID%2C+GREGORIO%2C+GRAL.+Y+HERNANDARIAS&v2=true

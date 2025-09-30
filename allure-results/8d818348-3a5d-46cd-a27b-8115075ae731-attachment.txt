@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=NAHUEL+HUAPI+Y+BAUNESS&v2=true

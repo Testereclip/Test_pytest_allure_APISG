@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DONADO+Y+TAMBORINI%2C+JOSE+PASCUAL&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CASACUBERTA+Y+URQUIZA%2C+GRAL.&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DE+LA+TORRE%2C+LISANDRO+Y+ALBERDI%2C+JUAN+BAUTISTA+AV.&v2=true

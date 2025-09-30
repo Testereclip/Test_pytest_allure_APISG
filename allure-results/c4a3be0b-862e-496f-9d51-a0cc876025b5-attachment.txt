@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BRAUN+MENENDEZ%2C+EDUARDO%2C+DR.+Y+ZONZA+BRIANO%2C+PEDRO&v2=true

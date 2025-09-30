@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CALCHAQUIES+Y+%C3%91ANDUBAY&v2=true

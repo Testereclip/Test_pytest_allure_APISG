@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ARGUIBEL%2C+ANDRES+Y+ARCE&v2=true

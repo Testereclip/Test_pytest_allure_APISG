@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=11+DE+SEPTIEMBRE+DE+1888+Y+NU%C3%91EZ&v2=true

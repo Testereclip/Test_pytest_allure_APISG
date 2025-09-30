@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=STORNI+ALFONSINA+Y+YRURTIA%2C+ROGELIO&v2=true

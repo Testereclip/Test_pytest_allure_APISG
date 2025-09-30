@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DEL+PARQUE+Y+GANDHI%2C+MAHATMA&v2=true

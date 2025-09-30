@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=EL+CEIBO+Y+GOMEZ%2C+INDALECIO&v2=true

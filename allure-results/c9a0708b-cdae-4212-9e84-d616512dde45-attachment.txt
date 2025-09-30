@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BASTIDAS%2C+MICAELA+Y+PARADO+DE+BELLIDO%2C+MARIA&v2=true

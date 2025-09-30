@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CASTRO%2C+EMILIO+AV.+Y+ZELADA&v2=true

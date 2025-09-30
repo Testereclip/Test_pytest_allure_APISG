@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=AIZPURUA+Y+BLANCO+ENCALADA&v2=true

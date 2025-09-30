@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=JUJUY+AV.+Y+CASTILLO%2C+CATULO&v2=true

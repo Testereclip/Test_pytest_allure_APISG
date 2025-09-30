@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CASEROS+AV.+Y+BOEDO+AV.&v2=true

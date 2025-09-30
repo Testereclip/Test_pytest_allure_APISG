@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=OLMOS%2C+JUAN+FRANCISCO+Y+AVELLANEDA&v2=true

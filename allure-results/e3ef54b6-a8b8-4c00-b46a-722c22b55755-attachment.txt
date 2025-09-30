@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LUGONES%2C+LEOPOLDO+AV.+Y+UDAONDO%2C+GUILLERMO+AV.&v2=true

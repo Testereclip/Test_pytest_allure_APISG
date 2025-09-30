@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SAN+ROQUE+GONZALEZ+DE+SANTA+CRUZ+Y+23+DE+AGOSTO+DE+1997&v2=true

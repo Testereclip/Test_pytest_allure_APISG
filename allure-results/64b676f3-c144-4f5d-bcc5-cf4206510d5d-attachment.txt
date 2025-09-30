@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SOLDADO+DE+LA+INDEPENDENCIA+Y+SAN+BENITO+DE+PALERMO&v2=true

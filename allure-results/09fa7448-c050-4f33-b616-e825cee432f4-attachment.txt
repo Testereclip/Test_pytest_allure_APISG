@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PEREZ%2C+GREGORIA+Y+CONDE&v2=true

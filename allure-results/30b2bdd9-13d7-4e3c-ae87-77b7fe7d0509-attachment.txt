@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CAFAYATE+Y+GALLO%2C+DELFIN&v2=true

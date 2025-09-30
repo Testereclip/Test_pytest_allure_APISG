@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PALACIOS%2C+ALFREDO+L.+Y+AZARA&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ESTRADA%2C+JUEZ+Y+MORA+FERNANDEZ%2C+JUAN&v2=true

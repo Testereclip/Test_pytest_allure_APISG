@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DEL+LIBERTADOR+AV.+Y+SCHIAFFINO%2C+EDUARDO&v2=true

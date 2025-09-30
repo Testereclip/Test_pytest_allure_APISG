@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=AVELLANEDA+AV.+Y+CONDARCO&v2=true

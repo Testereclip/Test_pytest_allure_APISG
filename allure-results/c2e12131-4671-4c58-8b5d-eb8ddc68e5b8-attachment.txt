@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=JUJUY+AV.+Y+ESTADOS+UNIDOS&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DE+LA+TECNICA+Y+TRIUNVIRATO+AV.&v2=true

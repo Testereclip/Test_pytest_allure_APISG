@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=THOME+JUAN+M.+Y+ECHAURI&v2=true

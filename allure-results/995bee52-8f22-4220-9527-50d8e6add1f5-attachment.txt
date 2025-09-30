@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ASCASUBI+Y+MAGALDI%2C+AGUSTIN&v2=true

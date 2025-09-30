@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BARROS+PAZOS%2C+JOSE+Y+LAGUNA&v2=true

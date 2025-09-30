@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CASTILLO%2C+CATULO+Y+MATHEU&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=OLIVERA+AV.+Y+GARZON+EUGENIO+GENERAL&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SAN+JUAN+BAUTISTA+DE+LA+SALLE+AV.+Y+BILBAO%2C+FRANCISCO&v2=true

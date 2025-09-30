@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=POLA+Y+CALOU%2C+JUAN+P.&v2=true

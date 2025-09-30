@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GRITO+DE+ASENCIO+Y+ATUEL&v2=true

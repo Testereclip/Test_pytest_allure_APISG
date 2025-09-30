@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ACOSTA%2C+MARIANO+AV.+Y+REMEDIOS&v2=true

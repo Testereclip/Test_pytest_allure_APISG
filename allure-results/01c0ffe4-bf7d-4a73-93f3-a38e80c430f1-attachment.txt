@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CUTER%2C+LUISITO+Y+BERGANTIN+GOLETA+ESPORA&v2=true

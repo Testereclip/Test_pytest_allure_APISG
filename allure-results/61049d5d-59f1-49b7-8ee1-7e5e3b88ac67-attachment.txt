@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BATHURST+Y+SANCHEZ+DE+LORIA+AV.&v2=true

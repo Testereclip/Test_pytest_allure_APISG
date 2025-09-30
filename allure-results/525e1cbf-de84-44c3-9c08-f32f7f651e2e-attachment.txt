@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ACOYTE+AV.+Y+VALLESE%2C+FELIPE&v2=true

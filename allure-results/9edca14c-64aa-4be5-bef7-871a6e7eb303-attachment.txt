@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LEOPARDI+Y+CAJARAVILLA&v2=true

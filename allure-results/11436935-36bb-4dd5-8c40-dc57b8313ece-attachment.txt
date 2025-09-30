@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=IRIGOYEN%2C+BERNARDO+DE+Y+MONTES+DE+OCA%2C+MANUEL+AV.&v2=true

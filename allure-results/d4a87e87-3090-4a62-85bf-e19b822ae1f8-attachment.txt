@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SENDERO+DE+LA+FUERZA+Y+JUAN+PABLO+II&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LACARRA+AV.+Y+PASAJE+B&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MARTINEZ+ROSAS+Y+SUSINI%2C+ANTONIO%2C+CNEL.&v2=true

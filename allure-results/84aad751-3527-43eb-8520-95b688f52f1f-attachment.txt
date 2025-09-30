@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PAGOLA%2C+CNEL.+Y+QUILMES&v2=true

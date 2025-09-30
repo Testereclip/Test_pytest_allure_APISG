@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CAYASTA+Y+SAN+ANTONIO+DE+ARECO&v2=true

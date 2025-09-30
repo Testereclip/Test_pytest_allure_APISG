@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PAZ+SOLDAN+Y+DEL+CAMPO+AV.&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ECHEVARRIA%2C+VICENTE+A.+DE+Y+LOPE+DE+VEGA+AV.&v2=true

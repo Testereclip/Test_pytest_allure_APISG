@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=OCAMPO%2C+VICTORIA+Y+DEALESSI%2C+PIERINA&v2=true

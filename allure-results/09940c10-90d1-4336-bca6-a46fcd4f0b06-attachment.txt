@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CANGALLO+Y+PATRICIAS+ARGENTINAS+AV.&v2=true

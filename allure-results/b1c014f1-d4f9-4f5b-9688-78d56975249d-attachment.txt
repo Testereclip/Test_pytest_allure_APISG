@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=HUMAITA+Y+VALENCIA%2C+TOMAS&v2=true

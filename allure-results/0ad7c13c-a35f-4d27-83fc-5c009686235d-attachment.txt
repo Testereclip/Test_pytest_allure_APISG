@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DON+PEDRO+DE+MENDOZA+AV.+Y+REGIMIENTO+DE+PATRICIOS+AV.&v2=true

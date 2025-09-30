@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LA+RABIDA+%28S%29+AV.+Y+PASEO+COLON+AV.&v2=true

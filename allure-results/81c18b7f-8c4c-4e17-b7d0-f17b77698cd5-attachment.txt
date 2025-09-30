@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ARROYO+Y+AUTOPISTA+ARTURO+ILLIA&v2=true

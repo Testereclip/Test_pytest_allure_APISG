@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BALCARCE+Y+GIUFFRA%2C+JOSE+M.%2CDR.&v2=true

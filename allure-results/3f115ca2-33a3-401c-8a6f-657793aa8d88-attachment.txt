@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=AUTOPISTA+PRESIDENTE+HECTOR+J.+CAMPORA+Y+ROCA%2C+CNEL.+AV.&v2=true

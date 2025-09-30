@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=HORNOS%2C+GRAL.+Y+SAMPERIO%2C+MANUEL+J.&v2=true

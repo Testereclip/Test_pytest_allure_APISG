@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SAENZ+AV.+Y+VEGA%2C+VENTURA+DE+LA&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=JACQUES%2C+AMADEO+Y+GALLARDO&v2=true

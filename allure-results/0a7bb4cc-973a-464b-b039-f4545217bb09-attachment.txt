@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PUENTE+PEATONAL+Y+PARRAVICINI%2C+FLORENCIO&v2=true

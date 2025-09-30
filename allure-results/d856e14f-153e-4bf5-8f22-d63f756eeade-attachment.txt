@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ALPACA+Y+WALSH%2C+RODOLFO&v2=true

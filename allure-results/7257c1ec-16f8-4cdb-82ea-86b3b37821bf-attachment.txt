@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GONCALVES+DIAS+Y+CALIFORNIA&v2=true

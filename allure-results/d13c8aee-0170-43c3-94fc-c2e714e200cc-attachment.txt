@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GORDILLO%2C+JOSE+O.%2C+CNEL.+Y+NOGOYA&v2=true

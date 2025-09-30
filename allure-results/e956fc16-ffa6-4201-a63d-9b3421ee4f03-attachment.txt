@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=JUNIN+Y+LOPEZ%2C+VICENTE&v2=true

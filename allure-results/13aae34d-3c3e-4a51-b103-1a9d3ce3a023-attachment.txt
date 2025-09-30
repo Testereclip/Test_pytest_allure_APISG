@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=FINLAY%2C+CARLOS+J.+AV.+Y+BURMEISTER%2C+GERMAN+AV.&v2=true

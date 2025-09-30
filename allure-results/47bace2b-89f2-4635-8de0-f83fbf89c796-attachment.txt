@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VENTANA+Y+LUPPI%2C+ABRAHAM+J.&v2=true

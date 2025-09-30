@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BILBAO%2C+FRANCISCO+Y+CAMACUA&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=FRAGATA+TRINIDAD+Y+GARCIA+GRANDE+DE+ZEQUEIRA%2C+SEVERO&v2=true

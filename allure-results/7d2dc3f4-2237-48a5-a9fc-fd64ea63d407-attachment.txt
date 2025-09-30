@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DERQUI+AV.+Y+SAN+JUAN+BAUTISTA+DE+LA+SALLE+AV.&v2=true

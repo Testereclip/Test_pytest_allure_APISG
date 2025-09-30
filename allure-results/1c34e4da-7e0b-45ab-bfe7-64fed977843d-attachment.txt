@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BELGRANO+AV.+Y+5+DE+JULIO&v2=true

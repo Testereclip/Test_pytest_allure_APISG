@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=OBLIGADO+RAFAEL%2C+AV.COSTANERA+Y+EDISON%2C+TOMAS+A.+AV.&v2=true

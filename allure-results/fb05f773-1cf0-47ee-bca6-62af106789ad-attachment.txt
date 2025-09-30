@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=OLAZABAL+AV.+Y+AIZPURUA&v2=true

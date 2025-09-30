@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PEDRAZA%2C+MANUELA+Y+NAON%2C+ROMULO&v2=true

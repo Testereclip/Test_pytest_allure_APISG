@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LIBRES+DEL+SUR+AV.+Y+QUIROGA+JUAN+FACUNDO+BRIG.+GRAL.&v2=true

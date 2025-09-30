@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LAURELES+ARGENTINOS+Y+CERVANTES&v2=true

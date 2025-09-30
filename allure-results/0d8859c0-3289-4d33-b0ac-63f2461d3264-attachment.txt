@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ESPINOSA+Y+GARCIA%2C+JUAN+AGUSTIN&v2=true

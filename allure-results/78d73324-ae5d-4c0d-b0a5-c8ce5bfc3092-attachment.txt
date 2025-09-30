@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SAN+MARTIN+DE+TOURS+Y+CORONADO%2C+MARTIN&v2=true

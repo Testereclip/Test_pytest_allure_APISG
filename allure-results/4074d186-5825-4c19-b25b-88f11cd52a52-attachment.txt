@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BOQUERON+Y+NOEL%2C+CARLOS+INT.&v2=true

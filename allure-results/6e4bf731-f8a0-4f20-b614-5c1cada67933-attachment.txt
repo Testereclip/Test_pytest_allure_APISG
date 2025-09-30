@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RIVADAVIA+AV.+Y+SAENZ+VALIENTE%2C+ANSELMO&v2=true

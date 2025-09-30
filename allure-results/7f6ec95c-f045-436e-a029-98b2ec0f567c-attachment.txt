@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LACARRA+Y+BOLA%C3%91OS&v2=true

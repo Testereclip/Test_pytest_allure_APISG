@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LASCANO+Y+VEDIA%2C+ENRIQUE+DE&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BAZURCO+Y+LE+BRETON%2C+TOMAS+A.&v2=true

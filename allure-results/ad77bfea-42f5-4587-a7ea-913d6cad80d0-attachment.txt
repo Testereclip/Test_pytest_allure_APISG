@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=20+DE+SEPTIEMBRE+Y+DON+PEDRO+DE+MENDOZA+AV.&v2=true

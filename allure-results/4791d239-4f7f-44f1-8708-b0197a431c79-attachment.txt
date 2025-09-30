@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SANTA+ELENA+Y+AUSTRALIA+AV.&v2=true

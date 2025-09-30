@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LOPEZ%2C+JUAN+PABLO+Y+NAVARRO&v2=true

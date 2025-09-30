@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PADRE+ENRIQUE+CONTARDI+Y+CACHI&v2=true

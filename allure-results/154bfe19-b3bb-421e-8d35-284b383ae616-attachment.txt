@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PAZ%2C+GRAL.+AV.+Y+FERNANDEZ+DE+LA+CRUZ%2C+F.%2C+GRAL.+AV.&v2=true

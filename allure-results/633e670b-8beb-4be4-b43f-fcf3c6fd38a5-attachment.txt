@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PAEZ+Y+TRELLES%2C+MANUEL+R.&v2=true

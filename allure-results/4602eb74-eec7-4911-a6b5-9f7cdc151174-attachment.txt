@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VARELA+AV.+Y+DIAZ%2C+AVELINO&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=NEWBERY%2C+JORGE+AV.+Y+ITURRI&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BOGOTA+Y+AMBROSETTI%2C+JUAN+B.&v2=true

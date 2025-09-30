@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ZAPALA+Y+MARTINEZ%2C+VICTOR&v2=true

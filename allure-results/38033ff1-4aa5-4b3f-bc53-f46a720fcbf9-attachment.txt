@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SALA%2C+CANDIDO+DE+LA%2C+TTE.+Y+AGUIRRE%2C+JULIAN&v2=true

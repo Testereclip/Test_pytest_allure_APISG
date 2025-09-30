@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CHILAVERT%2C+MARTINIANO%2C+CORONEL+Y+BARCO+CENTENERA+DEL+AV.&v2=true

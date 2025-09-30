@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CORDOBA+AV.+Y+BONPLAND&v2=true

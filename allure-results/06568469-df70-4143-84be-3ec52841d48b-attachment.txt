@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=COUTURE%2C+EDUARDO+J.+Y+VAZ+FERREIRA%2C+CARLOS%2C+DR.&v2=true

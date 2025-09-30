@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SAGASTA+ISLA%2C+JOSE+MARIA+Y+JURAMENTO+AV.&v2=true

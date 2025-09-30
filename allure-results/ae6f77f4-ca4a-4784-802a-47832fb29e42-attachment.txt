@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PACINI+DE+ALVEAR+REGINA+Y+TUCUMAN&v2=true

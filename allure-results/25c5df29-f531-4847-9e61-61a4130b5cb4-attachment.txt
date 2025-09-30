@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DIAZ%2C+CESAR%2C+GRAL.+AV.+Y+BACACAY+AV.&v2=true

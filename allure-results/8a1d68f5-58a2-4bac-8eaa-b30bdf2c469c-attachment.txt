@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=AVILES%2C+VIRREY+Y+HEREDIA&v2=true

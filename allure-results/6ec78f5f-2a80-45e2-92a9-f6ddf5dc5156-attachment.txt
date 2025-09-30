@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SUPERI+Y+OLAGUER+Y+FELIU%2C+VIRREY&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SAN+JUAN+AV.+Y+COMBATE+DE+LOS+POZOS&v2=true

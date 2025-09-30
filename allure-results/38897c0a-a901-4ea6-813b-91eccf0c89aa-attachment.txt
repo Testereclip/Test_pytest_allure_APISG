@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LAMARCA%2C+EMILIO+Y+SAN+BLAS&v2=true

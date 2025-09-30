@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MITRE%2C+BARTOLOME+Y+PARANA&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PIEDRAS+Y+ALSINA%2C+ADOLFO&v2=true

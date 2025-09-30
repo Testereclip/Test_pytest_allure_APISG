@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GOMEZ+DE+FONSECA+Y+FLORES%2C+VENANCIO%2C+GRAL.&v2=true

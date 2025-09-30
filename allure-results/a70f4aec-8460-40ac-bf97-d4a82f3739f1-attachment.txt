@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GIANANTONIO%2C+CARLOS+A.+DR.+Y+LEZICA&v2=true

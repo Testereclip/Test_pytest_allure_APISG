@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PEREZ+GALDOS%2C+BENITO+AV.+Y+DON+PEDRO+DE+MENDOZA+AV.&v2=true

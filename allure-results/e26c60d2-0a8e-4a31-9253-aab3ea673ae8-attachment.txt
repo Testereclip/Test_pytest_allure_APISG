@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GALLARDO%2C+ANGEL+AV.+Y+ACOYTE&v2=true

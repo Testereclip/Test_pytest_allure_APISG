@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PLAZA%2C+VICTORINO+DE+LA%2C+DR.+Y+BAVIO%2C+ERNESTO+A.&v2=true

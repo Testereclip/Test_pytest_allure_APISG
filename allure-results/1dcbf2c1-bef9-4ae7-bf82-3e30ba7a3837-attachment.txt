@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=OBISPO+SAN+ALBERTO+Y+FAGNANO%2C+JOSE+AV.&v2=true

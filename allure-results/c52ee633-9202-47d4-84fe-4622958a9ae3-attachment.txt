@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MAURE+Y+11+DE+SEPTIEMBRE+DE+1888&v2=true

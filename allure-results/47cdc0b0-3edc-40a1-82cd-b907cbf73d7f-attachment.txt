@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VIALE%2C+LUIS+Y+PUEYRREDON%2C+HONORIO%2C+DR.+AV.&v2=true

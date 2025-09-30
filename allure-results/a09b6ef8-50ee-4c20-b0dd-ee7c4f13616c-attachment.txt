@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VIALE%2C+LUIS+Y+GAVILAN&v2=true

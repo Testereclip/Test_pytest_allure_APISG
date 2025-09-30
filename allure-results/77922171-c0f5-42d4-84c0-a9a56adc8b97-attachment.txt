@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MORENO%2C+JOSE+MARIA+AV.+Y+ZA%C3%91ARTU&v2=true

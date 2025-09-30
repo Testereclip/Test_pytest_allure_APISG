@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CIUDAD+DE+LA+PAZ+Y+SAN+ISIDRO+LABRADOR+AV.&v2=true

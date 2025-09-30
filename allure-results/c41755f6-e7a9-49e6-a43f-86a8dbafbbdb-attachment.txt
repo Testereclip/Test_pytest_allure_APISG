@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SPIRO%2C+SAMUEL%2C+CAPITAN+Y+POLA&v2=true

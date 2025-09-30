@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CASEROS+AV.+Y+SAENZ+AV.&v2=true

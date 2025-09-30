@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RUY+DIAZ+DE+GUZMAN+Y+PIEDRAS&v2=true

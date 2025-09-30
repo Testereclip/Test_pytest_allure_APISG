@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=17+DE+OCTUBRE+Y+PLUMERILLO&v2=true

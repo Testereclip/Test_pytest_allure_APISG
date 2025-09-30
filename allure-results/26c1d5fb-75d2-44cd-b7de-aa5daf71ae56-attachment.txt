@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SALMUN+FEIJOO%2C+JOSE+AARON+Y+BRANDSEN&v2=true

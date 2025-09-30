@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VALLE%2C+J.J.%2C+GRAL.+DIV.+Y+CORRALES&v2=true

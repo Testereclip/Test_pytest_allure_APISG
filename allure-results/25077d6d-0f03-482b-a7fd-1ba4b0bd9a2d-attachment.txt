@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GARCIA%2C+JUAN+AGUSTIN+Y+SAN+GINES%2C+MANUEL+DE&v2=true

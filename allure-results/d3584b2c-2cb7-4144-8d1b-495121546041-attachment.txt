@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PATRICIAS+ARGENTINAS+AV.+Y+IBARBOUROU%2C+JUANA+DE&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=IBA%C3%91EZ+Y+ARGENTINA+AV.&v2=true

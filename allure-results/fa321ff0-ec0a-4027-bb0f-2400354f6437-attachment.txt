@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=COBO+AV.+Y+CURAPALIGUE&v2=true

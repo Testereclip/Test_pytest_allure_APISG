@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=FERNANDEZ+MORENO%2C+BALDOMERO+Y+HORTIGUERA&v2=true

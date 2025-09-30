@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CERVI%C3%91O+AV.+Y+KENNEDY%2C+JOHN+FITZGERALD&v2=true

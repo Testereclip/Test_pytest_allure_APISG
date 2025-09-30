@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=QUARTINO%2C+JOSE+N.%2C+ING.+AV.+Y+EDISON%2C+TOMAS+A.+AV.&v2=true

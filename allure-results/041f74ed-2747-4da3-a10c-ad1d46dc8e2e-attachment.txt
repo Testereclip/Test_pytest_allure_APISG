@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=TROLE+Y+POMAR%2C+GREGORIO+TTE.+CNEL.&v2=true

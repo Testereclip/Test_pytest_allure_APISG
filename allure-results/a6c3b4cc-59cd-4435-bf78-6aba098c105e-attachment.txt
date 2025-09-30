@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PAVON+AV.+Y+CASTRO+BARROS&v2=true

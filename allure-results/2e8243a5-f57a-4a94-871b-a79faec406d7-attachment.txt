@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=FINOCHIETTO%2C+RICARDO%2C+DR.+Y+BURMEISTER%2C+GERMAN+AV.&v2=true

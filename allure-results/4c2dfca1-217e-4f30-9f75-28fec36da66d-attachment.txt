@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DICKMAN%2C+ADOLFO%2C+DR.+Y+WARNES+AV.&v2=true

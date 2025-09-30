@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SIMBRON+Y+YUGOSLAVIA&v2=true

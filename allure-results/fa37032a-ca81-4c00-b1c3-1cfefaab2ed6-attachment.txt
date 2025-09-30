@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DI+PASCUALE%2C+JORGE+Y+REPUBLICA+DE+SAN+MARINO&v2=true

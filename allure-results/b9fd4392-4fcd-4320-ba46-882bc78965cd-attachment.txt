@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DELLEPIANE%2C+LUIS%2C+TTE.+GRAL.+Y+PUENTE+PEATONAL+ALT.+MOZART&v2=true

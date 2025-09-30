@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MOVIMIENTO+DE+VILLAS+Y+HERRERA%2C+LUIS+A.%2C+DE&v2=true

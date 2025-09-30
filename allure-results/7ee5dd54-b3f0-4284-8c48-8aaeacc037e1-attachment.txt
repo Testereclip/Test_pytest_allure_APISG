@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PJE+%28LARRAZABAL+4700%29+Y+PJE+%28F.F.DE+LA+CRUZ+5200%29&v2=true

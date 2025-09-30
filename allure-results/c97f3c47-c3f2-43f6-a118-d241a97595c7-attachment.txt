@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=TRELLES%2C+MANUEL+R.+AV.+Y+RODRIGUEZ%2C+MANUEL+A.%2C+GENERAL&v2=true

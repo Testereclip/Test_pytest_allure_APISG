@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=12+DE+OCTUBRE+Y+CUCHA+CUCHA&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PAROISSIEN+Y+CIUDAD+DE+LA+PAZ&v2=true

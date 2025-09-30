@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PIZZURNO+Y+ALVEAR%2C+MARCELO+T.+DE&v2=true

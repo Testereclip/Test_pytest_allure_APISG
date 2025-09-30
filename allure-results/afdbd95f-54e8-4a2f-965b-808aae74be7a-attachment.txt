@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DIAZ%2C+CESAR%2C+GRAL.+Y+ALVAREZ%2C+DONATO%2C+TTE.+GRAL.+AV.&v2=true

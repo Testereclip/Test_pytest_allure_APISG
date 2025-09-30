@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BALBIN%2C+RICARDO%2C+DR.+AV.+Y+BLANCO+ENCALADA&v2=true

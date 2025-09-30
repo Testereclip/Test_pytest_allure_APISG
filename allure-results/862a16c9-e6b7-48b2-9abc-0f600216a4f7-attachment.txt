@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MAGALDI%2C+AGUSTIN+Y+10+DE+DICIEMBRE+DE+1983&v2=true

@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=QUINTEROS%2C+LIDORO+J.+AV.+Y+RICCHERI%2C+PABLO%2C+TTE.+GRAL.&v2=true

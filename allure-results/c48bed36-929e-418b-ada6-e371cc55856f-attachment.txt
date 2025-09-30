@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=FIGUEROA%2C+D.+APOLINARIO%2C+CORONEL+Y+ROJAS&v2=true

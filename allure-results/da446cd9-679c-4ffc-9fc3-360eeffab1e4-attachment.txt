@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PEDRAZA%2C+MANUELA+Y+BEETHOVEN&v2=true

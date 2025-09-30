@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MIRI%C3%91AY+Y+MOCORETA&v2=true

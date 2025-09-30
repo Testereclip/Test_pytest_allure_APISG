@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ALVAREZ+JONTE+AV.+Y+ARGERICH&v2=true

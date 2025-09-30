@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RIESTRA+AV.+Y+DE+LA+TORRE%2C+LISANDRO&v2=true

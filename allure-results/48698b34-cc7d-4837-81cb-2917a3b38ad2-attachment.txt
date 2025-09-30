@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BONORINO%2C+ESTEBAN%2C+CNEL.+AV.+Y+ESTEVEZ%2C+JOSE%2C+ING.&v2=true

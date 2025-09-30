@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LEYES+DE+CHAVES%2C+CONCEPCION+Y+KAHLO%2C+FRIDA&v2=true

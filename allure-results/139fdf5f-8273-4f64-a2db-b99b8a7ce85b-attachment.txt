@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ALVEAR%2C+MARCELO+T.+DE+Y+SUIPACHA&v2=true

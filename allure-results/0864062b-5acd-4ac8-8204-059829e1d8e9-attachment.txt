@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LAMARCA%2C+EMILIO+Y+SOLANO+LOPEZ%2C+F.%2C+MARISCAL&v2=true

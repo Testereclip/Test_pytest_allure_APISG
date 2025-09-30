@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CASTA%C3%91ON+Y+RABANAL%2C+FRANCISCO%2C+INTENDENTE+AV.&v2=true

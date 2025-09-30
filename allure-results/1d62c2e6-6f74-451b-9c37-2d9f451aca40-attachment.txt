@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PINO%2C+VIRREY+DEL+Y+CAMPOS%2C+LUIS+M.+AV.&v2=true

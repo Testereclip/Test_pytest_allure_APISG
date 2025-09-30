@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MONNER+SANS%2C+RICARDO+Y+SANABRIA&v2=true

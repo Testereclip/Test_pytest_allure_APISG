@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ISLAS+GALAPAGOS+Y+PERETTE%2C+CARLOS+H.&v2=true

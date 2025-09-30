@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RAMIREZ%2C+CARLOS+M.+Y+O%27GORMAN&v2=true

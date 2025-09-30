@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CORDOBA+AV.+Y+LAVALLE&v2=true

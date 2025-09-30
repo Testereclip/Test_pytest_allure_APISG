@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BERRO%2C+ADOLFO+AV.+Y+CASARES+AV.&v2=true

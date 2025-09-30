@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=HUMAITA+Y+SUAREZ%2C+JOSE+LEON&v2=true

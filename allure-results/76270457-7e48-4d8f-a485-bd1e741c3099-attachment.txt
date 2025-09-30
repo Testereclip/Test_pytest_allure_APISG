@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BRANDSEN+Y+ISABEL+LA+CATOLICA&v2=true

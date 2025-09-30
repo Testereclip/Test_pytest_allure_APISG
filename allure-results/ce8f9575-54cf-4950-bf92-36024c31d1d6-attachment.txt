@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CASCO%2C+HORACIO%2C+DR.+Y+ESCALADA+AV.&v2=true

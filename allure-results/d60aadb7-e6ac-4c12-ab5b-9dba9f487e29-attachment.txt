@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PAZ%2C+JOSE+C.+Y+LOS+TELARES&v2=true

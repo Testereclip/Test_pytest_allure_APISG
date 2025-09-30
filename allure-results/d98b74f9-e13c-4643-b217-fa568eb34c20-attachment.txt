@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=THAMES+Y+CABRERA%2C+JOSE+A.&v2=true

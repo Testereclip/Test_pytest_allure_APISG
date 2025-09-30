@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=TUYU+Y+PRELADO+DON+BUENAVENTURA+RISSO+PATRON&v2=true

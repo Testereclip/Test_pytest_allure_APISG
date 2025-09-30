@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=IRALA+Y+ARZOBISPO+ESPINOSA&v2=true

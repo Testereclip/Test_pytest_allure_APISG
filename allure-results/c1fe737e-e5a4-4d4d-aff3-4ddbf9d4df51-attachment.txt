@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ECHAGUE%2C+PEDRO+Y+SAN+JOSE&v2=true

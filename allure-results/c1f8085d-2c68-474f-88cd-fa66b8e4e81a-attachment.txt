@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=AROMA+Y+CASTILLO%2C+JUAN+DEL&v2=true

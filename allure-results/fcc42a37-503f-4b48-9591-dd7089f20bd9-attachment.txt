@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=NU%C3%91EZ+Y+BERTHELOT&v2=true

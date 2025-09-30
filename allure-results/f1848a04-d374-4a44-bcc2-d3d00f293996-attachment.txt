@@ -1,1 +1,0 @@
-https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ISABEL+LA+CATOLICA+Y+MAGALLANES&v2=true
