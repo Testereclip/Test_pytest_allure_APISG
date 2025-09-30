@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 99,
+    "codCalle_2": 2480,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 109940.2422837016,
+    "coordenada_y": 99499.3280373145,
+    "direccion": "SUAREZ Y CABOTO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SUAREZ",
+    "nombreCalle_2": "CABOTO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "006-068-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

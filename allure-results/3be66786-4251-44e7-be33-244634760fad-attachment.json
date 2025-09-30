@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 346,
+    "codCalle_2": 661,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102218.9688473616,
+    "coordenada_y": 99737.3905367732,
+    "direccion": "DEL COMERCIO Y TEJEDOR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DEL COMERCIO",
+    "nombreCalle_2": "TEJEDOR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-010C-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

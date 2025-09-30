@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VEDIA%2C+AGUSTIN+DE+Y+RIVERA%2C+FRUCTUOSO%2C+GENERAL&v2=true

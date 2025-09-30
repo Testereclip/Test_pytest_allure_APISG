@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=HUERGO%2C+ING.+AV.+Y+VERA+PE%C3%91ALOZA%2C++ROSARIO&v2=true

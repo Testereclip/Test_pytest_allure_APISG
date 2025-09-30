@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA GRAL. MITRE",
+    "barrioInf": null,
+    "codCalle_1": 1377,
+    "codCalle_2": 1620,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98555.9375980774,
+    "coordenada_y": 102278.2264737696,
+    "direccion": "PERNAMBUCO Y GARCIA, JUAN AGUSTIN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PERNAMBUCO",
+    "nombreCalle_2": "GARCIA, JUAN AGUSTIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "067-071B-006",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

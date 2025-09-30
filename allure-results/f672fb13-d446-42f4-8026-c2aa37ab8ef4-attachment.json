@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1625,
+    "codCalle_2": 1889,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103726.265722426,
+    "coordenada_y": 104052.1717864383,
+    "direccion": "GASCON Y EL SALVADOR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GASCON",
+    "nombreCalle_2": "EL SALVADOR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-045-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

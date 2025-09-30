@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 729,
+    "codCalle_2": 2377,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 105678.1875972395,
+    "coordenada_y": 105580.8358489133,
+    "direccion": "FIGUEROA ALCORTA, PRES. AV. Y SIVORI, EDUARDO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FIGUEROA ALCORTA, PRES. AV.",
+    "nombreCalle_2": "SIVORI, EDUARDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-036-006",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DEALESSI%2C+PIERINA+Y+EZCURRA%2C+ENCARNACION&v2=true

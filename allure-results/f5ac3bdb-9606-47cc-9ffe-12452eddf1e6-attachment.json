@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 813,
+    "codCalle_2": 1110,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95057.3750985862,
+    "coordenada_y": 102056.4999110565,
+    "direccion": "DESAGUADERO Y VARELA, JOSE PEDRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DESAGUADERO",
+    "nombreCalle_2": "VARELA, JOSE PEDRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-058-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

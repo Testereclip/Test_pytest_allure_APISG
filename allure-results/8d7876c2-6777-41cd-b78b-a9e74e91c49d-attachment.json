@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 750,
+    "codCalle_2": 1311,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 95459.3125982044,
+    "coordenada_y": 97279.6405365705,
+    "direccion": "PIZARRO Y GORDILLO, TIMOTEO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PIZARRO",
+    "nombreCalle_2": "GORDILLO, TIMOTEO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "074-070-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

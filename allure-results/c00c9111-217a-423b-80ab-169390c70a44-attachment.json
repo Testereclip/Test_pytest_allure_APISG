@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PUERTO MADERO",
+    "barrioInf": null,
+    "codCalle_1": 20,
+    "codCalle_2": 650,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 109116.4808427188,
+    "coordenada_y": 103249.2691839838,
+    "direccion": "MANSO JUANA Y PACINI DE ALVEAR REGINA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MANSO JUANA",
+    "nombreCalle_2": "PACINI DE ALVEAR REGINA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "097-001R-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

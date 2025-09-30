@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 1520,
+    "codCalle_2": 2696,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98058.695410985,
+    "coordenada_y": 107233.242098231,
+    "direccion": "ACHA, MARIANO, GRAL. Y IBERA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACHA, MARIANO, GRAL.",
+    "nombreCalle_2": "IBERA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "053-067-001b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=AUTOPISTA+BUENOS+AIRES+-+LA+PLATA+Y+GORRITI+JUANA+MANUELA&v2=true

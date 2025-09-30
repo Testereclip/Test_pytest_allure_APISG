@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BARCA+CABO+DE+HORNOS+Y+GOLETA+MANUELITA&v2=true

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 1223,
+    "codCalle_2": 2073,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98822.89072317,
+    "coordenada_y": 104245.8827235861,
+    "direccion": "VIRREYES Y ANDONAEGUI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VIRREYES",
+    "nombreCalle_2": "ANDONAEGUI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-027-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

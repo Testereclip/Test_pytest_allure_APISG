@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BOEDO",
+    "barrioInf": null,
+    "codCalle_1": 1217,
+    "codCalle_2": 2643,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 104109.4063470225,
+    "coordenada_y": 98882.4139744881,
+    "direccion": "CASEROS AV. Y CHICLANA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CASEROS AV.",
+    "nombreCalle_2": "CHICLANA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-195-024",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

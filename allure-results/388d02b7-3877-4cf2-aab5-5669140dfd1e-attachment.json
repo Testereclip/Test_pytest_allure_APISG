@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 475,
+    "codCalle_2": 1137,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102247.4375978622,
+    "coordenada_y": 107277.6014735098,
+    "direccion": "MIGUELETES Y LACROZE, FEDERICO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MIGUELETES",
+    "nombreCalle_2": "LACROZE, FEDERICO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-124-014a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

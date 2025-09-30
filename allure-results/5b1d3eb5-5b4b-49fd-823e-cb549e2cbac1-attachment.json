@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 953,
+    "codCalle_2": 1938,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98413.8750981573,
+    "coordenada_y": 103133.562411173,
+    "direccion": "SANTO TOME Y BUFANO, ALFREDO R.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANTO TOME",
+    "nombreCalle_2": "BUFANO, ALFREDO R.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "069-081-011h",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

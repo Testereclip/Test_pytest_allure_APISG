@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 4,
+    "codCalle_2": 2219,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 96474.6329105301,
+    "coordenada_y": 96971.9452241692,
+    "direccion": "RODO, JOSE E. Y MURGUIONDO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RODO, JOSE E.",
+    "nombreCalle_2": "MURGUIONDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "076-158-008a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

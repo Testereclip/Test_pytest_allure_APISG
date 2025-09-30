@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BOEDO",
+    "barrioInf": null,
+    "codCalle_1": 2006,
+    "codCalle_2": 2115,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103851.6172846819,
+    "coordenada_y": 100704.6561617877,
+    "direccion": "YAPEYU Y ESTADOS UNIDOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "YAPEYU",
+    "nombreCalle_2": "ESTADOS UNIDOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "036-071-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

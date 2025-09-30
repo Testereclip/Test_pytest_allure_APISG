@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 1031,
+    "codCalle_2": 2718,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100200.8594727064,
+    "coordenada_y": 100406.5077240704,
+    "direccion": "BACACAY Y GAVILAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BACACAY",
+    "nombreCalle_2": "GAVILAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "065-101-010e",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

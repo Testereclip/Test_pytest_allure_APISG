@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=AUTOPISTA+PERITO+MORENO+Y+JACQUES%2C+AMADEO&v2=true

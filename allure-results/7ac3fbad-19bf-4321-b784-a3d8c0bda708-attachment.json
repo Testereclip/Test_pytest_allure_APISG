@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NU\u00d1EZ",
+    "barrioInf": null,
+    "codCalle_1": 814,
+    "codCalle_2": 2414,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99813.4454108225,
+    "coordenada_y": 108711.5936606974,
+    "direccion": "PEDRAZA, MANUELA Y VUELTA DE OBLIGADO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PEDRAZA, MANUELA",
+    "nombreCalle_2": "VUELTA DE OBLIGADO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "027-009-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

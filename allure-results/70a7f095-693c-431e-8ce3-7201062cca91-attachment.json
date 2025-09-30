@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": 1178,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1928,
+    "codCalle_2": null,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 100885.0772282103,
+    "coordenada_y": 102114.7593495002,
+    "direccion": "GUIDO Y SPANO, CARLOS 1178",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "nombreCalle_1": "GUIDO Y SPANO, CARLOS",
+    "nombreCalle_2": null,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-152-029",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_altura"
+  },
+  "status_code": 200
+}

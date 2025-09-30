@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 626,
+    "codCalle_2": 692,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104475.0313468358,
+    "coordenada_y": 96917.3983497097,
+    "direccion": "FALUCHO Y CABRED, DOMINGO, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FALUCHO",
+    "nombreCalle_2": "CABRED, DOMINGO, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "034-016-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

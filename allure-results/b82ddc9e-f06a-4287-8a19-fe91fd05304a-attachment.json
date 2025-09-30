@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": "Barrio Olimpico",
+    "codCalle_1": 1350,
+    "codCalle_2": 1365,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100692.5097947674,
+    "coordenada_y": 95150.0126608986,
+    "direccion": "CABRERA, DELFO Y 23 DE JUNIO",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CABRERA, DELFO",
+    "nombreCalle_2": "23 DE JUNIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "068-124A-003",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

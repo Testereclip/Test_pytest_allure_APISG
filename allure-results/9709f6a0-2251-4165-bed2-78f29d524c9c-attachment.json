@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 267,
+    "codCalle_2": 995,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100709.9844726546,
+    "coordenada_y": 100768.8983490684,
+    "direccion": "ALVAREZ, DONATO, TTE. GRAL. Y BOGOTA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALVAREZ, DONATO, TTE. GRAL.",
+    "nombreCalle_2": "BOGOTA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "057-020-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

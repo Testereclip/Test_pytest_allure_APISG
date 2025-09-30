@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 566,
+    "codCalle_2": 894,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100264.328222729,
+    "coordenada_y": 100883.6639740255,
+    "direccion": "BOYACA AV. Y ARANGUREN, JUAN F., DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BOYACA AV.",
+    "nombreCalle_2": "ARANGUREN, JUAN F., DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "065-123-001c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

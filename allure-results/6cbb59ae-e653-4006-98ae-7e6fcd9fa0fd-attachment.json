@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 270,
+    "codCalle_2": 1687,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101341.5180743657,
+    "coordenada_y": 101503.3206444212,
+    "direccion": "NEUQUEN Y MENDEZ DE ANDES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NEUQUEN",
+    "nombreCalle_2": "MENDEZ DE ANDES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "057-105-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

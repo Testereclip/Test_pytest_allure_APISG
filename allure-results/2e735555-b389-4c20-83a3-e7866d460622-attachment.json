@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 166,
+    "codCalle_2": 2274,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104830.1875973276,
+    "coordenada_y": 105027.1092864115,
+    "direccion": "SALGUERO, JERONIMO Y FRENCH",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SALGUERO, JERONIMO",
+    "nombreCalle_2": "FRENCH",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-030-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

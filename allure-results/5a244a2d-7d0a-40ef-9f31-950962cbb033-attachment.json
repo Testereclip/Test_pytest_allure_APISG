@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 209,
+    "codCalle_2": 934,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98881.0711591447,
+    "coordenada_y": 97795.2771479016,
+    "direccion": "LA FACULTAD Y BRUIX AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LA FACULTAD",
+    "nombreCalle_2": "BRUIX AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-098A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

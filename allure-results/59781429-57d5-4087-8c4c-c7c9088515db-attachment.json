@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 777,
+    "codCalle_2": 2071,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 95288.9375982486,
+    "coordenada_y": 97555.2811615316,
+    "direccion": "DE LA TORRE, LISANDRO Y ERCILLA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LA TORRE, LISANDRO",
+    "nombreCalle_2": "ERCILLA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "074-080-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

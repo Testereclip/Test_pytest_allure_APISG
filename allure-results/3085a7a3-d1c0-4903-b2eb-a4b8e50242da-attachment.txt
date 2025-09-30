@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=USPALLATA+Y+FAVALORO%2C+RENE+DR.&v2=true

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 520,
+    "codCalle_2": 1572,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102917.0313473617,
+    "coordenada_y": 101297.5233491637,
+    "direccion": "DOBLAS Y CHACO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DOBLAS",
+    "nombreCalle_2": "CHACO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-119-005",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

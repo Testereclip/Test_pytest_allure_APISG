@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 634,
+    "codCalle_2": 1539,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 97237.2500979655,
+    "coordenada_y": 97678.2889741472,
+    "direccion": "ARAUJO Y CURITYBA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARAUJO",
+    "nombreCalle_2": "CURITYBA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "062-107-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

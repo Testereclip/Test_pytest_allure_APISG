@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 286,
+    "codCalle_2": 1812,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107665.1954089881,
+    "coordenada_y": 98762.7655372365,
+    "direccion": "ICALMA Y LANIN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ICALMA",
+    "nombreCalle_2": "LANIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-117-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

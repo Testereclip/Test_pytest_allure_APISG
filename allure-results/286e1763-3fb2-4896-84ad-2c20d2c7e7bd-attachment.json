@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 873,
+    "codCalle_2": 1765,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 104602.5938471413,
+    "coordenada_y": 101757.5780367289,
+    "direccion": "SANCHEZ DE LORIA Y ALSINA, ADOLFO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANCHEZ DE LORIA",
+    "nombreCalle_2": "ALSINA, ADOLFO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "028-023-036a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

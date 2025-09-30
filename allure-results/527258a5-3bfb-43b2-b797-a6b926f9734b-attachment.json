@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 827,
+    "codCalle_2": 2363,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102288.2813477166,
+    "coordenada_y": 105182.7967862255,
+    "direccion": "CARRANZA, ANGEL JUSTINIANO Y HONDURAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARRANZA, ANGEL JUSTINIANO",
+    "nombreCalle_2": "HONDURAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "035-032-022",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

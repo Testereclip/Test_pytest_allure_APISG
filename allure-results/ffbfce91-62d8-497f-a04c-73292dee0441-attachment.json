@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 1180,
+    "codCalle_2": 1450,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97785.9688480743,
+    "coordenada_y": 100506.9608488995,
+    "direccion": "TRES ARROYOS Y MAR DEL PLATA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TRES ARROYOS",
+    "nombreCalle_2": "MAR DEL PLATA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-039A-016",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

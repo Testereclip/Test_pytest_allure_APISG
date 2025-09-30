@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 961,
+    "codCalle_2": 1386,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101439.6954104307,
+    "coordenada_y": 106509.5545985336,
+    "direccion": "CIUDAD DE LA PAZ Y PALPA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CIUDAD DE LA PAZ",
+    "nombreCalle_2": "PALPA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "037-139-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

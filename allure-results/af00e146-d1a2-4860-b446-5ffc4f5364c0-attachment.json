@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio 20",
+    "codCalle_1": 549,
+    "codCalle_2": 581,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99564.6086649686,
+    "coordenada_y": 94488.6343067693,
+    "direccion": "PASAJE DE LOS TRABAJADORES Y PASAJE EL ENCUENTRO",
+    "manzanaInf": "1",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PASAJE DE LOS TRABAJADORES",
+    "nombreCalle_2": "PASAJE EL ENCUENTRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "066-011N-011",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

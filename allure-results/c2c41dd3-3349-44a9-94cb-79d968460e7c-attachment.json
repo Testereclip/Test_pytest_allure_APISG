@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 638,
+    "codCalle_2": 1807,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97232.1485357726,
+    "coordenada_y": 102241.1874111857,
+    "direccion": "MARTIN PESCADOR Y VILARDEBO, TEODORO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MARTIN PESCADOR",
+    "nombreCalle_2": "VILARDEBO, TEODORO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-133-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

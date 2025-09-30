@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 1028,
+    "codCalle_2": 1620,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98195.1875981153,
+    "coordenada_y": 102048.1249112688,
+    "direccion": "CRAINQUEVILLE Y GARCIA, JUAN AGUSTIN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CRAINQUEVILLE",
+    "nombreCalle_2": "GARCIA, JUAN AGUSTIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "067-035B-006",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

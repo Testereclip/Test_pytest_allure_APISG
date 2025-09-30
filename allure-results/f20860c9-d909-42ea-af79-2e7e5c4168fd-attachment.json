@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 1916,
+    "codCalle_2": 1969,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100780.1719728298,
+    "coordenada_y": 103540.6717862906,
+    "direccion": "MONTENEGRO Y BERNASCONI, MARIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MONTENEGRO",
+    "nombreCalle_2": "BERNASCONI, MARIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-057-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

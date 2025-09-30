@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1785,
+    "codCalle_2": 1853,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101453.0079101257,
+    "coordenada_y": 101983.999911493,
+    "direccion": "REPETTO, NICOLAS, DR. Y PLANES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "REPETTO, NICOLAS, DR.",
+    "nombreCalle_2": "PLANES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "057-122-020b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "AGRONOMIA",
+    "barrioInf": null,
+    "codCalle_1": 178,
+    "codCalle_2": 760,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 97302.1016608834,
+    "coordenada_y": 104038.7889735074,
+    "direccion": "GUTENBERG Y CONDARCO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUTENBERG",
+    "nombreCalle_2": "CONDARCO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "071-081-019b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

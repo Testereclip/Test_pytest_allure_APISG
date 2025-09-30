@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 1063,
+    "codCalle_2": 1484,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100795.152428825,
+    "coordenada_y": 104972.4641108208,
+    "direccion": "FRAGA Y FOREST AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FRAGA",
+    "nombreCalle_2": "FOREST AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-178-001b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

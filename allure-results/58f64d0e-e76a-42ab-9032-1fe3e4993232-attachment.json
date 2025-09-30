@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 370,
+    "codCalle_2": 2019,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101360.7110353772,
+    "coordenada_y": 105502.9842861304,
+    "direccion": "MAURE Y MARTINEZ, ENRIQUE, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MAURE",
+    "nombreCalle_2": "MARTINEZ, ENRIQUE, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "033-096-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

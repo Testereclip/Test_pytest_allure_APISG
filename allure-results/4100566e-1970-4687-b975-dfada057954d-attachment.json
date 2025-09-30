@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 1016,
+    "codCalle_2": 1643,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 105533.9219721985,
+    "coordenada_y": 104659.7811614947,
+    "direccion": "PE\u00d1A Y AUSTRIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PE\u00d1A",
+    "nombreCalle_2": "AUSTRIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-090-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

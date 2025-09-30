@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 1754,
+    "codCalle_2": 2364,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94990.4375987174,
+    "coordenada_y": 103843.8358483692,
+    "direccion": "LOPEZ, CARLOS ANTONIO Y MERCEDES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LOPEZ, CARLOS ANTONIO",
+    "nombreCalle_2": "MERCEDES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-059-032",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MANZANARES+Y+O%27HIGGINS&v2=true

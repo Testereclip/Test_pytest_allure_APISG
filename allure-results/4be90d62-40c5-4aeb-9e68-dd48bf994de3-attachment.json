@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 1537,
+    "codCalle_2": 2601,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94467.0235359066,
+    "coordenada_y": 98080.9217864212,
+    "direccion": "BOQUERON Y EL RASTREADOR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BOQUERON",
+    "nombreCalle_2": "EL RASTREADOR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-065-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 236,
+    "codCalle_2": 1429,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106146.4219719426,
+    "coordenada_y": 102192.9374117882,
+    "direccion": "RIVADAVIA AV. Y RINCON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIVADAVIA AV.",
+    "nombreCalle_2": "RINCON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "020-058-010a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

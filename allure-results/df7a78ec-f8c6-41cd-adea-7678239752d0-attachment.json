@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VERSALLES",
+    "barrioInf": null,
+    "codCalle_1": 689,
+    "codCalle_2": 2192,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 94122.5704110713,
+    "coordenada_y": 99764.1327237269,
+    "direccion": "AYUI Y GANA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AYUI",
+    "nombreCalle_2": "GANA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "093-008B-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

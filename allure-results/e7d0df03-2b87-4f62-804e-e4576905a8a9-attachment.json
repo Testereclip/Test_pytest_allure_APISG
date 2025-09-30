@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 164,
+    "codCalle_2": 566,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100337.2969727099,
+    "coordenada_y": 100756.3124115454,
+    "direccion": "AVELLANEDA AV. Y BOYACA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AVELLANEDA AV.",
+    "nombreCalle_2": "BOYACA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "057-005-016b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

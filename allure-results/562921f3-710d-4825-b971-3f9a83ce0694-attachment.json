@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 566,
+    "codCalle_2": 2138,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100537.7657226564,
+    "coordenada_y": 100405.6405365938,
+    "direccion": "BOYACA AV. Y YERBAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BOYACA AV.",
+    "nombreCalle_2": "YERBAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "057-001-007",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

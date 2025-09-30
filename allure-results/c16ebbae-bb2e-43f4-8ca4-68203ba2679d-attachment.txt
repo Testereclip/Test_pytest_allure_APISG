@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ISABEL%2C+INFANTA+AV.+Y+FREYRE%2C+MARCELINO+E.%2C+CNEL.+AV.&v2=true

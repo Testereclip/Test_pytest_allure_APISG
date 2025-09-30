@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN TELMO",
+    "barrioInf": null,
+    "codCalle_1": 942,
+    "codCalle_2": 2400,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108364.000096534,
+    "coordenada_y": 100992.5077245582,
+    "direccion": "BETHLEM Y DON ANSELMO AIETA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BETHLEM",
+    "nombreCalle_2": "DON ANSELMO AIETA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "004-028A-028",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

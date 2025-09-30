@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 1592,
+    "codCalle_2": 2498,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97765.7969734146,
+    "coordenada_y": 105531.0077233862,
+    "direccion": "MENDOZA AV. Y BARZANA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MENDOZA AV.",
+    "nombreCalle_2": "BARZANA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-025-028a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

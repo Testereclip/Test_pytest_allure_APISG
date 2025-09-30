@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 1786,
+    "codCalle_2": 1979,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 98897.6172853048,
+    "coordenada_y": 98978.8436616284,
+    "direccion": "DIRECTORIO AV. Y BARADERO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DIRECTORIO AV.",
+    "nombreCalle_2": "BARADERO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-160-027",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

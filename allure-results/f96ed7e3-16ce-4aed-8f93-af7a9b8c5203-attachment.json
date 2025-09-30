@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 529,
+    "codCalle_2": 1361,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97876.4532231556,
+    "coordenada_y": 101927.7186612602,
+    "direccion": "LOS ANDES Y CUENCA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LOS ANDES",
+    "nombreCalle_2": "CUENCA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-143A-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

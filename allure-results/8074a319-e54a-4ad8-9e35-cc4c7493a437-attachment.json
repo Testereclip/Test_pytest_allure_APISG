@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio 15 (Ciudad Oculta)",
+    "codCalle_1": 1279,
+    "codCalle_2": 1742,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 97361.8714031216,
+    "coordenada_y": 95338.0221253656,
+    "direccion": "CA\u00d1ADA DE GOMEZ Y HUBAC",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CA\u00d1ADA DE GOMEZ",
+    "nombreCalle_2": "HUBAC",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "078-075H-001a",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

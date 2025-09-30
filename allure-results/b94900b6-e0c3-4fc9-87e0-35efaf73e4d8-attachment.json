@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN CRISTOBAL",
+    "barrioInf": null,
+    "codCalle_1": 712,
+    "codCalle_2": 2042,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106309.8516593352,
+    "coordenada_y": 100965.6639744239,
+    "direccion": "CALVO, CARLOS Y SARANDI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CALVO, CARLOS",
+    "nombreCalle_2": "SARANDI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "022-059-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

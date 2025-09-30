@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 220,
+    "codCalle_2": 1062,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 102647.1250975536,
+    "coordenada_y": 103567.468661411,
+    "direccion": "SCALABRINI ORTIZ, RAUL AV. Y LOYOLA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SCALABRINI ORTIZ, RAUL AV.",
+    "nombreCalle_2": "LOYOLA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-051-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

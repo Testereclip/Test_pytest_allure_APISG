@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VERSALLES",
+    "barrioInf": null,
+    "codCalle_1": 1512,
+    "codCalle_2": 2728,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95564.9610358432,
+    "coordenada_y": 99572.4764738434,
+    "direccion": "SAN BLAS Y RUIZ DE LOS LLANOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN BLAS",
+    "nombreCalle_2": "RUIZ DE LOS LLANOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "091-040-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

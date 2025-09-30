@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VERSALLES",
+    "barrioInf": null,
+    "codCalle_1": 1309,
+    "codCalle_2": 1801,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95225.5547858939,
+    "coordenada_y": 99567.499911322,
+    "direccion": "JUSTO, JUAN B. AV. Y GONZALEZ, ELPIDIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JUSTO, JUAN B. AV.",
+    "nombreCalle_2": "GONZALEZ, ELPIDIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "091-009-018b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

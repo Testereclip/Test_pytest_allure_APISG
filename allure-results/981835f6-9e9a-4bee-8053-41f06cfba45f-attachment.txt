@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BIDEGAIN%2C+PEDRO+Y+TREINTA+Y+TRES+ORIENTALES&v2=true

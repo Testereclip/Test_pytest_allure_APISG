@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 792,
+    "codCalle_2": 1506,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105017.6563468546,
+    "coordenada_y": 98371.3280370991,
+    "direccion": "ELIA Y CORTEJARENA, JOSE A.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ELIA",
+    "nombreCalle_2": "CORTEJARENA, JOSE A.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "032-062-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

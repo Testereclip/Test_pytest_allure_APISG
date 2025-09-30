@@ -1,0 +1,6214 @@
+[
+    {
+        "direccion": "MIRAVE 2765",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MIRAVE 2763",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MIRAVE 2783",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MIRAVE 2781",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HOLMBERG 1701",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LUZURIAGA 1382",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MIRAVE 2717",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MIRAVE 2715",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HERRERA 1174",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HERRERA 1172",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LUZURIAGA 1540",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LUZURIAGA 1538",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIO LIMAY 1589",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIO LIMAY 1519",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIO LIMAY 1517",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIO LIMAY 1515",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA ELENA 809",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIEYTES 1421",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIEYTES 1417",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LUZURIAGA 1524",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARCAMENDIA 666",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIO CUARTO 2890",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIO CUARTO 2888",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIO CUARTO 2884",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SOLER 4883",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SOLER 4881",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "THAMES 2005",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LANIN 37",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SALOM 366",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVARADO 2456",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SALOM 484",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LUJAN 2963",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GURRUCHAGA 1650",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS AV. 4183",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS AV. 4181",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FRAY JUSTO SANTAMARIA DE ORO 1859",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FRAY JUSTO SANTAMARIA DE ORO 1857",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "EL SALVADOR 4166",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "EL SALVADOR 4164",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "NICARAGUA 4316",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "NICARAGUA 4312",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "NICARAGUA 4308",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "NICARAGUA 4304",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "NICARAGUA 4302",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ 1796",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ 1792",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "NICARAGUA 5099",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "NICARAGUA 5087",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FRAY JUSTO SANTAMARIA DE ORO 1905",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHARCAS 4181",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIRASORO 2318",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIRASORO 2314",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIRASORO 2310",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIRASORO 2306",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SCALABRINI ORTIZ, RAUL AV. 1971",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUATEMALA 4336",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUATEMALA 4334",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ 1952",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ 1942",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ 1938",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 3448",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 3446",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 3444",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SALGUERO, JERONIMO 1308",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SALGUERO, JERONIMO 1306",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GORRITI 3807",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GORRITI 3801",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUEMES 3778",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUEMES 3774",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEXICO 799",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEXICO 795",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEXICO 789",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 596",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 594",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 592",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GODOY CRUZ 1831",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GODOY CRUZ 1829",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS AV. 3882",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS AV. 3878",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GORRITI 4070",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GORRITI 4068",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GORRITI 4066",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUEMES 3734",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUEMES 3732",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHARCAS 4354",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FRAY JUSTO SANTAMARIA DE ORO 2094",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 4283",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 4281",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORDOBA AV. 3661",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORDOBA AV. 3659",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORDOBA AV. 3653",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHARCAS 4088",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BORGES, JORGE LUIS 2274",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BORGES, JORGE LUIS 2270",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GORRITI 4191",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GORRITI 4189",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GORRITI 4187",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUATEMALA 5128",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHARCAS 3656",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAN MATEO 3724",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAN MATEO 3720",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SOLER 4757",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GORRITI 4541",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GORRITI 4539",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "EL SALVADOR 4254",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "EL SALVADOR 4252",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "EL SALVADOR 4250",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GORRITI 5216",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ 2426",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ 2424",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ 2422",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS 5307",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS 5303",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS 5301",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GODOY CRUZ 1816",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GODOY CRUZ 1838",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GODOY CRUZ 1836",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CABRERA, JOSE A. 4529",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CABRERA, JOSE A. 4525",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ 1360",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 3956",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 3954",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 3952",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GASCON 1359",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GASCON 1355",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 4779",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 4775",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 4747",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FRAY JUSTO SANTAMARIA DE ORO 2233",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GURRUCHAGA 2159",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MANSILLA, LUCIO NORBERTO, GENERAL 4075",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MANSILLA, LUCIO NORBERTO, GENERAL 4067",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 4776",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 4756",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URIARTE 2266",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MANSILLA, LUCIO NORBERTO, GENERAL 3630",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GURRUCHAGA 1452",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GURRUCHAGA 1450",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CABRER, CNEL. 4907",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GURRUCHAGA 2423",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GURRUCHAGA 2419",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ACUÑA DE FIGUEROA, FRANCISCO 1767",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ACUÑA DE FIGUEROA, FRANCISCO 1775",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ACUÑA DE FIGUEROA, FRANCISCO 1773",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MANSILLA, LUCIO NORBERTO, GENERAL 3682",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUALEGUAY 1100",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUALEGUAY 1096",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUALEGUAY 1092",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HERNANDARIAS 408",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "EL SALVADOR 4311",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEDRANO 1719",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEDRANO 1717",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEDRANO 1715",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEDRANO 1701",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHARCAS 4311",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHARCAS 4309",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 3982",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 3980",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUATEMALA 4499",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUATEMALA 4495",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUATEMALA 4491",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUATEMALA 4487",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MALABIA 2107",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MALABIA 2105",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 3972",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 3630",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 3626",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARMENIA 1945",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARMENIA 1943",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARMENIA 1941",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUEMES 3694",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SALGUERO, JERONIMO 1899",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 4438",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 4436",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GORRITI 3790",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GORRITI 3724",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GORRITI 3722",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "COSTA RICA 4595",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "COSTA RICA 4537",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MALABIA 1824",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MALABIA 1802",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ 2149",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "EL SALVADOR 4336",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "EL SALVADOR 4334",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUATEMALA 4579",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUATEMALA 4571",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUATEMALA 4565",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUATEMALA 4561",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUATEMALA 4559",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUATEMALA 4555",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUATEMALA 4553",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUATEMALA 4551",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "EL SALVADOR 4319",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "COSTA RICA 4761",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "COSTA RICA 4751",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URIARTE 2348",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URIARTE 2346",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ 1916",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ 1914",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARMENIA 2116",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARMENIA 2114",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHARCAS 4525",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVAREZ, JULIAN 1970",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVAREZ, JULIAN 1968",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BORGES, JORGE LUIS 1689",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "EL SALVADOR 4890",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVAREZ, JULIAN 1918",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVAREZ, JULIAN 1914",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GASCON 1231",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GASCON 1229",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GASCON 1227",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GASCON 1225",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 4899",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 4897",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 4875",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 4871",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUEMES 3568",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ACUÑA DE FIGUEROA, FRANCISCO 1315",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BULNES 1348",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BULNES 1346",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEDRANO 1174",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URIARTE 2436",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URIARTE 2434",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHARCAS 4784",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHARCAS 4782",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SCALABRINI ORTIZ, RAUL AV. 2385",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SCALABRINI ORTIZ, RAUL AV. 2381",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SCALABRINI ORTIZ, RAUL AV. 2375",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FRAY JUSTO SANTAMARIA DE ORO 2286",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ACUÑA DE FIGUEROA, FRANCISCO 1595",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ACUÑA DE FIGUEROA, FRANCISCO 1593",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GORRITI 5116",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BORGES, JORGE LUIS 1640",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUEMES 3824",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SOLER 5000",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SOLER 4998",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SOLER 4992",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URIARTE 1995",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUEMES 4034",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUEMES 4032",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 3386",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 3384",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GASCON 1274",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEDRANO 1238",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SCALABRINI ORTIZ, RAUL AV. 2330",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SCALABRINI ORTIZ, RAUL AV. 2328",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SCALABRINI ORTIZ, RAUL AV. 2326",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 4663",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 4661",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 3342",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GODOY CRUZ 1737",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URIARTE 1542",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URIARTE 1538",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URIARTE 1534",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URIARTE 1526",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARMENIA 1661",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARMENIA 1655",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GURRUCHAGA 1422",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GURRUCHAGA 1420",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIDT 1920",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIDT 1918",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MANSILLA, LUCIO NORBERTO, GENERAL 3935",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MANSILLA, LUCIO NORBERTO, GENERAL 3931",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MANSILLA, LUCIO NORBERTO, GENERAL 3929",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUEMES 4486",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUEMES 4484",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUEMES 4482",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUEMES 3648",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUEMES 3646",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUEMES 3642",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BORGES, JORGE LUIS 1788",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIDT 1966",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARMENIA 2416",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARMENIA 2414",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS 4251",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GASCON 1448",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS 4740",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS 4738",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS 4736",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ 2479",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ 2477",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ 2475",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHILAVERT, MARTINIANO, CORONEL 5415",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FRAY JUSTO SANTAMARIA DE ORO 1702",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEDRANO 1264",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEDRANO 1260",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GODOY CRUZ 2137",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BORGES, JORGE LUIS 2343",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS AV. 4120",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS AV. 4184",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS AV. 4182",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GURRUCHAGA 1969",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUEMES 3859",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUEMES 3837",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "EL SALVADOR 3845",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "EL SALVADOR 3841",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "EL SALVADOR 3839",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SALGUERO, JERONIMO 1557",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 4694",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "THAMES 1999",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "THAMES 1993",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DARREGUEYRA 2321",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DARREGUEYRA 2317",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CABRERA, JOSE A. 3678",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CABRERA, JOSE A. 3676",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "THAMES 2449",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "THAMES 2447",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "THAMES 2445",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEDRANO 1683",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CABRERA, JOSE A. 3628",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CABRERA, JOSE A. 3626",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIDT 2069",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS 4445",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS 4441",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "NICARAGUA 4910",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "NICARAGUA 4908",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GURRUCHAGA 1548",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "NICARAGUA 4980",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "NICARAGUA 4978",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "NICARAGUA 4976",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SALGUERO, JERONIMO 1239",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 4355",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 4353",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 4351",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ 2336",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHARCAS 4122",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVAREZ, JULIAN 2384",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVAREZ, JULIAN 2382",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GODOY CRUZ 1672",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GODOY CRUZ 1670",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLEJA 1487",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLEJA 1485",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "COSTA RICA 4900",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "THAMES 1795",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUEMES 4854",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SOLER 4870",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SOLER 4860",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SOLER 4858",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SOLER 4856",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SCALABRINI ORTIZ, RAUL AV. 1724",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SCALABRINI ORTIZ, RAUL AV. 1720",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BORGES, JORGE LUIS 1711",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BORGES, JORGE LUIS 1709",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BORGES, JORGE LUIS 1701",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SCALABRINI ORTIZ, RAUL AV. 1925",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SCALABRINI ORTIZ, RAUL AV. 1921",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ 1588",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ 1586",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GURRUCHAGA 2241",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORDOBA AV. 3853",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORDOBA AV. 3851",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORDOBA AV. 3849",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ACUÑA DE FIGUEROA, FRANCISCO 1235",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVAREZ, JULIAN 1965",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVAREZ, JULIAN 1861",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ACUÑA DE FIGUEROA, FRANCISCO 1714",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SCALABRINI ORTIZ, RAUL AV. 2418",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SCALABRINI ORTIZ, RAUL AV. 2416",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIDT 1760",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SALGUERO, JERONIMO 1327",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS AV. 3869",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS AV. 3865",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS AV. 3863",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS AV. 3861",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS AV. 3853",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS AV. 3851",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS AV. 3847",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HONDURAS AV. 3845",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PRINGLES 1480",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PRINGLES 1488",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTES DE OCA, MANUEL AV. 2234",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTES DE OCA, MANUEL AV. 2232",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTES DE OCA, MANUEL AV. 2228",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTES DE OCA, MANUEL AV. 2226",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTES DE OCA, MANUEL AV. 2222",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTES DE OCA, MANUEL AV. 2218",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "THAMES 2438",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "THAMES 2432",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "THAMES 2428",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SALGUERO, JERONIMO 1923",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SALGUERO, JERONIMO 1921",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 3366",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 3364",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIDT 2096",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIDT 2094",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIDT 2092",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIDT 2090",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIDT 2086",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIDT 2084",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIDT 2082",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SALGUERO, JERONIMO 1292",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URIARTE 2425",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEDRANO 1163",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEDRANO 1157",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BULNES 1836",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PASCO 1030",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PASCO 1028",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PASCO 1024",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "IRALA 1008",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "IRALA 1002",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SUAREZ 1000",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SUAREZ 996",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SUAREZ 992",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SUAREZ 988",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SUAREZ 986",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URIARTE 2157",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SUAREZ 1503",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SUAREZ 1501",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "IRALA 1495",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "IRALA 1491",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "QUINQUELA MARTIN, BENITO 1105",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "QUINQUELA MARTIN, BENITO 1101",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRI, DANIEL, GRAL. 1464",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRI, DANIEL, GRAL. 1460",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRANDSEN 1404",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "AZARA 607",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "AZARA 605",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 1048",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 1046",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 1044",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 1036",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTES DE OCA, MANUEL AV. 1714",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTES DE OCA, MANUEL AV. 1710",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTES DE OCA, MANUEL AV. 1702",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 1700",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 1692",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 1678",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 1672",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MAGALLANES 1020",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MELO, CARLOS F. 209",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ISABEL LA CATOLICA 1138",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ISABEL LA CATOLICA 1136",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "REGIMIENTO DE PATRICIOS AV. 1625",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "REGIMIENTO DE PATRICIOS AV. 1601",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SALVADORES, CNEL. 1326",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 999",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 997",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 995",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 991",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVAR NUÑEZ 396",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "AZARA 1715",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SALVADORES, CNEL. 989",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MELO, CARLOS F. 539",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 766",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 659",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 655",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 930",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "IRALA 1290",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "IRALA 1288",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GARIBALDI 1930",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GARIBALDI 1928",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 1366",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 1364",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 1362",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 1358",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 1356",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 1378",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DON PEDRO DE MENDOZA AV. 3681",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTES DE OCA, MANUEL AV. 2264",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTES DE OCA, MANUEL AV. 2262",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "IRALA 1159",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "IRALA 1153",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "IRALA 1151",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "JOVELLANOS, GASPAR M. DE 1366",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "JOVELLANOS, GASPAR M. DE 1360",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "JOVELLANOS, GASPAR M. DE 1352",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "AZARA 1337",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "JOVELLANOS, GASPAR M. DE 1336",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. 1476",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "IRALA 1195",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. 1007",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. 1001",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "REGIMIENTO DE PATRICIOS AV. 1812",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DON PEDRO DE MENDOZA AV. 2073",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DON PEDRO DE MENDOZA AV. 2053",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DON PEDRO DE MENDOZA AV. 2051",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SUAREZ 1621",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SUAREZ 1619",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SUAREZ 1617",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ROCHA 1392",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ROCHA 1390",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SALVADORES, CNEL. 1585",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 1379",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "JOVELLANOS, GASPAR M. DE 1237",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "JOVELLANOS, GASPAR M. DE 1235",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVAR NUÑEZ 198",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVAR NUÑEZ 196",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 1082",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PINZON 924",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PINZON 922",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 931",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RUY DIAZ DE GUZMAN 635",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RUY DIAZ DE GUZMAN 633",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "AZARA 1529",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIO CUARTO 1400",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 1574",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 1572",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 1570",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "JOVELLANOS, GASPAR M. DE 871",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "IRALA 1833",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "IRALA 1825",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 1156",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALIFORNIA 1152",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. 872",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "QUINQUELA MARTIN, BENITO 1688",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "QUINQUELA MARTIN, BENITO 1686",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "QUINQUELA MARTIN, BENITO 1684",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ROCHA 1569",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "IRALA 1868",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "IRALA 1864",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FONROUGE 4120",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. 1270",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HERNANDARIAS 1750",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SALVADORES, CNEL. 1242",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SALVADORES, CNEL. 1240",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. 912",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. 902",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MELO, CARLOS F. 109",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MELO, CARLOS F. 105",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "QUINQUELA MARTIN, BENITO 1046",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "QUINQUELA MARTIN, BENITO 1040",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "QUINQUELA MARTIN, BENITO 1036",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GARIBALDI 1857",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "AZARA 975",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "AZARA 925",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 399",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 389",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 387",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 385",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 381",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 377",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RECONQUISTA 313",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RECONQUISTA 305",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIVADAVIA 619",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIVADAVIA 611",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FLORIDA 26",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FLORIDA 22",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FLORIDA 16",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FLORIDA 12",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FLORIDA 8",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FLORIDA 2",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIAMONTE 647",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIAMONTE 645",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIAMONTE 641",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 700",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 698",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 696",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 694",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 692",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 690",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MAIPU 599",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MAIPU 587",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MAIPU 573",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MAIPU 571",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MAIPU 569",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MAIPU 567",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MAIPU 565",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MAIPU 563",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 462",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 538",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 536",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLE 678",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLE 676",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLE 674",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLE 672",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MAIPU 756",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MAIPU 754",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIAMONTE 875",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIAMONTE 871",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIAMONTE 869",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FLORIDA 723",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FLORIDA 719",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FLORIDA 715",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FLORIDA 713",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 828",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 826",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 822",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 531",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 529",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 668",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 662",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 788",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 786",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 784",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 780",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESMERALDA 573",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESMERALDA 571",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MADERO, EDUARDO AV. 283",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MADERO, EDUARDO AV. 279",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MADERO, EDUARDO AV. 271",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FLORIDA 44",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FLORIDA 40",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESMERALDA 556",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESMERALDA 552",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 457",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 455",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 451",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 818",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 816",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 812",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 810",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 806",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESMERALDA 600",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESMERALDA 590",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESMERALDA 584",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESMERALDA 582",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESMERALDA 578",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESMERALDA 574",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESMERALDA 570",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESMERALDA 566",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAN MARTIN 545",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAN MARTIN 543",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAN MARTIN 541",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 340",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 338",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 687",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 685",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 681",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "25 DE MAYO 738",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "25 DE MAYO 734",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "25 DE MAYO 732",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "25 DE MAYO 728",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAN MARTIN 588",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAN MARTIN 550",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAN MARTIN 548",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAN MARTIN 546",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIAMONTE 636",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIAMONTE 634",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FLORIDA 270",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAN MARTIN 583",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAN MARTIN 579",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIAMONTE 728",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIAMONTE 726",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIAMONTE 724",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAN MARTIN 577",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAN MARTIN 575",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESMERALDA 672",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESMERALDA 668",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 789",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 787",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 785",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 781",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 775",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESMERALDA 611",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESMERALDA 605",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESMERALDA 601",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FLORIDA 470",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FLORIDA 468",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FLORIDA 466",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RECONQUISTA 598",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 420",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 416",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 410",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 402",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 500",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 488",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 484",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 480",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAN MARTIN 383",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAN MARTIN 379",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 440",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 438",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 436",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 875",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 871",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 867",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 671",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 667",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 655",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 643",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 253",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 247",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 245",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHILE 644",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHILE 642",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 625",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 619",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 613",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHACABUCO 245",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHACABUCO 243",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHACABUCO 241",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DEFENSA 599",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DEFENSA 563",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEXICO 431",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DEFENSA 682",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DEFENSA 678",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BELGRANO AV. 776",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BELGRANO AV. 774",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BELGRANO AV. 766",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEXICO 868",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEXICO 864",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TACUARI 158",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TACUARI 156",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 686",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 684",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 680",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PASEO COLON AV. 474",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PASEO COLON AV. 470",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PASEO COLON AV. 464",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MORENO 433",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MORENO 431",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MORENO 429",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEXICO 631",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEXICO 625",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEXICO 615",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHILE 685",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHILE 556",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHILE 554",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHILE 552",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BELGRANO AV. 861",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BELGRANO AV. 857",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BELGRANO AV. 853",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 626",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIVADAVIA 576",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DE MAYO AV. 575",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DE MAYO AV. 567",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIVADAVIA 564",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIVADAVIA 552",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "YRIGOYEN, HIPOLITO 900",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "YRIGOYEN, HIPOLITO 892",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "YRIGOYEN, HIPOLITO 888",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TACUARI 118",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TACUARI 114",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TACUARI 104",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 541",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHACABUCO 540",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHACABUCO 538",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHACABUCO 532",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEXICO 825",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEXICO 823",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEXICO 815",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEXICO 805",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 599",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 575",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALSINA, ADOLFO 463",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALSINA, ADOLFO 455",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 612",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 608",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 604",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEXICO 494",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEXICO 492",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEXICO 490",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEXICO 488",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEXICO 484",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MORENO 663",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MORENO 661",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MORENO 659",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "REPUBLICA BOLIVARIANA DE VENEZUELA 820",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "REPUBLICA BOLIVARIANA DE VENEZUELA 818",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 771",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 769",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 767",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 765",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 763",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "INDEPENDENCIA AV. 774",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "INDEPENDENCIA AV. 772",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BALCARCE 626",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BALCARCE 624",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "REPUBLICA BOLIVARIANA DE VENEZUELA 859",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "REPUBLICA BOLIVARIANA DE VENEZUELA 857",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "INDEPENDENCIA AV. 825",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "INDEPENDENCIA AV. 821",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "INDEPENDENCIA AV. 817",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "INDEPENDENCIA AV. 815",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FLORIDA 835",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FLORIDA 833",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FLORIDA 829",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FLORIDA 823",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FLORIDA 817",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORDOBA AV. 545",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORDOBA AV. 543",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORDOBA AV. 531",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RECONQUISTA 1014",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RECONQUISTA 1012",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TACUARI 1062",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TACUARI 1060",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "JUNCAL 970",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 1226",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 1224",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 1222",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 1220",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 1268",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 1266",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 1250",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MAIPU 914",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MAIPU 906",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 723",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 719",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 711",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 1380",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVEAR AV. 1350",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MAIPU 934",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MAIPU 932",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAN MARTIN 991",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVEAR, MARCELO T. DE 500",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESMERALDA 832",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESMERALDA 830",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESMERALDA 828",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVEAR, MARCELO T. DE 865",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVEAR, MARCELO T. DE 863",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVEAR, MARCELO T. DE 861",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAN MARTIN 910",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAN MARTIN 908",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 1129",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 1127",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 1125",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ROJAS, RICARDO, DR. 473",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RECONQUISTA 1198",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RECONQUISTA 1178",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RECONQUISTA 1172",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RECONQUISTA 1166",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RECONQUISTA 1062",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RECONQUISTA 1060",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RECONQUISTA 1056",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 980",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 976",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARROYO 820",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARROYO 816",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARROYO 814",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SUIPACHA 878",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SUIPACHA 876",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SUIPACHA 874",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SUIPACHA 1041",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 884",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 882",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 880",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SUIPACHA 1017",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SUIPACHA 1015",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SUIPACHA 1035",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SUIPACHA 1033",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SUIPACHA 1031",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 1076",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 1070",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PELLEGRINI, CARLOS 1379",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PELLEGRINI, CARLOS 1377",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PELLEGRINI, CARLOS 1373",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARROYO 863",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVEAR, MARCELO T. DE 977",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVEAR, MARCELO T. DE 975",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVEAR, MARCELO T. DE 973",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVEAR, MARCELO T. DE 967",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVEAR, MARCELO T. DE 965",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 865",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 863",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 861",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 859",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 857",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESTADOS UNIDOS 535",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESTADOS UNIDOS 531",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 846",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESTADOS UNIDOS 548",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GARAY, JUAN DE AV. 809",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BALCARCE 880",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BALCARCE 878",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DEFENSA 1311",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DEFENSA 1309",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "COCHABAMBA 412",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "COCHABAMBA 408",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 1347",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 1345",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 1341",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 1337",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 1335",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TACUARI 848",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 1255",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 1253",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 1281",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 1279",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 1277",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PASEO COLON AV. 1388",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PASEO COLON AV. 1380",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PASEO COLON AV. 1374",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "COCHABAMBA 771",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 824",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 814",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 812",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 810",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 808",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHACABUCO 1146",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TACUARI 1080",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TACUARI 1078",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 1297",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 1289",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "COCHABAMBA 623",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "COCHABAMBA 617",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "COCHABAMBA 613",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "COCHABAMBA 607",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "COCHABAMBA 605",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 1374",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 1370",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 1368",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESTADOS UNIDOS 371",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DEFENSA 1350",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DEFENSA 1348",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DEFENSA 1344",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 1077",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 1073",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 1065",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 1063",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HUMBERTO 1° 135",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HUMBERTO 1° 133",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 1389",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GARAY, JUAN DE AV. 605",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESTADOS UNIDOS 447",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESTADOS UNIDOS 437",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 1322",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HUMBERTO 1° 281",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 1084",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 1082",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HUMBERTO 1° 672",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 862",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 860",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 895",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 893",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 891",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESTADOS UNIDOS 617",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESTADOS UNIDOS 613",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ESTADOS UNIDOS 609",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 1362",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 1128",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 1124",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 1120",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 1114",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 1110",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 1106",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HUMBERTO 1° 794",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "COCHABAMBA 2017",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "COCHABAMBA 2015",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 1367",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 1363",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 1357",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 1353",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHACABUCO 1360",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BALCARCE 1237",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BALCARCE 1235",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "INDEPENDENCIA AV. 672",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "INDEPENDENCIA AV. 668",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "INDEPENDENCIA AV. 664",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TACUARI 988",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TACUARI 986",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TACUARI 982",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 1699",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 1689",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 1687",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 205",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 203",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORDOBA AV. 1558",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORDOBA AV. 1556",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 1770",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PALOS 850",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MITRE, BARTOLOME 1739",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MITRE, BARTOLOME 1731",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MITRE, BARTOLOME 1725",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 231",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 227",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 1428",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 1426",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALLAO AV. 147",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALLAO AV. 145",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALLAO AV. 141",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 1573",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 1571",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LIBERTAD 145",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LIBERTAD 143",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LIBERTAD 141",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 1175",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 1173",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 1161",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 1155",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 1153",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 1148",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 1142",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 1138",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY 252",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY 250",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY 248",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 930",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 928",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 926",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIAMONTE 1347",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIAMONTE 1345",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIAMONTE 1343",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 44",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 40",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 36",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 34",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 50",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 46",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 996",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PELLEGRINI, CARLOS 199",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PELLEGRINI, CARLOS 191",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PELLEGRINI, CARLOS 189",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PELLEGRINI, CARLOS 187",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLE 1519",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLE 1515",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 1467",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 1465",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARANA 576",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARANA 572",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARANA 568",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAENZ PEÑA, ROQUE, PRES. DIAGONAL NORTE AV. 1178",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAENZ PEÑA, ROQUE, PRES. DIAGONAL NORTE AV. 1176",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAENZ PEÑA, ROQUE, PRES. DIAGONAL NORTE AV. 1174",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAENZ PEÑA, ROQUE, PRES. DIAGONAL NORTE AV. 1170",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLE 1300",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLE 1296",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLE 1294",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLE 1292",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLE 1290",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TALCAHUANO 495",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TALCAHUANO 493",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TALCAHUANO 491",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TALCAHUANO 489",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TALCAHUANO 487",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TALCAHUANO 485",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TALCAHUANO 483",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1193",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TOSCANINI ARTURO 1192",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1189",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1181",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TOSCANINI ARTURO 1180",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TOSCANINI ARTURO 1172",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1171",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TOSCANINI ARTURO 1168",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TOSCANINI ARTURO 1166",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1165",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TOSCANINI ARTURO 1164",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1161",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TOSCANINI ARTURO 1160",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1157",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TOSCANINI ARTURO 1154",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1151",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TOSCANINI ARTURO 1150",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TOSCANINI ARTURO 1146",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1145",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TOSCANINI ARTURO 1142",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1137",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TOSCANINI ARTURO 1136",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1135",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TOSCANINI ARTURO 1132",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1131",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TOSCANINI ARTURO 1128",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1127",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1125",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TOSCANINI ARTURO 1124",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1117",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TOSCANINI ARTURO 1116",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TOSCANINI ARTURO 1114",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TOSCANINI ARTURO 1112",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1111",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1109",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1103",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 650",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LIBERTAD 649",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 646",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 642",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LIBERTAD 637",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 636",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 632",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LIBERTAD 629",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 628",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 624",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LIBERTAD 621",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 618",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 616",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LIBERTAD 615",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 610",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LIBERTAD 609",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LIBERTAD 605",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CERRITO 604",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLE 957",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLE 951",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BLANES, JUAN MANUEL 455",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAENZ PEÑA, ROQUE, PRES. DIAGONAL NORTE AV. 999",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAENZ PEÑA, ROQUE, PRES. DIAGONAL NORTE AV. 997",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAENZ PEÑA, ROQUE, PRES. DIAGONAL NORTE AV. 995",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 1158",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 1156",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MITRE, BARTOLOME 1453",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MITRE, BARTOLOME 1443",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MITRE, BARTOLOME 1433",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MITRE, BARTOLOME 1427",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIVADAVIA AV. 1715",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIVADAVIA AV. 1711",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIVADAVIA AV. 1709",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIVADAVIA AV. 1705",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIVADAVIA AV. 1701",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 20",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 16",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 14",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 12",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 10",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TALCAHUANO 143",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TALCAHUANO 141",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TALCAHUANO 139",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLE 948",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLE 946",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLE 944",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLE 940",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1401",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY AV. 626",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY AV. 618",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY AV. 606",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 951",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 947",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 943",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAENZ PEÑA, ROQUE, PRES. DIAGONAL NORTE AV. 942",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAENZ PEÑA, ROQUE, PRES. DIAGONAL NORTE AV. 940",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAENZ PEÑA, ROQUE, PRES. DIAGONAL NORTE AV. 938",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 937",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAENZ PEÑA, ROQUE, PRES. DIAGONAL NORTE AV. 936",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAENZ PEÑA, ROQUE, PRES. DIAGONAL NORTE AV. 932",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 931",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAENZ PEÑA, ROQUE, PRES. DIAGONAL NORTE AV. 928",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAENZ PEÑA, ROQUE, PRES. DIAGONAL NORTE AV. 926",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SAENZ PEÑA, ROQUE, PRES. DIAGONAL NORTE AV. 924",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CARABELAS 325",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CARABELAS 321",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PELLEGRINI, CARLOS 449",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PELLEGRINI, CARLOS 445",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MITRE, BARTOLOME 971",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MITRE, BARTOLOME 967",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1361",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1357",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1353",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY AV. 643",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY AV. 641",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY AV. 637",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TALCAHUANO 624",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TALCAHUANO 618",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TALCAHUANO 612",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 1267",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 1265",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 1263",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY AV. 532",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY AV. 528",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIVAROLA, RODOLFO, DR. 169",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIVAROLA, RODOLFO, DR. 161",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIVAROLA, RODOLFO, DR. 155",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIVAROLA, RODOLFO, DR. 153",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 1286",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 1282",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SUIPACHA 26",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SUIPACHA 18",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SUIPACHA 14",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 1568",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 1566",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIVADAVIA AV. 1637",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIVADAVIA AV. 1635",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIVADAVIA AV. 1625",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIVADAVIA AV. 1623",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1630",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1626",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 1624",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLE 1495",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLE 1493",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLE 1491",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARANA 527",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARANA 523",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARANA 521",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARANA 507",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARANA 505",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 1724",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 1720",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 1493",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SARMIENTO 1489",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 1669",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORRIENTES AV. 1667",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLE 1640",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAVALLE 1638",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 458",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 454",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PELLEGRINI, CARLOS 741",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PELLEGRINI, CARLOS 739",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PELLEGRINI, CARLOS 737",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORDOBA AV. 1308",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TALCAHUANO 778",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TALCAHUANO 776",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PELLEGRINI, CARLOS 783",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PELLEGRINI, CARLOS 781",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PELLEGRINI, CARLOS 779",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIAMONTE 1381",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIAMONTE 1379",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIAMONTE 1728",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 1531",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 1529",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARANA 266",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARANA 264",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MITRE, BARTOLOME 1680",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MITRE, BARTOLOME 1676",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MITRE, BARTOLOME 1670",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 1713",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 1711",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 957",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 955",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TUCUMAN 951",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARANA 386",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARANA 380",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTEVIDEO 756",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTEVIDEO 752",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIVADAVIA 999",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RIVADAVIA 981",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PELLEGRINI, CARLOS 33",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PELLEGRINI, CARLOS 27",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CATAMARCA 1316",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "COCHABAMBA 2700",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "COCHABAMBA 2694",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VIAMONTE 930",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 542",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 540",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 538",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 536",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "NECOCHEA 781",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRIN, MINISTRO 1178",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRIN, MINISTRO 1479",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DON PEDRO DE MENDOZA AV. 1417",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DON PEDRO DE MENDOZA AV. 1409",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DON PEDRO DE MENDOZA AV. 1403",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VILLAFAÑE, WENCESLAO 220",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VILLAFAÑE, WENCESLAO 218",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 764",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 760",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 758",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BROWN, ALTE. AV. 1405",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BROWN, ALTE. AV. 1403",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BROWN, ALTE. AV. 1401",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. 420",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. 418",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. 410",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ, MARTIN 560",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ, MARTIN 552",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ, MARTIN 1043",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PILCOMAYO 777",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRANDSEN 547",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRANDSEN 545",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRANDSEN 539",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PALOS 795",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PALOS 793",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PALOS 791",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PALOS 789",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PALOS 781",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PALOS 775",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PALOS 769",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PALOS 765",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PALOS 761",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. 605",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. 603",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. 601",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PINZON 470",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PINZON 468",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VALLE, ARISTOBULO DEL 349",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VALLE, ARISTOBULO DEL 347",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRIN, MINISTRO 673",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRIN, MINISTRO 671",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRIN, MINISTRO 669",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BROWN, ALTE. AV. 976",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BROWN, ALTE. AV. 972",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BROWN, ALTE. AV. 968",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VILLAFAÑE, WENCESLAO 608",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VILLAFAÑE, WENCESLAO 602",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PALOS 203",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRIN, MINISTRO 1050",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HUERGO, ING. AV. 1475",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HUERGO, ING. AV. 1473",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. 235",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "NECOCHEA 642",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BROWN, ALTE. AV. 182",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 459",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 457",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 455",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PICHINCHA 1335",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PICHINCHA 1333",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 269",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 267",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 265",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 263",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 261",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 259",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 257",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PEREZ GALDOS, BENITO AV. 54",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PEREZ GALDOS, BENITO AV. 52",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VILLAFAÑE, WENCESLAO 578",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRANDSEN 574",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRANDSEN 568",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRANDSEN 564",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRANDSEN 562",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VALLE IBERLUCEA DEL, DR. 1150",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VALLE IBERLUCEA DEL, DR. 1142",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VALLE IBERLUCEA DEL, DR. 1140",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DON PEDRO DE MENDOZA AV. 1359",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DON PEDRO DE MENDOZA AV. 1357",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 618",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 616",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 614",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 612",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "OLAVARRIA 610",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRANDSEN 633",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VILLAFAÑE, WENCESLAO 329",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VILLAFAÑE, WENCESLAO 327",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY 943",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY 937",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY 931",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALLAO AV. 1361",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALLAO AV. 1359",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALLAO AV. 1357",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALLAO AV. 1355",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVEAR, MARCELO T. DE 1588",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVEAR, MARCELO T. DE 1586",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVEAR, MARCELO T. DE 1584",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALLAO AV. 1817",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MIÑONES 2231",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARANA 1057",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARANA 1055",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARANA 1053",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVEAR, MARCELO T. DE 1777",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVEAR, MARCELO T. DE 1775",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 1452",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 1448",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAS HERAS, GENERAL 1745",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LAS HERAS, GENERAL 1743",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTEVIDEO 1847",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTEVIDEO 1845",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTEVIDEO 1843",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HORNOS, GRAL. 1361",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 1326",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 1048",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 1046",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTEVIDEO 1745",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 1407",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 1405",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY 949",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY 945",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 1651",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 1649",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 1647",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORDOBA AV. 1749",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORDOBA AV. 1739",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVEAR, MARCELO T. DE 1673",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVEAR, MARCELO T. DE 1671",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORDOBA AV. 1225",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORDOBA AV. 1215",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LIBERTAD 810",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARENALES 1275",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARENALES 1273",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 1469",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 1465",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 1481",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 1479",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "QUINTANA, MANUEL, PRES. 142",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "QUINTANA, MANUEL, PRES. 134",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY 1283",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY 1281",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY 1279",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY 1251",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY 1249",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY 1247",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HERNANDARIAS 375",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALLAO AV. 1769",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "QUINTANA, MANUEL, PRES. 400",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "QUINTANA, MANUEL, PRES. 394",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALLAO AV. 1797",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALLAO AV. 1793",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 1401",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "URUGUAY 1122",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVEAR 1543",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVEAR 1539",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ALVEAR 1535",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CABRERA, JOSE A. 5621",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "JUNCAL 1767",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "JUNCAL 1765",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 1320",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 1314",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 1310",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 1306",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTEVIDEO 1151",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTEVIDEO 1141",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LIBERTAD 1150",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LIBERTAD 1146",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LIBERTAD 1144",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 1637",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 1635",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RODRIGUEZ PEÑA 1633",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LIBERTAD 960",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LIBERTAD 956",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARANA 1018",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARANA 1016",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARANA 1014",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CALLAO AV. 2065",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 1370",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 1364",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 1352",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "SANTA FE AV. 1350",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORDOBA AV. 1539",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORDOBA AV. 1537",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CORDOBA AV. 1535",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUIDO 1686",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUIDO 1682",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUIDO 1680",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUIDO 1676",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUIDO 1674",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PARAGUAY 1545",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "USPALLATA 560",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "JUNCAL 1238",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PINZON 1519",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PINZON 1515",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "COMBATE DE LOS POZOS 1343",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "COMBATE DE LOS POZOS 1341",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 1648",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 1646",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 1642",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TACUARI 1835",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FINOCHIETTO ENRIQUE DR. 571",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FINOCHIETTO ENRIQUE DR. 567",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PILCOMAYO 1175",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PILCOMAYO 1157",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PILCOMAYO 1115",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PILCOMAYO 1099",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PILCOMAYO 1095",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PILCOMAYO 1053",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GARCIA, MARTIN AV. 378",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GARCIA, MARTIN AV. 364",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GARCIA, MARTIN AV. 350",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GARCIA, MARTIN AV. 348",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GARCIA, MARTIN AV. 346",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GARCIA, MARTIN AV. 320",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "IRALA 57",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DEFENSA 1426",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DEFENSA 1424",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "DEFENSA 1422",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GARAY, JUAN DE AV. 380",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRASIL 625",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRASIL 621",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRASIL 619",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRASIL 617",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRASIL 615",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CASEROS AV. 554",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CASEROS AV. 552",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CASEROS AV. 548",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VILLAFAÑE, WENCESLAO 1080",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VILLAFAÑE, WENCESLAO 1078",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "FINOCHIETTO ENRIQUE DR. 741",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "REGIMIENTO DE PATRICIOS AV. 339",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "REGIMIENTO DE PATRICIOS AV. 335",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "REGIMIENTO DE PATRICIOS AV. 331",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ISABEL LA CATOLICA 433",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ISABEL LA CATOLICA 429",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTES DE OCA, MANUEL AV. 374",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTES DE OCA, MANUEL AV. 370",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTES DE OCA, MANUEL AV. 368",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "USPALLATA 839",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "USPALLATA 837",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "USPALLATA 640",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "USPALLATA 632",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRASIL 723",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRASIL 721",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARZOBISPO ESPINOSA 1252",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUALEGUAY 1495",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GUALEGUAY 1493",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "JOVELLANOS, GASPAR M. DE 236",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHACABUCO 1553",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHACABUCO 1545",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRASIL 717",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRASIL 715",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "USPALLATA 695",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TACUARI 1990",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "TACUARI 1978",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ITUZAINGO 627",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ITUZAINGO 625",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ITUZAINGO 623",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEXICO 1951",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEXICO 1949",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEXICO 1947",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MEXICO 1945",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VILLAFAÑE, WENCESLAO 1620",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VILLAFAÑE, WENCESLAO 1602",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ISABEL LA CATOLICA 307",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GARCIA, MARTIN AV. 667",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "JOVELLANOS, GASPAR M. DE 31",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PIEDRAS 1667",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PINZON 1083",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ITUZAINGO 900",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ITUZAINGO 896",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "MONTES DE OCA, MANUEL AV. 304",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "AZARA 377",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "AZARA 375",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "AZARA 373",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VALLE, ARISTOBULO DEL 1399",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VALLE, ARISTOBULO DEL 1397",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VALLE, ARISTOBULO DEL 1395",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VALLE, ARISTOBULO DEL 1393",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "AZARA 390",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PINZON 1199",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PINZON 1189",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "REGIMIENTO DE PATRICIOS AV. 698",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "REGIMIENTO DE PATRICIOS AV. 696",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 1618",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 1610",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 1690",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 1688",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 1686",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 1684",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 1760",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 1758",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PERU 1756",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PINZON 1459",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PINZON 1451",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PINZON 1445",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CASEROS AV. 650",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CASEROS AV. 646",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CASEROS AV. 640",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARZOBISPO ESPINOSA 1581",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARZOBISPO ESPINOSA 1081",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ARZOBISPO ESPINOSA 1079",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "REGIMIENTO DE PATRICIOS AV. 274",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "REGIMIENTO DE PATRICIOS AV. 272",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "HERNANDARIAS 357",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ITUZAINGO 550",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ITUZAINGO 544",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "ITUZAINGO 540",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GARCIA, MARTIN AV. 600",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "GARCIA, MARTIN AV. 598",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "AZARA 4",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "AZARA 2",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VALLE, ARISTOBULO DEL 1292",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VALLE, ARISTOBULO DEL 1290",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VALLE, ARISTOBULO DEL 1288",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LIBERTI, TOMAS 1135",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LIBERTI, TOMAS 1133",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "AZARA 37",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "AZARA 35",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "CHACABUCO 1586",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 1483",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 1481",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 1479",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BOLIVAR 1477",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "USPALLATA 829",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "USPALLATA 827",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "USPALLATA 825",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "USPALLATA 823",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PI Y MARGALL 1009",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "PI Y MARGALL 1003",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "IRALA 185",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VILLAFAÑE, WENCESLAO 1683",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VILLAFAÑE, WENCESLAO 1681",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VILLAFAÑE, WENCESLAO 1679",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "VILLAFAÑE, WENCESLAO 1677",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRASIL 449",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRASIL 447",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRASIL 441",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRASIL 437",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "BRASIL 431",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "LIBERTI, TOMAS 1292",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    },
+    {
+        "direccion": "RUY DIAZ DE GUZMAN 116",
+        "metodo_geocodificacion": "Geocodificacion Directa"
+    }
+]

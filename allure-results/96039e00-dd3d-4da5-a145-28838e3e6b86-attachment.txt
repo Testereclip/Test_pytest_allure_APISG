@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SANTA+MAGDALENA+Y+RIO+CUARTO&v2=true

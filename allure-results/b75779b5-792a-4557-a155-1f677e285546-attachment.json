@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 215,
+    "codCalle_2": 959,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98661.5938477217,
+    "coordenada_y": 97210.1874117907,
+    "direccion": "EL PROFETA DE LA PAMPA Y PRIMERA JUNTA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "EL PROFETA DE LA PAMPA",
+    "nombreCalle_2": "PRIMERA JUNTA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-002B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

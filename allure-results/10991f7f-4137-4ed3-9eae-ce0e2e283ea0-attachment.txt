@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PJE.PARTICULAR+%28ALT.+YERBAL+5949%29+Y+YERBAL&v2=true

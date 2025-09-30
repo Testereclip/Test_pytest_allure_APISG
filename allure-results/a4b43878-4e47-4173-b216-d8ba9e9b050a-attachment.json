@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 842,
+    "codCalle_2": 1172,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98290.3750983347,
+    "coordenada_y": 105528.5702234205,
+    "direccion": "ECHEVERRIA Y AVALOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ECHEVERRIA",
+    "nombreCalle_2": "AVALOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-044-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

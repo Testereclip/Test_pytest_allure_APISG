@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 1360,
+    "codCalle_2": 2626,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106822.1094719804,
+    "coordenada_y": 104260.1405366216,
+    "direccion": "GUIDO Y RODRIGUEZ PE\u00d1A",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUIDO",
+    "nombreCalle_2": "RODRIGUEZ PE\u00d1A",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "007-022-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

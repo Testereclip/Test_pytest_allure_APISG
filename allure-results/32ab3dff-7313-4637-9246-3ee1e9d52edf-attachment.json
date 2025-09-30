@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 116,
+    "codCalle_2": 1091,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95129.1250985081,
+    "coordenada_y": 101056.4061611644,
+    "direccion": "BAIGORRIA Y COLIQUEO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BAIGORRIA",
+    "nombreCalle_2": "COLIQUEO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-006A-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PELLEGRINI%2C+CARLOS+Y+MITRE%2C+BARTOLOME&v2=true

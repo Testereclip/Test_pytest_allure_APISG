@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1489,
+    "codCalle_2": 2700,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 102645.1641596857,
+    "coordenada_y": 98073.8670994703,
+    "direccion": "1RO DE MAYO Y JANER, ANA MARIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "1RO DE MAYO",
+    "nombreCalle_2": "JANER, ANA MARIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-153-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

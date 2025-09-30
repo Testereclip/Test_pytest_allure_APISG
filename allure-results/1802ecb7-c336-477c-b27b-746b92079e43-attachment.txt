@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DE+LA+BARRA%2C++EMMA+Y+DE+LOS+ITALIANOS+AV.&v2=true

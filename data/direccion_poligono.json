@@ -1,0 +1,3106 @@
+[
+  {
+    "direccion": "OLAZABAL AV. 5054",
+    "poligono_itinerario": "39 - VILLA URQUIZA - TRIUNVIRATO"
+  },
+  {
+    "direccion": "OLAZABAL AV. 5061",
+    "poligono_itinerario": "39 - VILLA URQUIZA - TRIUNVIRATO"
+  },
+  {
+    "direccion": "OLAZABAL AV. 5084",
+    "poligono_itinerario": "39 - VILLA URQUIZA - TRIUNVIRATO"
+  },
+  {
+    "direccion": "AGÜERO 645",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "AGÜERO 615",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "AGÜERO 613",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "AGÜERO 605",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "LAPRIDA 1983",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ, 10 - HOSPITAL RIVADAVIA - FACULTAD DE DERECHO"
+  },
+  {
+    "direccion": "murguiondo y somellera",
+    "poligono_itinerario": "29 - ESTACIÓN VILLA LUGANO"
+  },
+  {
+    "direccion": "humberto selverri y boulevard olimpico jose ",
+    "poligono_itinerario": "27 - PARQUE DE LA CIUDAD"
+  },
+  {
+    "direccion": "la  pampa y holmberg",
+    "poligono_itinerario": "40 - DOHO - CALLE DONADO"
+  },
+  {
+    "direccion": "bauness y cullen",
+    "poligono_itinerario": "39 - VILLA URQUIZA - TRIUNVIRATO"
+  },
+  {
+    "direccion": "bauness y nahuel",
+    "poligono_itinerario": "39 - VILLA URQUIZA - TRIUNVIRATO"
+  },
+  {
+    "direccion": "AV. PEDRO GOYENA Y cachimayo",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "Parana y santa fe",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "rodriguez peña y marcelo de avelar",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "Talcahuano y sarmiento",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "libertad y bartolome mitre",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "11 DE SEPTIEMBRE DE 1888 1121",
+    "poligono_itinerario": "42 - AV.  LACROZE Y CABILDO"
+  },
+  {
+    "direccion": "11 DE SEPTIEMBRE DE 1888 2222",
+    "poligono_itinerario": "43 - BARRIO CHINO"
+  },
+  {
+    "direccion": "14 DE JULIO 1319",
+    "poligono_itinerario": "41 - AV. ELCANO Y ALVARÉZ THOMAS"
+  },
+  {
+    "direccion": "14 DE JULIO 1327",
+    "poligono_itinerario": "41 - AV. ELCANO Y ALVARÉZ THOMAS"
+  },
+  {
+    "direccion": "15 DE NOVIEMBRE DE 1889 1192",
+    "poligono_itinerario": "7 - ESTACIÓN CONSTITUCIÓN"
+  },
+  {
+    "direccion": "15 DE NOVIEMBRE DE 1889 1160",
+    "poligono_itinerario": "7 - ESTACIÓN CONSTITUCIÓN"
+  },
+  {
+    "direccion": "23 DE JUNIO 4237",
+    "poligono_itinerario": "27 - PARQUE DE LA CIUDAD"
+  },
+  {
+    "direccion": "24 DE NOVIEMBRE 144",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "3 DE FEBRERO 2238",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "5 DE JULIO 444",
+    "poligono_itinerario": "3 - DIAGONAL SUR - AV. BELGRANO"
+  },
+  {
+    "direccion": "ACASSUSO 6922",
+    "poligono_itinerario": "32 - EMILIO CASTRO"
+  },
+  {
+    "direccion": "ACASSUSO 7178",
+    "poligono_itinerario": "32 - EMILIO CASTRO"
+  },
+  {
+    "direccion": "ACEVEDO 529",
+    "poligono_itinerario": "20 - ÁNGEL GALLARDO Y CORRIENTES"
+  },
+  {
+    "direccion": "ACEVEDO 525",
+    "poligono_itinerario": "20 - ÁNGEL GALLARDO Y CORRIENTES"
+  },
+  {
+    "direccion": "ACEVEDO, EDUARDO 34",
+    "poligono_itinerario": "21 - RIVADAVIA Y LA PLATA"
+  },
+  {
+    "direccion": "ACHA, MARIANO, GRAL. 1315",
+    "poligono_itinerario": "40 - DOHO - CALLE DONADO"
+  },
+  {
+    "direccion": "ACOYTE 963",
+    "poligono_itinerario": "22 - CID CAMPEADOR"
+  },
+  {
+    "direccion": "ACOYTE 961",
+    "poligono_itinerario": "22 - CID CAMPEADOR"
+  },
+  {
+    "direccion": "ACOYTE AV. 18",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "ACOYTE AV. 627",
+    "poligono_itinerario": "22 - CID CAMPEADOR"
+  },
+  {
+    "direccion": "ACOYTE AV. 625",
+    "poligono_itinerario": "22 - CID CAMPEADOR"
+  },
+  {
+    "direccion": "ACUÑA DE FIGUEROA, FRANCISCO 751",
+    "poligono_itinerario": "19 - AV. CORRIENTES Y MEDRANO"
+  },
+  {
+    "direccion": "AGRELO 4365",
+    "poligono_itinerario": "21 - RIVADAVIA Y LA PLATA"
+  },
+  {
+    "direccion": "AGUERO 2184",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "AGUERO 2192",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ, 10 - HOSPITAL RIVADAVIA - FACULTAD DE DERECHO"
+  },
+    {
+    "direccion": "AGUERO 2189",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ, 10 - HOSPITAL RIVADAVIA - FACULTAD DE DERECHO"
+  },
+  {
+    "direccion": "LARREA 890 ",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "AGUERO 572",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "AGUERO 65",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "AGUERO 2259",
+    "poligono_itinerario": "10 - HOSPITAL RIVADAVIA - FACULTAD DE DERECHO"
+  },
+  {
+    "direccion": "AGUILAR 2325",
+    "poligono_itinerario": "42 - AV.  LACROZE Y CABILDO"
+  },
+  {
+    "direccion": "ALSINA, ADOLFO 1229",
+    "poligono_itinerario": "6 - ENTORNO AV. DE MAYO - PLAZA CONGRESO"
+  },
+  {
+    "direccion": "ALSINA, ADOLFO 1225",
+    "poligono_itinerario": "6 - ENTORNO AV. DE MAYO - PLAZA CONGRESO"
+  },
+  {
+    "direccion": "ALVAREZ JONTE AV. 2883",
+    "poligono_itinerario": "35 - ALVAREZ JONTE Y NAZCA"
+  },
+  {
+    "direccion": "ALVAREZ JONTE AV. 2881",
+    "poligono_itinerario": "35 - ALVAREZ JONTE Y NAZCA"
+  },
+  {
+    "direccion": "ALVAREZ JONTE AV. 5064",
+    "poligono_itinerario": "34 - ALVAREZ JONTE Y BERMUDEZ"
+  },
+  {
+    "direccion": "ALVAREZ JONTE AV. 5062",
+    "poligono_itinerario": "34 - ALVAREZ JONTE Y BERMUDEZ"
+  },
+  {
+    "direccion": "ALVAREZ THOMAS AV. 1626",
+    "poligono_itinerario": "41 - AV. ELCANO Y ALVARÉZ THOMAS"
+  },
+  {
+    "direccion": "ALVAREZ THOMAS AV. 1624",
+    "poligono_itinerario": "41 - AV. ELCANO Y ALVARÉZ THOMAS"
+  },
+  {
+    "direccion": "ALVAREZ THOMAS AV. 2214",
+    "poligono_itinerario": "40 - DOHO - CALLE DONADO"
+  },
+  {
+    "direccion": "ALVAREZ THOMAS AV. 3081",
+    "poligono_itinerario": "39 - VILLA URQUIZA - TRIUNVIRATO"
+  },
+  {
+    "direccion": "ALVAREZ THOMAS AV. 3079",
+    "poligono_itinerario": "39 - VILLA URQUIZA - TRIUNVIRATO"
+  },
+  {
+    "direccion": "ALVAREZ THOMAS AV. 370",
+    "poligono_itinerario": "50 - ENTORNO CEMENTERIO CHACARITA"
+  },
+  {
+    "direccion": "ALVAREZ THOMAS AV. 372",
+    "poligono_itinerario": "50 - ENTORNO CEMENTERIO CHACARITA"
+  },
+  {
+    "direccion": "ALVAREZ THOMAS AV. 96",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "ALVAREZ THOMAS AV. 92",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "ALVEAR AV. 1350",
+    "poligono_itinerario": "5 - POLIGONO 9 DE JULIO"
+  },
+  {
+    "direccion": "ALVEAR, MARCELO T. DE 668",
+    "poligono_itinerario": "1 - MICROCENTRO- OBELISCO - RETIRO"
+  },
+  {
+    "direccion": "ALVEAR, MARCELO T. DE 666",
+    "poligono_itinerario": "1 - MICROCENTRO- OBELISCO - RETIRO"
+  },
+  {
+    "direccion": "ALVEAR, MARCELO T. DE 980",
+    "poligono_itinerario": "5 - POLIGONO 9 DE JULIO"
+  },
+  {
+    "direccion": "ALVEAR, MARCELO T. DE 978",
+    "poligono_itinerario": "5 - POLIGONO 9 DE JULIO"
+  },
+  {
+    "direccion": "AMENABAR 2671",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "AMENABAR 3833",
+    "poligono_itinerario": "51 - PARQUE SAAVEDRA"
+  },
+  {
+    "direccion": "AMENABAR 3831",
+    "poligono_itinerario": "51 - PARQUE SAAVEDRA"
+  },
+  {
+    "direccion": "AMENABAR 1495",
+    "poligono_itinerario": "42 - AV.  LACROZE Y CABILDO"
+  },
+  {
+    "direccion": "AMENABAR 653",
+    "poligono_itinerario": "42 - AV.  LACROZE Y CABILDO"
+  },
+  {
+    "direccion": "ANCHORENA, TOMAS MANUEL DE, DR. 656",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "ANDALGALA 1354",
+    "poligono_itinerario": "32 - EMILIO CASTRO"
+  },
+  {
+    "direccion": "AQUINO 5636",
+    "poligono_itinerario": "29 - ESTACIÓN VILLA LUGANO"
+  },
+  {
+    "direccion": "AQUINO 5674",
+    "poligono_itinerario": "29 - ESTACIÓN VILLA LUGANO"
+  },
+  {
+    "direccion": "ARANGUREN, JUAN F., DR. 2923",
+    "poligono_itinerario": "24 - AVELLANEDA"
+  },
+  {
+    "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. 882",
+    "poligono_itinerario": "14 - CAMINITO"
+  },
+  {
+    "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. 880",
+    "poligono_itinerario": "14 - CAMINITO"
+  },
+  {
+    "direccion": "ARAUJO 4371",
+    "poligono_itinerario": "27 - PARQUE DE LA CIUDAD"
+  },
+  {
+    "direccion": "ARCE 776",
+    "poligono_itinerario": "45 - AV. DEL LIBERTADOR Y OLLEROS"
+  },
+  {
+    "direccion": "ARCOS 1951",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "ARCOS 1941",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "AREVALO 1844",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "ARGERICH 3035",
+    "poligono_itinerario": "36 - CUENCA"
+  },
+  {
+    "direccion": "ARGERICH 3018",
+    "poligono_itinerario": "36 - CUENCA"
+  },
+  {
+    "direccion": "ARGERICH 3034",
+    "poligono_itinerario": "36 - CUENCA"
+  },
+  {
+    "direccion": "ARMENIA 1648",
+    "poligono_itinerario": "48 - PLAZA SERRANO Y ENTORNO"
+  },
+  {
+    "direccion": "ARMENIA 1644",
+    "poligono_itinerario": "48 - PLAZA SERRANO Y ENTORNO"
+  },
+  {
+    "direccion": "ARREDONDO, VIRREY 3096",
+    "poligono_itinerario": "41 - AV. ELCANO Y ALVARÉZ THOMAS"
+  },
+  {
+    "direccion": "ARRIBEÑOS 2315",
+    "poligono_itinerario": "43 - BARRIO CHINO"
+  },
+  {
+    "direccion": "ARRIBEÑOS 2281",
+    "poligono_itinerario": "43 - BARRIO CHINO"
+  },
+  {
+    "direccion": "ARRIOLA 25",
+    "poligono_itinerario": "16 - ENTORNO PARQUE PATRICIOS"
+  },
+  {
+    "direccion": "ARRIOLA 55",
+    "poligono_itinerario": "16 - ENTORNO PARQUE PATRICIOS"
+  },
+  {
+    "direccion": "ARRIOLA 32",
+    "poligono_itinerario": "16 - ENTORNO PARQUE PATRICIOS"
+  },
+  {
+    "direccion": "ARRIOLA 30",
+    "poligono_itinerario": "16 - ENTORNO PARQUE PATRICIOS"
+  },
+  {
+    "direccion": "ARTIGAS MANUEL DE 5889",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "ARTIGAS MANUEL DE 6010",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "ARTIGAS, JOSE GERVASIO, GRAL. 4715",
+    "poligono_itinerario": "38 - AV. GENERAL MOSCONI C12"
+  },
+  {
+    "direccion": "ARTIGAS, JOSE GERVASIO, GRAL. 4711",
+    "poligono_itinerario": "38 - AV. GENERAL MOSCONI C12"
+  },
+  {
+    "direccion": "ASAMBLEA AV. 965",
+    "poligono_itinerario": "26 - PARQUE CHACABUCO"
+  },
+  {
+    "direccion": "ASUNCION 4223",
+    "poligono_itinerario": "37 - PLAZA DEVOTO"
+  },
+  {
+    "direccion": "ASUNCION 4000",
+    "poligono_itinerario": "37 - PLAZA DEVOTO"
+  },
+  {
+    "direccion": "AUSTRIA 2479",
+    "poligono_itinerario": "10 - HOSPITAL RIVADAVIA - FACULTAD DE DERECHO"
+  },
+  {
+    "direccion": "AVILES, VIRREY 3036",
+    "poligono_itinerario": "41 - AV. ELCANO Y ALVARÉZ THOMAS"
+  },
+  {
+    "direccion": "AVILES, VIRREY 3017",
+    "poligono_itinerario": "41 - AV. ELCANO Y ALVARÉZ THOMAS"
+  },
+  {
+    "direccion": "AYACUCHO 1734",
+    "poligono_itinerario": "9 - CEMENTERIO RECOLETA"
+  },
+  {
+    "direccion": "AYACUCHO 1127",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "AYACUCHO 1123",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "AZCUENAGA 1170",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "BALCARCE 583",
+    "poligono_itinerario": "4 - CASCO HOSTÓRICO"
+  },
+  {
+    "direccion": "BALCARCE 1056",
+    "poligono_itinerario": "4 - CASCO HOSTÓRICO"
+  },
+  {
+    "direccion": "BARCO CENTENERA DEL 325",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "BARCO CENTENERA DEL 1422",
+    "poligono_itinerario": "26 - PARQUE CHACABUCO"
+  },
+  {
+    "direccion": "BARCO CENTENERA DEL 3558",
+    "poligono_itinerario": "15 - PERITO MORENO Y AV. SAENZ"
+  },
+  {
+    "direccion": "BARCO CENTENERA DEL 3556",
+    "poligono_itinerario": "15 - PERITO MORENO Y AV. SAENZ"
+  },
+  {
+    "direccion": "BARCO CENTENERA DEL 3538",
+    "poligono_itinerario": "15 - PERITO MORENO Y AV. SAENZ"
+  },
+  {
+    "direccion": "BARROS PAZOS, JOSE 6536",
+    "poligono_itinerario": "28 - CHILAVERT"
+  },
+  {
+    "direccion": "BAUNESS 2361",
+    "poligono_itinerario": "39 - VILLA URQUIZA - TRIUNVIRATO"
+  },
+  {
+    "direccion": "BAUNESS 2359",
+    "poligono_itinerario": "39 - VILLA URQUIZA - TRIUNVIRATO"
+  },
+  {
+    "direccion": "BELGRANO AV. 507",
+    "poligono_itinerario": "3 - DIAGONAL SUR - AV. BELGRANO"
+  },
+  {
+    "direccion": "BELGRANO AV. 515",
+    "poligono_itinerario": "3 - DIAGONAL SUR - AV. BELGRANO"
+  },
+  {
+    "direccion": "BERMEJO 6987",
+    "poligono_itinerario": "33 - LINIERS CENTRO DE TRASBORDO"
+  },
+  {
+    "direccion": "BERMEJO 6997",
+    "poligono_itinerario": "33 - LINIERS CENTRO DE TRASBORDO"
+  },
+  {
+    "direccion": "BERTRES 469",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "BERUTI 2802",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "BERUTI 3080",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "BILLINGHURST 810",
+    "poligono_itinerario": "19 - AV. CORRIENTES Y MEDRANO"
+  },
+  {
+    "direccion": "BILLINGHURST 2134",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "BILLINGHURST 2132",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "BILLINGHURST 2130",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "BLANCO ENCALADA 4846",
+    "poligono_itinerario": "39 - VILLA URQUIZA - TRIUNVIRATO"
+  },
+  {
+    "direccion": "BLANCO ENCALADA 4844",
+    "poligono_itinerario": "39 - VILLA URQUIZA - TRIUNVIRATO"
+  },
+  {
+    "direccion": "BOEDO 140",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "BOEDO AV. 759",
+    "poligono_itinerario": "17 - BOEDO Y SAN JUAN"
+  },
+  {
+    "direccion": "BOGOTA 2895",
+    "poligono_itinerario": "24 - AVELLANEDA"
+  },
+  {
+    "direccion": "BOLIVAR 1023",
+    "poligono_itinerario": "4 - CASCO HOSTÓRICO"
+  },
+  {
+    "direccion": "BOLIVAR 1019",
+    "poligono_itinerario": "4 - CASCO HOSTÓRICO"
+  },
+  {
+    "direccion": "BOLIVAR 615",
+    "poligono_itinerario": "4 - CASCO HOSTÓRICO"
+  },
+  {
+    "direccion": "BOLIVAR 167",
+    "poligono_itinerario": "2 - ENTORNO PLAZA DE MAYO"
+  },
+  {
+    "direccion": "BONPLAND 703",
+    "poligono_itinerario": "49 - ATLANTA"
+  },
+  {
+    "direccion": "BONPLAND 709",
+    "poligono_itinerario": "49 - ATLANTA"
+  },
+  {
+    "direccion": "BONPLAND 1418",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "BORGES, JORGE LUIS 2459",
+    "poligono_itinerario": "47 - ESTACIÓN PALERMO - PLAZA ITALIA"
+  },
+  {
+    "direccion": "BORGES, JORGE LUIS 2457",
+    "poligono_itinerario": "47 - ESTACIÓN PALERMO - PLAZA ITALIA"
+  },
+  {
+    "direccion": "BORGES, JORGE LUIS 1788",
+    "poligono_itinerario": "48 - PLAZA SERRANO Y ENTORNO"
+  },
+  {
+    "direccion": "BOULEVARD OLIMPICO ZUBIAUR, JOSE BENJAMIN 4380",
+    "poligono_itinerario": "27 - PARQUE DE LA CIUDAD"
+  },
+  {
+    "direccion": "BRAGADO 5833",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "BRAGADO 6115",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "BRASIL 1237",
+    "poligono_itinerario": "7 - ESTACIÓN CONSTITUCIÓN"
+  },
+  {
+    "direccion": "BRASIL 1233",
+    "poligono_itinerario": "7 - ESTACIÓN CONSTITUCIÓN"
+  },
+  {
+    "direccion": "BRASIL 985",
+    "poligono_itinerario": "5 - POLIGONO 9 DE JULIO"
+  },
+  {
+    "direccion": "BRASIL 973",
+    "poligono_itinerario": "5 - POLIGONO 9 DE JULIO"
+  },
+  {
+    "direccion": "BRASIL 969",
+    "poligono_itinerario": "5 - POLIGONO 9 DE JULIO"
+  },
+  {
+    "direccion": "BRASIL 1146",
+    "poligono_itinerario": "7 - ESTACIÓN CONSTITUCIÓN"
+  },
+  {
+    "direccion": "BRASIL AV. 3019",
+    "poligono_itinerario": "16 - ENTORNO PARQUE PATRICIOS"
+  },
+  {
+    "direccion": "BRAVO, MARIO 644",
+    "poligono_itinerario": "19 - AV. CORRIENTES Y MEDRANO"
+  },
+  {
+    "direccion": "BRAVO, MARIO 729",
+    "poligono_itinerario": "19 - AV. CORRIENTES Y MEDRANO"
+  },
+  {
+    "direccion": "BRAVO, MARIO 60",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "BRAVO, MARIO 62",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "BULNES 853",
+    "poligono_itinerario": "19 - AV. CORRIENTES Y MEDRANO"
+  },
+  {
+    "direccion": "CABILDO AV. 3890",
+    "poligono_itinerario": "51 - PARQUE SAAVEDRA"
+  },
+  {
+    "direccion": "CABILDO AV. 4674",
+    "poligono_itinerario": "51 - PARQUE SAAVEDRA"
+  },
+  {
+    "direccion": "CABILDO AV. 2045",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "CABILDO AV. 714",
+    "poligono_itinerario": "42 - AV.  LACROZE Y CABILDO"
+  },
+  {
+    "direccion": "CABILDO AV. 984",
+    "poligono_itinerario": "42 - AV.  LACROZE Y CABILDO"
+  },
+  {
+    "direccion": "CABRERA, JOSE A. 5712",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "CABRERA, JOSE A. 5809",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "CALLAO AV. 1800",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "CALLAO AV. 339",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "CALVO, CARLOS 979",
+    "poligono_itinerario": "5 - POLIGONO 9 DE JULIO"
+  },
+  {
+    "direccion": "CALVO, CARLOS 1116",
+    "poligono_itinerario": "5 - POLIGONO 9 DE JULIO"
+  },
+  {
+    "direccion": "CALVO, CARLOS 3573",
+    "poligono_itinerario": "17 - BOEDO Y SAN JUAN"
+  },
+  {
+    "direccion": "CALVO, CARLOS AV. 3820",
+    "poligono_itinerario": "17 - BOEDO Y SAN JUAN"
+  },
+  {
+    "direccion": "CAMACUA 60",
+    "poligono_itinerario": "25 - RIVADAVIA - PLAZA PUEYRREDÓN"
+  },
+  {
+    "direccion": "CAMACUA 68",
+    "poligono_itinerario": "25 - RIVADAVIA - PLAZA PUEYRREDÓN"
+  },
+  {
+    "direccion": "CAMACUA 78",
+    "poligono_itinerario": "25 - RIVADAVIA - PLAZA PUEYRREDÓN"
+  },
+  {
+    "direccion": "CAMPANA 3539",
+    "poligono_itinerario": "36 - CUENCA"
+  },
+  {
+    "direccion": "CAMPANA 3537",
+    "poligono_itinerario": "36 - CUENCA"
+  },
+  {
+    "direccion": "CAMPOS, GASPAR 492",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "CAMPOS, GASPAR 490",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "CAMPOS, GASPAR 473",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "CAMPOS, GASPAR 471",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "CAÑADA DE GOMEZ 4787",
+    "poligono_itinerario": "28 - CHILAVERT"
+  },
+  {
+    "direccion": "CAÑADA DE GOMEZ 4785",
+    "poligono_itinerario": "28 - CHILAVERT"
+  },
+  {
+    "direccion": "CAÑADA DE GOMEZ 1206",
+    "poligono_itinerario": "32 - EMILIO CASTRO"
+  },
+  {
+    "direccion": "CAÑADA DE GOMEZ 1202",
+    "poligono_itinerario": "32 - EMILIO CASTRO"
+  },
+  {
+    "direccion": "CARABOBO AV. 33",
+    "poligono_itinerario": "25 - RIVADAVIA - PLAZA PUEYRREDÓN"
+  },
+  {
+    "direccion": "CARABOBO AV. 31",
+    "poligono_itinerario": "25 - RIVADAVIA - PLAZA PUEYRREDÓN"
+  },
+  {
+    "direccion": "CARACAS 80",
+    "poligono_itinerario": "25 - RIVADAVIA - PLAZA PUEYRREDÓN"
+  },
+  {
+    "direccion": "CARACAS 79",
+    "poligono_itinerario": "25 - RIVADAVIA - PLAZA PUEYRREDÓN"
+  },
+  {
+    "direccion": "CASEROS AV. 1325",
+    "poligono_itinerario": "7 - ESTACIÓN CONSTITUCIÓN"
+  },
+  {
+    "direccion": "CASEROS AV. 1315",
+    "poligono_itinerario": "7 - ESTACIÓN CONSTITUCIÓN"
+  },
+  {
+    "direccion": "CASTAÑARES AV. 1096",
+    "poligono_itinerario": "26 - PARQUE CHACABUCO"
+  },
+  {
+    "direccion": "CASTAÑARES AV. 1217",
+    "poligono_itinerario": "26 - PARQUE CHACABUCO"
+  },
+  {
+    "direccion": "CASTELLANOS, JOAQUIN 4723",
+    "poligono_itinerario": "38 - AV. GENERAL MOSCONI C12"
+  },
+  {
+    "direccion": "CASTELLANOS, JOAQUIN 2951",
+    "poligono_itinerario": "38 - AV. GENERAL MOSCONI C12"
+  },
+  {
+    "direccion": "CASTELLI 283",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "CASTELLI 281",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "CASTRO 1114",
+    "poligono_itinerario": "17 - BOEDO Y SAN JUAN"
+  },
+  {
+    "direccion": "CASTRO BARROS 1167",
+    "poligono_itinerario": "17 - BOEDO Y SAN JUAN"
+  },
+  {
+    "direccion": "CASTRO BARROS AV. 47",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "CASTRO BARROS AV. 86",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "CHACO 117",
+    "poligono_itinerario": "21 - RIVADAVIA Y LA PLATA"
+  },
+  {
+    "direccion": "CHARLONE 620",
+    "poligono_itinerario": "50 - ENTORNO CEMENTERIO CHACARITA"
+  },
+  {
+    "direccion": "CHARLONE 618",
+    "poligono_itinerario": "50 - ENTORNO CEMENTERIO CHACARITA"
+  },
+  {
+    "direccion": "CHARLONE 614",
+    "poligono_itinerario": "50 - ENTORNO CEMENTERIO CHACARITA"
+  },
+  {
+    "direccion": "CHILAVERT, MARTINIANO, CORONEL 6280",
+    "poligono_itinerario": "28 - CHILAVERT"
+  },
+  {
+    "direccion": "CHILE 522",
+    "poligono_itinerario": "4 - CASCO HOSTÓRICO"
+  },
+  {
+    "direccion": "CHILE 492",
+    "poligono_itinerario": "4 - CASCO HOSTÓRICO"
+  },
+  {
+    "direccion": "CHIRIMAY 146",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "CIPOLLETTI 506",
+    "poligono_itinerario": "25 - RIVADAVIA - PLAZA PUEYRREDÓN"
+  },
+  {
+    "direccion": "CIUDAD DE LA PAZ 2740",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "CIUDAD DE LA PAZ 2878",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "CIUDAD DE LA PAZ 850",
+    "poligono_itinerario": "42 - AV.  LACROZE Y CABILDO"
+  },
+  {
+    "direccion": "CIUDAD DE LA PAZ 799",
+    "poligono_itinerario": "42 - AV.  LACROZE Y CABILDO"
+  },
+  {
+    "direccion": "CIUDAD DE LA PAZ 3691",
+    "poligono_itinerario": "51 - PARQUE SAAVEDRA"
+  },
+  {
+    "direccion": "CIUDAD DE LA PAZ 3687",
+    "poligono_itinerario": "51 - PARQUE SAAVEDRA"
+  },
+  {
+    "direccion": "CIUDAD DE LA PAZ 3681",
+    "poligono_itinerario": "51 - PARQUE SAAVEDRA"
+  },
+  {
+    "direccion": "COLMO, ALFREDO 3953",
+    "poligono_itinerario": "15 - PERITO MORENO Y AV. SAENZ"
+  },
+  {
+    "direccion": "COMBATE DE LOS POZOS 287",
+    "poligono_itinerario": "12 - AV. ENTRE RÍOS Y AV. BELGRANO"
+  },
+  {
+    "direccion": "CONCORDIA 731",
+    "poligono_itinerario": "24 - AVELLANEDA"
+  },
+  {
+    "direccion": "CONDE 1451",
+    "poligono_itinerario": "41 - AV. ELCANO Y ALVARÉZ THOMAS"
+  },
+  {
+    "direccion": "CONDE 1511",
+    "poligono_itinerario": "41 - AV. ELCANO Y ALVARÉZ THOMAS"
+  },
+  {
+    "direccion": "CONESA 3792",
+    "poligono_itinerario": "51 - PARQUE SAAVEDRA"
+  },
+  {
+    "direccion": "CONESA 3738",
+    "poligono_itinerario": "51 - PARQUE SAAVEDRA"
+  },
+  {
+    "direccion": "CONSTITUCION 1187",
+    "poligono_itinerario": "7 - ESTACIÓN CONSTITUCIÓN"
+  },
+  {
+    "direccion": "CONSTITUCION 1185",
+    "poligono_itinerario": "7 - ESTACIÓN CONSTITUCIÓN"
+  },
+  {
+    "direccion": "CONVENCION 1933",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "CONVENCION 1931",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "CORRIENTES AV. 5016",
+    "poligono_itinerario": "20 - ÁNGEL GALLARDO Y CORRIENTES"
+  },
+  {
+    "direccion": "CORRIENTES AV. 3648",
+    "poligono_itinerario": "19 - AV. CORRIENTES Y MEDRANO"
+  },
+  {
+    "direccion": "CORRIENTES AV. 3183",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "CORRIENTES AV. 3181",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "CUCHA CUCHA 1075",
+    "poligono_itinerario": "22 - CID CAMPEADOR"
+  },
+  {
+    "direccion": "CUENCA 2556",
+    "poligono_itinerario": "36 - CUENCA"
+  },
+  {
+    "direccion": "CUENCA 3392",
+    "poligono_itinerario": "36 - CUENCA"
+  },
+  {
+    "direccion": "CUENCA 814",
+    "poligono_itinerario": "24 - AVELLANEDA"
+  },
+  {
+    "direccion": "CULLEN 5192",
+    "poligono_itinerario": "39 - VILLA URQUIZA - TRIUNVIRATO"
+  },
+  {
+    "direccion": "CULLEN 5188",
+    "poligono_itinerario": "39 - VILLA URQUIZA - TRIUNVIRATO"
+  },
+  {
+    "direccion": "CULLEN 5184",
+    "poligono_itinerario": "39 - VILLA URQUIZA - TRIUNVIRATO"
+  },
+  {
+    "direccion": "DE LOS INCAS AV. 4286",
+    "poligono_itinerario": "40 - DOHO - CALLE DONADO"
+  },
+  {
+    "direccion": "DE LOS INCAS AV. 4282",
+    "poligono_itinerario": "40 - DOHO - CALLE DONADO"
+  },
+  {
+    "direccion": "DE MAYO AV. 723",
+    "poligono_itinerario": "2 - ENTORNO PLAZA DE MAYO"
+  },
+  {
+    "direccion": "DEL LIBERTADOR AV. 6355",
+    "poligono_itinerario": "43 - BARRIO CHINO"
+  },
+  {
+    "direccion": "DEL LIBERTADOR AV. 6349",
+    "poligono_itinerario": "43 - BARRIO CHINO"
+  },
+  {
+    "direccion": "DELGADO 337",
+    "poligono_itinerario": "50 - ENTORNO CEMENTERIO CHACARITA"
+  },
+  {
+    "direccion": "DIAZ VELEZ AV. 5553",
+    "poligono_itinerario": "22 - CID CAMPEADOR"
+  },
+  {
+    "direccion": "DIAZ VELEZ AV. 5429",
+    "poligono_itinerario": "22 - CID CAMPEADOR"
+  },
+  {
+    "direccion": "DIAZ VELEZ AV. 3712",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "DIRECTORIO AV. 2307",
+    "poligono_itinerario": "25 - RIVADAVIA - PLAZA PUEYRREDÓN"
+  },
+  {
+    "direccion": "DISCEPOLO, ENRIQUE SANTOS 1839",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "DISCEPOLO, ENRIQUE SANTOS 1880",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "DON BOSCO 3524",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "DORREGO 1837",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "DORREGO 1835",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "ECHEVERRIA 2620",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "ECHEVERRIA 2618",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "ECHEVERRIA 2612",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "EL SALVADOR 4797",
+    "poligono_itinerario": "48 - PLAZA SERRANO Y ENTORNO"
+  },
+  {
+    "direccion": "ELCANO AV. 3463",
+    "poligono_itinerario": "41 - AV. ELCANO Y ALVARÉZ THOMAS"
+  },
+  {
+    "direccion": "ESCALADA AV. 4252",
+    "poligono_itinerario": "27 - PARQUE DE LA CIUDAD"
+  },
+  {
+    "direccion": "ESCALADA AV. 4902",
+    "poligono_itinerario": "27 - PARQUE DE LA CIUDAD"
+  },
+  {
+    "direccion": "ESTADOS UNIDOS 366",
+    "poligono_itinerario": "4 - CASCO HOSTÓRICO"
+  },
+  {
+    "direccion": "ESTADOS UNIDOS 630",
+    "poligono_itinerario": "4 - CASCO HOSTÓRICO"
+  },
+  {
+    "direccion": "ESTRADA 905",
+    "poligono_itinerario": "26 - PARQUE CHACABUCO"
+  },
+  {
+    "direccion": "ESTRADA 918",
+    "poligono_itinerario": "26 - PARQUE CHACABUCO"
+  },
+  {
+    "direccion": "FERNANDEZ DE ENCISO 3935",
+    "poligono_itinerario": "37 - PLAZA DEVOTO"
+  },
+  {
+    "direccion": "FERNANDEZ DE ENCISO 3999",
+    "poligono_itinerario": "37 - PLAZA DEVOTO"
+  },
+  {
+    "direccion": "FERNANDEZ DE LA CRUZ, F., GRAL. AV. 4001",
+    "poligono_itinerario": "27 - PARQUE DE LA CIUDAD"
+  },
+  {
+    "direccion": "FITZ ROY 1522",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "FITZ ROY 2350",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "FONROUGE 1217",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "FONROUGE 1318",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "FOREST AV. 455",
+    "poligono_itinerario": "50 - ENTORNO CEMENTERIO CHACARITA"
+  },
+  {
+    "direccion": "FOREST AV. 605",
+    "poligono_itinerario": "50 - ENTORNO CEMENTERIO CHACARITA"
+  },
+  {
+    "direccion": "FORMOSA 598",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "FORMOSA 596",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "FRANKLIN 720",
+    "poligono_itinerario": "22 - CID CAMPEADOR"
+  },
+  {
+    "direccion": "FRANKLIN 771",
+    "poligono_itinerario": "22 - CID CAMPEADOR"
+  },
+  {
+    "direccion": "FREIRE, RAMON, CAP. GRAL. 1421",
+    "poligono_itinerario": "41 - AV. ELCANO Y ALVARÉZ THOMAS"
+  },
+  {
+    "direccion": "GANDHI, MAHATMA 712",
+    "poligono_itinerario": "22 - CID CAMPEADOR"
+  },
+  {
+    "direccion": "GANDHI, MAHATMA 768",
+    "poligono_itinerario": "22 - CID CAMPEADOR"
+  },
+  {
+    "direccion": "GARCIA DEL RIO AV. 2489",
+    "poligono_itinerario": "51 - PARQUE SAAVEDRA"
+  },
+  {
+    "direccion": "GARCIA DEL RIO AV. 2628",
+    "poligono_itinerario": "51 - PARQUE SAAVEDRA"
+  },
+  {
+    "direccion": "GARRO 3016",
+    "poligono_itinerario": "16 - ENTORNO PARQUE PATRICIOS"
+  },
+  {
+    "direccion": "GARRO 3009",
+    "poligono_itinerario": "16 - ENTORNO PARQUE PATRICIOS"
+  },
+  {
+    "direccion": "GARRO 3029",
+    "poligono_itinerario": "16 - ENTORNO PARQUE PATRICIOS"
+  },
+  {
+    "direccion": "GARRO 3013",
+    "poligono_itinerario": "16 - ENTORNO PARQUE PATRICIOS"
+  },
+  {
+    "direccion": "GARRO 3011",
+    "poligono_itinerario": "16 - ENTORNO PARQUE PATRICIOS"
+  },
+  {
+    "direccion": "GASCON 146",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "GASCON 141",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "GIANANTONIO, CARLOS A. DR. 3997",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "GIRIBONE 1493",
+    "poligono_itinerario": "41 - AV. ELCANO Y ALVARÉZ THOMAS"
+  },
+  {
+    "direccion": "GIRIBONE 1491",
+    "poligono_itinerario": "41 - AV. ELCANO Y ALVARÉZ THOMAS"
+  },
+  {
+    "direccion": "GIUFFRA, JOSE M.,DR. 371",
+    "poligono_itinerario": "4 - CASCO HOSTÓRICO"
+  },
+  {
+    "direccion": "GIUFFRA, JOSE M.,DR. 344",
+    "poligono_itinerario": "4 - CASCO HOSTÓRICO"
+  },
+  {
+    "direccion": "GIUFFRA, JOSE M.,DR. 311",
+    "poligono_itinerario": "4 - CASCO HOSTÓRICO"
+  },
+  {
+    "direccion": "GIUFFRA, JOSE M.,DR. 307",
+    "poligono_itinerario": "4 - CASCO HOSTÓRICO"
+  },
+  {
+    "direccion": "GODOY CRUZ 2433",
+    "poligono_itinerario": "47 - ESTACIÓN PALERMO - PLAZA ITALIA"
+  },
+  {
+    "direccion": "GODOY CRUZ 2431",
+    "poligono_itinerario": "47 - ESTACIÓN PALERMO - PLAZA ITALIA"
+  },
+  {
+    "direccion": "GOMEZ, VALENTIN 2699",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "GONZALEZ, ELPIDIO 2746",
+    "poligono_itinerario": "35 - ALVAREZ JONTE Y NAZCA"
+  },
+  {
+    "direccion": "GORDILLO, TIMOTEO 4807",
+    "poligono_itinerario": "28 - CHILAVERT"
+  },
+  {
+    "direccion": "GORRITI 4835",
+    "poligono_itinerario": "48 - PLAZA SERRANO Y ENTORNO"
+  },
+  {
+    "direccion": "GOYENA, PEDRO AV. 712",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "GUARDIA VIEJA 3522",
+    "poligono_itinerario": "19 - AV. CORRIENTES Y MEDRANO"
+  },
+  {
+    "direccion": "GUARDIA VIEJA 3843",
+    "poligono_itinerario": "19 - AV. CORRIENTES Y MEDRANO"
+  },
+  {
+    "direccion": "GUATEMALA 5585",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "GUATEMALA 5757",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "GUAYAQUIL 418",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "GURRUCHAGA 1528",
+    "poligono_itinerario": "48 - PLAZA SERRANO Y ENTORNO"
+  },
+  {
+    "direccion": "HELGUERA 238",
+    "poligono_itinerario": "24 - AVELLANEDA"
+  },
+  {
+    "direccion": "HIDALGO 618",
+    "poligono_itinerario": "22 - CID CAMPEADOR"
+  },
+  {
+    "direccion": "HIDALGO 616",
+    "poligono_itinerario": "22 - CID CAMPEADOR"
+  },
+  {
+    "direccion": "HOLMBERG 1852",
+    "poligono_itinerario": "40 - DOHO - CALLE DONADO"
+  },
+  {
+    "direccion": "HOLMBERG 1850",
+    "poligono_itinerario": "40 - DOHO - CALLE DONADO"
+  },
+  {
+    "direccion": "HONDURAS 5143",
+    "poligono_itinerario": "48 - PLAZA SERRANO Y ENTORNO"
+  },
+  {
+    "direccion": "HONDURAS 5329",
+    "poligono_itinerario": "48 - PLAZA SERRANO Y ENTORNO"
+  },
+  {
+    "direccion": "HONDURAS 5897",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "HONDURAS 5919",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "HORTIGUERA 1440",
+    "poligono_itinerario": "26 - PARQUE CHACABUCO"
+  },
+  {
+    "direccion": "HORTIGUERA 1434",
+    "poligono_itinerario": "26 - PARQUE CHACABUCO"
+  },
+  {
+    "direccion": "HUALFIN 1179",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "HUMBERTO 1° 580",
+    "poligono_itinerario": "4 - CASCO HOSTÓRICO"
+  },
+  {
+    "direccion": "HUMBERTO 1° 367",
+    "poligono_itinerario": "4 - CASCO HOSTÓRICO"
+  },
+  {
+    "direccion": "INDEPENDENCIA AV. 461",
+    "poligono_itinerario": "4 - CASCO HOSTÓRICO"
+  },
+  {
+    "direccion": "INDEPENDENCIA AV. 457",
+    "poligono_itinerario": "4 - CASCO HOSTÓRICO"
+  },
+  {
+    "direccion": "INDEPENDENCIA AV. 3719",
+    "poligono_itinerario": "17 - BOEDO Y SAN JUAN"
+  },
+  {
+    "direccion": "IRIGOYEN, BERNARDO DE 650",
+    "poligono_itinerario": "5 - POLIGONO 9 DE JULIO"
+  },
+  {
+    "direccion": "IRIGOYEN, BERNARDO DE 648",
+    "poligono_itinerario": "5 - POLIGONO 9 DE JULIO"
+  },
+  {
+    "direccion": "JUJUY AV. 2180",
+    "poligono_itinerario": "16 - ENTORNO PARQUE PATRICIOS"
+  },
+  {
+    "direccion": "JUNIN 1747",
+    "poligono_itinerario": "9 - CEMENTERIO RECOLETA"
+  },
+  {
+    "direccion": "JURAMENTO AV. 2015",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "JURAMENTO AV. 2013",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "JURAMENTO AV. 2153",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "LA PLATA AV. 365",
+    "poligono_itinerario": "21 - RIVADAVIA Y LA PLATA"
+  },
+  {
+    "direccion": "LACROZE, FEDERICO AV. 3724",
+    "poligono_itinerario": "50 - ENTORNO CEMENTERIO CHACARITA"
+  },
+  {
+    "direccion": "LACROZE, FEDERICO AV. 2599",
+    "poligono_itinerario": "42 - AV.  LACROZE Y CABILDO"
+  },
+  {
+    "direccion": "LACROZE, FEDERICO AV. 2595",
+    "poligono_itinerario": "42 - AV.  LACROZE Y CABILDO"
+  },
+  {
+    "direccion": "LACROZE, FEDERICO AV. 4200",
+    "poligono_itinerario": "50 - ENTORNO CEMENTERIO CHACARITA"
+  },
+  {
+    "direccion": "LAMARCA, EMILIO 364",
+    "poligono_itinerario": "24 - AVELLANEDA"
+  },
+  {
+    "direccion": "LAPRIDA 2051",
+    "poligono_itinerario": "10 - HOSPITAL RIVADAVIA - FACULTAD DE DERECHO"
+  },
+  {
+    "direccion": "LAPRIDA 2049",
+    "poligono_itinerario": "10 - HOSPITAL RIVADAVIA - FACULTAD DE DERECHO"
+  },
+  {
+    "direccion": "LARRAZABAL 3751",
+    "poligono_itinerario": "29 - ESTACIÓN VILLA LUGANO"
+  },
+  {
+    "direccion": "LARRAZABAL 3799",
+    "poligono_itinerario": "29 - ESTACIÓN VILLA LUGANO"
+  },
+  {
+    "direccion": "LARRAZABAL AV. 1272",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "LARRAZABAL AV. 1277",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "LARREA 507",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "LARREA 531",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "LAS HERAS GENERAL AV. 1960",
+    "poligono_itinerario": "9 - CEMENTERIO RECOLETA"
+  },
+  {
+    "direccion": "LAVALLE 3190",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "LAVALLE 3664",
+    "poligono_itinerario": "19 - AV. CORRIENTES Y MEDRANO"
+  },
+  {
+    "direccion": "LAVALLE 3460",
+    "poligono_itinerario": "19 - AV. CORRIENTES Y MEDRANO"
+  },
+  {
+    "direccion": "LAVALLE 936",
+    "poligono_itinerario": "1 - MICROCENTRO- OBELISCO - RETIRO"
+  },
+  {
+    "direccion": "LEGUIZAMON, MARTINIANO 1679",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "LEGUIZAMON, MARTINIANO 1677",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "LEGUIZAMON, MARTINIANO 4099",
+    "poligono_itinerario": "29 - ESTACIÓN VILLA LUGANO"
+  },
+  {
+    "direccion": "LEGUIZAMON, MARTINIANO 4095",
+    "poligono_itinerario": "29 - ESTACIÓN VILLA LUGANO"
+  },
+  {
+    "direccion": "LEMOS, JUAN GREGORIO, GRAL. 22",
+    "poligono_itinerario": "49 - ATLANTA"
+  },
+  {
+    "direccion": "LIBERTAD 449",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "LIBERTAD 445",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "LIBERTAD 424",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "LIMA 1045",
+    "poligono_itinerario": "5 - POLIGONO 9 DE JULIO"
+  },
+  {
+    "direccion": "LIMA 1043",
+    "poligono_itinerario": "5 - POLIGONO 9 DE JULIO"
+  },
+  {
+    "direccion": "LUCERO 220",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "LUCERO 243",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "MAIPU 783",
+    "poligono_itinerario": "1 - MICROCENTRO- OBELISCO - RETIRO"
+  },
+  {
+    "direccion": "MARTINEZ, VICTOR 282",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "MARTINEZ, VICTOR 280",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "MEDRANO AV. 52",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "MEDRANO AV. 141",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "MEDRANO AV. 689",
+    "poligono_itinerario": "19 - AV. CORRIENTES Y MEDRANO"
+  },
+  {
+    "direccion": "MEDRANO AV. 687",
+    "poligono_itinerario": "19 - AV. CORRIENTES Y MEDRANO"
+  },
+  {
+    "direccion": "MELINCUE 3140",
+    "poligono_itinerario": "36 - CUENCA"
+  },
+  {
+    "direccion": "MELINCUE 3138",
+    "poligono_itinerario": "36 - CUENCA"
+  },
+  {
+    "direccion": "MEMBRILLAR 242",
+    "poligono_itinerario": "25 - RIVADAVIA - PLAZA PUEYRREDÓN"
+  },
+  {
+    "direccion": "MENDOZA 1707",
+    "poligono_itinerario": "43 - BARRIO CHINO"
+  },
+  {
+    "direccion": "MENDOZA AV. 5077",
+    "poligono_itinerario": "39 - VILLA URQUIZA - TRIUNVIRATO"
+  },
+  {
+    "direccion": "MENDOZA AV. 5075",
+    "poligono_itinerario": "39 - VILLA URQUIZA - TRIUNVIRATO"
+  },
+  {
+    "direccion": "MIGUELETES 1011",
+    "poligono_itinerario": "45 - AV. DEL LIBERTADOR Y OLLEROS"
+  },
+  {
+    "direccion": "MIGUELETES 1009",
+    "poligono_itinerario": "45 - AV. DEL LIBERTADOR Y OLLEROS"
+  },
+  {
+    "direccion": "MITRE, BARTOLOME 2650",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "MITRE, BARTOLOME 4061",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "MITRE, EMILIO 135",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "MOLDES 1925",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "MOLDES 1923",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "MOLDES 1757",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "MONROE AV. 5048",
+    "poligono_itinerario": "39 - VILLA URQUIZA - TRIUNVIRATO"
+  },
+  {
+    "direccion": "MONROE AV. 5044",
+    "poligono_itinerario": "39 - VILLA URQUIZA - TRIUNVIRATO"
+  },
+  {
+    "direccion": "MONTEVIDEO 762",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "MONTEVIDEO 568",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "MONTEVIDEO 590",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "MONTIEL 110",
+    "poligono_itinerario": "33 - LINIERS CENTRO DE TRASBORDO"
+  },
+  {
+    "direccion": "MONTIEL 108",
+    "poligono_itinerario": "33 - LINIERS CENTRO DE TRASBORDO"
+  },
+  {
+    "direccion": "MORENO 566",
+    "poligono_itinerario": "3 - DIAGONAL SUR - AV. BELGRANO"
+  },
+  {
+    "direccion": "MORENO 572",
+    "poligono_itinerario": "3 - DIAGONAL SUR - AV. BELGRANO"
+  },
+  {
+    "direccion": "MORENO 402",
+    "poligono_itinerario": "3 - DIAGONAL SUR - AV. BELGRANO"
+  },
+  {
+    "direccion": "MORENO 1143",
+    "poligono_itinerario": "6 - ENTORNO AV. DE MAYO - PLAZA CONGRESO"
+  },
+  {
+    "direccion": "MORENO 1139",
+    "poligono_itinerario": "6 - ENTORNO AV. DE MAYO - PLAZA CONGRESO"
+  },
+  {
+    "direccion": "MORENO 1137",
+    "poligono_itinerario": "6 - ENTORNO AV. DE MAYO - PLAZA CONGRESO"
+  },
+  {
+    "direccion": "MORON 3302",
+    "poligono_itinerario": "24 - AVELLANEDA"
+  },
+  {
+    "direccion": "MOSCONI GENERAL AV. 2490",
+    "poligono_itinerario": "38 - AV. GENERAL MOSCONI C12"
+  },
+  {
+    "direccion": "MOSCONI GENERAL AV. 2480",
+    "poligono_itinerario": "38 - AV. GENERAL MOSCONI C12"
+  },
+  {
+    "direccion": "MURGUIONDO 4068",
+    "poligono_itinerario": "29 - ESTACIÓN VILLA LUGANO"
+  },
+  {
+    "direccion": "MURGUIONDO 4064",
+    "poligono_itinerario": "29 - ESTACIÓN VILLA LUGANO"
+  },
+  {
+    "direccion": "NAZCA AV. 716",
+    "poligono_itinerario": "24 - AVELLANEDA"
+  },
+  {
+    "direccion": "NAZCA AV. 2364",
+    "poligono_itinerario": "35 - ALVAREZ JONTE Y NAZCA"
+  },
+  {
+    "direccion": "NEWBERY, JORGE 3397",
+    "poligono_itinerario": "50 - ENTORNO CEMENTERIO CHACARITA"
+  },
+  {
+    "direccion": "NEWBERY, JORGE 3395",
+    "poligono_itinerario": "50 - ENTORNO CEMENTERIO CHACARITA"
+  },
+  {
+    "direccion": "NEWBERY, JORGE 3364",
+    "poligono_itinerario": "50 - ENTORNO CEMENTERIO CHACARITA"
+  },
+  {
+    "direccion": "NICARAGUA 5944",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "NICARAGUA 5942",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "O'BRIEN 1170",
+    "poligono_itinerario": "7 - ESTACIÓN CONSTITUCIÓN"
+  },
+  {
+    "direccion": "O'BRIEN 1234",
+    "poligono_itinerario": "7 - ESTACIÓN CONSTITUCIÓN"
+  },
+  {
+    "direccion": "O'HIGGINS 2559",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2467",
+    "poligono_itinerario": "42 - AV.  LACROZE Y CABILDO"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2462",
+    "poligono_itinerario": "42 - AV.  LACROZE Y CABILDO"
+  },
+  {
+    "direccion": "OLAZABAL 1437",
+    "poligono_itinerario": "43 - BARRIO CHINO"
+  },
+  {
+    "direccion": "OLAZABAL 1584",
+    "poligono_itinerario": "43 - BARRIO CHINO"
+  },
+  {
+    "direccion": "OLAZABAL AV. 5364",
+    "poligono_itinerario": "39 - VILLA URQUIZA - TRIUNVIRATO"
+  },
+  {
+    "direccion": "OLIDEN 1481",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "OLIDEN 1479",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "OLLEROS 4109",
+    "poligono_itinerario": "50 - ENTORNO CEMENTERIO CHACARITA"
+  },
+  {
+    "direccion": "OLLEROS 4113",
+    "poligono_itinerario": "50 - ENTORNO CEMENTERIO CHACARITA"
+  },
+  {
+    "direccion": "PACHECO DE MELO, JOSE ANDRES 2525",
+    "poligono_itinerario": "10 - HOSPITAL RIVADAVIA - FACULTAD DE DERECHO"
+  },
+  {
+    "direccion": "PALPA 2479",
+    "poligono_itinerario": "42 - AV.  LACROZE Y CABILDO"
+  },
+  {
+    "direccion": "PALPA 2552",
+    "poligono_itinerario": "42 - AV.  LACROZE Y CABILDO"
+  },
+  {
+    "direccion": "PARAGUAY 1630",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "PARAGUAY 1620",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "PAREJA 4033",
+    "poligono_itinerario": "37 - PLAZA DEVOTO"
+  },
+  {
+    "direccion": "PAREJA 3941",
+    "poligono_itinerario": "37 - PLAZA DEVOTO"
+  },
+  {
+    "direccion": "PAROISSIEN 2643",
+    "poligono_itinerario": "51 - PARQUE SAAVEDRA"
+  },
+  {
+    "direccion": "PAROISSIEN 2655",
+    "poligono_itinerario": "51 - PARQUE SAAVEDRA"
+  },
+  {
+    "direccion": "PASO 367",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "PASTEUR 352",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "PASTEUR 449",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "PELLEGRINI, CARLOS 581",
+    "poligono_itinerario": "5 - POLIGONO 9 DE JULIO"
+  },
+  {
+    "direccion": "PELLEGRINI, CARLOS 985",
+    "poligono_itinerario": "5 - POLIGONO 9 DE JULIO"
+  },
+  {
+    "direccion": "PEÑA 3118",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 568",
+    "poligono_itinerario": "2 - ENTORNO PLAZA DE MAYO"
+  },
+  {
+    "direccion": "PERU 155",
+    "poligono_itinerario": "2 - ENTORNO PLAZA DE MAYO"
+  },
+  {
+    "direccion": "PERU 920",
+    "poligono_itinerario": "4 - CASCO HOSTÓRICO"
+  },
+  {
+    "direccion": "PERU 918",
+    "poligono_itinerario": "4 - CASCO HOSTÓRICO"
+  },
+  {
+    "direccion": "PERU 916",
+    "poligono_itinerario": "4 - CASCO HOSTÓRICO"
+  },
+  {
+    "direccion": "PERU 399",
+    "poligono_itinerario": "3 - DIAGONAL SUR - AV. BELGRANO"
+  },
+  {
+    "direccion": "PERU 390",
+    "poligono_itinerario": "3 - DIAGONAL SUR - AV. BELGRANO"
+  },
+  {
+    "direccion": "PIEDRA BUENA AV. 4886",
+    "poligono_itinerario": "28 - CHILAVERT"
+  },
+  {
+    "direccion": "PIEDRA BUENA AV. 4828",
+    "poligono_itinerario": "28 - CHILAVERT"
+  },
+  {
+    "direccion": "PIERES 1241",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1227",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1223",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1219",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1215",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1310",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1304",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1259",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1257",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1320",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1270",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1266",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1271",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1269",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1279",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1277",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1275",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1254",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1252",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1250",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1248",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1355",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1353",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1341",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1339",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1291",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1400",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1386",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1232",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1290",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1288",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1286",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1380",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1331",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1329",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1244",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1242",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1294",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1368",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1364",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1360",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1358",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1253",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1247",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1243",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1282",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1280",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1278",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1361",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1359",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1408",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1406",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1405",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1325",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1323",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1289",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1285",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PIERES 1319",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PINO, VIRREY DEL 2408",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "POLA 1272",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1222",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1220",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1146",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1218",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1214",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1165",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1167",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1190",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1186",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1182",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1263",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1172",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1170",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1140",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1138",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1136",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1185",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1152",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1164",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1162",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1155",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1189",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1173",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1171",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1158",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1156",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1215",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1219",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1236",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1176",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1204",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1229",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1163",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1159",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1249",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1252",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1241",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1243",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1260",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1256",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1149",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1147",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1145",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1230",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1250",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1248",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1246",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "POLA 1209",
+    "poligono_itinerario": "31 - JUAN B. ALBERDI Y LARRAZABAL"
+  },
+  {
+    "direccion": "PUEYRREDON AV. 261",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "PUEYRREDON AV. 259",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "PUEYRREDON, HONORIO, DR. AV. 960",
+    "poligono_itinerario": "22 - CID CAMPEADOR"
+  },
+  {
+    "direccion": "PUEYRREDON, HONORIO, DR. AV. 870",
+    "poligono_itinerario": "22 - CID CAMPEADOR"
+  },
+  {
+    "direccion": "PUJOL 1083",
+    "poligono_itinerario": "22 - CID CAMPEADOR"
+  },
+  {
+    "direccion": "QUITO 4341",
+    "poligono_itinerario": "21 - RIVADAVIA Y LA PLATA"
+  },
+  {
+    "direccion": "QUITO 4319",
+    "poligono_itinerario": "21 - RIVADAVIA Y LA PLATA"
+  },
+  {
+    "direccion": "QUITO 4317",
+    "poligono_itinerario": "21 - RIVADAVIA Y LA PLATA"
+  },
+  {
+    "direccion": "QUITO 4315",
+    "poligono_itinerario": "21 - RIVADAVIA Y LA PLATA"
+  },
+  {
+    "direccion": "REPUBLICA BOLIVARIANA DE VENEZUELA 360",
+    "poligono_itinerario": "3 - DIAGONAL SUR - AV. BELGRANO"
+  },
+  {
+    "direccion": "REPUBLICA BOLIVARIANA DE VENEZUELA 354",
+    "poligono_itinerario": "3 - DIAGONAL SUR - AV. BELGRANO"
+  },
+  {
+    "direccion": "REPUBLICA BOLIVARIANA DE VENEZUELA 4478",
+    "poligono_itinerario": "21 - RIVADAVIA Y LA PLATA"
+  },
+  {
+    "direccion": "RIGLOS 105",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "RIGLOS 392",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "RIO DE JANEIRO 9",
+    "poligono_itinerario": "21 - RIVADAVIA Y LA PLATA"
+  },
+  {
+    "direccion": "RIO DE JANEIRO 5",
+    "poligono_itinerario": "21 - RIVADAVIA Y LA PLATA"
+  },
+  {
+    "direccion": "RIO DE JANEIRO 3",
+    "poligono_itinerario": "21 - RIVADAVIA Y LA PLATA"
+  },
+  {
+    "direccion": "RIO DE JANEIRO 1",
+    "poligono_itinerario": "21 - RIVADAVIA Y LA PLATA"
+  },
+  {
+    "direccion": "RIO DE JANEIRO 60",
+    "poligono_itinerario": "21 - RIVADAVIA Y LA PLATA"
+  },
+  {
+    "direccion": "RIO DE JANEIRO 58",
+    "poligono_itinerario": "21 - RIVADAVIA Y LA PLATA"
+  },
+  {
+    "direccion": "RIO DE JANEIRO 44",
+    "poligono_itinerario": "21 - RIVADAVIA Y LA PLATA"
+  },
+  {
+    "direccion": "RIO DE JANEIRO 40",
+    "poligono_itinerario": "21 - RIVADAVIA Y LA PLATA"
+  },
+  {
+    "direccion": "RIOBAMBA 387",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "RIOBAMBA 373",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "RIVADAVIA 1364",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "RIVADAVIA AV. 4438",
+    "poligono_itinerario": "21 - RIVADAVIA Y LA PLATA"
+  },
+  {
+    "direccion": "RIVADAVIA AV. 6395",
+    "poligono_itinerario": "25 - RIVADAVIA - PLAZA PUEYRREDÓN"
+  },
+  {
+    "direccion": "RIVADAVIA AV. 3751",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "RIVADAVIA AV. 5233",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "RIVAROLA, RODOLFO, DR. 193",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "RIVERA INDARTE AV. 387",
+    "poligono_itinerario": "25 - RIVADAVIA - PLAZA PUEYRREDÓN"
+  },
+  {
+    "direccion": "ROCA, JULIO A., PRESIDENTE DIAGONAL SUR AV. 504",
+    "poligono_itinerario": "2 - ENTORNO PLAZA DE MAYO"
+  },
+  {
+    "direccion": "ROCA, JULIO A., PRESIDENTE DIAGONAL SUR AV. 502",
+    "poligono_itinerario": "2 - ENTORNO PLAZA DE MAYO"
+  },
+  {
+    "direccion": "ROCA, JULIO A., PRESIDENTE DIAGONAL SUR AV. 595",
+    "poligono_itinerario": "2 - ENTORNO PLAZA DE MAYO"
+  },
+  {
+    "direccion": "ROCA, JULIO A., PRESIDENTE DIAGONAL SUR AV. 575",
+    "poligono_itinerario": "2 - ENTORNO PLAZA DE MAYO"
+  },
+  {
+    "direccion": "ROCA, JULIO A., PRESIDENTE DIAGONAL SUR AV. 586",
+    "poligono_itinerario": "3 - DIAGONAL SUR - AV. BELGRANO"
+  },
+  {
+    "direccion": "ROCA, JULIO A., PRESIDENTE DIAGONAL SUR AV. 584",
+    "poligono_itinerario": "3 - DIAGONAL SUR - AV. BELGRANO"
+  },
+  {
+    "direccion": "RODRIGUEZ PEÑA 736",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "RODRIGUEZ PEÑA 1033",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "RODRIGUEZ PEÑA 434",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "RODRIGUEZ PEÑA 432",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "RONDEAU 3023",
+    "poligono_itinerario": "16 - ENTORNO PARQUE PATRICIOS"
+  },
+  {
+    "direccion": "ROSARIO 108",
+    "poligono_itinerario": "21 - RIVADAVIA Y LA PLATA"
+  },
+  {
+    "direccion": "SAENZ AV. 1168",
+    "poligono_itinerario": "15 - PERITO MORENO Y AV. SAENZ"
+  },
+  {
+    "direccion": "SAENZ AV. 1166",
+    "poligono_itinerario": "15 - PERITO MORENO Y AV. SAENZ"
+  },
+  {
+    "direccion": "SAENZ PEÑA, LUIS, PRES. 312",
+    "poligono_itinerario": "6 - ENTORNO AV. DE MAYO - PLAZA CONGRESO"
+  },
+  {
+    "direccion": "SAENZ PEÑA, LUIS, PRES. 310",
+    "poligono_itinerario": "6 - ENTORNO AV. DE MAYO - PLAZA CONGRESO"
+  },
+  {
+    "direccion": "SAENZ PEÑA, ROQUE, PRES. DIAGONAL NORTE AV. 1146",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "SAENZ PEÑA, ROQUE, PRES. DIAGONAL NORTE AV. 547",
+    "poligono_itinerario": "2 - ENTORNO PLAZA DE MAYO"
+  },
+  {
+    "direccion": "SAENZ PEÑA, ROQUE, PRES. DIAGONAL NORTE AV. 543",
+    "poligono_itinerario": "2 - ENTORNO PLAZA DE MAYO"
+  },
+  {
+    "direccion": "SALGUERO, JERONIMO 554",
+    "poligono_itinerario": "19 - AV. CORRIENTES Y MEDRANO"
+  },
+  {
+    "direccion": "SALGUERO, JERONIMO 722",
+    "poligono_itinerario": "19 - AV. CORRIENTES Y MEDRANO"
+  },
+  {
+    "direccion": "SALTA 1893",
+    "poligono_itinerario": "7 - ESTACIÓN CONSTITUCIÓN"
+  },
+  {
+    "direccion": "SALTA 1889",
+    "poligono_itinerario": "7 - ESTACIÓN CONSTITUCIÓN"
+  },
+  {
+    "direccion": "SAN BENITO DE PALERMO 1660",
+    "poligono_itinerario": "45 - AV. DEL LIBERTADOR Y OLLEROS"
+  },
+  {
+    "direccion": "SAN BENITO DE PALERMO 1664",
+    "poligono_itinerario": "45 - AV. DEL LIBERTADOR Y OLLEROS"
+  },
+  {
+    "direccion": "SAN BENITO DE PALERMO 1662",
+    "poligono_itinerario": "45 - AV. DEL LIBERTADOR Y OLLEROS"
+  },
+  {
+    "direccion": "SAN ISIDRO LABRADOR AV. 4878",
+    "poligono_itinerario": "51 - PARQUE SAAVEDRA"
+  },
+  {
+    "direccion": "SAN JOSE DE CALASANZ 659",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "SAN JOSE DE CALASANZ 1142",
+    "poligono_itinerario": "26 - PARQUE CHACABUCO"
+  },
+  {
+    "direccion": "SAN JOSE DE CALASANZ 1188",
+    "poligono_itinerario": "26 - PARQUE CHACABUCO"
+  },
+  {
+    "direccion": "SAN JUAN AV. 3756",
+    "poligono_itinerario": "17 - BOEDO Y SAN JUAN"
+  },
+  {
+    "direccion": "SAN JUAN AV. 3746",
+    "poligono_itinerario": "17 - BOEDO Y SAN JUAN"
+  },
+  {
+    "direccion": "SAN JUAN AV. 3788",
+    "poligono_itinerario": "17 - BOEDO Y SAN JUAN"
+  },
+  {
+    "direccion": "SAN LORENZO 356",
+    "poligono_itinerario": "4 - CASCO HOSTÓRICO"
+  },
+  {
+    "direccion": "SAN LORENZO 354",
+    "poligono_itinerario": "4 - CASCO HOSTÓRICO"
+  },
+  {
+    "direccion": "SAN LUIS 3461",
+    "poligono_itinerario": "19 - AV. CORRIENTES Y MEDRANO"
+  },
+  {
+    "direccion": "SAN LUIS 3457",
+    "poligono_itinerario": "19 - AV. CORRIENTES Y MEDRANO"
+  },
+  {
+    "direccion": "SAN MARTIN 569",
+    "poligono_itinerario": "1 - MICROCENTRO- OBELISCO - RETIRO"
+  },
+  {
+    "direccion": "SAN MARTIN AV. 5864",
+    "poligono_itinerario": "36 - CUENCA"
+  },
+  {
+    "direccion": "SAN MARTIN AV. 5860",
+    "poligono_itinerario": "36 - CUENCA"
+  },
+  {
+    "direccion": "SAN NICOLAS 384",
+    "poligono_itinerario": "24 - AVELLANEDA"
+  },
+  {
+    "direccion": "SANCHEZ DE LORIA 297",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "SANCHEZ DE LORIA 395",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "SANCHEZ DE LORIA 391",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "SANTA FE AV. 4526",
+    "poligono_itinerario": "47 - ESTACIÓN PALERMO - PLAZA ITALIA"
+  },
+  {
+    "direccion": "SANTA FE AV. 4522",
+    "poligono_itinerario": "47 - ESTACIÓN PALERMO - PLAZA ITALIA"
+  },
+  {
+    "direccion": "SANTA FE AV. 3304",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "SANTA ROSA 5135",
+    "poligono_itinerario": "48 - PLAZA SERRANO Y ENTORNO"
+  },
+  {
+    "direccion": "SANTA ROSA 5131",
+    "poligono_itinerario": "48 - PLAZA SERRANO Y ENTORNO"
+  },
+  {
+    "direccion": "SANTIAGO DEL ESTERO 254",
+    "poligono_itinerario": "6 - ENTORNO AV. DE MAYO - PLAZA CONGRESO"
+  },
+  {
+    "direccion": "SANTIAGO DEL ESTERO 346",
+    "poligono_itinerario": "6 - ENTORNO AV. DE MAYO - PLAZA CONGRESO"
+  },
+  {
+    "direccion": "SANTIAGO DEL ESTERO 338",
+    "poligono_itinerario": "6 - ENTORNO AV. DE MAYO - PLAZA CONGRESO"
+  },
+  {
+    "direccion": "SANTIAGO DEL ESTERO 1682",
+    "poligono_itinerario": "7 - ESTACIÓN CONSTITUCIÓN"
+  },
+  {
+    "direccion": "SANTIAGO DEL ESTERO 1680",
+    "poligono_itinerario": "7 - ESTACIÓN CONSTITUCIÓN"
+  },
+  {
+    "direccion": "SANTIAGO DEL ESTERO 1410",
+    "poligono_itinerario": "7 - ESTACIÓN CONSTITUCIÓN"
+  },
+  {
+    "direccion": "SARMIENTO 4621",
+    "poligono_itinerario": "20 - ÁNGEL GALLARDO Y CORRIENTES"
+  },
+  {
+    "direccion": "SARMIENTO 1810",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "SARMIENTO 1802",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "SEGUROLA AV. 2040",
+    "poligono_itinerario": "34 - ALVAREZ JONTE Y BERMUDEZ"
+  },
+  {
+    "direccion": "SEGUROLA AV. 1894",
+    "poligono_itinerario": "34 - ALVAREZ JONTE Y BERMUDEZ"
+  },
+  {
+    "direccion": "SIMBRON 3223",
+    "poligono_itinerario": "36 - CUENCA"
+  },
+  {
+    "direccion": "SIMBRON 3214",
+    "poligono_itinerario": "36 - CUENCA"
+  },
+  {
+    "direccion": "SOLIS 333",
+    "poligono_itinerario": "12 - AV. ENTRE RÍOS Y AV. BELGRANO"
+  },
+  {
+    "direccion": "SOLIS 160",
+    "poligono_itinerario": "12 - AV. ENTRE RÍOS Y AV. BELGRANO"
+  },
+  {
+    "direccion": "SOLIS 159",
+    "poligono_itinerario": "12 - AV. ENTRE RÍOS Y AV. BELGRANO"
+  },
+  {
+    "direccion": "SOMELLERA 5739",
+    "poligono_itinerario": "29 - ESTACIÓN VILLA LUGANO"
+  },
+  {
+    "direccion": "SUAREZ, JOSE LEON 1491",
+    "poligono_itinerario": "32 - EMILIO CASTRO"
+  },
+  {
+    "direccion": "SUAREZ, JOSE LEON 1488",
+    "poligono_itinerario": "32 - EMILIO CASTRO"
+  },
+  {
+    "direccion": "SUAREZ, JOSE LEON 2092",
+    "poligono_itinerario": "30 - GRAL. PAZ Y JUAN B. ALBERDI"
+  },
+  {
+    "direccion": "SUAREZ, JOSE LEON 2090",
+    "poligono_itinerario": "30 - GRAL. PAZ Y JUAN B. ALBERDI"
+  },
+  {
+    "direccion": "SUAREZ, JOSE LEON 2115",
+    "poligono_itinerario": "30 - GRAL. PAZ Y JUAN B. ALBERDI"
+  },
+  {
+    "direccion": "SUAREZ, JOSE LEON 2113",
+    "poligono_itinerario": "30 - GRAL. PAZ Y JUAN B. ALBERDI"
+  },
+  {
+    "direccion": "SUAREZ, JOSE LEON 5069",
+    "poligono_itinerario": "28 - CHILAVERT"
+  },
+  {
+    "direccion": "SUAREZ, JOSE LEON 221",
+    "poligono_itinerario": "33 - LINIERS CENTRO DE TRASBORDO"
+  },
+  {
+    "direccion": "SUAREZ, JOSE LEON 5132",
+    "poligono_itinerario": "28 - CHILAVERT"
+  },
+  {
+    "direccion": "SUCRE, ANTONIO JOSE DE, MCAL. 4220",
+    "poligono_itinerario": "40 - DOHO - CALLE DONADO"
+  },
+  {
+    "direccion": "SUCRE, ANTONIO JOSE DE, MCAL. 4435",
+    "poligono_itinerario": "40 - DOHO - CALLE DONADO"
+  },
+  {
+    "direccion": "SUCRE, ANTONIO JOSE DE, MCAL. 2209",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "SUCRE, ANTONIO JOSE DE, MCAL. 2205",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "SUIPACHA 946",
+    "poligono_itinerario": "1 - MICROCENTRO- OBELISCO - RETIRO"
+  },
+  {
+    "direccion": "TAGLE 2582",
+    "poligono_itinerario": "10 - HOSPITAL RIVADAVIA - FACULTAD DE DERECHO"
+  },
+  {
+    "direccion": "TAGLE 2578",
+    "poligono_itinerario": "10 - HOSPITAL RIVADAVIA - FACULTAD DE DERECHO"
+  },
+  {
+    "direccion": "TALCAHUANO 1189",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "TEJEDOR 874",
+    "poligono_itinerario": "26 - PARQUE CHACABUCO"
+  },
+  {
+    "direccion": "TEJEDOR 920",
+    "poligono_itinerario": "26 - PARQUE CHACABUCO"
+  },
+  {
+    "direccion": "TERRADA 2318",
+    "poligono_itinerario": "35 - ALVAREZ JONTE Y NAZCA"
+  },
+  {
+    "direccion": "TERRADA 4681",
+    "poligono_itinerario": "38 - AV. GENERAL MOSCONI C12"
+  },
+  {
+    "direccion": "TERRADA 4679",
+    "poligono_itinerario": "38 - AV. GENERAL MOSCONI C12"
+  },
+  {
+    "direccion": "TERRADA 4675",
+    "poligono_itinerario": "38 - AV. GENERAL MOSCONI C12"
+  },
+  {
+    "direccion": "THAMES 1439",
+    "poligono_itinerario": "48 - PLAZA SERRANO Y ENTORNO"
+  },
+  {
+    "direccion": "THAMES 1499",
+    "poligono_itinerario": "48 - PLAZA SERRANO Y ENTORNO"
+  },
+  {
+    "direccion": "THOME JUAN M. 3600",
+    "poligono_itinerario": "15 - PERITO MORENO Y AV. SAENZ"
+  },
+  {
+    "direccion": "THOMPSON 455",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "TRIUNVIRATO AV. 4993",
+    "poligono_itinerario": "39 - VILLA URQUIZA - TRIUNVIRATO"
+  },
+  {
+    "direccion": "TRIUNVIRATO AV. 4991",
+    "poligono_itinerario": "39 - VILLA URQUIZA - TRIUNVIRATO"
+  },
+  {
+    "direccion": "TROILO, ANIBAL 964",
+    "poligono_itinerario": "20 - ÁNGEL GALLARDO Y CORRIENTES"
+  },
+  {
+    "direccion": "TRONADOR 1371",
+    "poligono_itinerario": "41 - AV. ELCANO Y ALVARÉZ THOMAS"
+  },
+  {
+    "direccion": "TRONADOR 1315",
+    "poligono_itinerario": "41 - AV. ELCANO Y ALVARÉZ THOMAS"
+  },
+  {
+    "direccion": "TUCUMAN 3544",
+    "poligono_itinerario": "19 - AV. CORRIENTES Y MEDRANO"
+  },
+  {
+    "direccion": "UGARTE, MANUEL 1603",
+    "poligono_itinerario": "43 - BARRIO CHINO"
+  },
+  {
+    "direccion": "URIARTE 1525",
+    "poligono_itinerario": "48 - PLAZA SERRANO Y ENTORNO"
+  },
+  {
+    "direccion": "URIARTE 1368",
+    "poligono_itinerario": "48 - PLAZA SERRANO Y ENTORNO"
+  },
+  {
+    "direccion": "URIARTE 2472",
+    "poligono_itinerario": "47 - ESTACIÓN PALERMO - PLAZA ITALIA"
+  },
+  {
+    "direccion": "URIARTE 2468",
+    "poligono_itinerario": "47 - ESTACIÓN PALERMO - PLAZA ITALIA"
+  },
+  {
+    "direccion": "URIBURU JOSE E., PRES. 1083",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "URIBURU JOSE E., PRES. 1081",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "URIBURU JOSE E., PRES. 1734",
+    "poligono_itinerario": "9 - CEMENTERIO RECOLETA"
+  },
+  {
+    "direccion": "URIBURU JOSE E., PRES. 1759",
+    "poligono_itinerario": "9 - CEMENTERIO RECOLETA"
+  },
+  {
+    "direccion": "URIBURU JOSE E., PRES. 1757",
+    "poligono_itinerario": "9 - CEMENTERIO RECOLETA"
+  },
+  {
+    "direccion": "URIBURU JOSE E., PRES. 346",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "URIBURU JOSE E., PRES. 344",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "URIBURU JOSE E., PRES. 342",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "URQUIZA, GRAL. 174",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "URUGUAY 248",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "URUGUAY AV. 792",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "URUGUAY AV. 790",
+    "poligono_itinerario": "8 - AV. SANTA FE Y AV. CNEL. DIAZ"
+  },
+  {
+    "direccion": "VALDENEGRO 2506",
+    "poligono_itinerario": "39 - VILLA URQUIZA - TRIUNVIRATO"
+  },
+  {
+    "direccion": "VALLESE, FELIPE 2987",
+    "poligono_itinerario": "24 - AVELLANEDA"
+  },
+  {
+    "direccion": "VARELA 39",
+    "poligono_itinerario": "25 - RIVADAVIA - PLAZA PUEYRREDÓN"
+  },
+  {
+    "direccion": "VARELA 37",
+    "poligono_itinerario": "25 - RIVADAVIA - PLAZA PUEYRREDÓN"
+  },
+  {
+    "direccion": "VARELA, JOSE PEDRO 3227",
+    "poligono_itinerario": "36 - CUENCA"
+  },
+  {
+    "direccion": "VARELA, JOSE PEDRO 3264",
+    "poligono_itinerario": "36 - CUENCA"
+  },
+  {
+    "direccion": "VEGA, NICETO, CNEL. AV. 5976",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "VEGA, VENTURA DE LA 3901",
+    "poligono_itinerario": "15 - PERITO MORENO Y AV. SAENZ"
+  },
+  {
+    "direccion": "VENTANA 3852",
+    "poligono_itinerario": "15 - PERITO MORENO Y AV. SAENZ"
+  },
+  {
+    "direccion": "VERTIZ VIRREY AV. 2021",
+    "poligono_itinerario": "43 - BARRIO CHINO"
+  },
+  {
+    "direccion": "VERTIZ VIRREY AV. 2019",
+    "poligono_itinerario": "43 - BARRIO CHINO"
+  },
+  {
+    "direccion": "VERTIZ VIRREY AV. 2015",
+    "poligono_itinerario": "43 - BARRIO CHINO"
+  },
+  {
+    "direccion": "VIAMONTE 2329",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "VIAMONTE 480",
+    "poligono_itinerario": "1 - MICROCENTRO- OBELISCO - RETIRO"
+  },
+  {
+    "direccion": "VIDAL 1765",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "VIDAL 1745",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "VIEL 239",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "VIEL 418",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "VIEL 416",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "VIEL 423",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "VIEYRA 1910",
+    "poligono_itinerario": "7 - ESTACIÓN CONSTITUCIÓN"
+  },
+  {
+    "direccion": "VILA, NICOLAS 430",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "VILELA 2600",
+    "poligono_itinerario": "51 - PARQUE SAAVEDRA"
+  },
+  {
+    "direccion": "VILLARROEL 1497",
+    "poligono_itinerario": "49 - ATLANTA"
+  },
+  {
+    "direccion": "VILLARROEL 1459",
+    "poligono_itinerario": "49 - ATLANTA"
+  },
+  {
+    "direccion": "VILLARROEL 1457",
+    "poligono_itinerario": "49 - ATLANTA"
+  },
+  {
+    "direccion": "VIRASORO, VALENTIN 1080",
+    "poligono_itinerario": "22 - CID CAMPEADOR"
+  },
+  {
+    "direccion": "VIRASORO, VALENTIN 984",
+    "poligono_itinerario": "22 - CID CAMPEADOR"
+  },
+  {
+    "direccion": "VIRASORO, VALENTIN 1112",
+    "poligono_itinerario": "22 - CID CAMPEADOR"
+  },
+  {
+    "direccion": "VIRGILIO 1565",
+    "poligono_itinerario": "34 - ALVAREZ JONTE Y BERMUDEZ"
+  },
+  {
+    "direccion": "VIRGILIO 1512",
+    "poligono_itinerario": "34 - ALVAREZ JONTE Y BERMUDEZ"
+  },
+  {
+    "direccion": "VOLTA 1873",
+    "poligono_itinerario": "45 - AV. DEL LIBERTADOR Y OLLEROS"
+  },
+  {
+    "direccion": "VOLTA 1869",
+    "poligono_itinerario": "45 - AV. DEL LIBERTADOR Y OLLEROS"
+  },
+  {
+    "direccion": "VOLTAIRE 5855",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "VOLTAIRE 5965",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "YATAY 42",
+    "poligono_itinerario": "21 - RIVADAVIA Y LA PLATA"
+  },
+  {
+    "direccion": "YATAY 40",
+    "poligono_itinerario": "21 - RIVADAVIA Y LA PLATA"
+  },
+  {
+    "direccion": "YATAY 746",
+    "poligono_itinerario": "20 - ÁNGEL GALLARDO Y CORRIENTES"
+  },
+  {
+    "direccion": "YATAY 720",
+    "poligono_itinerario": "20 - ÁNGEL GALLARDO Y CORRIENTES"
+  },
+  {
+    "direccion": "YERBAL 1226",
+    "poligono_itinerario": "23 - RIVADAVIA"
+  },
+  {
+    "direccion": "YERBAL 3124",
+    "poligono_itinerario": "24 - AVELLANEDA"
+  },
+  {
+    "direccion": "YERBAL 2868",
+    "poligono_itinerario": "24 - AVELLANEDA"
+  },
+  {
+    "direccion": "YRIGOYEN, HIPOLITO 553",
+    "poligono_itinerario": "2 - ENTORNO PLAZA DE MAYO"
+  },
+  {
+    "direccion": "YRIGOYEN, HIPOLITO 3111",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "YRIGOYEN, HIPOLITO 3101",
+    "poligono_itinerario": "18 - RIVADAVIA COMERCIAL"
+  },
+  {
+    "direccion": "YRIGOYEN, HIPOLITO 1146",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "YRIGOYEN, HIPOLITO 1144",
+    "poligono_itinerario": "4 - CORRIENTES CULTURAL"
+  },
+  {
+    "direccion": "YRIGOYEN, HIPOLITO AV. 4251",
+    "poligono_itinerario": "21 - RIVADAVIA Y LA PLATA"
+  },
+  {
+    "direccion": "ZAMUDIO 4725",
+    "poligono_itinerario": "38 - AV. GENERAL MOSCONI C12"
+  },
+  {
+    "direccion": "ZAMUDIO 4735",
+    "poligono_itinerario": "38 - AV. GENERAL MOSCONI C12"
+  },
+  {
+    "direccion": "ZAPATA 680",
+    "poligono_itinerario": "42 - AV.  LACROZE Y CABILDO"
+  },
+  {
+    "direccion": "ZAPATA 676",
+    "poligono_itinerario": "42 - AV.  LACROZE Y CABILDO"
+  },
+  {
+    "direccion": "ZAPATA 625",
+    "poligono_itinerario": "42 - AV.  LACROZE Y CABILDO"
+  },
+  {
+    "direccion": "ZAPATA 691",
+    "poligono_itinerario": "42 - AV.  LACROZE Y CABILDO"
+  },
+  {
+    "direccion": "ZAPATA 675",
+    "poligono_itinerario": "42 - AV.  LACROZE Y CABILDO"
+  },
+  {
+    "direccion": "ZAPIOLA 15",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "ZAPIOLA 87",
+    "poligono_itinerario": "46 - CARRANZA - JUAN B. JUSTO - SANTA FÉ"
+  },
+  {
+    "direccion": "ZARRAGA 3954",
+    "poligono_itinerario": "41 - AV. ELCANO Y ALVARÉZ THOMAS"
+  },
+  {
+    "direccion": "ZAVALETA 52",
+    "poligono_itinerario": "16 - ENTORNO PARQUE PATRICIOS"
+  },
+  {
+    "direccion": "ZAVALETA 25",
+    "poligono_itinerario": "16 - ENTORNO PARQUE PATRICIOS"
+  },
+  {
+    "direccion": "ZAVALIA 2135",
+    "poligono_itinerario": "42 - AV. CABILDO Y AV. JURAMENTO"
+  },
+  {
+    "direccion": "ZELAYA 3053",
+    "poligono_itinerario": "13 - AV. PUEYRREDÓN Y AV. CORRIENTES"
+  },
+  {
+    "direccion": "ZOLEZZI, ANTONIO L. 262",
+    "poligono_itinerario": "14 - CAMINITO"
+  },
+  {
+    "direccion": "ZOLEZZI, ANTONIO L. 250",
+    "poligono_itinerario": "14 - CAMINITO"
+  },
+  {
+    "direccion": "ZOLEZZI, ANTONIO L. 254",
+    "poligono_itinerario": "14 - CAMINITO"
+  },
+  {
+    "direccion": "ZORRILLA, ALBERTO 4530",
+    "poligono_itinerario": "27 - PARQUE DE LA CIUDAD"
+  },
+  {
+    "direccion": "ZORRILLA, ALBERTO 4450",
+    "poligono_itinerario": "27 - PARQUE DE LA CIUDAD"
+  },
+  {
+    "direccion": "ZUBERBUHLER, CARLOS E. 1772",
+    "poligono_itinerario": "41 - AV. ELCANO Y ALVARÉZ THOMAS"
+  },
+  {
+    "direccion": "ZUBERBUHLER, CARLOS E. 1726",
+    "poligono_itinerario": "41 - AV. ELCANO Y ALVARÉZ THOMAS"
+  },
+  {
+    "direccion": "ZUBERBUHLER, CARLOS E. 1718",
+    "poligono_itinerario": "41 - AV. ELCANO Y ALVARÉZ THOMAS"
+  }
+]

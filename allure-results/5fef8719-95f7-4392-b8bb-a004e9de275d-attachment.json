@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 1460,
+    "codCalle_2": 1741,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96855.4922857097,
+    "coordenada_y": 100452.3436613395,
+    "direccion": "MAGARI\u00d1OS CERVANTES, A. Y ATAHUALPA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MAGARI\u00d1OS CERVANTES, A.",
+    "nombreCalle_2": "ATAHUALPA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-069-033b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

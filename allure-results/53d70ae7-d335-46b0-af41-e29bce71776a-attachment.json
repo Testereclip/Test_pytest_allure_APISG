@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 1903,
+    "codCalle_2": 2600,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97675.8282235171,
+    "coordenada_y": 106843.0467857463,
+    "direccion": "PACHECO Y QUESADA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PACHECO",
+    "nombreCalle_2": "QUESADA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "053-023-025",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

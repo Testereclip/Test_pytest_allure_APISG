@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 384,
+    "codCalle_2": 1613,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99493.7110352077,
+    "coordenada_y": 98856.4686616796,
+    "direccion": "MARTI, JOSE Y GARZON EUGENIO GENERAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MARTI, JOSE",
+    "nombreCalle_2": "GARZON EUGENIO GENERAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-018-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

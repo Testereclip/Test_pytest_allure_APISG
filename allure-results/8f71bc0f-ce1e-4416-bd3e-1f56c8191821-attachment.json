@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 1684,
+    "codCalle_2": 2514,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 101897.625097336,
+    "coordenada_y": 98655.2420993626,
+    "direccion": "MIRO Y CASTA\u00d1ARES AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MIRO",
+    "nombreCalle_2": "CASTA\u00d1ARES AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-113B-020b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

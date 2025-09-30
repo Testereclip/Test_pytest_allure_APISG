@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 48,
+    "codCalle_2": 2212,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101149.7266603397,
+    "coordenada_y": 104501.5389737174,
+    "direccion": "NEWBERY, JORGE AV. Y CORRIENTES AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NEWBERY, JORGE AV.",
+    "nombreCalle_2": "CORRIENTES AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "033-009B-004a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

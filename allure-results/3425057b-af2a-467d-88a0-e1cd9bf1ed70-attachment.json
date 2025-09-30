@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio 20",
+    "codCalle_1": 841,
+    "codCalle_2": 1294,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99576.0791543253,
+    "coordenada_y": 94606.1506505902,
+    "direccion": "LARRAYA Y PASAJE ESPERANZA",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LARRAYA",
+    "nombreCalle_2": "PASAJE ESPERANZA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "066-011U-001",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

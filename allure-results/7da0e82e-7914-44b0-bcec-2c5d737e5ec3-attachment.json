@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1353,
+    "codCalle_2": 1480,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101903.0079099557,
+    "coordenada_y": 100453.5936616832,
+    "direccion": "VALLE Y VIDELA, NICOLAS E.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VALLE",
+    "nombreCalle_2": "VIDELA, NICOLAS E.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-019-025a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

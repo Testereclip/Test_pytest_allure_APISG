@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 438,
+    "codCalle_2": 1361,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97893.7188481506,
+    "coordenada_y": 101901.4374112628,
+    "direccion": "EL PEREGRINO Y CUENCA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "EL PEREGRINO",
+    "nombreCalle_2": "CUENCA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-143A-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 458,
+    "codCalle_2": 888,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 102200.4844725893,
+    "coordenada_y": 103100.9530364292,
+    "direccion": "ARAOZ Y CAMARGO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARAOZ",
+    "nombreCalle_2": "CAMARGO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-152-025",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

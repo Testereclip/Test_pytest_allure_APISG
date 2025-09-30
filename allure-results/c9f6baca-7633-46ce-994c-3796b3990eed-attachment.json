@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 1594,
+    "codCalle_2": 2331,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98092.0313480835,
+    "coordenada_y": 101350.2108488324,
+    "direccion": "CAMPANA Y DIAZ, CESAR, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CAMPANA",
+    "nombreCalle_2": "DIAZ, CESAR, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-119B-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

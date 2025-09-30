@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 986,
+    "codCalle_2": 1801,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97988.9297856485,
+    "coordenada_y": 102071.648348753,
+    "direccion": "DEDICO, DOMINGO, AGENTE Y GONZALEZ, ELPIDIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DEDICO, DOMINGO, AGENTE",
+    "nombreCalle_2": "GONZALEZ, ELPIDIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "067-024B-003",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

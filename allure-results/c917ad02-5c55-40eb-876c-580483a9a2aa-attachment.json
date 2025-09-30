@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 135,
+    "codCalle_2": 1561,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 104868.2735347233,
+    "coordenada_y": 103584.2967865611,
+    "direccion": "AGUERO Y SOLER",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AGUERO",
+    "nombreCalle_2": "SOLER",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-081-037",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

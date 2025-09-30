@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": "Barrio Padre Mugica",
+    "codCalle_1": 1817,
+    "codCalle_2": 2576,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107166.2779238524,
+    "coordenada_y": 105439.0384780869,
+    "direccion": "ISLA DE PASCUA Y EVITA",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ISLA DE PASCUA",
+    "nombreCalle_2": "EVITA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "YP - YPF",
+    "smp": "003-066B-001r",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

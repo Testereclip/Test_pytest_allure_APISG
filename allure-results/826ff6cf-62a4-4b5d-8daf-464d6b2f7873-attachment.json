@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 2365,
+    "codCalle_2": 2446,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101466.4063479589,
+    "coordenada_y": 106974.3905359866,
+    "direccion": "O'HIGGINS Y ZABALA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "O'HIGGINS",
+    "nombreCalle_2": "ZABALA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-043-007",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

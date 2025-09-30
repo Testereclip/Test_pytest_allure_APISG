@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONSERRAT",
+    "barrioInf": null,
+    "codCalle_1": 1078,
+    "codCalle_2": 1767,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108386.8829090799,
+    "coordenada_y": 101732.2186619853,
+    "direccion": "DEFENSA Y REPUBLICA BOLIVARIANA DE VENEZUELA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DEFENSA",
+    "nombreCalle_2": "REPUBLICA BOLIVARIANA DE VENEZUELA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "002-048-005d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

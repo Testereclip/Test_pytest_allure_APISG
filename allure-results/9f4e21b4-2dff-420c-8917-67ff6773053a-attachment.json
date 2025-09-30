@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 437,
+    "codCalle_2": 1414,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107767.203221371,
+    "coordenada_y": 97241.6561623988,
+    "direccion": "VILLARINO Y DARQUIER, JUAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VILLARINO",
+    "nombreCalle_2": "DARQUIER, JUAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-073-009a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

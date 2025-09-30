@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 799,
+    "codCalle_2": 2721,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 96102.4375984222,
+    "coordenada_y": 101936.9295986405,
+    "direccion": "SANABRIA Y FONTANA, LUIS JORGE CORONEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANABRIA",
+    "nombreCalle_2": "FONTANA, LUIS JORGE CORONEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-019-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

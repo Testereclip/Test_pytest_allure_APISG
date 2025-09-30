@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 1522,
+    "codCalle_2": 2042,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106281.0938469151,
+    "coordenada_y": 102078.6717868086,
+    "direccion": "YRIGOYEN, HIPOLITO Y SARANDI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "YRIGOYEN, HIPOLITO",
+    "nombreCalle_2": "SARANDI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "020-058-022",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

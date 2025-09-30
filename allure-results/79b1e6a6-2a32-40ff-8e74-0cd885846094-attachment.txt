@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=JURAMENTO+Y+CASTA%C3%91EDA&v2=true

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 435,
+    "codCalle_2": 1517,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94993.1143103936,
+    "coordenada_y": 103991.4288740997,
+    "direccion": "CHIVILCOY AV. Y GRIVEO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CHIVILCOY AV.",
+    "nombreCalle_2": "GRIVEO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-075-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

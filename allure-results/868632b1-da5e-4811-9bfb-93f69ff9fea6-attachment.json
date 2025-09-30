@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 799,
+    "codCalle_2": 1112,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96341.9922858632,
+    "coordenada_y": 101609.562411188,
+    "direccion": "SANABRIA Y LYNCH ARRIBALZAGA, FELIX",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANABRIA",
+    "nombreCalle_2": "LYNCH ARRIBALZAGA, FELIX",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-016-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

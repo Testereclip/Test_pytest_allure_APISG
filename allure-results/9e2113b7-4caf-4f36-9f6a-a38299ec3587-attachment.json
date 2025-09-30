@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 634,
+    "codCalle_2": 917,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99377.2266600104,
+    "coordenada_y": 95657.9452244962,
+    "direccion": "ARAUJO Y AQUINO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARAUJO",
+    "nombreCalle_2": "AQUINO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "066-072-000A",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

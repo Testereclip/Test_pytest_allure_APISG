@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1306,
+    "codCalle_2": 2414,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 101446.9375979516,
+    "coordenada_y": 106830.0936609989,
+    "direccion": "CESPEDES Y VUELTA DE OBLIGADO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CESPEDES",
+    "nombreCalle_2": "VUELTA DE OBLIGADO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-037-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

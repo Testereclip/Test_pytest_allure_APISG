@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 946,
+    "codCalle_2": 1552,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100501.7579103745,
+    "coordenada_y": 103575.4374112675,
+    "direccion": "FRAGATA PRES. SARMIENTO Y WARNES AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FRAGATA PRES. SARMIENTO",
+    "nombreCalle_2": "WARNES AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-041A-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

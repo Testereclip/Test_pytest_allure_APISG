@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 284,
+    "codCalle_2": 2231,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100352.7579106455,
+    "coordenada_y": 107277.4452233812,
+    "direccion": "MOLDES Y JURAMENTO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MOLDES",
+    "nombreCalle_2": "JURAMENTO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "039-077-010c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

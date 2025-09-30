@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VERSALLES",
+    "barrioInf": null,
+    "codCalle_1": 1620,
+    "codCalle_2": 2728,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95473.3672858621,
+    "coordenada_y": 99657.7889738278,
+    "direccion": "GARCIA, JUAN AGUSTIN Y RUIZ DE LOS LLANOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GARCIA, JUAN AGUSTIN",
+    "nombreCalle_2": "RUIZ DE LOS LLANOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "091-041-013a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

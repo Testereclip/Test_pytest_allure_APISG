@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": "Barrio Estacion Buenos Aires",
+    "codCalle_1": 99,
+    "codCalle_2": 2563,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106590.6082232665,
+    "coordenada_y": 98411.1433775248,
+    "direccion": "SUAREZ Y LAMARQUE, LIBERTAD",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SUAREZ",
+    "nombreCalle_2": "LAMARQUE, LIBERTAD",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "026-012G-009",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

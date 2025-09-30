@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SOLDADO+DE+LA+FRONTERA+AV.+Y+DESCALZI%2C+NICOLAS&v2=true

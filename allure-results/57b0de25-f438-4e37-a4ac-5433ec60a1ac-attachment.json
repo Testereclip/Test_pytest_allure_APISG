@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 1084,
+    "codCalle_2": 2650,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96884.437598086,
+    "coordenada_y": 98701.8280365207,
+    "direccion": "LEOPARDI Y CAJARAVILLA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LEOPARDI",
+    "nombreCalle_2": "CAJARAVILLA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "060-129-025",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

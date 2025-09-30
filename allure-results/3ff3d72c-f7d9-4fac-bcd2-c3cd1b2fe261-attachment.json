@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 1754,
+    "codCalle_2": 2488,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96058.2579111108,
+    "coordenada_y": 104637.8436608605,
+    "direccion": "LOPEZ, CARLOS ANTONIO Y DUARTE, JUAN PABLO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LOPEZ, CARLOS ANTONIO",
+    "nombreCalle_2": "DUARTE, JUAN PABLO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "073-008B-022a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

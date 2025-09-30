@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 99,
+    "codCalle_2": 1496,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 109083.4375962993,
+    "coordenada_y": 99085.1561622979,
+    "direccion": "SUAREZ Y FILIBERTO, JUAN DE DIOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SUAREZ",
+    "nombreCalle_2": "FILIBERTO, JUAN DE DIOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "006-005-011a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

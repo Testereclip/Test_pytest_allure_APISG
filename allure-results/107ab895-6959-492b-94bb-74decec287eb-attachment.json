@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 668,
+    "codCalle_2": 1653,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95726.6172858841,
+    "coordenada_y": 100530.312411256,
+    "direccion": "ALCARAZ Y LA PINTA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALCARAZ",
+    "nombreCalle_2": "LA PINTA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-010B-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

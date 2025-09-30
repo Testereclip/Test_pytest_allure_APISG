@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 555,
+    "codCalle_2": 2595,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95387.7110360156,
+    "coordenada_y": 101746.546786111,
+    "direccion": "UKRANIA Y NAZARRE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "UKRANIA",
+    "nombreCalle_2": "NAZARRE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-066B-008b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

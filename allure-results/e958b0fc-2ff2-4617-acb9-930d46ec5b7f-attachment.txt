@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GARCIA%2C+MANUEL+Y+ALBERTI&v2=true

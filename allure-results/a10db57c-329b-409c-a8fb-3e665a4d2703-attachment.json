@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 1143,
+    "codCalle_2": 1741,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96785.6485357316,
+    "coordenada_y": 100640.8749113175,
+    "direccion": "DELAMBRE Y ATAHUALPA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DELAMBRE",
+    "nombreCalle_2": "ATAHUALPA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-070B-027a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

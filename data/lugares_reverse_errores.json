@@ -1,0 +1,22 @@
+[
+  {
+    "params": { "x": "abc", "y": -34.6, "radio": 100 },
+    "expected_msg": "Los campos de coordenadas deben ser numericos"
+  },
+  {
+    "params": { "x": -58.38, "y": -34.6, "radio": "abc" },
+    "expected_msg": "El parámetro 'radio' debe ser un número"
+  },
+  {
+    "params": { "radio": 100 },
+    "expected_msg": "Los campos de coordenadas son obligatorios"
+  },
+  {
+    "params": { "x": -58.38, "y": -34.6 },
+    "expected_msg": "El parámetro 'radio' es obligatorio"
+  },
+  {
+    "params": { "x": -58.38, "y": -34.6, "radio": 100, "tipo_sitio": "abc" },
+    "expected_msg": "El parámetro 'tipo_sitio' debe ser un número"
+  }
+]

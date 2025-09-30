@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 29,
+    "codCalle_2": 944,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94859.3829110802,
+    "coordenada_y": 101524.7108485983,
+    "direccion": "NACIONES UNIDAS Y TINOGASTA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NACIONES UNIDAS",
+    "nombreCalle_2": "TINOGASTA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-025B-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 516,
+    "codCalle_2": 1918,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100248.6172850196,
+    "coordenada_y": 97740.6561618456,
+    "direccion": "SANTANDER Y PERGAMINO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANTANDER",
+    "nombreCalle_2": "PERGAMINO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "050-013A-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

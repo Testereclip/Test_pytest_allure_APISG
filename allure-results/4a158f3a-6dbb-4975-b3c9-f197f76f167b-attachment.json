@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 164,
+    "codCalle_2": 1148,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100512.1875976892,
+    "coordenada_y": 100829.7577240492,
+    "direccion": "AVELLANEDA AV. Y CALCENA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AVELLANEDA AV.",
+    "nombreCalle_2": "CALCENA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "057-021-001h",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

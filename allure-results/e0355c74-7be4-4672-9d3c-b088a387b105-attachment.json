@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 995,
+    "codCalle_2": 1361,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 98928.015722874,
+    "coordenada_y": 100085.210849018,
+    "direccion": "BOGOTA Y CUENCA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BOGOTA",
+    "nombreCalle_2": "CUENCA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "077-149-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

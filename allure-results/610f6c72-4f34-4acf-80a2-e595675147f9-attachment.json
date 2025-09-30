@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 80,
+    "codCalle_2": 992,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103813.7110349987,
+    "coordenada_y": 105333.7967863127,
+    "direccion": "THAMES Y SANTA FE AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "THAMES",
+    "nombreCalle_2": "SANTA FE AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-172-004d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

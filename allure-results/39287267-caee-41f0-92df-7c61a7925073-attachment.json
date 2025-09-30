@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 385,
+    "codCalle_2": 2193,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 104095.1329097453,
+    "coordenada_y": 102177.2342866528,
+    "direccion": "BULNES Y MITRE, BARTOLOME",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BULNES",
+    "nombreCalle_2": "MITRE, BARTOLOME",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "013-001-011a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

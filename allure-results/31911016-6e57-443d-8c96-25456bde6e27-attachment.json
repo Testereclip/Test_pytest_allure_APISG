@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 520,
+    "codCalle_2": 1660,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102953.7579098304,
+    "coordenada_y": 100924.4764742039,
+    "direccion": "DOBLAS Y FORMOSA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DOBLAS",
+    "nombreCalle_2": "FORMOSA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-131-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

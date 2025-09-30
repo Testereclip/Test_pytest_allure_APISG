@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 649,
+    "codCalle_2": 925,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103681.08603453,
+    "coordenada_y": 98040.3905370424,
+    "direccion": "RIVERA, FRUCTUOSO, GENERAL Y MUJICA, JOSE PIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIVERA, FRUCTUOSO, GENERAL",
+    "nombreCalle_2": "MUJICA, JOSE PIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-079-011a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

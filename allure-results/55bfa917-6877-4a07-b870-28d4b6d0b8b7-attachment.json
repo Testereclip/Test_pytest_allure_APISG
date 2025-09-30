@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 520,
+    "codCalle_2": 1975,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 103030.140722293,
+    "coordenada_y": 100507.8905367488,
+    "direccion": "DOBLAS Y LA MAR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DOBLAS",
+    "nombreCalle_2": "LA MAR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-112-042",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

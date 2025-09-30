@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 1767,
+    "codCalle_2": 2042,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106298.2813468785,
+    "coordenada_y": 101564.8670993618,
+    "direccion": "REPUBLICA BOLIVARIANA DE VENEZUELA Y SARANDI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "REPUBLICA BOLIVARIANA DE VENEZUELA",
+    "nombreCalle_2": "SARANDI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "020-053-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

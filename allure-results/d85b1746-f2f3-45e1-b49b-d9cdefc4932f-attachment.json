@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1005,
+    "codCalle_2": 1325,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108490.9610338177,
+    "coordenada_y": 98035.7811623672,
+    "direccion": "JOVELLANOS, GASPAR M. DE Y CERRI, DANIEL, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JOVELLANOS, GASPAR M. DE",
+    "nombreCalle_2": "CERRI, DANIEL, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-018-021",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

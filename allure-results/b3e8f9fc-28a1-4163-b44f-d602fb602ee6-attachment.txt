@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=IRIARTE%2C+GRAL.+AV.+Y+ARATA%2C+PEDRO+N.&v2=true

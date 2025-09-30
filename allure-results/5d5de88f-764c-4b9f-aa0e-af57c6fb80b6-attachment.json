@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 1841,
+    "codCalle_2": 2401,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 101873.7735347187,
+    "coordenada_y": 96860.1795995414,
+    "direccion": "SAN PEDRITO Y CHILAVERT, MARTINIANO, CORONEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN PEDRITO",
+    "nombreCalle_2": "CHILAVERT, MARTINIANO, CORONEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "052-054-033b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

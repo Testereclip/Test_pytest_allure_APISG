@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 5,
+    "codCalle_2": 1157,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100316.9803821125,
+    "coordenada_y": 96956.6315714818,
+    "direccion": "AUTOPISTA PRESIDENTE HECTOR J. CAMPORA Y LACARRA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AUTOPISTA PRESIDENTE HECTOR J. CAMPORA",
+    "nombreCalle_2": "LACARRA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "056-160-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 998,
+    "codCalle_2": 1183,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99649.6407231856,
+    "coordenada_y": 106313.8436609322,
+    "direccion": "LA PAMPA Y WASHINGTON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LA PAMPA",
+    "nombreCalle_2": "WASHINGTON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "037-047A-032b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

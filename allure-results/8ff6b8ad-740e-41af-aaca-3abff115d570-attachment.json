@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 969,
+    "codCalle_2": 791,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102231.1068287872,
+    "coordenada_y": 99819.7548393469,
+    "direccion": "DE LA INDUSTRIA Y AUTOPISTA 25 DE MAYO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LA INDUSTRIA",
+    "nombreCalle_2": "AUTOPISTA 25 DE MAYO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-010A-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

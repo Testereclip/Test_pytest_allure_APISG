@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": 2211,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 397,
+    "codCalle_2": null,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106083.8922831112,
+    "coordenada_y": 104708.0505997832,
+    "direccion": "GELLY Y OBES, GRAL. AV. 2211",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "nombreCalle_2": null,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-149-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_altura"
+  },
+  "status_code": 200
+}

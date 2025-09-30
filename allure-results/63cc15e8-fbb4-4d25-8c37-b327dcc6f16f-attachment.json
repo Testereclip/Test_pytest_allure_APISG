@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 505,
+    "codCalle_2": 2541,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 99121.0079107922,
+    "coordenada_y": 106698.9452233581,
+    "direccion": "OLAZABAL AV. Y ESTOMBA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OLAZABAL AV.",
+    "nombreCalle_2": "ESTOMBA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-126-025c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 1259,
+    "codCalle_2": 1311,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98671.3438475157,
+    "coordenada_y": 94159.3358496047,
+    "direccion": "BATLLE Y ORDO\u00d1EZ, JOSE P.T. Y GORDILLO, TIMOTEO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BATLLE Y ORDO\u00d1EZ, JOSE P.T.",
+    "nombreCalle_2": "GORDILLO, TIMOTEO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "080-062-037",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

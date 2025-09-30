@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 625,
+    "codCalle_2": 991,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98881.3454135585,
+    "coordenada_y": 100897.4478912214,
+    "direccion": "GAONA AV. Y ARGERICH",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GAONA AV.",
+    "nombreCalle_2": "ARGERICH",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "067-014-033",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

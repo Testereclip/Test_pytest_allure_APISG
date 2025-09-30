@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 1999,
+    "codCalle_2": 2591,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96647.5860361767,
+    "coordenada_y": 106921.9686606676,
+    "direccion": "NU\u00d1EZ Y BEETHOVEN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NU\u00d1EZ",
+    "nombreCalle_2": "BEETHOVEN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-074A-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

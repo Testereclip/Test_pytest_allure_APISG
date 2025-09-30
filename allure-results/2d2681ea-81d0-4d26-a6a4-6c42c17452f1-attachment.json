@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 2365,
+    "codCalle_2": 2717,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100725.781348141,
+    "coordenada_y": 108014.2342858308,
+    "direccion": "O'HIGGINS Y BLANCO ENCALADA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "O'HIGGINS",
+    "nombreCalle_2": "BLANCO ENCALADA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "025-027-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

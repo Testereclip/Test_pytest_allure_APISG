@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 336,
+    "codCalle_2": 1801,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95784.0235358511,
+    "coordenada_y": 100178.0858487967,
+    "direccion": "VIRGILIO Y GONZALEZ, ELPIDIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VIRGILIO",
+    "nombreCalle_2": "GONZALEZ, ELPIDIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "091-090-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

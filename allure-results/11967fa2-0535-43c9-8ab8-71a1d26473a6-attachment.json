@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1031,
+    "codCalle_2": 2439,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101916.5000975044,
+    "coordenada_y": 101224.2967866024,
+    "direccion": "BACACAY Y ROJAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BACACAY",
+    "nombreCalle_2": "ROJAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-042C-001f",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 250,
+    "codCalle_2": 692,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104410.5704093434,
+    "coordenada_y": 96884.9686622096,
+    "direccion": "MAR DULCE Y CABRED, DOMINGO, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MAR DULCE",
+    "nombreCalle_2": "CABRED, DOMINGO, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "034-014B-006",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

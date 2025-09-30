@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1971,
+    "codCalle_2": 2678,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102203.8204101971,
+    "coordenada_y": 104715.3592862675,
+    "direccion": "FITZ ROY Y VEGA, NICETO, CNEL. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FITZ ROY",
+    "nombreCalle_2": "VEGA, NICETO, CNEL. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "033-080-023a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 1452,
+    "codCalle_2": 1918,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 101797.1563471887,
+    "coordenada_y": 96232.6639746005,
+    "direccion": "VARELA, JACOBO ADRIAN Y PERGAMINO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VARELA, JACOBO ADRIAN",
+    "nombreCalle_2": "PERGAMINO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "052-008A-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

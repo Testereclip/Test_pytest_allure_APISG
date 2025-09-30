@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 410,
+    "codCalle_2": 1575,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 100896.2579101993,
+    "coordenada_y": 101854.1014739686,
+    "direccion": "AMBERES Y FRANKLIN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AMBERES",
+    "nombreCalle_2": "FRANKLIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "057-089B-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

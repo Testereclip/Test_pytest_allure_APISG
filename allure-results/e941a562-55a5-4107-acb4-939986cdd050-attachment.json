@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN CRISTOBAL",
+    "barrioInf": null,
+    "codCalle_1": 736,
+    "codCalle_2": 977,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106004.2657218616,
+    "coordenada_y": 100667.6639744345,
+    "direccion": "SAN JUAN AV. Y PICHINCHA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN JUAN AV.",
+    "nombreCalle_2": "PICHINCHA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "022-025-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

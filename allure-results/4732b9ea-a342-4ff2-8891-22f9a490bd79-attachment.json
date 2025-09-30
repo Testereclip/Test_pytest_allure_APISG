@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NU\u00d1EZ",
+    "barrioInf": null,
+    "codCalle_1": 1736,
+    "codCalle_2": 1772,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99689.9454108398,
+    "coordenada_y": 108701.8905356894,
+    "direccion": "CABILDO AV. Y AZURDUY JUANA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CABILDO AV.",
+    "nombreCalle_2": "AZURDUY JUANA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "027-009-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

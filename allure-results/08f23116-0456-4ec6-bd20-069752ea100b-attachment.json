@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COGHLAN",
+    "barrioInf": null,
+    "codCalle_1": 1402,
+    "codCalle_2": 2199,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98836.9063484102,
+    "coordenada_y": 107850.2811607214,
+    "direccion": "PEREZ, ROQUE Y TAMBORINI, JOSE PASCUAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PEREZ, ROQUE",
+    "nombreCalle_2": "TAMBORINI, JOSE PASCUAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "041-042B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

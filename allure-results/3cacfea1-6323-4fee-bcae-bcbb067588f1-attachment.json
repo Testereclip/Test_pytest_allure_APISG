@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 683,
+    "codCalle_2": 877,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106391.8594715779,
+    "coordenada_y": 97299.304599801,
+    "direccion": "CONI, EMILIO R., DR. Y PONCE, ANIBAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CONI, EMILIO R., DR.",
+    "nombreCalle_2": "PONCE, ANIBAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "026-021F-026",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

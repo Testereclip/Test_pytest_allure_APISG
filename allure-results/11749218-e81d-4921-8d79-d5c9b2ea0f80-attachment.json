@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 149,
+    "codCalle_2": 2092,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 101031.7036533741,
+    "coordenada_y": 99227.4295224451,
+    "direccion": "RECUERO, CASIMIRO, TTE. CNEL. Y CARABOBO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RECUERO, CASIMIRO, TTE. CNEL.",
+    "nombreCalle_2": "CARABOBO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-147-015g",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

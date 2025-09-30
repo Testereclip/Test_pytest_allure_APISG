@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 797,
+    "codCalle_2": 2158,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95385.6016610993,
+    "coordenada_y": 102980.5233484827,
+    "direccion": "ASUNCION Y GUTIERREZ, RICARDO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ASUNCION",
+    "nombreCalle_2": "GUTIERREZ, RICARDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-026-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

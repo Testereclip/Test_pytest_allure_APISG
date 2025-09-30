@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 658,
+    "codCalle_2": 1156,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 102957.6485346503,
+    "coordenada_y": 98242.656161975,
+    "direccion": "RIESTRA AV. Y SALDIAS ADOLFO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIESTRA AV.",
+    "nombreCalle_2": "SALDIAS ADOLFO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-012-003",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

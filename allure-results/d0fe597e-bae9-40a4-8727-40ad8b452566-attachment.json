@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CONSTITUCION",
+    "barrioInf": null,
+    "codCalle_1": 2022,
+    "codCalle_2": 2501,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 106810.2500966805,
+    "coordenada_y": 99758.0780370786,
+    "direccion": "15 DE NOVIEMBRE DE 1889 Y SOLIS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "15 DE NOVIEMBRE DE 1889",
+    "nombreCalle_2": "SOLIS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "016-028-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 380,
+    "codCalle_2": 2236,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95610.1875985516,
+    "coordenada_y": 102772.5545985225,
+    "direccion": "GUALEGUAYCHU Y NAVARRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUALEGUAYCHU",
+    "nombreCalle_2": "NAVARRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-020-024a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

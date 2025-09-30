@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 619,
+    "codCalle_2": 1921,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108894.7579089064,
+    "coordenada_y": 100281.3905371654,
+    "direccion": "NECOCHEA Y AZOPARDO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NECOCHEA",
+    "nombreCalle_2": "AZOPARDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "006-064A-000I",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

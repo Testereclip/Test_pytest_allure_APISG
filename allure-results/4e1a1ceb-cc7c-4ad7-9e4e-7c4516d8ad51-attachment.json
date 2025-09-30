@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": 2455,
+    "barrio": "AGRONOMIA",
+    "barrioInf": "Barrio Rawson",
+    "codCalle_1": 598,
+    "codCalle_2": null,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 97954.7745253336,
+    "coordenada_y": 103668.5626204859,
+    "direccion": "CEPEDA Y AHUMADA, RODRIGO DE 2455",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "nombreCalle_1": "CEPEDA Y AHUMADA, RODRIGO DE",
+    "nombreCalle_2": null,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "071-101C-017",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_altura"
+  },
+  "status_code": 200
+}

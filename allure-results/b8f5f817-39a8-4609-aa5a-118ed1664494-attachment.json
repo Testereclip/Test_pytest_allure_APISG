@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 313,
+    "codCalle_2": 1576,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102575.0000977695,
+    "coordenada_y": 106611.6795986004,
+    "direccion": "MATIENZO, BENJAMIN, TENIENTE Y BAEZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MATIENZO, BENJAMIN, TENIENTE",
+    "nombreCalle_2": "BAEZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-077-010a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

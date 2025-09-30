@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 2292,
+    "codCalle_2": 2570,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102278.6094724102,
+    "coordenada_y": 100621.5077241894,
+    "direccion": "BERTRES Y HUALFIN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BERTRES",
+    "nombreCalle_2": "HUALFIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-037C-009a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

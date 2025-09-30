@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 1620,
+    "codCalle_2": 2246,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98029.9297856332,
+    "coordenada_y": 101943.1717862702,
+    "direccion": "GARCIA, JUAN AGUSTIN Y HELGUERA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GARCIA, JUAN AGUSTIN",
+    "nombreCalle_2": "HELGUERA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "067-011-012d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

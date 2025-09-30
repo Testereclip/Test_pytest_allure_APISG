@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 797,
+    "codCalle_2": 1768,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94562.484473682,
+    "coordenada_y": 102357.7577234919,
+    "direccion": "ASUNCION Y QUEVEDO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ASUNCION",
+    "nombreCalle_2": "QUEVEDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "089-047-014e",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 388,
+    "codCalle_2": 1435,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 96181.3438481309,
+    "coordenada_y": 97799.5311615651,
+    "direccion": "LARRAZABAL AV. Y SPIRO, SAMUEL, CAPITAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LARRAZABAL AV.",
+    "nombreCalle_2": "SPIRO, SAMUEL, CAPITAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "074-139-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

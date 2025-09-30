@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA GRAL. MITRE",
+    "barrioInf": null,
+    "codCalle_1": 1620,
+    "codCalle_2": 1930,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 99161.7422855133,
+    "coordenada_y": 102660.4452237697,
+    "direccion": "GARCIA, JUAN AGUSTIN Y BOYACA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GARCIA, JUAN AGUSTIN",
+    "nombreCalle_2": "BOYACA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-012-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

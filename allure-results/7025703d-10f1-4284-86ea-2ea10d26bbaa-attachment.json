@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 1130,
+    "codCalle_2": 2487,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 95213.1407233275,
+    "coordenada_y": 98557.0624114224,
+    "direccion": "BOSCH, VENTURA Y TONELERO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BOSCH, VENTURA",
+    "nombreCalle_2": "TONELERO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-144-021a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

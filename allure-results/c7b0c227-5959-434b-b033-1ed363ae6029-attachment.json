@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 30,
+    "codCalle_2": 1460,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97834.0469731227,
+    "coordenada_y": 101341.8358488153,
+    "direccion": "CONCORDIA Y MAGARI\u00d1OS CERVANTES, A.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CONCORDIA",
+    "nombreCalle_2": "MAGARI\u00d1OS CERVANTES, A.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-121A-016",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

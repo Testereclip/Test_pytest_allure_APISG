@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1956,
+    "codCalle_2": 2481,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103293.0235346133,
+    "coordenada_y": 98434.5780369779,
+    "direccion": "ARQUIMEDES Y SALVIGNY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARQUIMEDES",
+    "nombreCalle_2": "SALVIGNY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-062A-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

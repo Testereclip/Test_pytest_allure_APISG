@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 1352,
+    "codCalle_2": 1904,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 109874.3125962014,
+    "coordenada_y": 99353.546787324,
+    "direccion": "OLAVARRIA Y BRIN, MINISTRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OLAVARRIA",
+    "nombreCalle_2": "BRIN, MINISTRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "006-066-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

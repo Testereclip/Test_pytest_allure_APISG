@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=YAPEYU+Y+ESTADOS+UNIDOS&v2=true

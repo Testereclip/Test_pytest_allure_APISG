@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 2434,
+    "codCalle_2": 2724,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 104891.0625971501,
+    "coordenada_y": 102500.5545991712,
+    "direccion": "JAURES, JEAN Y SARMIENTO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JAURES, JEAN",
+    "nombreCalle_2": "SARMIENTO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "013-078-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

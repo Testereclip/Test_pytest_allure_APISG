@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 1520,
+    "codCalle_2": 2547,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97934.9766610151,
+    "coordenada_y": 107392.3045982068,
+    "direccion": "ACHA, MARIANO, GRAL. Y MERCADER, EMIR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACHA, MARIANO, GRAL.",
+    "nombreCalle_2": "MERCADER, EMIR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "053-069A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

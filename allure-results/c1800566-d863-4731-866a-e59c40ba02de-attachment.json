@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 1105,
+    "codCalle_2": 1628,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98937.1875977217,
+    "coordenada_y": 97833.648349248,
+    "direccion": "MONTE Y VALLE, MARIA R. DEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MONTE",
+    "nombreCalle_2": "VALLE, MARIA R. DEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-101C-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

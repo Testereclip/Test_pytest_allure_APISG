@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 2323,
+    "codCalle_2": 2735,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96914.1719731795,
+    "coordenada_y": 100152.4842863759,
+    "direccion": "CARRASCO AV. Y ESCALADA DE SAN MARTIN, R.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARRASCO AV.",
+    "nombreCalle_2": "ESCALADA DE SAN MARTIN, R.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-079-034f",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

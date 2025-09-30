@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 357,
+    "codCalle_2": 2688,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94729.3204111813,
+    "coordenada_y": 102738.4530359653,
+    "direccion": "ALLENDE Y CARRIL, SALVADOR MARIA DEL AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALLENDE",
+    "nombreCalle_2": "CARRIL, SALVADOR MARIA DEL AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "089-049-034",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

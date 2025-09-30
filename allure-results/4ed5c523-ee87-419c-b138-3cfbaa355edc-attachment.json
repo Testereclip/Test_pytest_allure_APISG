@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 884,
+    "codCalle_2": 998,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101337.9766605138,
+    "coordenada_y": 107506.6717859231,
+    "direccion": "11 DE SEPTIEMBRE DE 1888 Y LA PAMPA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "11 DE SEPTIEMBRE DE 1888",
+    "nombreCalle_2": "LA PAMPA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-065-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

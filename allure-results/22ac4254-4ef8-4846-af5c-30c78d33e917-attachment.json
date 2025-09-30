@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PUERTO MADERO",
+    "barrioInf": null,
+    "codCalle_1": 1210,
+    "codCalle_2": 1455,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108768.099026086,
+    "coordenada_y": 102481.3792877937,
+    "direccion": "HUERGO, ING. AV. Y MADERO, EDUARDO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HUERGO, ING. AV.",
+    "nombreCalle_2": "MADERO, EDUARDO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "098-066-003",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

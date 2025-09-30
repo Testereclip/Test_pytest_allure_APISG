@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 699,
+    "codCalle_2": 2267,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97191.2969731865,
+    "coordenada_y": 100880.7186613198,
+    "direccion": "\u00d1ANDUTI Y CAMARONES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "\u00d1ANDUTI",
+    "nombreCalle_2": "CAMARONES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-031C-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

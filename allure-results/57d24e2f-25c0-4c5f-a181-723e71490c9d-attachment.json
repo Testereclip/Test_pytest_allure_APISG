@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 609,
+    "codCalle_2": 635,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 102699.8829100028,
+    "coordenada_y": 102920.9686614819,
+    "direccion": "GALLARDO, ANGEL AV. Y VERA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GALLARDO, ANGEL AV.",
+    "nombreCalle_2": "VERA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-189-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

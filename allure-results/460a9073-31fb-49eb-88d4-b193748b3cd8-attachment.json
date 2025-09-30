@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 199,
+    "codCalle_2": 460,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 99676.796972607,
+    "coordenada_y": 97789.0702243013,
+    "direccion": "TOLEDO Y VINCHINA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TOLEDO",
+    "nombreCalle_2": "VINCHINA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "056-136B-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

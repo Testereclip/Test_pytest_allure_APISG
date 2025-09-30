@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1784,
+    "codCalle_2": 2420,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102172.3829103417,
+    "coordenada_y": 106801.968661051,
+    "direccion": "VILLANUEVA Y GOROSTIAGA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VILLANUEVA",
+    "nombreCalle_2": "GOROSTIAGA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-016B-000C",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

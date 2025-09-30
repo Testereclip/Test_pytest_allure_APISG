@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ESCALADA+AV.+Y+GANDARILLAS%2C+MANUELA&v2=true

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 1764,
+    "codCalle_2": 2717,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100560.5938481562,
+    "coordenada_y": 107895.5155358302,
+    "direccion": "CUBA Y BLANCO ENCALADA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CUBA",
+    "nombreCalle_2": "BLANCO ENCALADA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "025-013-001e",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

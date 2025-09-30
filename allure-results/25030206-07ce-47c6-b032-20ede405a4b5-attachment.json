@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 2212,
+    "codCalle_2": 2431,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100763.8739833382,
+    "coordenada_y": 104641.5205652419,
+    "direccion": "CORRIENTES AV. Y GUZMAN AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CORRIENTES AV.",
+    "nombreCalle_2": "GUZMAN AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-193D-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

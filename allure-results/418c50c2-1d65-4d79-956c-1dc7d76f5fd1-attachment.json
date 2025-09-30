@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 400,
+    "codCalle_2": 2039,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100587.5235350693,
+    "coordenada_y": 99238.5702242146,
+    "direccion": "FERNANDEZ MORENO, BALDOMERO Y NAON, JUAN JOSE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FERNANDEZ MORENO, BALDOMERO",
+    "nombreCalle_2": "NAON, JUAN JOSE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-112C-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

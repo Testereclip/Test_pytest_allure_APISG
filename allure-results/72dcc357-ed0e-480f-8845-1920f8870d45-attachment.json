@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 687,
+    "codCalle_2": 2717,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97768.5079109372,
+    "coordenada_y": 105878.4920983486,
+    "direccion": "BUCARELLI Y BLANCO ENCALADA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BUCARELLI",
+    "nombreCalle_2": "BLANCO ENCALADA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-042-005b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

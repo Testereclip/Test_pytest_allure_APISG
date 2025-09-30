@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 92,
+    "codCalle_2": 2185,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 104917.6172845817,
+    "coordenada_y": 101553.9764742708,
+    "direccion": "BELGRANO AV. Y URQUIZA, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BELGRANO AV.",
+    "nombreCalle_2": "URQUIZA, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "028-045-009a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

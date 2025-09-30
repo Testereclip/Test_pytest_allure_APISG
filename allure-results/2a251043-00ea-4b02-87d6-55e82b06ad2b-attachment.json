@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 1087,
+    "codCalle_2": 645,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 96544.3750980833,
+    "coordenada_y": 97900.054599079,
+    "direccion": "ARTIGAS MANUEL DE Y MIRALLA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARTIGAS MANUEL DE",
+    "nombreCalle_2": "MIRALLA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "060-031B-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 727,
+    "codCalle_2": 2254,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97179.1797857413,
+    "coordenada_y": 101650.3436612403,
+    "direccion": "MIRANDA Y SAN NICOLAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MIRANDA",
+    "nombreCalle_2": "SAN NICOLAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-099-014a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

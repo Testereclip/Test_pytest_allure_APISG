@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 400,
+    "codCalle_2": 1559,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 101914.468847409,
+    "coordenada_y": 99786.3905367486,
+    "direccion": "FERNANDEZ MORENO, BALDOMERO Y MITRE, EMILIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FERNANDEZ MORENO, BALDOMERO",
+    "nombreCalle_2": "MITRE, EMILIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "042-043A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

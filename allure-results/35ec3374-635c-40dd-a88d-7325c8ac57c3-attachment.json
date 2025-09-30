@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1077,
+    "codCalle_2": 2174,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104501.7032219583,
+    "coordenada_y": 98802.812412022,
+    "direccion": "GUARANI Y POMAR, GREGORIO TTE. CNEL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUARANI",
+    "nombreCalle_2": "POMAR, GREGORIO TTE. CNEL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "032-020-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

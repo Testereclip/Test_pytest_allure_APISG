@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": "Conjunto Habitacional Ribera Iguazu",
+    "codCalle_1": 600,
+    "codCalle_2": 717,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105601.532230771,
+    "coordenada_y": 96805.7425284193,
+    "direccion": "ACOSTA \u00d1U Y 8 DE JULIO DE 2008",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACOSTA \u00d1U",
+    "nombreCalle_2": "8 DE JULIO DE 2008",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "034-084B-000",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

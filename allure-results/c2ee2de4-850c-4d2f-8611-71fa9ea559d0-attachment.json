@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 2042,
+    "codCalle_2": 2519,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106301.0469718718,
+    "coordenada_y": 101482.10147437,
+    "direccion": "SARANDI Y MEXICO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SARANDI",
+    "nombreCalle_2": "MEXICO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "020-053-033a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

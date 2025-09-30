@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 743,
+    "codCalle_2": 1032,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104446.6641593611,
+    "coordenada_y": 97219.6483496767,
+    "direccion": "ROMERO Y BEAZLEY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ROMERO",
+    "nombreCalle_2": "BEAZLEY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "034-023-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

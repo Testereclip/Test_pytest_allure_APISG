@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 624,
+    "codCalle_2": 2480,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 109616.2579087809,
+    "coordenada_y": 99982.8983497437,
+    "direccion": "PEREZ GALDOS, BENITO AV. Y CABOTO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PEREZ GALDOS, BENITO AV.",
+    "nombreCalle_2": "CABOTO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "006-074-010n",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

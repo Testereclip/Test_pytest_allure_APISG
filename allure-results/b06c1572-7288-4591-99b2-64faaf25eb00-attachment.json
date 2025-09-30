@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 632,
+    "codCalle_2": 991,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 95719.875098718,
+    "coordenada_y": 105472.3983482529,
+    "direccion": "LARSEN Y ARGERICH",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LARSEN",
+    "nombreCalle_2": "ARGERICH",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-026-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

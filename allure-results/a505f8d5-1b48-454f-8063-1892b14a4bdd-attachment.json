@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 1479,
+    "codCalle_2": 1505,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105262.5235346312,
+    "coordenada_y": 103053.9452241414,
+    "direccion": "BOULOGNE SUR MER Y TUCUMAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BOULOGNE SUR MER",
+    "nombreCalle_2": "TUCUMAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "013-100-017a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

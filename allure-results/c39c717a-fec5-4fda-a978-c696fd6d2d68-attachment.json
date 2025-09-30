@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 493,
+    "codCalle_2": 924,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101738.0079101429,
+    "coordenada_y": 102858.9295989244,
+    "direccion": "HIDALGO Y FIGUEROA, D. APOLINARIO, CORONEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HIDALGO",
+    "nombreCalle_2": "FIGUEROA, D. APOLINARIO, CORONEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-092-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 223,
+    "codCalle_2": 748,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102855.9219725748,
+    "coordenada_y": 104354.0545988474,
+    "direccion": "CABRERA, JOSE A. Y SERRANO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CABRERA, JOSE A.",
+    "nombreCalle_2": "SERRANO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-110-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

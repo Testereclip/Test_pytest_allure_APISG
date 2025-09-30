@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 198,
+    "codCalle_2": 2270,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103134.0547850854,
+    "coordenada_y": 105121.9061612863,
+    "direccion": "GODOY CRUZ Y ZOLA, EMILIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GODOY CRUZ",
+    "nombreCalle_2": "ZOLA, EMILIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-097H-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

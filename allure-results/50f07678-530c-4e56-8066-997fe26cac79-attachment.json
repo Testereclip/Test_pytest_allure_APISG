@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 324,
+    "codCalle_2": 608,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96770.6407236037,
+    "coordenada_y": 106115.2655357574,
+    "direccion": "CONGRESO AV. Y AIZPURUA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CONGRESO AV.",
+    "nombreCalle_2": "AIZPURUA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-035-014c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

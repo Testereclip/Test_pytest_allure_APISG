@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 998,
+    "codCalle_2": 1300,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101657.8907229823,
+    "coordenada_y": 107735.4452234236,
+    "direccion": "LA PAMPA Y DEL LIBERTADOR AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LA PAMPA",
+    "nombreCalle_2": "DEL LIBERTADOR AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-127-010a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

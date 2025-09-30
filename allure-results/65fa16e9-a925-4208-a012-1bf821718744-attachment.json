@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1889,
+    "codCalle_2": 2241,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102109.8204102651,
+    "coordenada_y": 105544.093661177,
+    "direccion": "EL SALVADOR Y CONVENCION",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "EL SALVADOR",
+    "nombreCalle_2": "CONVENCION",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "035-049-022",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

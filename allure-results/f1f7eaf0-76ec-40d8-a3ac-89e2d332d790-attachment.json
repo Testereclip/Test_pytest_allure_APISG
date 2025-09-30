@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 236,
+    "codCalle_2": 2416,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 98311.9297854262,
+    "coordenada_y": 99499.4920990359,
+    "direccion": "RIVADAVIA AV. Y CHIVILCOY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIVADAVIA AV.",
+    "nombreCalle_2": "CHIVILCOY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "077-098-004c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

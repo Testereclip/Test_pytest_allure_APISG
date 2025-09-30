@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 412,
+    "codCalle_2": 1329,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 96288.0235354693,
+    "coordenada_y": 95616.0780367945,
+    "direccion": "SAN PEDRO Y MONTIEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN PEDRO",
+    "nombreCalle_2": "MONTIEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "076-049-027",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

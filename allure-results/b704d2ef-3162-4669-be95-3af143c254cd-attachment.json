@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 208,
+    "codCalle_2": 2525,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98966.617285448,
+    "coordenada_y": 101273.3280363988,
+    "direccion": "TERRADA Y GALICIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TERRADA",
+    "nombreCalle_2": "GALICIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "067-039-032c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": "Conjunto Habitacional Los Piletones",
+    "codCalle_1": 171,
+    "codCalle_2": 2521,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100569.3766872517,
+    "coordenada_y": 96150.529906438,
+    "direccion": "SENDERO 6 DE AGOSTO Y SENDERO 14 DE MAYO",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SENDERO 6 DE AGOSTO",
+    "nombreCalle_2": "SENDERO 14 DE MAYO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "056-197-000",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

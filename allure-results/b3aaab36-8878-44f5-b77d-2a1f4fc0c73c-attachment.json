@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 166,
+    "codCalle_2": 367,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104872.8829098341,
+    "coordenada_y": 105216.3124113962,
+    "direccion": "SALGUERO, JERONIMO Y LAS HERAS GENERAL AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SALGUERO, JERONIMO",
+    "nombreCalle_2": "LAS HERAS GENERAL AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-042-020a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

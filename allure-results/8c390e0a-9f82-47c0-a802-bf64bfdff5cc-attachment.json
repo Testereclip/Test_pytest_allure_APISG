@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1,
+    "codCalle_2": 1017,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103526.2032220533,
+    "coordenada_y": 98067.8436620303,
+    "direccion": "ARBELETCHE, ANIBAL P. Y TILCARA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARBELETCHE, ANIBAL P.",
+    "nombreCalle_2": "TILCARA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-077B-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

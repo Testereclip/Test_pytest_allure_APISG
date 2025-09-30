@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 975,
+    "codCalle_2": 1683,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 97634.7735354237,
+    "coordenada_y": 97957.9530366455,
+    "direccion": "CHASCOMUS Y HOMERO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CHASCOMUS",
+    "nombreCalle_2": "HOMERO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "062-168-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

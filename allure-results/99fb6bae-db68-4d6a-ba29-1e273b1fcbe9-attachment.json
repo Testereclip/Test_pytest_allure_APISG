@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CONSTITUCION",
+    "barrioInf": null,
+    "codCalle_1": 2602,
+    "codCalle_2": 2636,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107768.5079090972,
+    "coordenada_y": 100623.6561620545,
+    "direccion": "COCHABAMBA Y TACUARI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "COCHABAMBA",
+    "nombreCalle_2": "TACUARI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "014-069-026a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

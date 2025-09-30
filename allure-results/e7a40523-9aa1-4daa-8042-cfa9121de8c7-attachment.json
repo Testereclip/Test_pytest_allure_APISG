@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 955,
+    "codCalle_2": 1253,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94910.4297858366,
+    "coordenada_y": 98024.0077239558,
+    "direccion": "CAAGUAZU Y PILAR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CAAGUAZU",
+    "nombreCalle_2": "PILAR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-105-030",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 807,
+    "codCalle_2": 910,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 101982.9610348328,
+    "coordenada_y": 98786.5389743546,
+    "direccion": "PUAN Y SARAZA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PUAN",
+    "nombreCalle_2": "SARAZA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-123A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

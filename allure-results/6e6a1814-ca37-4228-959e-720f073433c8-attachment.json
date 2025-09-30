@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 313,
+    "codCalle_2": 1736,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102169.1641603069,
+    "coordenada_y": 106274.820223606,
+    "direccion": "MATIENZO, BENJAMIN, TENIENTE Y CABILDO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MATIENZO, BENJAMIN, TENIENTE",
+    "nombreCalle_2": "CABILDO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-008-000D",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

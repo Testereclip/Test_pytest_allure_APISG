@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 367,
+    "codCalle_2": 967,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104963.3829098183,
+    "coordenada_y": 105182.5233489036,
+    "direccion": "LAS HERAS GENERAL AV. Y PAUNERO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAS HERAS GENERAL AV.",
+    "nombreCalle_2": "PAUNERO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-030-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

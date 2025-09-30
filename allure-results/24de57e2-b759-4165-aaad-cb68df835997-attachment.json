@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "AGRONOMIA",
+    "barrioInf": null,
+    "codCalle_1": 1637,
+    "codCalle_2": 2307,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 97117.9375984355,
+    "coordenada_y": 104393.8045984582,
+    "direccion": "TRIPOLI Y NUEVA YORK",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TRIPOLI",
+    "nombreCalle_2": "NUEVA YORK",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "071-084-006",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 746,
+    "codCalle_2": 2059,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103924.1719719677,
+    "coordenada_y": 97658.8514745991,
+    "direccion": "TILCARA AV. Y RAMIREZ, CARLOS M.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TILCARA AV.",
+    "nombreCalle_2": "RAMIREZ, CARLOS M.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-055A-001g",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

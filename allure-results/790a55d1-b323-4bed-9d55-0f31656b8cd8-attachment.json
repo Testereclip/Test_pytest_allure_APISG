@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 236,
+    "codCalle_2": 784,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 98199.2500979417,
+    "coordenada_y": 99466.5233490315,
+    "direccion": "RIVADAVIA AV. Y BENEDETTI, OSVALDO E., DIP.NAC.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIVADAVIA AV.",
+    "nombreCalle_2": "BENEDETTI, OSVALDO E., DIP.NAC.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "077-089-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

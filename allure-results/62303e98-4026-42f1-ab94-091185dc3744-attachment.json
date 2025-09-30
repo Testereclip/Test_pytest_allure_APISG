@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 678,
+    "codCalle_2": 2471,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94657.461035901,
+    "coordenada_y": 98415.3124114003,
+    "direccion": "PALMAR Y LAS BASES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PALMAR",
+    "nombreCalle_2": "LAS BASES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-096B-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

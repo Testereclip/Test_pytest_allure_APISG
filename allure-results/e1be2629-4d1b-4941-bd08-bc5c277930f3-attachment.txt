@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=NUEVA+YORK+Y+HALL%2C+BASILIO&v2=true

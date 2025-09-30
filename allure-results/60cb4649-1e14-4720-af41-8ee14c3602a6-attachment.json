@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 2655,
+    "codCalle_2": 1761,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100160.6053914095,
+    "coordenada_y": 106185.8663309304,
+    "direccion": "DE LOS INCAS AV. Y SUPERI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LOS INCAS AV.",
+    "nombreCalle_2": "SUPERI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "037-062B-017c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

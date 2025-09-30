@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 380,
+    "codCalle_2": 2735,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97465.3907231255,
+    "coordenada_y": 100573.9139738685,
+    "direccion": "GUALEGUAYCHU Y ESCALADA DE SAN MARTIN, R.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUALEGUAYCHU",
+    "nombreCalle_2": "ESCALADA DE SAN MARTIN, R.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-028A-013b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

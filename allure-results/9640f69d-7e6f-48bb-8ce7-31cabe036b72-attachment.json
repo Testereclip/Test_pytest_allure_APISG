@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 814,
+    "codCalle_2": 2510,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96862.7500986365,
+    "coordenada_y": 106818.9452231941,
+    "direccion": "PEDRAZA, MANUELA Y BERTHELOT",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PEDRAZA, MANUELA",
+    "nombreCalle_2": "BERTHELOT",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-084B-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

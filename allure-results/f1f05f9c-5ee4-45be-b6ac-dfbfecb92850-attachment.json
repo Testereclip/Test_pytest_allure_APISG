@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 132,
+    "codCalle_2": 1413,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103584.3516600063,
+    "coordenada_y": 104946.992098838,
+    "direccion": "PARAGUAY Y BORGES, JORGE LUIS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PARAGUAY",
+    "nombreCalle_2": "BORGES, JORGE LUIS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-140-022a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

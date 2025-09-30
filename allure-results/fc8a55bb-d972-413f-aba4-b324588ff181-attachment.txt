@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PEREZ+ROSALES%2C+VICENTE+Y+NUEVA+YORK&v2=true

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 1277,
+    "codCalle_2": 2516,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98312.8125976739,
+    "coordenada_y": 95732.7342869199,
+    "direccion": "GUIRALDES, RICARDO Y ALVAREZ, CRISOSTOMO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUIRALDES, RICARDO",
+    "nombreCalle_2": "ALVAREZ, CRISOSTOMO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "064-004B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=TORRES+PAREDES%2C+FRANCISCO+Y+BARROS+PAZOS%2C+JOSE&v2=true

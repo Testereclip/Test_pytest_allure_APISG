@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": "Barrio Padre Mugica",
+    "codCalle_1": 1954,
+    "codCalle_2": 2112,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107321.2212933705,
+    "coordenada_y": 105225.2401034933,
+    "direccion": "MOCHICA Y CINA CINA",
+    "manzanaInf": "5",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MOCHICA",
+    "nombreCalle_2": "CINA CINA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "42",
+    "sectorInf": "FE - Ferroviario",
+    "smp": "003-066B-001r",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

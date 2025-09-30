@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 1063,
+    "codCalle_2": 2497,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101004.937597891,
+    "coordenada_y": 104929.1170986652,
+    "direccion": "FRAGA Y OLLEROS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FRAGA",
+    "nombreCalle_2": "OLLEROS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "033-030-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

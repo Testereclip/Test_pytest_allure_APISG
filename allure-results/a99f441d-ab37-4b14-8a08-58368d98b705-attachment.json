@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 1594,
+    "codCalle_2": 1881,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 98687.7657229315,
+    "coordenada_y": 100416.7499114687,
+    "direccion": "CAMPANA Y MORON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CAMPANA",
+    "nombreCalle_2": "MORON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "077-153-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

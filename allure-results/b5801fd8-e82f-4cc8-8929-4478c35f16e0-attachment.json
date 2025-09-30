@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 458,
+    "codCalle_2": 1320,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 102905.8594725207,
+    "coordenada_y": 103641.6014739219,
+    "direccion": "ARAOZ Y JUFRE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARAOZ",
+    "nombreCalle_2": "JUFRE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-075-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 910,
+    "codCalle_2": 2406,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98705.6016601048,
+    "coordenada_y": 95583.3983494601,
+    "direccion": "SARAZA Y FONROUGE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SARAZA",
+    "nombreCalle_2": "FONROUGE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "064-020-031",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

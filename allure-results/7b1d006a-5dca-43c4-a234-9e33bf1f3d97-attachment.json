@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN CRISTOBAL",
+    "barrioInf": null,
+    "codCalle_1": 447,
+    "codCalle_2": 1441,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105682.7500968776,
+    "coordenada_y": 100199.5702244596,
+    "direccion": "PAVON Y JUJUY AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PAVON",
+    "nombreCalle_2": "JUJUY AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "022-002-020c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

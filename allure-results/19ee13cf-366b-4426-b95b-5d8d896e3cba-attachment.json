@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 1820,
+    "codCalle_2": 2299,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100121.7761782095,
+    "coordenada_y": 97683.8317401402,
+    "direccion": "MORENO, PERITO AV. Y ACOSTA, MARIANO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MORENO, PERITO AV.",
+    "nombreCalle_2": "ACOSTA, MARIANO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "056-113B-000U",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1352,
+    "codCalle_2": 1950,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107926.7500964413,
+    "coordenada_y": 98655.9295997663,
+    "direccion": "OLAVARRIA Y HERRERA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OLAVARRIA",
+    "nombreCalle_2": "HERRERA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-136-006",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 1027,
+    "codCalle_2": 2524,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 102681.0860350324,
+    "coordenada_y": 103319.0858489408,
+    "direccion": "ALVAREZ, JULIAN Y AGUIRRE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALVAREZ, JULIAN",
+    "nombreCalle_2": "AGUIRRE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-038-022",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PRIMERA+JUNTA+Y+BASUALDO&v2=true

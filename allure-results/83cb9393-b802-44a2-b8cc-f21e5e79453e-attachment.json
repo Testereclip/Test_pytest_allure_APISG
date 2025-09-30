@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 412,
+    "codCalle_2": 987,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 97135.7813479,
+    "coordenada_y": 96498.124911762,
+    "direccion": "SAN PEDRO Y OLIDEN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN PEDRO",
+    "nombreCalle_2": "OLIDEN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "076-169-023a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

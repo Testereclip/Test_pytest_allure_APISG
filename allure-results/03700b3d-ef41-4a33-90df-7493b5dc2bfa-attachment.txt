@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ARANGUREN%2C+JUAN+F.%2C+DR.+Y+MENENDEZ+Y+PELAYO&v2=true

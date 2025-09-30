@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 2094,
+    "codCalle_2": 2606,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101621.3750975575,
+    "coordenada_y": 101325.4999115726,
+    "direccion": "AVELLANEDA Y GARCIA LORCA, FEDERICO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AVELLANEDA",
+    "nombreCalle_2": "GARCIA LORCA, FEDERICO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-004-027a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

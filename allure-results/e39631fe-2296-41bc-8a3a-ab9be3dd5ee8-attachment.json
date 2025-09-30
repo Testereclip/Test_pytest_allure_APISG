@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 569,
+    "codCalle_2": 937,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 105756.1719722377,
+    "coordenada_y": 105742.2655364022,
+    "direccion": "OMBU Y CANE, MIGUEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OMBU",
+    "nombreCalle_2": "CANE, MIGUEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-169-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

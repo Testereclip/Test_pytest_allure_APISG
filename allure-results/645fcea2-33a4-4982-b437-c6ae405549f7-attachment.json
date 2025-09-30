@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 166,
+    "codCalle_2": 2120,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104128.7266598564,
+    "coordenada_y": 103898.7264739798,
+    "direccion": "SALGUERO, JERONIMO Y HONDURAS AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SALGUERO, JERONIMO",
+    "nombreCalle_2": "HONDURAS AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-041-023a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 932,
+    "codCalle_2": 1862,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97603.4002775877,
+    "coordenada_y": 99297.0844228488,
+    "direccion": "OLMOS, JUAN FRANCISCO Y CARRERAS, SANTIAGO DE LAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OLMOS, JUAN FRANCISCO",
+    "nombreCalle_2": "CARRERAS, SANTIAGO DE LAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "077-038-033",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 182,
+    "codCalle_2": 1534,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106884.8516590917,
+    "coordenada_y": 98602.9217872023,
+    "direccion": "LUZURIAGA Y MIRAVE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LUZURIAGA",
+    "nombreCalle_2": "MIRAVE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-029-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

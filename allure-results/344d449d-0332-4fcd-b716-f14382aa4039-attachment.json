@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 1621,
+    "codCalle_2": 2309,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101288.9219731155,
+    "coordenada_y": 108906.9530357788,
+    "direccion": "RICCHERI, PABLO, TTE. GRAL. Y GARCIA, MANUEL J., ALTE.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RICCHERI, PABLO, TTE. GRAL.",
+    "nombreCalle_2": "GARCIA, MANUEL J., ALTE.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "027-113-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

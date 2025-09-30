@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CARBONARI%2C+FRANCISCO%2C+CMTE.+Y+PALACIOS%2C+ALFREDO+L.&v2=true

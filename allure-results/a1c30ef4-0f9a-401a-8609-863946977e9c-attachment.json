@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1453,
+    "codCalle_2": 2387,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103803.281347594,
+    "coordenada_y": 106730.1561611696,
+    "direccion": "FREYRE, MARCELINO E., CNEL. AV. Y DORREGO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FREYRE, MARCELINO E., CNEL. AV.",
+    "nombreCalle_2": "DORREGO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-135-000A",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

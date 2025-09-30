@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": "Barrio Gral. San Martin",
+    "codCalle_1": 1704,
+    "codCalle_2": 2464,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 95757.6216021344,
+    "coordenada_y": 106193.8128792984,
+    "direccion": "O'CONNOR, ELSA Y EL GAUCHO",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "O'CONNOR, ELSA",
+    "nombreCalle_2": "EL GAUCHO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "075-019G-000",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

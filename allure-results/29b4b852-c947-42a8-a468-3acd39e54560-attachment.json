@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 54,
+    "codCalle_2": 1527,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100876.5000975733,
+    "coordenada_y": 99914.5702241672,
+    "direccion": "PUMACAHUA Y BONIFACIO, JOSE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PUMACAHUA",
+    "nombreCalle_2": "BONIFACIO, JOSE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "042-008-018f",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

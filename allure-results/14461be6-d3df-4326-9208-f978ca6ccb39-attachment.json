@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 597,
+    "codCalle_2": 1551,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105477.8204095696,
+    "coordenada_y": 102622.6092866985,
+    "direccion": "PASO Y GOMEZ, VALENTIN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PASO",
+    "nombreCalle_2": "GOMEZ, VALENTIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "009-019-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

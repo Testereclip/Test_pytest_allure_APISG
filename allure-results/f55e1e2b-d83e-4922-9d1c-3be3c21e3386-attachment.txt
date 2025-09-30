@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=REPUBLICA+BOLIVARIANA+DE+VENEZUELA+Y+LIMA&v2=true

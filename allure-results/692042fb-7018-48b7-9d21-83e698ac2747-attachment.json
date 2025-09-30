@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 1564,
+    "codCalle_2": 1999,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 95909.1563487584,
+    "coordenada_y": 106495.5858481609,
+    "direccion": "REPUBLICA DE SAN MARINO Y NU\u00d1EZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "REPUBLICA DE SAN MARINO",
+    "nombreCalle_2": "NU\u00d1EZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-013-030",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

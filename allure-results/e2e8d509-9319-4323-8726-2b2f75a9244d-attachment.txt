@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CYMES%2C+JUAN+Y+EL+ELECTRICISTA%2C+BUSTAMANTE%2C+NICASIO+FEDERICO&v2=true

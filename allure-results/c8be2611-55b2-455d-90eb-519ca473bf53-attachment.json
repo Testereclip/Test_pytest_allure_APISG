@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 643,
+    "codCalle_2": 907,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103229.6172850698,
+    "coordenada_y": 105083.9061612992,
+    "direccion": "GUATEMALA Y FRAY JUSTO SANTAMARIA DE ORO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUATEMALA",
+    "nombreCalle_2": "FRAY JUSTO SANTAMARIA DE ORO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-123-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

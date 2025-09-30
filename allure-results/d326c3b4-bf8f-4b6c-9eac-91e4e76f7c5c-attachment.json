@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 1803,
+    "codCalle_2": 2699,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98300.3907233918,
+    "coordenada_y": 106388.5702233323,
+    "direccion": "MONROE Y VALDENEGRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MONROE",
+    "nombreCalle_2": "VALDENEGRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-079-010b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

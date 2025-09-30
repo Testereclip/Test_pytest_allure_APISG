@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SCALABRINI+ORTIZ%2C+RAUL+Y+JUNCAL&v2=true

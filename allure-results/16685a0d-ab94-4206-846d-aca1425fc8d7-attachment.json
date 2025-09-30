@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 711,
+    "codCalle_2": 1022,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99938.2266604226,
+    "coordenada_y": 103052.6561612842,
+    "direccion": "ESPINOSA Y DICKMAN, ADOLFO, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ESPINOSA",
+    "nombreCalle_2": "DICKMAN, ADOLFO, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-093-001b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

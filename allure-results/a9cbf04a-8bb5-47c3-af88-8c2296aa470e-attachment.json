@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": "Barrio Gral. San Martin",
+    "codCalle_1": 211,
+    "codCalle_2": 1704,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 95830.7046395931,
+    "coordenada_y": 106093.758720866,
+    "direccion": "ESTRELLA FEDERAL Y O'CONNOR, ELSA",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ESTRELLA FEDERAL",
+    "nombreCalle_2": "O'CONNOR, ELSA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "075-019F-000",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

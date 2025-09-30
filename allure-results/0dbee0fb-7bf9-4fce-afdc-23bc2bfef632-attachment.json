@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio INTA (ex Villa 19)",
+    "codCalle_1": 2065,
+    "codCalle_2": 2358,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 97934.9251379168,
+    "coordenada_y": 93900.1546142996,
+    "direccion": "LOS ROBLES Y LOS TILOS",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LOS ROBLES",
+    "nombreCalle_2": "LOS TILOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "080-004G-018",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

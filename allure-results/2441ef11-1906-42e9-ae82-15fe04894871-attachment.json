@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 379,
+    "codCalle_2": 1655,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100640.312597197,
+    "coordenada_y": 93791.1170997712,
+    "direccion": "ROCA, CNEL. AV. Y PJE (AV. ROCA 5400)",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ROCA, CNEL. AV.",
+    "nombreCalle_2": "PJE (AV. ROCA 5400)",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "068-104-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

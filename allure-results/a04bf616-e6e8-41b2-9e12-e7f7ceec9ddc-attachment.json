@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 1625,
+    "codCalle_2": 2212,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103595.3985348702,
+    "coordenada_y": 102928.8045990436,
+    "direccion": "GASCON Y CORRIENTES AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GASCON",
+    "nombreCalle_2": "CORRIENTES AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "017-071-021c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

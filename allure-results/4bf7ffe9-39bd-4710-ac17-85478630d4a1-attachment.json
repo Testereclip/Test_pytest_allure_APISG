@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PUERTO MADERO",
+    "barrioInf": null,
+    "codCalle_1": 1838,
+    "codCalle_2": 468,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 109151.9532215743,
+    "coordenada_y": 103360.3670993721,
+    "direccion": "DE LOS ITALIANOS AV. Y SANCHEZ DE THOMPSON, MARIQUITA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LOS ITALIANOS AV.",
+    "nombreCalle_2": "SANCHEZ DE THOMPSON, MARIQUITA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "097-001R-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

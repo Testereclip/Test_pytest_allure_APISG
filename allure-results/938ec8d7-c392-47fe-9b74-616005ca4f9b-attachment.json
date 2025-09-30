@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 2026,
+    "codCalle_2": 2670,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98900.1641607062,
+    "coordenada_y": 104950.17178602,
+    "direccion": "BEHRING Y GAMARRA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BEHRING",
+    "nombreCalle_2": "GAMARRA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-053-041",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

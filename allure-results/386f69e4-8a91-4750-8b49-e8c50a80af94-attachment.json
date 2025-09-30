@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 441,
+    "codCalle_2": 1521,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104391.9375974276,
+    "coordenada_y": 105546.6639738312,
+    "direccion": "CABELLO Y REPUBLICA DE LA INDIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CABELLO",
+    "nombreCalle_2": "REPUBLICA DE LA INDIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-051-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

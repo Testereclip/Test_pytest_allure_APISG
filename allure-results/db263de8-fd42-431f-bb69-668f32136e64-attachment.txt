@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BOGOTA+Y+SEGUI%2C+F.+J.%2C+ALTE.&v2=true

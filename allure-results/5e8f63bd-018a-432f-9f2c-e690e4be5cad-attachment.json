@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONSERRAT",
+    "barrioInf": null,
+    "codCalle_1": 1522,
+    "codCalle_2": 2452,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108236.3750966353,
+    "coordenada_y": 102234.8905369238,
+    "direccion": "YRIGOYEN, HIPOLITO Y BOLIVAR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "YRIGOYEN, HIPOLITO",
+    "nombreCalle_2": "BOLIVAR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "002-043-007",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

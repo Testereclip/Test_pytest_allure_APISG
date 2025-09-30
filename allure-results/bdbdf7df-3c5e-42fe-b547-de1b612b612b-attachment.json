@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 369,
+    "codCalle_2": 1323,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106718.3532333853,
+    "coordenada_y": 104678.0561097399,
+    "direccion": "ORTIZ, ROBERTO M., PRES. Y ALVEAR AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ORTIZ, ROBERTO M., PRES.",
+    "nombreCalle_2": "ALVEAR AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "011-064-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 702,
+    "codCalle_2": 1625,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103725.6719724255,
+    "coordenada_y": 104046.6249114366,
+    "direccion": "LAVALLEJA Y GASCON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAVALLEJA",
+    "nombreCalle_2": "GASCON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-045-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

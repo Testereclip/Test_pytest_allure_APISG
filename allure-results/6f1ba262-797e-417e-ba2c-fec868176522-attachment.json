@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 1613,
+    "codCalle_2": 2310,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 99096.2266602572,
+    "coordenada_y": 98719.3202241692,
+    "direccion": "GARZON EUGENIO GENERAL Y DOLORES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GARZON EUGENIO GENERAL",
+    "nombreCalle_2": "DOLORES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-174-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

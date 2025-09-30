@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 601,
+    "codCalle_2": 1844,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 97553.1250979073,
+    "coordenada_y": 97522.2655366854,
+    "direccion": "TANDIL Y BASUALDO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TANDIL",
+    "nombreCalle_2": "BASUALDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "062-104-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 270,
+    "codCalle_2": 371,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 98950.640722923,
+    "coordenada_y": 100867.4608489409,
+    "direccion": "NEUQUEN Y ROBLA, JUAN F., DE LA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NEUQUEN",
+    "nombreCalle_2": "ROBLA, JUAN F., DE LA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "065-030-022",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 1206,
+    "codCalle_2": 2582,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103497.3438472438,
+    "coordenada_y": 100839.8202242478,
+    "direccion": "MARMOL, JOSE Y INDEPENDENCIA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MARMOL, JOSE",
+    "nombreCalle_2": "INDEPENDENCIA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "036-025-032",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

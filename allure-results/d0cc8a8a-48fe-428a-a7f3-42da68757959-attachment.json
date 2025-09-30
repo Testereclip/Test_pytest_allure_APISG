@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": 1088,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 541,
+    "codCalle_2": null,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94225.2621134363,
+    "coordenada_y": 97572.469701038,
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1088",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "nombreCalle_2": null,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-030A-016",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_altura"
+  },
+  "status_code": 200
+}

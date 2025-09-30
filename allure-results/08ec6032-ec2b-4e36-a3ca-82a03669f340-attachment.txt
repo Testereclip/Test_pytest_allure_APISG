@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CONDARCO+Y+D%27ARIENZO+JUAN&v2=true

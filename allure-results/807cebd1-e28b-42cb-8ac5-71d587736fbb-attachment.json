@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 969,
+    "codCalle_2": 1823,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102196.7266598727,
+    "coordenada_y": 99873.2499117586,
+    "direccion": "DE LA INDUSTRIA Y ZUVIRIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LA INDUSTRIA",
+    "nombreCalle_2": "ZUVIRIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-011-039",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

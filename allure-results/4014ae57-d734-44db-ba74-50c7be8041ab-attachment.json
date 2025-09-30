@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 92,
+    "codCalle_2": 710,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 104782.8282221003,
+    "coordenada_y": 101543.7889742638,
+    "direccion": "BELGRANO AV. Y 24 DE NOVIEMBRE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BELGRANO AV.",
+    "nombreCalle_2": "24 DE NOVIEMBRE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "028-030-024",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

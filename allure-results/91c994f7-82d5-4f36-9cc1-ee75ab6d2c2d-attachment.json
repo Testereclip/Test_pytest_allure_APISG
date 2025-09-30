@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1634,
+    "codCalle_2": 1968,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102490.6719727962,
+    "coordenada_y": 106814.9374110708,
+    "direccion": "VOLTA Y ARCE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VOLTA",
+    "nombreCalle_2": "ARCE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-094-005c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

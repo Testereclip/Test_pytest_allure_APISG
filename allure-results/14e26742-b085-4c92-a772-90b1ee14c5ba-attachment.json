@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 284,
+    "codCalle_2": 1909,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99879.1250982614,
+    "coordenada_y": 107943.9686607816,
+    "direccion": "MOLDES Y UGARTE, MANUEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MOLDES",
+    "nombreCalle_2": "UGARTE, MANUEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "041-133-016",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

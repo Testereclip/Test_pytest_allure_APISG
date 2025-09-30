@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SANCHEZ+DE+THOMPSON%2C+MARIQUITA+Y+AUTOPISTA+PRESIDENTE+DR.+RAUL+RICARDO+ALFONSIN&v2=true

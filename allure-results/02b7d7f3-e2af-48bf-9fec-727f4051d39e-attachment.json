@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 1002,
+    "codCalle_2": 1872,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98976.257910131,
+    "coordenada_y": 96563.1405368787,
+    "direccion": "CASCO, HORACIO, DR. Y SARAVIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CASCO, HORACIO, DR.",
+    "nombreCalle_2": "SARAVIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "064-094B-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

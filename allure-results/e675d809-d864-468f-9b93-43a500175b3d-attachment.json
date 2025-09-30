@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NU\u00d1EZ",
+    "barrioInf": null,
+    "codCalle_1": 324,
+    "codCalle_2": 1736,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100070.3282232496,
+    "coordenada_y": 108185.726473269,
+    "direccion": "CONGRESO AV. Y CABILDO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CONGRESO AV.",
+    "nombreCalle_2": "CABILDO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "027-004-021",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": "Conjunto Habitacional Los Piletones",
+    "codCalle_1": 2521,
+    "codCalle_2": 2671,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100631.9013127289,
+    "coordenada_y": 96090.2555245512,
+    "direccion": "SENDERO 14 DE MAYO Y SENDERO DE LA PAZ",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SENDERO 14 DE MAYO",
+    "nombreCalle_2": "SENDERO DE LA PAZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "056-194-000",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

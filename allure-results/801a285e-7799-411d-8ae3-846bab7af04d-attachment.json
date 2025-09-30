@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COGHLAN",
+    "barrioInf": null,
+    "codCalle_1": 845,
+    "codCalle_2": 2161,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 99699.3125982543,
+    "coordenada_y": 107434.3358483203,
+    "direccion": "MONROE AV. Y ZAPIOLA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MONROE AV.",
+    "nombreCalle_2": "ZAPIOLA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "041-062-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

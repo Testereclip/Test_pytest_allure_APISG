@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 97,
+    "codCalle_2": 963,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96310.7188483399,
+    "coordenada_y": 101183.6327237312,
+    "direccion": "PAZ, MARCOS Y ALVAREZ JONTE AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PAZ, MARCOS",
+    "nombreCalle_2": "ALVAREZ JONTE AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-098B-014c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

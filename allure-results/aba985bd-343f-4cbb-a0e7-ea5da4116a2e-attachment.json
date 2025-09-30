@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 1456,
+    "codCalle_2": 1763,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98320.6875977908,
+    "coordenada_y": 97492.9686617393,
+    "direccion": "WHITE Y BILBAO, FRANCISCO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "WHITE",
+    "nombreCalle_2": "BILBAO, FRANCISCO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "062-162-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

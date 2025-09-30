@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1439,
+    "codCalle_2": 1601,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107553.6172839914,
+    "coordenada_y": 98571.8436622487,
+    "direccion": "PINEDO AV. Y SUAREZ AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PINEDO AV.",
+    "nombreCalle_2": "SUAREZ AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-093-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

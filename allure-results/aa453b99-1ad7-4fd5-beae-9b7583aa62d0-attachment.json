@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio 20",
+    "codCalle_1": 645,
+    "codCalle_2": 1997,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99595.0652632183,
+    "coordenada_y": 95020.5506939151,
+    "direccion": "MIRALLA Y ATLANTICO SUR",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MIRALLA",
+    "nombreCalle_2": "ATLANTICO SUR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "066-031-025",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

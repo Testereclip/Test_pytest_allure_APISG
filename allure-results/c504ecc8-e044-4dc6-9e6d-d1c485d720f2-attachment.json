@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PUERTO MADERO",
+    "barrioInf": null,
+    "codCalle_1": 2175,
+    "codCalle_2": 2582,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108872.6888855547,
+    "coordenada_y": 101370.6490108121,
+    "direccion": "EZCURRA, ENCARNACION Y INDEPENDENCIA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "EZCURRA, ENCARNACION",
+    "nombreCalle_2": "INDEPENDENCIA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "098-064-003",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 953,
+    "codCalle_2": 1376,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98230.6016606746,
+    "coordenada_y": 103008.0155361723,
+    "direccion": "SANTO TOME Y EL PAMPERO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANTO TOME",
+    "nombreCalle_2": "EL PAMPERO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "069-056A-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

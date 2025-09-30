@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 275,
+    "codCalle_2": 791,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 101270.223432171,
+    "coordenada_y": 99216.6729846652,
+    "direccion": "DAVILA Y AUTOPISTA 25 DE MAYO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DAVILA",
+    "nombreCalle_2": "AUTOPISTA 25 DE MAYO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-098A-012g",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

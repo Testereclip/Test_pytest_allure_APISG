@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 2363,
+    "codCalle_2": 2667,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103221.2969725206,
+    "coordenada_y": 104352.6639738725,
+    "direccion": "HONDURAS Y ARMENIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HONDURAS",
+    "nombreCalle_2": "ARMENIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-050-026",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

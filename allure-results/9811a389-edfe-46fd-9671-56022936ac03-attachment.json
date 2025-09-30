@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 612,
+    "codCalle_2": 1876,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 103519.039159602,
+    "coordenada_y": 98760.21866196,
+    "direccion": "DRUMOND Y BUTTELER",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DRUMOND",
+    "nombreCalle_2": "BUTTELER",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-115-029",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

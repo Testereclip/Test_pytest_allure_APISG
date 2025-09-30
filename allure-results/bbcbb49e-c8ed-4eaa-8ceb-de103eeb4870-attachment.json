@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 208,
+    "codCalle_2": 921,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98105.726660663,
+    "coordenada_y": 102553.1561612142,
+    "direccion": "TERRADA Y LASCANO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TERRADA",
+    "nombreCalle_2": "LASCANO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "069-032A-024",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

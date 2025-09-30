@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 429,
+    "codCalle_2": 483,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101174.6094727657,
+    "coordenada_y": 103465.2186613246,
+    "direccion": "MARTINEZ ROSAS Y DARWIN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MARTINEZ ROSAS",
+    "nombreCalle_2": "DARWIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-101-019d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

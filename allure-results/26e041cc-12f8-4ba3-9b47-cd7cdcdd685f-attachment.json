@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1306,
+    "codCalle_2": 1792,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 101492.2969729493,
+    "coordenada_y": 106887.4061609954,
+    "direccion": "CESPEDES Y ARCOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CESPEDES",
+    "nombreCalle_2": "ARCOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-038A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

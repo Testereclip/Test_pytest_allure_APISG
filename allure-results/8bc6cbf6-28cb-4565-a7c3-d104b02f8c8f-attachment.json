@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 444,
+    "codCalle_2": 2299,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 99649.483632161,
+    "coordenada_y": 98143.6681455878,
+    "direccion": "ACOSTA, MARIANO AV. Y ACOSTA, MARIANO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACOSTA, MARIANO AV.",
+    "nombreCalle_2": "ACOSTA, MARIANO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-137-033",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

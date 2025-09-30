@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": "Barrio Padre Mugica",
+    "codCalle_1": 685,
+    "codCalle_2": 2675,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107099.3701398058,
+    "coordenada_y": 105532.6443775203,
+    "direccion": "TALAMPAYA Y MAPUCHES",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TALAMPAYA",
+    "nombreCalle_2": "MAPUCHES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "015-176-001",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

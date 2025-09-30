@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 1517,
+    "codCalle_2": 2488,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 95986.9375986282,
+    "coordenada_y": 104733.0233483468,
+    "direccion": "GRIVEO Y DUARTE, JUAN PABLO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GRIVEO",
+    "nombreCalle_2": "DUARTE, JUAN PABLO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-001B-022",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

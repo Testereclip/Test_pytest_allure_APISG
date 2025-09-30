@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 239,
+    "codCalle_2": 594,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100944.0000974677,
+    "coordenada_y": 98490.4842868158,
+    "direccion": "ASAMBLEA AV. Y NAVARRO VIOLA, MIGUEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ASAMBLEA AV.",
+    "nombreCalle_2": "NAVARRO VIOLA, MIGUEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-013A-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 2020,
+    "codCalle_2": 1126,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102212.8204098503,
+    "coordenada_y": 99581.6170992916,
+    "direccion": "DE LAS ARTES Y ESTRADA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LAS ARTES",
+    "nombreCalle_2": "ESTRADA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-003A-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

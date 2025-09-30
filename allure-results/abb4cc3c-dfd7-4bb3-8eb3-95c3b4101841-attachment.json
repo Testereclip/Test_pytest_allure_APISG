@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 117,
+    "codCalle_2": 2600,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97557.0704110306,
+    "coordenada_y": 106768.8436607438,
+    "direccion": "DIAZ COLODRERO Y QUESADA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DIAZ COLODRERO",
+    "nombreCalle_2": "QUESADA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "053-007-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

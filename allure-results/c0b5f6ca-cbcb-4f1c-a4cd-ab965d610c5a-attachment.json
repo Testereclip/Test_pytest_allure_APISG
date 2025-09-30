@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 1217,
+    "codCalle_2": 1441,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105904.3516592819,
+    "coordenada_y": 99260.7655370704,
+    "direccion": "CASEROS AV. Y JUJUY AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CASEROS AV.",
+    "nombreCalle_2": "JUJUY AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "024-051-001c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

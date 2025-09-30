@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 1267,
+    "codCalle_2": 2230,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98555.7266607942,
+    "coordenada_y": 105494.5702234413,
+    "direccion": "GINEBRA Y VICTORICA, BENJAMIN, GENERAL, AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GINEBRA",
+    "nombreCalle_2": "VICTORICA, BENJAMIN, GENERAL, AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-188-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

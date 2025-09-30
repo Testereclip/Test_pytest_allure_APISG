@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 2014,
+    "codCalle_2": 2219,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 95327.8125982752,
+    "coordenada_y": 98029.7186614834,
+    "direccion": "PATRON Y MURGUIONDO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PATRON",
+    "nombreCalle_2": "MURGUIONDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "074-127-000A",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

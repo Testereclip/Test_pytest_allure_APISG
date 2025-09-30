@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "AGRONOMIA",
+    "barrioInf": null,
+    "codCalle_1": 366,
+    "codCalle_2": 1342,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 97595.5157233714,
+    "coordenada_y": 104513.6483484785,
+    "direccion": "MORAN, PEDRO Y CARACAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MORAN, PEDRO",
+    "nombreCalle_2": "CARACAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-139-010b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

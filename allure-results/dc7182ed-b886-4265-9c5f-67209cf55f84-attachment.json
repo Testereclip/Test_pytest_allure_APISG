@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 1813,
+    "codCalle_2": 2609,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100565.2323036301,
+    "coordenada_y": 97035.7446685692,
+    "direccion": "MARTINEZ CASTRO Y PASAJE D",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MARTINEZ CASTRO",
+    "nombreCalle_2": "PASAJE D",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "056-109L-004",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

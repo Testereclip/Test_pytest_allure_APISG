@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 110,
+    "codCalle_2": 235,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101119.750098125,
+    "coordenada_y": 108673.2030357909,
+    "direccion": "TEGUCIGALPA Y PLAZA, VICTORINO DE LA, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TEGUCIGALPA",
+    "nombreCalle_2": "PLAZA, VICTORINO DE LA, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "027-108-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

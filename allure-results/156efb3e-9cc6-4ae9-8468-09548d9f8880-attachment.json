@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 809,
+    "codCalle_2": 2519,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105698.3125969565,
+    "coordenada_y": 101408.2264743356,
+    "direccion": "ALBERTI Y MEXICO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALBERTI",
+    "nombreCalle_2": "MEXICO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "020-014-038",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

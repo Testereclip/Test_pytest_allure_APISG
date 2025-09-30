@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 1778,
+    "codCalle_2": 2717,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99341.9454107802,
+    "coordenada_y": 107022.9139733383,
+    "direccion": "URTUBEY CLODOMIRO CDRO. Y BLANCO ENCALADA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "URTUBEY CLODOMIRO CDRO.",
+    "nombreCalle_2": "BLANCO ENCALADA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "039-029-020\u00f1",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 490,
+    "codCalle_2": 1190,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99598.4297848482,
+    "coordenada_y": 93752.968662207,
+    "direccion": "CAFAYATE Y GOLETA SARANDI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CAFAYATE",
+    "nombreCalle_2": "GOLETA SARANDI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "082-126A-054",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

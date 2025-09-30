@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 2068,
+    "codCalle_2": 2276,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96442.8594733213,
+    "coordenada_y": 101203.2967862387,
+    "direccion": "BERNALDES Y ALBANIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BERNALDES",
+    "nombreCalle_2": "ALBANIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-063B-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

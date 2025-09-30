@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 193,
+    "codCalle_2": 1971,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100932.8594728062,
+    "coordenada_y": 103530.7577238015,
+    "direccion": "HUAURA Y FITZ ROY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HUAURA",
+    "nombreCalle_2": "FITZ ROY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-056-025",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

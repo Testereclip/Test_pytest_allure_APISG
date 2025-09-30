@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1140,
+    "codCalle_2": 1971,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102395.5938476821,
+    "coordenada_y": 104919.3436612591,
+    "direccion": "GORRITI Y FITZ ROY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GORRITI",
+    "nombreCalle_2": "FITZ ROY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "035-002-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

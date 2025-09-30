@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 876,
+    "codCalle_2": 2709,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95237.4141610119,
+    "coordenada_y": 101337.3280361403,
+    "direccion": "CERVANTES Y NOGOYA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CERVANTES",
+    "nombreCalle_2": "NOGOYA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-034-012d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

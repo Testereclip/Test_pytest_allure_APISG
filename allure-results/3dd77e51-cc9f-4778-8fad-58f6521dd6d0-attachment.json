@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 952,
+    "codCalle_2": 1527,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98149.8132226786,
+    "coordenada_y": 98716.7041608251,
+    "direccion": "COLLIVADINO, PIO Y BONIFACIO, JOSE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "COLLIVADINO, PIO",
+    "nombreCalle_2": "BONIFACIO, JOSE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-211-000E",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

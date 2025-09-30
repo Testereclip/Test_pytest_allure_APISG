@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 116,
+    "codCalle_2": 2709,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98147.6916328313,
+    "coordenada_y": 103464.5999365128,
+    "direccion": "BAIGORRIA Y NOGOYA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BAIGORRIA",
+    "nombreCalle_2": "NOGOYA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "071-097-001b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

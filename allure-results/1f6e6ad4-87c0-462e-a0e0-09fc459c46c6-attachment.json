@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 149,
+    "codCalle_2": 2458,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100463.0782225522,
+    "coordenada_y": 98703.4920992628,
+    "direccion": "RECUERO, CASIMIRO, TTE. CNEL. Y ARROTEA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RECUERO, CASIMIRO, TTE. CNEL.",
+    "nombreCalle_2": "ARROTEA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-072-017a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

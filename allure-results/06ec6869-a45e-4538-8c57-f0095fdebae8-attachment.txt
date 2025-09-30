@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SCHMIDL%2C+ULRICO+Y+CA%C3%91ADA+DE+GOMEZ&v2=true

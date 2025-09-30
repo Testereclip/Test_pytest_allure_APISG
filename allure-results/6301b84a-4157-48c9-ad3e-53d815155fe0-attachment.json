@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 1309,
+    "codCalle_2": 2443,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96238.078223236,
+    "coordenada_y": 99478.7342863969,
+    "direccion": "JUSTO, JUAN B. AV. Y HUGO, VICTOR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JUSTO, JUAN B. AV.",
+    "nombreCalle_2": "HUGO, VICTOR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "095-066-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

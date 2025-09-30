@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 873,
+    "codCalle_2": 2582,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 104654.6954095797,
+    "coordenada_y": 100955.9608493124,
+    "direccion": "SANCHEZ DE LORIA Y INDEPENDENCIA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANCHEZ DE LORIA",
+    "nombreCalle_2": "INDEPENDENCIA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "028-018-029",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

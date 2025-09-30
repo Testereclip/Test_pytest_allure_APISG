@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 121,
+    "codCalle_2": 1440,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 105054.3985348585,
+    "coordenada_y": 105990.7967863298,
+    "direccion": "BERRO, ADOLFO AV. Y CASARES AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BERRO, ADOLFO AV.",
+    "nombreCalle_2": "CASARES AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-149-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

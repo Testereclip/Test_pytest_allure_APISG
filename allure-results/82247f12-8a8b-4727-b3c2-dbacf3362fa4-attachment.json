@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN TELMO",
+    "barrioInf": null,
+    "codCalle_1": 681,
+    "codCalle_2": 720,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108186.4375965288,
+    "coordenada_y": 100532.6327245936,
+    "direccion": "GARAY, JUAN DE AV. Y PERU",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GARAY, JUAN DE AV.",
+    "nombreCalle_2": "PERU",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "004-013-035b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

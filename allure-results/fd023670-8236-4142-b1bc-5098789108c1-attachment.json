@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 704,
+    "codCalle_2": 1360,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106171.7780907762,
+    "coordenada_y": 104846.1671245303,
+    "direccion": "VITTORIA FRANCISCO DE Y GUIDO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VITTORIA FRANCISCO DE",
+    "nombreCalle_2": "GUIDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-152-000E",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

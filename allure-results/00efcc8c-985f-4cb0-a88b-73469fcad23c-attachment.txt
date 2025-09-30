@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GUALEGUAYCHU+Y+MISTRAL%2C+GABRIELA&v2=true

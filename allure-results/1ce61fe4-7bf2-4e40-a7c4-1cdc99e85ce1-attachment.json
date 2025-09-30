@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 119,
+    "codCalle_2": 1590,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 95372.7013688235,
+    "coordenada_y": 105338.744335334,
+    "direccion": "CURUPAYTI Y ESCOBAR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CURUPAYTI",
+    "nombreCalle_2": "ESCOBAR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-261-013c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

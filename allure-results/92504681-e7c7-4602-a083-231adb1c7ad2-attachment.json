@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 10,
+    "codCalle_2": 2414,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100848.0391605739,
+    "coordenada_y": 107314.6795984117,
+    "direccion": "SUCRE, ANTONIO JOSE DE, MCAL. Y VUELTA DE OBLIGADO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SUCRE, ANTONIO JOSE DE, MCAL.",
+    "nombreCalle_2": "VUELTA DE OBLIGADO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "025-008-004a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

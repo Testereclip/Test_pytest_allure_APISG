@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN TELMO",
+    "barrioInf": null,
+    "codCalle_1": 2273,
+    "codCalle_2": 2400,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108365.2969715302,
+    "coordenada_y": 100947.5624120614,
+    "direccion": "HUMBERTO 1\u00b0 Y DON ANSELMO AIETA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HUMBERTO 1\u00b0",
+    "nombreCalle_2": "DON ANSELMO AIETA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "004-027-004a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

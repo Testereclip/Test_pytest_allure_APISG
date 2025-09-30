@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 711,
+    "codCalle_2": 1575,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101072.5938476792,
+    "coordenada_y": 101942.0155364735,
+    "direccion": "ESPINOSA Y FRANKLIN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ESPINOSA",
+    "nombreCalle_2": "FRANKLIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "057-098-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

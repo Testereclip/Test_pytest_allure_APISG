@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 2000,
+    "codCalle_2": 2102,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105196.0157217516,
+    "coordenada_y": 97252.0389747257,
+    "direccion": "PEPIRI Y RIO CUARTO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PEPIRI",
+    "nombreCalle_2": "RIO CUARTO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "034-077-013b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

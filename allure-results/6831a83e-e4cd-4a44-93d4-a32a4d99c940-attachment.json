@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 2472,
+    "codCalle_2": 2728,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95984.6329107597,
+    "coordenada_y": 99264.6170989022,
+    "direccion": "BACACAY AV. Y RUIZ DE LOS LLANOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BACACAY AV.",
+    "nombreCalle_2": "RUIZ DE LOS LLANOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "091-036-027a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

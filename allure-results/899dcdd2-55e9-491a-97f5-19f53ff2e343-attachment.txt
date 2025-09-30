@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ARTIGAS%2C+JOSE+GERVASIO%2C+GRAL.+Y+BAZURCO&v2=true

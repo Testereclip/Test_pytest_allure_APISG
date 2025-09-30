@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "AGRONOMIA",
+    "barrioInf": null,
+    "codCalle_1": 2307,
+    "codCalle_2": 2392,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 96857.4375984605,
+    "coordenada_y": 104198.7420984595,
+    "direccion": "NUEVA YORK Y NAZCA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NUEVA YORK",
+    "nombreCalle_2": "NAZCA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "071-061-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 933,
+    "codCalle_2": 1479,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105320.5782221364,
+    "coordenada_y": 103271.0233491226,
+    "direccion": "SAN LUIS Y BOULOGNE SUR MER",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN LUIS",
+    "nombreCalle_2": "BOULOGNE SUR MER",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "013-095-030",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

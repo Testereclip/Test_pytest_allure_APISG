@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1007,
+    "codCalle_2": 1152,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104114.6094719621,
+    "coordenada_y": 97995.0155370795,
+    "direccion": "TROLE Y FAMATINA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TROLE",
+    "nombreCalle_2": "FAMATINA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-156-023b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

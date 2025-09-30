@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 963,
+    "codCalle_2": 1377,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98485.8204105932,
+    "coordenada_y": 102361.7499112578,
+    "direccion": "ALVAREZ JONTE AV. Y PERNAMBUCO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALVAREZ JONTE AV.",
+    "nombreCalle_2": "PERNAMBUCO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "069-039A-013a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

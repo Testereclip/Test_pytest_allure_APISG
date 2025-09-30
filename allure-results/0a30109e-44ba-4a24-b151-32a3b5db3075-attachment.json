@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1031,
+    "codCalle_2": 1433,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101962.9913495276,
+    "coordenada_y": 101249.4164236088,
+    "direccion": "BACACAY Y BRUNO, GIORDANO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BACACAY",
+    "nombreCalle_2": "BRUNO, GIORDANO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-042C-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

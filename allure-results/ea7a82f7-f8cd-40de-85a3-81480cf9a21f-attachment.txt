@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CARRERAS%2C+SEGUNDO+I%C3%91IGO+Y+HUMAITA&v2=true

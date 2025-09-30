@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 329,
+    "codCalle_2": 2212,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105969.5469720044,
+    "coordenada_y": 102737.0233492199,
+    "direccion": "URIBURU JOSE E., PRES. Y CORRIENTES AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "URIBURU JOSE E., PRES.",
+    "nombreCalle_2": "CORRIENTES AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "009-045-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

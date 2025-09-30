@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 2243,
+    "codCalle_2": 2683,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 104231.7969721875,
+    "coordenada_y": 101631.7577242173,
+    "direccion": "MORENO Y BOEDO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MORENO",
+    "nombreCalle_2": "BOEDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "036-135-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 164,
+    "codCalle_2": 2607,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 98386.773535453,
+    "coordenada_y": 100051.5702239843,
+    "direccion": "AVELLANEDA AV. Y GONZALEZ, JOAQUIN V.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AVELLANEDA AV.",
+    "nombreCalle_2": "GONZALEZ, JOAQUIN V.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "077-109-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

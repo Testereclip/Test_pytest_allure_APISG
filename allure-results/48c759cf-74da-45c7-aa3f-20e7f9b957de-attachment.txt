@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=REGIMIENTO+DE+PATRICIOS+AV.+Y+ROCHA&v2=true

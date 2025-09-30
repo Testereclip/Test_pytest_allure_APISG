@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 777,
+    "codCalle_2": 1445,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99763.796972292,
+    "coordenada_y": 93279.6327247641,
+    "direccion": "DE LA TORRE, LISANDRO Y GOLETA JULIET",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LA TORRE, LISANDRO",
+    "nombreCalle_2": "GOLETA JULIET",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "082-118-029",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 119,
+    "codCalle_2": 1361,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 95487.7735362404,
+    "coordenada_y": 105297.1717857526,
+    "direccion": "CURUPAYTI Y CUENCA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CURUPAYTI",
+    "nombreCalle_2": "CUENCA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-007B-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

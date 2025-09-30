@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAAVEDRA",
+    "barrioInf": null,
+    "codCalle_1": 1183,
+    "codCalle_2": 2355,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98413.0157234933,
+    "coordenada_y": 108146.9686606601,
+    "direccion": "WASHINGTON Y LARRALDE, CRISOLOGO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "WASHINGTON",
+    "nombreCalle_2": "LARRALDE, CRISOLOGO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "041-011-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

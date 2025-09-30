@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 315,
+    "codCalle_2": 1656,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104760.0860343894,
+    "coordenada_y": 98347.2030370864,
+    "direccion": "MIRI\u00d1AY Y TABORDA, DIOGENES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MIRI\u00d1AY",
+    "nombreCalle_2": "TABORDA, DIOGENES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "032-056H-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

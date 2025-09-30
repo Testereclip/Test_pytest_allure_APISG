@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 1127,
+    "codCalle_2": 1535,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101437.9297855788,
+    "coordenada_y": 108682.7733483114,
+    "direccion": "MENDEZ, NICANOR Y HERNANDEZ, RAFAEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MENDEZ, NICANOR",
+    "nombreCalle_2": "HERNANDEZ, RAFAEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "025-087-001c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

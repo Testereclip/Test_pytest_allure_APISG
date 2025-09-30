@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 73,
+    "codCalle_2": 2049,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100804.9141600548,
+    "coordenada_y": 99488.6170992052,
+    "direccion": "LAFERRERE, GREGORIO DE Y LAUTARO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAFERRERE, GREGORIO DE",
+    "nombreCalle_2": "LAUTARO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-139-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 1329,
+    "codCalle_2": 1537,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94257.6329109383,
+    "coordenada_y": 98066.5624114068,
+    "direccion": "MONTIEL Y BOQUERON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MONTIEL",
+    "nombreCalle_2": "BOQUERON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-034A-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 149,
+    "codCalle_2": 395,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100770.5079100344,
+    "coordenada_y": 99110.8749117405,
+    "direccion": "RECUERO, CASIMIRO, TTE. CNEL. Y BONORINO, ESTEBAN, CNEL. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RECUERO, CASIMIRO, TTE. CNEL.",
+    "nombreCalle_2": "BONORINO, ESTEBAN, CNEL. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-127-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

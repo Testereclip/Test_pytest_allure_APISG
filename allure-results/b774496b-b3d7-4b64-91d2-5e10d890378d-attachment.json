@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA REAL",
+    "barrioInf": null,
+    "codCalle_1": 487,
+    "codCalle_2": 2709,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 94468.7266610759,
+    "coordenada_y": 100595.7499111648,
+    "direccion": "LA CONQUISTA Y NOGOYA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LA CONQUISTA",
+    "nombreCalle_2": "NOGOYA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "093-097-026",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

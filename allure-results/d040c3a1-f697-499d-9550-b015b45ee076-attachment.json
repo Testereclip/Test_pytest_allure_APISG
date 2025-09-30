@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": "Barrio Fatima (Villa 3)",
+    "codCalle_1": 658,
+    "codCalle_2": 2461,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100865.9662604691,
+    "coordenada_y": 96750.3614276529,
+    "direccion": "RIESTRA AV. Y PASAJE GAUCHITO GIL",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIESTRA AV.",
+    "nombreCalle_2": "PASAJE GAUCHITO GIL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "056-106D-000",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

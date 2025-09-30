@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 2050,
+    "codCalle_2": 2476,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95082.8204111136,
+    "coordenada_y": 102507.5545985114,
+    "direccion": "JUAREZ, BENITO Y CANTILO, JOSE LUIS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JUAREZ, BENITO",
+    "nombreCalle_2": "CANTILO, JOSE LUIS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "089-089-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

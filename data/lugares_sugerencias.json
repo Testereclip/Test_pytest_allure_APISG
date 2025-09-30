@@ -1,0 +1,40 @@
+[
+  { "sitio_interes": "hospital" },
+  { "sitio_interes": "comisaria"},
+  { "sitio_interes": "escuela" },
+  { "sitio_interes": "guemes" },
+  { "sitio_interes": "plaza" },
+  { "sitio_interes": "espacio" },
+  { "sitio_interes": "centro cultural" },
+  { "sitio_interes": "congreso" },
+  { "sitio_interes": "parque" },
+  { "sitio_interes": "estacion de subte" },
+  { "sitio_interes": "ecobici" },
+  { "sitio_interes": "cesac" },
+  { "sitio_interes": "villa" },
+  { "sitio_interes": "Villa 31 bis" },
+  { "sitio_interes": "complejo" },
+  { "sitio_interes": "patio de juegos" },
+  { "sitio_interes": "paseo de los vecinos" },
+  { "sitio_interes": "obelisco" },
+
+  {"sitio_interes": null,
+    "error": "El campo 'sitio_interes' es obligatorio",
+    "status_code": 400},
+
+  {"sitio_interes": "/n",
+    "error": "El campo 'sitio_interes' debe contener como mínimo 3 caracteres",
+    "status_code": 400},
+
+  {"sitio_interes": "12345",
+    "error": "El campo 'sitio_interes' debe ser un texto",
+    "status_code": 400},
+
+  {"sitio_interes": "$%&/()",
+    "error": "No se permiten caracteres especiales @#$%&=?¿¡!\\[\\]{}*+^~<>|;: en sitio_interes",
+    "status_code": 400},
+
+    {"sitio_interes": "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm",
+    "error": "El campo 'sitio_interes' debe contener como máximo 150 caracteres",
+    "status_code": 400}
+]

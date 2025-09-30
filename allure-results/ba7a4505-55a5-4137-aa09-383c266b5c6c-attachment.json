@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 366,
+    "codCalle_2": 813,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94789.4063486509,
+    "coordenada_y": 102415.7811610022,
+    "direccion": "MORAN, PEDRO Y DESAGUADERO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MORAN, PEDRO",
+    "nombreCalle_2": "DESAGUADERO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "089-078-008c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

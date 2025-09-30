@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NU\u00d1EZ",
+    "barrioInf": null,
+    "codCalle_1": 1792,
+    "codCalle_2": 1999,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99881.6563483326,
+    "coordenada_y": 108988.0389731732,
+    "direccion": "ARCOS Y NU\u00d1EZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARCOS",
+    "nombreCalle_2": "NU\u00d1EZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "027-043-011c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

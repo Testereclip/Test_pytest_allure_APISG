@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 435,
+    "codCalle_2": 797,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95629.0726909802,
+    "coordenada_y": 103161.7892575722,
+    "direccion": "CHIVILCOY AV. Y ASUNCION",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CHIVILCOY AV.",
+    "nombreCalle_2": "ASUNCION",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-083-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

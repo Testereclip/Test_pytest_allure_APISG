@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 1574,
+    "codCalle_2": 2610,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98013.961035137,
+    "coordenada_y": 94509.5467870229,
+    "direccion": "COSQUIN Y ZELARRAYAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "COSQUIN",
+    "nombreCalle_2": "ZELARRAYAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "080-051B-004",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

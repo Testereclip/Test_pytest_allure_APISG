@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1088,
+    "codCalle_2": 1975,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 103168.4844722719,
+    "coordenada_y": 100529.2108492564,
+    "direccion": "SENILLOSA Y LA MAR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SENILLOSA",
+    "nombreCalle_2": "LA MAR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-141-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

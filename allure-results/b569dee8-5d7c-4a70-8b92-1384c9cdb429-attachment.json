@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PUERTO MADERO",
+    "barrioInf": null,
+    "codCalle_1": 1210,
+    "codCalle_2": 2361,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 109170.8632964612,
+    "coordenada_y": 100456.6575467597,
+    "direccion": "HUERGO, ING. AV. Y BRASIL AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HUERGO, ING. AV.",
+    "nombreCalle_2": "BRASIL AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "096-001B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

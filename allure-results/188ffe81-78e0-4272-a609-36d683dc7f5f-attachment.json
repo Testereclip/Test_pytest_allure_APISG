@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 987,
+    "codCalle_2": 1203,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 96925.2775772503,
+    "coordenada_y": 96705.5286770814,
+    "direccion": "OLIDEN Y REMEDIOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OLIDEN",
+    "nombreCalle_2": "REMEDIOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "076-189-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

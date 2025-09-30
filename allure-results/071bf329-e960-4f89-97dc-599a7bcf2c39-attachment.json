@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 842,
+    "codCalle_2": 1738,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101275.7891605408,
+    "coordenada_y": 107778.9374108902,
+    "direccion": "ECHEVERRIA Y VERTIZ VIRREY AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ECHEVERRIA",
+    "nombreCalle_2": "VERTIZ VIRREY AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "025-048C-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": "Barrio Padre Mugica",
+    "codCalle_1": 363,
+    "codCalle_2": 2005,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107576.5843647736,
+    "coordenada_y": 104964.1223153934,
+    "direccion": "PONTEDERIA Y FLOR DE OTO\u00d1O",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PONTEDERIA",
+    "nombreCalle_2": "FLOR DE OTO\u00d1O",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "PO - Play\u00f3n Oeste",
+    "smp": "003-066B-001r",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

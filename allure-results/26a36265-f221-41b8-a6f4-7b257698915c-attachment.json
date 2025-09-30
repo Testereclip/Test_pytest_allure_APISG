@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 240,
+    "codCalle_2": 2054,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98648.6719733116,
+    "coordenada_y": 105971.6170984,
+    "direccion": "ARIZONA Y ALVAREZ THOMAS AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARIZONA",
+    "nombreCalle_2": "ALVAREZ THOMAS AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-075-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COGHLAN",
+    "barrioInf": null,
+    "codCalle_1": 1183,
+    "codCalle_2": 1696,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 99003.3594733436,
+    "coordenada_y": 107225.0702232935,
+    "direccion": "WASHINGTON Y RIVERA, PEDRO I., DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "WASHINGTON",
+    "nombreCalle_2": "RIVERA, PEDRO I., DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "041-014-016b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

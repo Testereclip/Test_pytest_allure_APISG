@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1092,
+    "codCalle_2": 2162,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102340.84384754,
+    "coordenada_y": 102679.4217864833,
+    "direccion": "PATRICIAS ARGENTINAS AV. Y BRAVARD",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PATRICIAS ARGENTINAS AV.",
+    "nombreCalle_2": "BRAVARD",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-108A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

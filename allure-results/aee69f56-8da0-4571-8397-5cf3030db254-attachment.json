@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 236,
+    "codCalle_2": 263,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97058.156197674,
+    "coordenada_y": 99150.409170716,
+    "direccion": "RIVADAVIA AV. Y AUTOPISTA PERITO MORENO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIVADAVIA AV.",
+    "nombreCalle_2": "AUTOPISTA PERITO MORENO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "060-140C-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

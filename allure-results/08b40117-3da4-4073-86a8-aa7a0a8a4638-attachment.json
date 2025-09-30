@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 149,
+    "codCalle_2": 2039,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100701.1641600405,
+    "coordenada_y": 99055.8124117402,
+    "direccion": "RECUERO, CASIMIRO, TTE. CNEL. Y NAON, JUAN JOSE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RECUERO, CASIMIRO, TTE. CNEL.",
+    "nombreCalle_2": "NAON, JUAN JOSE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-111D-016",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

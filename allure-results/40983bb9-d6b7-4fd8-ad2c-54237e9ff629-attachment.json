@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1293,
+    "codCalle_2": 1576,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103099.0547851669,
+    "coordenada_y": 106241.3358486719,
+    "direccion": "CLAY Y BAEZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CLAY",
+    "nombreCalle_2": "BAEZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-069B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

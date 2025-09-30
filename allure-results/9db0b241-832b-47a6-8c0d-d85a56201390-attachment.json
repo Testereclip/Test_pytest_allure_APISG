@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 2012,
+    "codCalle_2": 2667,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104004.8282224464,
+    "coordenada_y": 104968.6092863624,
+    "direccion": "GUEMES Y ARMENIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUEMES",
+    "nombreCalle_2": "ARMENIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-152-005b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

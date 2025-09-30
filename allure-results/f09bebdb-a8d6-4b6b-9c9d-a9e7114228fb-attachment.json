@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COGHLAN",
+    "barrioInf": null,
+    "codCalle_1": 324,
+    "codCalle_2": 2177,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98948.8829108698,
+    "coordenada_y": 107484.2655357662,
+    "direccion": "CONGRESO AV. Y MELIAN AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CONGRESO AV.",
+    "nombreCalle_2": "MELIAN AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "041-015-004c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

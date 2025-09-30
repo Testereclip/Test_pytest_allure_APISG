@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 995,
+    "codCalle_2": 1161,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97762.648535519,
+    "coordenada_y": 99643.4920989856,
+    "direccion": "BOGOTA Y BELEN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BOGOTA",
+    "nombreCalle_2": "BELEN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "077-060-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

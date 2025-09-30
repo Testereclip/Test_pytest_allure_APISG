@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 542,
+    "codCalle_2": 1385,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100726.9375980357,
+    "coordenada_y": 106450.9374109911,
+    "direccion": "OLAGUER Y FELIU, VIRREY Y CONESA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_2": "CONESA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "037-101-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

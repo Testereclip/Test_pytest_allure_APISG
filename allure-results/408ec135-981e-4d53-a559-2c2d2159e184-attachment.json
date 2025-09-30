@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 1652,
+    "codCalle_2": 2159,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95355.7110359786,
+    "coordenada_y": 101101.9842861736,
+    "direccion": "LAS COLONIAS Y SASTRE, MARCOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAS COLONIAS",
+    "nombreCalle_2": "SASTRE, MARCOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-018B-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

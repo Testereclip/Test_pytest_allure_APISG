@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DI+PASCUALE%2C+JORGE+Y+ALVAREZ+PRADO%2C+MANUEL&v2=true

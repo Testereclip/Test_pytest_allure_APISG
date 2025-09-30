@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 959,
+    "codCalle_2": 1685,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100690.9375975507,
+    "coordenada_y": 99175.0155367285,
+    "direccion": "PRIMERA JUNTA Y ESPARTACO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PRIMERA JUNTA",
+    "nombreCalle_2": "ESPARTACO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-111A-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

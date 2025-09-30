@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 1604,
+    "codCalle_2": 2219,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98792.7266600389,
+    "coordenada_y": 94778.1405370478,
+    "direccion": "SOMELLERA Y MURGUIONDO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SOMELLERA",
+    "nombreCalle_2": "MURGUIONDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "080-092B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

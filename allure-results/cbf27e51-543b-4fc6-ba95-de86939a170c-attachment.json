@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1297,
+    "codCalle_2": 2687,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108129.1064471879,
+    "coordenada_y": 98021.2685226521,
+    "direccion": "CALIFORNIA Y AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CALIFORNIA",
+    "nombreCalle_2": "AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-132A-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

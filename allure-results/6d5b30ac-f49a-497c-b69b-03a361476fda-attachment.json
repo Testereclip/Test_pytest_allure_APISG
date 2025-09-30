@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1209,
+    "codCalle_2": 1689,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104292.8345469254,
+    "coordenada_y": 108249.1818961305,
+    "direccion": "AEROLINEAS ARGENTINAS Y OBLIGADO RAFAEL, AV.COSTANERA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AEROLINEAS ARGENTINAS",
+    "nombreCalle_2": "OBLIGADO RAFAEL, AV.COSTANERA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-148B-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

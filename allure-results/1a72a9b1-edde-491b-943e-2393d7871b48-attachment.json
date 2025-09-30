@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 433,
+    "codCalle_2": 1846,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106358.1016594577,
+    "coordenada_y": 102889.1561617332,
+    "direccion": "RIOBAMBA Y LAVALLE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIOBAMBA",
+    "nombreCalle_2": "LAVALLE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "009-080-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

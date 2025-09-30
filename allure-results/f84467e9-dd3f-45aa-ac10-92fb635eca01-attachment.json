@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 2063,
+    "codCalle_2": 2269,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98304.8360352442,
+    "coordenada_y": 96764.4686618141,
+    "direccion": "CAROYA Y CHAMICAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CAROYA",
+    "nombreCalle_2": "CHAMICAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "062-097B-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

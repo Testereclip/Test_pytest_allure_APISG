@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 751,
+    "codCalle_2": 1552,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100676.9063478441,
+    "coordenada_y": 103502.6717862857,
+    "direccion": "LEIVA Y WARNES AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LEIVA",
+    "nombreCalle_2": "WARNES AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-040A-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

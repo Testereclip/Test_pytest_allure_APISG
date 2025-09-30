@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 73,
+    "codCalle_2": 1841,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99897.4375976432,
+    "coordenada_y": 98791.5702242149,
+    "direccion": "LAFERRERE, GREGORIO DE Y SAN PEDRITO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAFERRERE, GREGORIO DE",
+    "nombreCalle_2": "SAN PEDRITO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-045-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

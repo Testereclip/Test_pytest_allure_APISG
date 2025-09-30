@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 256,
+    "codCalle_2": 2043,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96203.5625985612,
+    "coordenada_y": 104206.6170984148,
+    "direccion": "QUINTANA, JOSE DE LA Y CUBAS, JOSE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "QUINTANA, JOSE DE LA",
+    "nombreCalle_2": "CUBAS, JOSE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-246-007",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1820,
+    "codCalle_2": 2540,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104587.1016593748,
+    "coordenada_y": 97747.8436621338,
+    "direccion": "MORENO, PERITO AV. Y EINSTEIN, ALBERTO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MORENO, PERITO AV.",
+    "nombreCalle_2": "EINSTEIN, ALBERTO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "034-049B-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

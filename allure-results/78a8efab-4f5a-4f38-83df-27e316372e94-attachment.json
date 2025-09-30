@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 687,
+    "codCalle_2": 840,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97604.3309290357,
+    "coordenada_y": 106031.4753855287,
+    "direccion": "BUCARELLI Y ROOSEVELT FRANKLIN D. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BUCARELLI",
+    "nombreCalle_2": "ROOSEVELT FRANKLIN D. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-088B-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

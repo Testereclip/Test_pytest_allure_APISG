@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN CRISTOBAL",
+    "barrioInf": null,
+    "codCalle_1": 681,
+    "codCalle_2": 1894,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106231.3829092928,
+    "coordenada_y": 100157.7655370003,
+    "direccion": "GARAY, JUAN DE AV. Y PASCO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GARAY, JUAN DE AV.",
+    "nombreCalle_2": "PASCO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "022-030-031",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 990,
+    "codCalle_2": 2050,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94610.0547862263,
+    "coordenada_y": 103140.0467859162,
+    "direccion": "VALLEJOS Y JUAREZ, BENITO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VALLEJOS",
+    "nombreCalle_2": "JUAREZ, BENITO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "089-013-031",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

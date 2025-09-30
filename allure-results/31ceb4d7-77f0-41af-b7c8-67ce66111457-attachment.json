@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 1696,
+    "codCalle_2": 2161,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99592.5938482833,
+    "coordenada_y": 107625.148348294,
+    "direccion": "RIVERA, PEDRO I., DR. Y ZAPIOLA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIVERA, PEDRO I., DR.",
+    "nombreCalle_2": "ZAPIOLA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "041-088-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

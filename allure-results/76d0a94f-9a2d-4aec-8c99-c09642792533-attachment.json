@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN NICOLAS",
+    "barrioInf": null,
+    "codCalle_1": 1530,
+    "codCalle_2": 2193,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107569.5547842472,
+    "coordenada_y": 102438.890536857,
+    "direccion": "PELLEGRINI, CARLOS Y MITRE, BARTOLOME",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PELLEGRINI, CARLOS",
+    "nombreCalle_2": "MITRE, BARTOLOME",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "005-058A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

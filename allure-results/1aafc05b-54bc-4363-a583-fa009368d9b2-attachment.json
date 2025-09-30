@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 157,
+    "codCalle_2": 2418,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102614.6172849812,
+    "coordenada_y": 102391.4999115307,
+    "direccion": "FINLAY, CARLOS J. AV. Y BURMEISTER, GERMAN AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FINLAY, CARLOS J. AV.",
+    "nombreCalle_2": "BURMEISTER, GERMAN AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-108A-003a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 1362,
+    "codCalle_2": 2380,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98276.8360357933,
+    "coordenada_y": 104851.7108484862,
+    "direccion": "HAMBURGO Y SOFIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HAMBURGO",
+    "nombreCalle_2": "SOFIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-113-005",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

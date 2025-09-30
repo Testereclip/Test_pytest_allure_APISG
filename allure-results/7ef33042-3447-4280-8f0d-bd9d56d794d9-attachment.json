@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio 20",
+    "codCalle_1": 1168,
+    "codCalle_2": 1888,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99609.4005656714,
+    "coordenada_y": 94860.1207089382,
+    "direccion": "PASAJE LATINOAMERICANO Y POLA",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PASAJE LATINOAMERICANO",
+    "nombreCalle_2": "POLA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "066-131-001",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

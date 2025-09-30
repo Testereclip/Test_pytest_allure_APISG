@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 2133,
+    "codCalle_2": 2193,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105015.0000971108,
+    "coordenada_y": 102209.9374117084,
+    "direccion": "ECUADOR Y MITRE, BARTOLOME",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ECUADOR",
+    "nombreCalle_2": "MITRE, BARTOLOME",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "013-086-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

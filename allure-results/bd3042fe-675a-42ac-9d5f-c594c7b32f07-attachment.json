@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONSERRAT",
+    "barrioInf": null,
+    "codCalle_1": 92,
+    "codCalle_2": 2136,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107344.9063467365,
+    "coordenada_y": 101776.0780369086,
+    "direccion": "BELGRANO AV. Y SALTA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BELGRANO AV.",
+    "nombreCalle_2": "SALTA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "012-053-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

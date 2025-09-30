@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 516,
+    "codCalle_2": 807,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 101894.7735348709,
+    "coordenada_y": 99164.6405368102,
+    "direccion": "SANTANDER Y PUAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANTANDER",
+    "nombreCalle_2": "PUAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-117-023a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

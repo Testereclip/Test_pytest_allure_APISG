@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 516,
+    "codCalle_2": 841,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98443.8438476509,
+    "coordenada_y": 95688.3514744311,
+    "direccion": "SANTANDER Y LARRAYA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANTANDER",
+    "nombreCalle_2": "LARRAYA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "064-003-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

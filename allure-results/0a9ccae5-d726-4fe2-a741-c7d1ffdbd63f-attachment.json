@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 634,
+    "codCalle_2": 905,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 97136.8282229859,
+    "coordenada_y": 97771.4920991304,
+    "direccion": "ARAUJO Y ANTOFAGASTA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARAUJO",
+    "nombreCalle_2": "ANTOFAGASTA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "062-108-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

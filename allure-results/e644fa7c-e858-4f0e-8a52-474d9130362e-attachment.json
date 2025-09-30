@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 254,
+    "codCalle_2": 1300,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101076.0313481249,
+    "coordenada_y": 108552.6249107998,
+    "direccion": "ROOSEVELT FRANKLIN D. Y DEL LIBERTADOR AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ROOSEVELT FRANKLIN D.",
+    "nombreCalle_2": "DEL LIBERTADOR AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "027-098-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

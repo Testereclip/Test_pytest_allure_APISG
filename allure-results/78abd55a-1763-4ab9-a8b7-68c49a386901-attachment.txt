@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SCHMIDL%2C+ULRICO+Y+MONTIEL&v2=true

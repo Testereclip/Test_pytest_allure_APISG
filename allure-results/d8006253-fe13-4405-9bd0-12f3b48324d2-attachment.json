@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 456,
+    "codCalle_2": 781,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107842.976659021,
+    "coordenada_y": 99634.5545996593,
+    "direccion": "ITUZAINGO Y HORNOS, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ITUZAINGO",
+    "nombreCalle_2": "HORNOS, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "016-072A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

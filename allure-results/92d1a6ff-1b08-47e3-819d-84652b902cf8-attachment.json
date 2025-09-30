@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 729,
+    "codCalle_2": 1643,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106176.0469721446,
+    "coordenada_y": 105277.7420989756,
+    "direccion": "FIGUEROA ALCORTA, PRES. AV. Y AUSTRIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FIGUEROA ALCORTA, PRES. AV.",
+    "nombreCalle_2": "AUSTRIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-178C-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

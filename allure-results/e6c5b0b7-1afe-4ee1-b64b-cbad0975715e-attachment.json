@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 1031,
+    "codCalle_2": 2692,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99325.1250978157,
+    "coordenada_y": 100093.8202240439,
+    "direccion": "BACACAY Y NAZCA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BACACAY",
+    "nombreCalle_2": "NAZCA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "065-033-014a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

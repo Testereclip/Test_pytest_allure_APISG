@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PUERTO MADERO",
+    "barrioInf": null,
+    "codCalle_1": 186,
+    "codCalle_2": 2611,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 109141.3204089982,
+    "coordenada_y": 102189.0233494896,
+    "direccion": "COSSETTINI, OLGA Y LYNCH MARTA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "COSSETTINI, OLGA",
+    "nombreCalle_2": "LYNCH MARTA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "098-005F-001c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

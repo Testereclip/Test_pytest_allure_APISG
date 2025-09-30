@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 1031,
+    "codCalle_2": 1642,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99962.7422852361,
+    "coordenada_y": 100317.593661566,
+    "direccion": "BACACAY Y FRAY CAYETANO RODRIGUEZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BACACAY",
+    "nombreCalle_2": "FRAY CAYETANO RODRIGUEZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "065-083-017c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": "Conjunto Habitacional Los Piletones",
+    "codCalle_1": 1249,
+    "codCalle_2": 2143,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100631.0976543038,
+    "coordenada_y": 96142.6942367927,
+    "direccion": "DE LOS NI\u00d1OS Y JUAN PABLO II",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LOS NI\u00d1OS",
+    "nombreCalle_2": "JUAN PABLO II",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "056-189-000",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

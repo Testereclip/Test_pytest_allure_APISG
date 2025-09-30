@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RIVADAVIA+Y+SAENZ+PE%C3%91A%2C+ROQUE%2C+PRES.+DIAGONAL+NORTE+AV.&v2=true

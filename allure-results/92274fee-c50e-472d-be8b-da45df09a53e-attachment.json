@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 243,
+    "codCalle_2": 385,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 105235.8438472881,
+    "coordenada_y": 105333.1327239086,
+    "direccion": "CERVI\u00d1O AV. Y BULNES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CERVI\u00d1O AV.",
+    "nombreCalle_2": "BULNES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-069-010a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 516,
+    "codCalle_2": 1684,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 101778.0079098855,
+    "coordenada_y": 99135.6561618042,
+    "direccion": "SANTANDER Y MIRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANTANDER",
+    "nombreCalle_2": "MIRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-109-027a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

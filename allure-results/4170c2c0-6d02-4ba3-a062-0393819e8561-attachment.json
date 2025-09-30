@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": 1240,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1004,
+    "codCalle_2": null,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108462.5681126988,
+    "coordenada_y": 99810.2248490592,
+    "direccion": "PI Y MARGALL 1240",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "nombreCalle_1": "PI Y MARGALL",
+    "nombreCalle_2": null,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "008-050-002a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_altura"
+  },
+  "status_code": 200
+}

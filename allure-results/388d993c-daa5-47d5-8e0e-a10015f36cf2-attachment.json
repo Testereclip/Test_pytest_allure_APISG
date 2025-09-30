@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 592,
+    "codCalle_2": 1985,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102687.9219724205,
+    "coordenada_y": 101661.1483491098,
+    "direccion": "CAMPICHUELO Y CENTENARIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CAMPICHUELO",
+    "nombreCalle_2": "CENTENARIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-103B-011x",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

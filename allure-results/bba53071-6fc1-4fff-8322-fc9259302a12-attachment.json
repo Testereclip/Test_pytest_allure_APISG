@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 704,
+    "codCalle_2": 891,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106127.1875971134,
+    "coordenada_y": 104711.4452240312,
+    "direccion": "VITTORIA FRANCISCO DE Y AGOTE, LUIS DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VITTORIA FRANCISCO DE",
+    "nombreCalle_2": "AGOTE, LUIS DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "011-026B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

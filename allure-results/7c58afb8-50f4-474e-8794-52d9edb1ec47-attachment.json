@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 1172,
+    "codCalle_2": 1332,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98832.500098203,
+    "coordenada_y": 104761.3592860369,
+    "direccion": "AVALOS Y LLERENA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AVALOS",
+    "nombreCalle_2": "LLERENA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-044-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

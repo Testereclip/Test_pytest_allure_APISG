@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 1259,
+    "codCalle_2": 196,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98873.664159995,
+    "coordenada_y": 94315.2811620978,
+    "direccion": "BATLLE Y ORDO\u00d1EZ, JOSE P.T. Y RUCCI, JOSE IGNACIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BATLLE Y ORDO\u00d1EZ, JOSE P.T.",
+    "nombreCalle_2": "RUCCI, JOSE IGNACIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "080-074-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

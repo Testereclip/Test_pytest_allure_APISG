@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1296,
+    "codCalle_2": 2540,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104578.27353438,
+    "coordenada_y": 97790.867099628,
+    "direccion": "ANCASTE Y EINSTEIN, ALBERTO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ANCASTE",
+    "nombreCalle_2": "EINSTEIN, ALBERTO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "034-037A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

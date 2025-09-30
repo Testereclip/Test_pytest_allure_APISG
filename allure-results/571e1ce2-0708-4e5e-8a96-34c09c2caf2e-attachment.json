@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NU\u00d1EZ",
+    "barrioInf": null,
+    "codCalle_1": 165,
+    "codCalle_2": 1231,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100199.3594733143,
+    "coordenada_y": 109435.8202231491,
+    "direccion": "ARRIBE\u00d1OS Y JARAMILLO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARRIBE\u00d1OS",
+    "nombreCalle_2": "JARAMILLO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "029-093-020a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

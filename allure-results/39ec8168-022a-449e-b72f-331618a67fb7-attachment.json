@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 418,
+    "codCalle_2": 2417,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106855.8438469476,
+    "coordenada_y": 103835.1170991697,
+    "direccion": "ARENALES Y PARANA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARENALES",
+    "nombreCalle_2": "PARANA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "007-031B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

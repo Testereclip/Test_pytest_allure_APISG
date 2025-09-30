@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 584,
+    "codCalle_2": 1203,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 97090.1797854342,
+    "coordenada_y": 96890.3202242202,
+    "direccion": "LA QUENA Y REMEDIOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LA QUENA",
+    "nombreCalle_2": "REMEDIOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "062-007A-009e",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

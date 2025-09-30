@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 513,
+    "codCalle_2": 2179,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98648.1407227448,
+    "coordenada_y": 97529.0936617583,
+    "direccion": "MORETO Y CORREA, GUILLERMO, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MORETO",
+    "nombreCalle_2": "CORREA, GUILLERMO, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-053-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

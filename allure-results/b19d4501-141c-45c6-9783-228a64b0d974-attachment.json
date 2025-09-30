@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 166,
+    "codCalle_2": 1616,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104362.2891598591,
+    "coordenada_y": 104449.0233489376,
+    "direccion": "SALGUERO, JERONIMO Y CHARCAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SALGUERO, JERONIMO",
+    "nombreCalle_2": "CHARCAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-133-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

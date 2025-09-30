@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 2233,
+    "codCalle_2": 2453,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97680.6016605464,
+    "coordenada_y": 99868.476473957,
+    "direccion": "SARACHAGA Y GOYA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SARACHAGA",
+    "nombreCalle_2": "GOYA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "077-062-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

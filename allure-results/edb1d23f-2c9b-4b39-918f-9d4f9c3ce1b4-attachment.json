@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 1152,
+    "codCalle_2": 1624,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105433.7735342817,
+    "coordenada_y": 98222.890537143,
+    "direccion": "FAMATINA Y MONTEAGUDO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FAMATINA",
+    "nombreCalle_2": "MONTEAGUDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "024-002-022",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

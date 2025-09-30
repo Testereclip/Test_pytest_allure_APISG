@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 710,
+    "codCalle_2": 2582,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 104813.5547845595,
+    "coordenada_y": 100989.835849321,
+    "direccion": "24 DE NOVIEMBRE Y INDEPENDENCIA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "24 DE NOVIEMBRE",
+    "nombreCalle_2": "INDEPENDENCIA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "028-026-020a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

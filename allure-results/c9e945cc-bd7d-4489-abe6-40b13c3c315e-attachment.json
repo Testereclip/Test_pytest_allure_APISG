@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 2655,
+    "codCalle_2": 1153,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99047.6954107131,
+    "coordenada_y": 105363.9686609888,
+    "direccion": "DE LOS INCAS AV. Y LUGONES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LOS INCAS AV.",
+    "nombreCalle_2": "LUGONES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-039-016",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

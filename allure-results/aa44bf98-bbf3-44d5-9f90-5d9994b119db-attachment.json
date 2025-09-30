@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BOEDO",
+    "barrioInf": null,
+    "codCalle_1": 945,
+    "codCalle_2": 2643,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 104666.2657219705,
+    "coordenada_y": 99339.0624119792,
+    "direccion": "LINIERS VIRREY Y CHICLANA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LINIERS VIRREY",
+    "nombreCalle_2": "CHICLANA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "032-034-038",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

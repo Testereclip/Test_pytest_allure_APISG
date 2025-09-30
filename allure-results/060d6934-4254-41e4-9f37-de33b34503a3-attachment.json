@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 1064,
+    "codCalle_2": 661,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102241.9454098576,
+    "coordenada_y": 99751.9139742752,
+    "direccion": "DE LAS GARANTIAS Y TEJEDOR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LAS GARANTIAS",
+    "nombreCalle_2": "TEJEDOR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-009C-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

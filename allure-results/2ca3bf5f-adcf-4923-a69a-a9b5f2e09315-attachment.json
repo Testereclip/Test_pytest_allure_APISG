@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 1441,
+    "codCalle_2": 2038,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105755.8672843351,
+    "coordenada_y": 99740.0545995106,
+    "direccion": "JUJUY AV. Y BRASIL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JUJUY AV.",
+    "nombreCalle_2": "BRASIL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "024-067-011b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

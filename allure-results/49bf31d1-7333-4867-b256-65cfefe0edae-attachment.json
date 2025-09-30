@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "AGRONOMIA",
+    "barrioInf": "Barrio Rawson",
+    "codCalle_1": 2454,
+    "codCalle_2": 2052,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 97820.367285783,
+    "coordenada_y": 103692.5389735747,
+    "direccion": "UZAL, FRANCISCO DE Y ZALDIVAR PEDRO F.",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "UZAL, FRANCISCO DE",
+    "nombreCalle_2": "ZALDIVAR PEDRO F.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "071-090C-001",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

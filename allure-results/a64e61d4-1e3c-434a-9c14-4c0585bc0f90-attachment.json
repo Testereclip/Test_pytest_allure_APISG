@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 1477,
+    "codCalle_2": 1862,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97660.2813479908,
+    "coordenada_y": 98994.1014740424,
+    "direccion": "RAFAELA Y CARRERAS, SANTIAGO DE LAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RAFAELA",
+    "nombreCalle_2": "CARRERAS, SANTIAGO DE LAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-083A-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

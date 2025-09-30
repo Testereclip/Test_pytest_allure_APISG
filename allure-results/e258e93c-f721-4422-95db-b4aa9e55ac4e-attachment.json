@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN TELMO",
+    "barrioInf": null,
+    "codCalle_1": 272,
+    "codCalle_2": 1078,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108406.5704090464,
+    "coordenada_y": 101261.9530370325,
+    "direccion": "GIUFFRA, JOSE M.,DR. Y DEFENSA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GIUFFRA, JOSE M.,DR.",
+    "nombreCalle_2": "DEFENSA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "004-030-034",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

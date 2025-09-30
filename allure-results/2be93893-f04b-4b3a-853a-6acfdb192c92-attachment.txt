@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BARCO+CENTENERA+DEL+Y+ECHAGUE%2C+CARLOS%2C+ING.&v2=true

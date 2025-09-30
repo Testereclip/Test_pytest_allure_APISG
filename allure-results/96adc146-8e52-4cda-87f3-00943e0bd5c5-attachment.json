@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 151,
+    "codCalle_2": 1554,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101981.6797853319,
+    "coordenada_y": 106233.8045985965,
+    "direccion": "NEWBERY, JORGE Y ZAPATA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NEWBERY, JORGE",
+    "nombreCalle_2": "ZAPATA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "035-095-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

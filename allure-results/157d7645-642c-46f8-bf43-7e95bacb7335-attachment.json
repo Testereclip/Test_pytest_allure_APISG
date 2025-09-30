@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 842,
+    "codCalle_2": 1520,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98904.1875982826,
+    "coordenada_y": 106092.8905359043,
+    "direccion": "ECHEVERRIA Y ACHA, MARIANO, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ECHEVERRIA",
+    "nombreCalle_2": "ACHA, MARIANO, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-095-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

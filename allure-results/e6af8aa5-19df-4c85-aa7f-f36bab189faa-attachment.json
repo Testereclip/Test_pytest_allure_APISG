@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 820,
+    "codCalle_2": 1537,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94395.1641609179,
+    "coordenada_y": 98075.992098918,
+    "direccion": "CARHUE Y BOQUERON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARHUE",
+    "nombreCalle_2": "BOQUERON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-065-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 551,
+    "codCalle_2": 1889,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103219.9844725322,
+    "coordenada_y": 104501.8202238563,
+    "direccion": "GURRUCHAGA Y EL SALVADOR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GURRUCHAGA",
+    "nombreCalle_2": "EL SALVADOR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-067A-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

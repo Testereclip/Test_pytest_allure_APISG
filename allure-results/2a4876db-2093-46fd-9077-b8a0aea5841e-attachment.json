@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 45,
+    "codCalle_2": 2024,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104556.2579094234,
+    "coordenada_y": 98384.3045995685,
+    "direccion": "PAGOLA, CNEL. Y ALMAFUERTE AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PAGOLA, CNEL.",
+    "nombreCalle_2": "ALMAFUERTE AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "032-052-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

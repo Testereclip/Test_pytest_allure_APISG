@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 1765,
+    "codCalle_2": 2042,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106285.4688469051,
+    "coordenada_y": 101947.7967868232,
+    "direccion": "ALSINA, ADOLFO Y SARANDI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALSINA, ADOLFO",
+    "nombreCalle_2": "SARANDI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "020-056-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

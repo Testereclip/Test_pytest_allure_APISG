@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 30,
+    "codCalle_2": 2688,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 96073.7525700786,
+    "coordenada_y": 103727.5874652472,
+    "direccion": "CONCORDIA Y CARRIL, SALVADOR MARIA DEL AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CONCORDIA",
+    "nombreCalle_2": "CARRIL, SALVADOR MARIA DEL AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-168-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

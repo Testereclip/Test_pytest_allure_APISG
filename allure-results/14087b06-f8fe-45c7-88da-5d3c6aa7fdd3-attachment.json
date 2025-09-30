@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 2687,
+    "codCalle_2": 2708,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107838.0435284813,
+    "coordenada_y": 99387.8195340925,
+    "direccion": "AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI Y SAMPERIO, MANUEL J.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI",
+    "nombreCalle_2": "SAMPERIO, MANUEL J.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "016-072A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

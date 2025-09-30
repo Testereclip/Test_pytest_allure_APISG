@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 989,
+    "codCalle_2": 1520,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98321.7891609238,
+    "coordenada_y": 106886.7577232851,
+    "direccion": "NAHUEL HUAPI Y ACHA, MARIANO, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NAHUEL HUAPI",
+    "nombreCalle_2": "ACHA, MARIANO, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "053-064-021a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

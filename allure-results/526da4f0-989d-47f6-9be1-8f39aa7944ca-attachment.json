@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 151,
+    "codCalle_2": 2632,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101767.0902149411,
+    "coordenada_y": 105985.0437560777,
+    "direccion": "NEWBERY, JORGE Y CRAMER",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NEWBERY, JORGE",
+    "nombreCalle_2": "CRAMER",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "035-069-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 116,
+    "codCalle_2": 799,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 96137.5782234128,
+    "coordenada_y": 101889.7889736478,
+    "direccion": "BAIGORRIA Y SANABRIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BAIGORRIA",
+    "nombreCalle_2": "SANABRIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-019-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

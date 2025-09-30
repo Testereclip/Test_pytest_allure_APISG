@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 1105,
+    "codCalle_2": 1264,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98269.4922852624,
+    "coordenada_y": 96987.6327242872,
+    "direccion": "MONTE Y GUARDIA NACIONAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MONTE",
+    "nombreCalle_2": "GUARDIA NACIONAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "062-112-008b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

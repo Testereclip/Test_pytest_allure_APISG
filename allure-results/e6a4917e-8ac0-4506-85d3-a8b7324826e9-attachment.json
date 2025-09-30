@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1304,
+    "codCalle_2": 1820,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105110.6094718001,
+    "coordenada_y": 97775.5858496663,
+    "direccion": "BONAVENA, OSCAR NATALIO Y MORENO, PERITO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BONAVENA, OSCAR NATALIO",
+    "nombreCalle_2": "MORENO, PERITO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "034-082B-000M",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

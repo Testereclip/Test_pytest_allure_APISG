@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 876,
+    "codCalle_2": 1826,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94160.5157237397,
+    "coordenada_y": 102346.8983484676,
+    "direccion": "CERVANTES Y PAZ, GRAL. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CERVANTES",
+    "nombreCalle_2": "PAZ, GRAL. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "089-005A-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

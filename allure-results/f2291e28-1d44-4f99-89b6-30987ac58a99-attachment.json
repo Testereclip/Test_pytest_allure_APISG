@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 283,
+    "codCalle_2": 1420,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98358.0313482593,
+    "coordenada_y": 104546.1405360262,
+    "direccion": "PRAGA Y BELGRADO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PRAGA",
+    "nombreCalle_2": "BELGRADO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-067-005",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

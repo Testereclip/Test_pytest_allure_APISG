@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 1909,
+    "codCalle_2": 2365,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100509.8985356929,
+    "coordenada_y": 108316.546785786,
+    "direccion": "UGARTE, MANUEL Y O'HIGGINS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "UGARTE, MANUEL",
+    "nombreCalle_2": "O'HIGGINS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "027-036-022",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

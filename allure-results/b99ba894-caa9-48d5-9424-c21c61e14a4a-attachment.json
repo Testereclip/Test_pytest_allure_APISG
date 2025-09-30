@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 521,
+    "codCalle_2": 1483,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99899.3594731909,
+    "coordenada_y": 106952.3905358854,
+    "direccion": "JURAMENTO Y FREIRE, RAMON, CAP. GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JURAMENTO",
+    "nombreCalle_2": "FREIRE, RAMON, CAP. GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "039-040B-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

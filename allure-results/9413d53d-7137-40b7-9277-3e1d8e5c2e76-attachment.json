@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1300,
+    "codCalle_2": 2001,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104894.5704098671,
+    "coordenada_y": 105770.6327238424,
+    "direccion": "DEL LIBERTADOR AV. Y UGARTECHE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DEL LIBERTADOR AV.",
+    "nombreCalle_2": "UGARTECHE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-108-000B",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

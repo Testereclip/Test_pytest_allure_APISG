@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN NICOLAS",
+    "barrioInf": null,
+    "codCalle_1": 1210,
+    "codCalle_2": 2047,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108760.5245454289,
+    "coordenada_y": 102481.8815743088,
+    "direccion": "HUERGO, ING. AV. Y LA RABIDA (N) AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HUERGO, ING. AV.",
+    "nombreCalle_2": "LA RABIDA (N) AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "001-074-000A",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 202,
+    "codCalle_2": 2594,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99413.2266605747,
+    "coordenada_y": 104137.6014736385,
+    "direccion": "14 DE JULIO Y PUNTA ARENAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "14 DE JULIO",
+    "nombreCalle_2": "PUNTA ARENAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-018-000D",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

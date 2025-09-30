@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PADILLA%2C+MANUEL+Y+TRONADOR&v2=true

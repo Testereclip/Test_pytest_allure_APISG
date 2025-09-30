@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 88,
+    "codCalle_2": 991,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 95519.0235362662,
+    "coordenada_y": 105740.1952232113,
+    "direccion": "EZEIZA Y ARGERICH",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "EZEIZA",
+    "nombreCalle_2": "ARGERICH",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-019D-000o",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

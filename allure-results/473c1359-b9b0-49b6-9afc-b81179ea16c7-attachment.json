@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 1477,
+    "codCalle_2": 1979,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 98762.0547853496,
+    "coordenada_y": 99345.2733490812,
+    "direccion": "RAFAELA Y BARADERO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RAFAELA",
+    "nombreCalle_2": "BARADERO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-171-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

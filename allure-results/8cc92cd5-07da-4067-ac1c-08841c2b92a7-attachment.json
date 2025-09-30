@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 1678,
+    "codCalle_2": 2073,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98851.2556608208,
+    "coordenada_y": 104210.5386639119,
+    "direccion": "CHORROARIN AV. Y ANDONAEGUI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CHORROARIN AV.",
+    "nombreCalle_2": "ANDONAEGUI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-025-005g",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 149,
+    "codCalle_2": 890,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100686.2891600372,
+    "coordenada_y": 98974.3827242498,
+    "direccion": "RECUERO, CASIMIRO, TTE. CNEL. Y ROBERTSON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RECUERO, CASIMIRO, TTE. CNEL.",
+    "nombreCalle_2": "ROBERTSON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-111F-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

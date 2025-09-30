@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 2086,
+    "codCalle_2": 2125,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104110.0313469384,
+    "coordenada_y": 97629.3358496155,
+    "direccion": "LUPPI, ABRAHAM J. Y LAS PALMAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LUPPI, ABRAHAM J.",
+    "nombreCalle_2": "LAS PALMAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-072-024",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

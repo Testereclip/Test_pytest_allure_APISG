@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 950,
+    "codCalle_2": 1105,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98492.4219727494,
+    "coordenada_y": 97241.2342867768,
+    "direccion": "DUMAS, ALEJANDRO Y MONTE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DUMAS, ALEJANDRO",
+    "nombreCalle_2": "MONTE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "062-159B-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

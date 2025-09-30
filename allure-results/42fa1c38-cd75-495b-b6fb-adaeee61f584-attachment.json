@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 10,
+    "codCalle_2": 756,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 99063.8985357579,
+    "coordenada_y": 106055.6014734181,
+    "direccion": "SUCRE, ANTONIO JOSE DE, MCAL. Y DONADO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SUCRE, ANTONIO JOSE DE, MCAL.",
+    "nombreCalle_2": "DONADO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-100-002c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

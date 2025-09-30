@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 10,
+    "codCalle_2": 2365,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101097.8907230487,
+    "coordenada_y": 107493.1874109092,
+    "direccion": "SUCRE, ANTONIO JOSE DE, MCAL. Y O'HIGGINS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SUCRE, ANTONIO JOSE DE, MCAL.",
+    "nombreCalle_2": "O'HIGGINS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "025-030-005e",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

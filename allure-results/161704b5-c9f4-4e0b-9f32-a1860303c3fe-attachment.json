@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 1768,
+    "codCalle_2": 2307,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94493.2735361975,
+    "coordenada_y": 102424.757723482,
+    "direccion": "QUEVEDO Y NUEVA YORK",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "QUEVEDO",
+    "nombreCalle_2": "NUEVA YORK",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "089-036-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

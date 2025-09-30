@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA GRAL. MITRE",
+    "barrioInf": null,
+    "codCalle_1": 1342,
+    "codCalle_2": 2267,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 99093.7813479986,
+    "coordenada_y": 102305.9920988023,
+    "direccion": "CARACAS Y CAMARONES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARACAS",
+    "nombreCalle_2": "CAMARONES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "067-114-020a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

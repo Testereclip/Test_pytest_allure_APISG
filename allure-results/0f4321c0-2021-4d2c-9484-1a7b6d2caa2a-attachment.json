@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 76,
+    "codCalle_2": 760,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97622.9532232997,
+    "coordenada_y": 103495.4999110814,
+    "direccion": "LOZANO, PEDRO Y CONDARCO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LOZANO, PEDRO",
+    "nombreCalle_2": "CONDARCO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "071-077-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

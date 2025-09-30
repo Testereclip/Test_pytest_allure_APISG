@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": "Barrio Padre Mugica",
+    "codCalle_1": 1499,
+    "codCalle_2": 2722,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107580.2071732458,
+    "coordenada_y": 105086.306819593,
+    "direccion": "LAPACHO ROSADO Y VICU\u00d1A",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAPACHO ROSADO",
+    "nombreCalle_2": "VICU\u00d1A",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "003-066B-002",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

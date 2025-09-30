@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 351,
+    "codCalle_2": 1172,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98445.9219732967,
+    "coordenada_y": 105281.9764734556,
+    "direccion": "LONDRES Y AVALOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LONDRES",
+    "nombreCalle_2": "AVALOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-176-027",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

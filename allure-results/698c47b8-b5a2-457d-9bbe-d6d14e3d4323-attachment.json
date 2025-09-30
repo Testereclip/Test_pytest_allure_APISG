@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": null,
+    "codCalle_1": 1009,
+    "codCalle_2": 1966,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107090.6407219351,
+    "coordenada_y": 104188.1405366467,
+    "direccion": "PARERA Y QUINTANA, MANUEL, PRES.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PARERA",
+    "nombreCalle_2": "QUINTANA, MANUEL, PRES.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "007-051-024",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

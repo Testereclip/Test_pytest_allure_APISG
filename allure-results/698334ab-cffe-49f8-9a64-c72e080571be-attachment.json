@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1149,
+    "codCalle_2": 729,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103287.1016602416,
+    "coordenada_y": 107774.3983485266,
+    "direccion": "DE LOS OMBUES AV. Y FIGUEROA ALCORTA, PRES. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LOS OMBUES AV.",
+    "nombreCalle_2": "FIGUEROA ALCORTA, PRES. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-162-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 1021,
+    "codCalle_2": 2324,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 99381.5782226022,
+    "coordenada_y": 97037.2655368564,
+    "direccion": "SAN JUAN BAUTISTA DE LA SALLE AV. Y PUENTE PEATONAL ALT. SAN JUAN BAUTISTA DE LA SALLE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN JUAN BAUTISTA DE LA SALLE AV.",
+    "nombreCalle_2": "PUENTE PEATONAL ALT. SAN JUAN BAUTISTA DE LA SALLE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "064-150-007a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

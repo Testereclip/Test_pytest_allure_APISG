@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1559,
+    "codCalle_2": 2570,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101821.0000974775,
+    "coordenada_y": 100582.2186616624,
+    "direccion": "MITRE, EMILIO Y HUALFIN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MITRE, EMILIO",
+    "nombreCalle_2": "HUALFIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "042-091-021c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

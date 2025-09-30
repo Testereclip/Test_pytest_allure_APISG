@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 252,
+    "codCalle_2": 2516,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100615.8282224997,
+    "coordenada_y": 98261.023349316,
+    "direccion": "CASTA\u00d1ON Y ALVAREZ, CRISOSTOMO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CASTA\u00d1ON",
+    "nombreCalle_2": "ALVAREZ, CRISOSTOMO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "050-080A-000H",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 370,
+    "codCalle_2": 475,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102578.7969727978,
+    "coordenada_y": 107038.9295985546,
+    "direccion": "MAURE Y MIGUELETES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MAURE",
+    "nombreCalle_2": "MIGUELETES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-120-015d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

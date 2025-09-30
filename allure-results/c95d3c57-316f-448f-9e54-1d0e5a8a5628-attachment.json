@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 80,
+    "codCalle_2": 2649,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103006.4610350702,
+    "coordenada_y": 104615.2655363329,
+    "direccion": "THAMES Y SANTA ROSA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "THAMES",
+    "nombreCalle_2": "SANTA ROSA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-052B-007f",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

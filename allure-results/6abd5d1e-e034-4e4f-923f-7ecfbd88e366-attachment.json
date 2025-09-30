@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1829,
+    "codCalle_2": 2581,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107537.1329090321,
+    "coordenada_y": 99130.6639746916,
+    "direccion": "AROLAS, EDUARDO Y PARACAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AROLAS, EDUARDO",
+    "nombreCalle_2": "PARACAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "016-054A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

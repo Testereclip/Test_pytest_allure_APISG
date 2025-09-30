@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1831,
+    "codCalle_2": 1956,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103379.1016595823,
+    "coordenada_y": 98152.7499120127,
+    "direccion": "FERNANDEZ DE LA CRUZ, F., GRAL. AV. Y ARQUIMEDES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FERNANDEZ DE LA CRUZ, F., GRAL. AV.",
+    "nombreCalle_2": "ARQUIMEDES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-060B-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

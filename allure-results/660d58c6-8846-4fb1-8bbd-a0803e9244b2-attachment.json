@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN NICOLAS",
+    "barrioInf": null,
+    "codCalle_1": 1061,
+    "codCalle_2": 1505,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107425.2344718119,
+    "coordenada_y": 103088.8202242811,
+    "direccion": "CERRITO Y TUCUMAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CERRITO",
+    "nombreCalle_2": "TUCUMAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "005-063B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

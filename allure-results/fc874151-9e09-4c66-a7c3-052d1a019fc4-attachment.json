@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 172,
+    "codCalle_2": 426,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100352.4219730096,
+    "coordenada_y": 105259.1717860869,
+    "direccion": "LORETO, VIRREY Y ROSETI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LORETO, VIRREY",
+    "nombreCalle_2": "ROSETI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-160-032a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

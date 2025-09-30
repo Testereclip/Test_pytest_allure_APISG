@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 852,
+    "codCalle_2": 2597,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96612.0469735928,
+    "coordenada_y": 105609.2577232979,
+    "direccion": "OBISPO SAN ALBERTO Y ZAMUDIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OBISPO SAN ALBERTO",
+    "nombreCalle_2": "ZAMUDIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-099-005",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

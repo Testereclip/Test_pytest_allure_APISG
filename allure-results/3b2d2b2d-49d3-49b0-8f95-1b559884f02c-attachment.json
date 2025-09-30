@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "AGRONOMIA",
+    "barrioInf": null,
+    "codCalle_1": 470,
+    "codCalle_2": 2392,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 97031.9889673896,
+    "coordenada_y": 103967.9321340641,
+    "direccion": "SOLANO LOPEZ, F., MARISCAL Y NAZCA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SOLANO LOPEZ, F., MARISCAL",
+    "nombreCalle_2": "NAZCA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "071-056-007b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 236,
+    "codCalle_2": 2453,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97968.7832702897,
+    "coordenada_y": 99403.2919356985,
+    "direccion": "RIVADAVIA AV. Y GOYA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIVADAVIA AV.",
+    "nombreCalle_2": "GOYA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "077-066-010a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

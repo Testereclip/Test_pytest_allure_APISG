@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 1520,
+    "codCalle_2": 1667,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99194.3125981798,
+    "coordenada_y": 105216.1014735144,
+    "direccion": "ACHA, MARIANO, GRAL. Y TRIUNVIRATO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACHA, MARIANO, GRAL.",
+    "nombreCalle_2": "TRIUNVIRATO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-038-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

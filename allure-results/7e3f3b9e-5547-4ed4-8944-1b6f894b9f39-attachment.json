@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": "Barrio Catalinas Sur",
+    "codCalle_1": 1102,
+    "codCalle_2": 2109,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 109207.7188463564,
+    "coordenada_y": 100206.8592871948,
+    "direccion": "BRAUN MENENDEZ, EDUARDO, DR. Y GALVEZ, MANUEL",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BRAUN MENENDEZ, EDUARDO, DR.",
+    "nombreCalle_2": "GALVEZ, MANUEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "006-119-000A",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

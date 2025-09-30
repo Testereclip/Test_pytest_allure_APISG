@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1107,
+    "codCalle_2": 1534,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106742.7188466137,
+    "coordenada_y": 98607.3983496931,
+    "direccion": "VELEZ SARSFIELD AV. Y MIRAVE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VELEZ SARSFIELD AV.",
+    "nombreCalle_2": "MIRAVE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "026-050-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

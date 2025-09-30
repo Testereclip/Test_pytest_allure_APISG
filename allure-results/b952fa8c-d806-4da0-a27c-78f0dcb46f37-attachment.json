@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 820,
+    "codCalle_2": 1907,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94357.9454109563,
+    "coordenada_y": 98582.6795988635,
+    "direccion": "CARHUE Y EL CARPINTERO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARHUE",
+    "nombreCalle_2": "EL CARPINTERO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-055A-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

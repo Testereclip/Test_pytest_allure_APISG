@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 987,
+    "codCalle_2": 2610,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98608.4141600886,
+    "coordenada_y": 95120.6327245005,
+    "direccion": "OLIDEN Y ZELARRAYAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OLIDEN",
+    "nombreCalle_2": "ZELARRAYAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "080-113-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

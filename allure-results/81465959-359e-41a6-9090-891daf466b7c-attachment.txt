@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=10+DE+OCTUBRE+DE+1996+Y+IGUAZU&v2=true

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 373,
+    "codCalle_2": 554,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100984.3594727578,
+    "coordenada_y": 102905.4061613707,
+    "direccion": "RODRIGUEZ, MANUEL A., GENERAL Y BELAUSTEGUI, LUIS, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RODRIGUEZ, MANUEL A., GENERAL",
+    "nombreCalle_2": "BELAUSTEGUI, LUIS, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-018-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

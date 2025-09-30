@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 434,
+    "codCalle_2": 2054,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99057.7579107349,
+    "coordenada_y": 105725.3280359504,
+    "direccion": "PINO, VIRREY DEL Y ALVAREZ THOMAS AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PINO, VIRREY DEL",
+    "nombreCalle_2": "ALVAREZ THOMAS AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-057-017b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

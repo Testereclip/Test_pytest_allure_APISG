@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 324,
+    "codCalle_2": 1238,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97173.8672860598,
+    "coordenada_y": 106371.0780357596,
+    "direccion": "CONGRESO AV. Y BONORINO, MARTINIANO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CONGRESO AV.",
+    "nombreCalle_2": "BONORINO, MARTINIANO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-080-002c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

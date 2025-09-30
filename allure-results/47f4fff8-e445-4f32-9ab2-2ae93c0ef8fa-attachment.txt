@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=HERNANDEZ%2C+RAFAEL+Y+GARCIA%2C+MANUEL+J.%2C+ALTE.&v2=true

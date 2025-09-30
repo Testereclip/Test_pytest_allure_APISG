@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LAFINUR+Y+SEGUI%2C+JUAN+FRANCISCO&v2=true

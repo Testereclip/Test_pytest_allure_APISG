@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN CRISTOBAL",
+    "barrioInf": null,
+    "codCalle_1": 2042,
+    "codCalle_2": 2115,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106309.8438468426,
+    "coordenada_y": 101078.429599411,
+    "direccion": "SARANDI Y ESTADOS UNIDOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SARANDI",
+    "nombreCalle_2": "ESTADOS UNIDOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "022-060-011a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

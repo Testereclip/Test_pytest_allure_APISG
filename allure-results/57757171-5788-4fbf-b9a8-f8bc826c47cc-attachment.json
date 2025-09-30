@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": "Barrio Padre Mugica",
+    "codCalle_1": 245,
+    "codCalle_2": 2493,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 106997.1122786028,
+    "coordenada_y": 105340.9058945552,
+    "direccion": "FERNANDEZ, SARA BEATRIZ Y AGUARA GUAZU",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FERNANDEZ, SARA BEATRIZ",
+    "nombreCalle_2": "AGUARA GUAZU",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "CO - Cristo Obrero",
+    "smp": "003-066B-001r",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

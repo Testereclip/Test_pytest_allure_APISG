@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 8,
+    "codCalle_2": 1561,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 104547.6250972906,
+    "coordenada_y": 103847.8592865134,
+    "direccion": "CARCOVA, DE LA Y SOLER",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARCOVA, DE LA",
+    "nombreCalle_2": "SOLER",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-020-028",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

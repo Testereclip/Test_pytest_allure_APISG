@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 1604,
+    "codCalle_2": 1898,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98571.2579100561,
+    "coordenada_y": 94544.6092870563,
+    "direccion": "SOMELLERA Y DELLEPIANE, LUIS, TTE. GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SOMELLERA",
+    "nombreCalle_2": "DELLEPIANE, LUIS, TTE. GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "080-076A-003b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

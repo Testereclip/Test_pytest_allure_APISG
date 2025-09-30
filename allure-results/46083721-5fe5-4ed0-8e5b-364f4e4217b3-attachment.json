@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 508,
+    "codCalle_2": 1827,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107401.7045263856,
+    "coordenada_y": 97700.0248725902,
+    "direccion": "IRIARTE, GRAL. AV. Y SANTA MARIA DEL BUEN AIRE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "IRIARTE, GRAL. AV.",
+    "nombreCalle_2": "SANTA MARIA DEL BUEN AIRE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-064-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

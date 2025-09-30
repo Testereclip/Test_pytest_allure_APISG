@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 1025,
+    "codCalle_2": 1667,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98887.5391607437,
+    "coordenada_y": 105470.2420984658,
+    "direccion": "URDININEA Y TRIUNVIRATO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "URDININEA",
+    "nombreCalle_2": "TRIUNVIRATO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-044-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

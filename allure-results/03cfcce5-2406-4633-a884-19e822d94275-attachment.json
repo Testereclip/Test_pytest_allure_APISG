@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 1522,
+    "codCalle_2": 2093,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105504.632909526,
+    "coordenada_y": 102013.7342867633,
+    "direccion": "YRIGOYEN, HIPOLITO Y SAAVEDRA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "YRIGOYEN, HIPOLITO",
+    "nombreCalle_2": "SAAVEDRA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "020-010-024a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

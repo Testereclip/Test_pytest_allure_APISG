@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 306,
+    "codCalle_2": 2141,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103962.2735344086,
+    "coordenada_y": 96855.031162182,
+    "direccion": "VEDIA, AGUSTIN DE Y FERRE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VEDIA, AGUSTIN DE",
+    "nombreCalle_2": "FERRE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "046-117A-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

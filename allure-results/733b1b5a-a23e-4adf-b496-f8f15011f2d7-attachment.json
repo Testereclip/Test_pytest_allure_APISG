@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 520,
+    "codCalle_2": 910,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 103325.6329096545,
+    "coordenada_y": 99114.1952244091,
+    "direccion": "DOBLAS Y SARAZA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DOBLAS",
+    "nombreCalle_2": "SARAZA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-101-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

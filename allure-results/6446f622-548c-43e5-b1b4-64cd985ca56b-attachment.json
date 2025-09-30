@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 50,
+    "codCalle_2": 1110,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95536.2266610392,
+    "coordenada_y": 102428.1483485522,
+    "direccion": "SEGUROLA AV. Y VARELA, JOSE PEDRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SEGUROLA AV.",
+    "nombreCalle_2": "VARELA, JOSE PEDRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-012-025b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

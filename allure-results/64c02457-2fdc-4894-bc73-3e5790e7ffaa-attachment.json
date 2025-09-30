@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 1803,
+    "codCalle_2": 1958,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101025.8985356199,
+    "coordenada_y": 108387.7186608117,
+    "direccion": "MONROE Y MONTA\u00d1ESES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MONROE",
+    "nombreCalle_2": "MONTA\u00d1ESES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "027-079-007a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN NICOLAS",
+    "barrioInf": null,
+    "codCalle_1": 1200,
+    "codCalle_2": 2047,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108481.1011000991,
+    "coordenada_y": 102403.1635093102,
+    "direccion": "25 DE MAYO Y LA RABIDA (N) AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "25 DE MAYO",
+    "nombreCalle_2": "LA RABIDA (N) AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "001-041-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

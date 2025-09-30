@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VERSALLES",
+    "barrioInf": null,
+    "codCalle_1": 129,
+    "codCalle_2": 727,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95221.6797859071,
+    "coordenada_y": 99752.0155363016,
+    "direccion": "ECHENAGUCIA Y MIRANDA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ECHENAGUCIA",
+    "nombreCalle_2": "MIRANDA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "091-031-006a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

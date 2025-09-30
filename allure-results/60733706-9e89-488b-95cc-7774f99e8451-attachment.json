@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 687,
+    "codCalle_2": 998,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98180.164160837,
+    "coordenada_y": 105295.2108484369,
+    "direccion": "BUCARELLI Y LA PAMPA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BUCARELLI",
+    "nombreCalle_2": "LA PAMPA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-032-029",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 777,
+    "codCalle_2": 2085,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99382.554784874,
+    "coordenada_y": 93640.4608497021,
+    "direccion": "DE LA TORRE, LISANDRO Y BALANDRA, CARMEN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LA TORRE, LISANDRO",
+    "nombreCalle_2": "BALANDRA, CARMEN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "082-121-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

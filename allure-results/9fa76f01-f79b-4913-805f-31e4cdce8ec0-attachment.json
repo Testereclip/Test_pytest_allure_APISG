@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1687,
+    "codCalle_2": 1698,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 100651.0469726946,
+    "coordenada_y": 101227.2186615182,
+    "direccion": "MENDEZ DE ANDES Y MORELOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MENDEZ DE ANDES",
+    "nombreCalle_2": "MORELOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "057-043-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

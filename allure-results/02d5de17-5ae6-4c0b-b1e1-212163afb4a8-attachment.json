@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 2709,
+    "codCalle_2": 2716,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95640.1563484739,
+    "coordenada_y": 101677.3280361333,
+    "direccion": "NOGOYA Y DIAMANTE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NOGOYA",
+    "nombreCalle_2": "DIAMANTE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-078-028c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

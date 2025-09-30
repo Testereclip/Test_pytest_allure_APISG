@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 711,
+    "codCalle_2": 1057,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100072.3672854004,
+    "coordenada_y": 103018.2811612982,
+    "direccion": "ESPINOSA Y SEGUI, F. J., ALTE.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ESPINOSA",
+    "nombreCalle_2": "SEGUI, F. J., ALTE.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-120-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

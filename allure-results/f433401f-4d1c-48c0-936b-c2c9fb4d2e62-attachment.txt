@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MENDEZ+DE+ANDES+Y+ROJAS&v2=true

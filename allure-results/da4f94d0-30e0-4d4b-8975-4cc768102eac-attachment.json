@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 71,
+    "codCalle_2": 893,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 101818.617285264,
+    "coordenada_y": 104866.3749112241,
+    "direccion": "CORDOBA AV. Y RAVIGNANI, EMILIO, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CORDOBA AV.",
+    "nombreCalle_2": "RAVIGNANI, EMILIO, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "033-071-032",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

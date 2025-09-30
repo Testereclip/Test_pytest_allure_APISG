@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 1361,
+    "codCalle_2": 2013,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96137.8672860833,
+    "coordenada_y": 104406.2811608892,
+    "direccion": "CUENCA Y MISTRAL, GABRIELA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CUENCA",
+    "nombreCalle_2": "MISTRAL, GABRIELA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "073-006-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 2061,
+    "codCalle_2": 2083,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96642.5313482325,
+    "coordenada_y": 100276.8749113468,
+    "direccion": "BERMUDEZ Y RUBENS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BERMUDEZ",
+    "nombreCalle_2": "RUBENS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-056-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

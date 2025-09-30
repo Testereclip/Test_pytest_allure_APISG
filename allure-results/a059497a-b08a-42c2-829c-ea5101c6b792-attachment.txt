@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CERRO+DE+LOS+7+COLORES+Y+UYUNI&v2=true

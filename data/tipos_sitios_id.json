@@ -1,0 +1,163 @@
+{
+  "casos": [
+    {
+      "id": 1,
+      "descripcion_esperada": "Hospital General de Agudos",
+      "esquema": "categorias",
+      "estado": true,
+      "fuente": "SALUD",
+      "prioridad": 1,
+      "tabla": "sitio_hosp_agudos"
+    },
+    {
+      "id": 2,
+      "descripcion_esperada": "Hospital Especializado",
+        "esquema": "categorias",
+        "estado": true,
+        "fuente": "SALUD",
+        "id_tipo_sitios": 2,
+        "prioridad": 2,
+        "tabla": "sitio_hosp_esp"
+    },
+    {
+      "id": 3,
+      "descripcion_esperada": "Hospital de Niños",
+        "esquema": "categorias",
+        "estado": true,
+        "fuente": "SALUD",
+        "id_tipo_sitios": 3,
+        "prioridad": 3,
+        "tabla": "sitio_hosp_ninos"
+    },
+    {
+        "id": 4,
+      "descripcion_esperada": "Establecimiento Educativo de Gestión Estatal",
+        "esquema": "categorias",
+        "estado": true,
+        "fuente": "EDUCACION",
+        "id_tipo_sitios": 4,
+        "prioridad": 1,
+        "tabla": "sitio_est_edu_est"
+    },
+    {
+        "id": 5,
+      "descripcion_esperada": "Estaciones Ecobici",
+        "esquema": "categorias",
+        "estado": true,
+        "fuente": "INFRAESTRUCTURA",
+        "id_tipo_sitios": 5,
+        "prioridad": 5,
+        "tabla": "sitio_est_ecobici"
+    },
+    {
+        "id": 6,
+      "descripcion_esperada": "Espacios Verdes Públicos",
+        "esquema": "categorias",
+        "estado": true,
+        "fuente": "MEPHU",
+        "id_tipo_sitios": 6,
+        "prioridad": 2,
+        "tabla": "sitio_ev_pub"
+    },
+    {
+        "id": 7,
+      "descripcion_esperada": "Espacios Verdes Privados",
+        "esquema": "categorias",
+        "estado": true,
+        "fuente": "MEPHU",
+        "id_tipo_sitios": 7,
+        "prioridad": 2,
+        "tabla": "sitio_ev_prv"
+    },
+    {
+        "id": 8,
+      "descripcion_esperada": "Estaciones Subte",
+        "esquema": "categorias",
+        "estado": true,
+        "fuente": "TRANSPORTE",
+        "id_tipo_sitios": 8,
+        "prioridad": 2,
+        "tabla": "sitio_est_subte"
+    },
+    {
+        "id": 9,
+      "descripcion_esperada": "CESACs",
+        "esquema": "categorias",
+        "estado": true,
+        "fuente": "SALUD",
+        "id_tipo_sitios": 9,
+        "prioridad": 3,
+        "tabla": "sitio_cesacs"
+    },
+    {
+        "id": 10,
+      "descripcion_esperada": "Estaciones Premetro",
+        "esquema": "categorias",
+        "estado": true,
+        "fuente": "TRANSPORTE",
+        "id_tipo_sitios": 10,
+        "prioridad": 3,
+        "tabla": "sitio_est_premetro"
+    },
+    {
+        "id": 11,
+      "descripcion_esperada": "Barrios",
+        "esquema": "categorias",
+        "estado": true,
+        "fuente": "CATASTRO",
+        "id_tipo_sitios": 11,
+        "prioridad": 5,
+        "tabla": "sitio_barrio"
+    },
+    {
+        "id": 12,
+      "descripcion_esperada": "Centros Médicos Barriales",
+        "esquema": "categorias",
+        "estado": true,
+        "fuente": "SALUD",
+        "id_tipo_sitios": 12,
+        "prioridad": 3,
+        "tabla": "sitio_cmb"
+    },
+    {
+        "id": 13,
+      "descripcion_esperada": "Parcela",
+        "esquema": "categorias",
+        "estado": false,
+        "fuente": "CATASTRO",
+        "id_tipo_sitios": 13,
+        "prioridad": 2,
+        "tabla": "sitio_smp"
+    },
+    {
+        "id": 14,
+      "descripcion_esperada": "Zonas Vulnerables",
+        "esquema": "categorias",
+        "estado": true,
+        "fuente": "USIG",
+        "id_tipo_sitios": 14,
+        "prioridad": 5,
+        "tabla": "sitio_zona_vulnerable"
+    },
+    {
+        "id": 15,
+      "descripcion_esperada": "Centro de Prevención",
+        "esquema": "categorias",
+        "estado": true,
+        "fuente": "SALUD",
+        "id_tipo_sitios": 15,
+        "prioridad": 5,
+        "tabla": "sitio_centro_de_prevencion"
+    },
+    {
+        "id": 16,
+      "descripcion_esperada": "Comisarias",
+        "esquema": "categorias",
+        "estado": true,
+        "fuente": "SEGURIDAD",
+        "id_tipo_sitios": 16,
+        "prioridad": 1,
+        "tabla": "sitio_comisarias"
+    }
+  ]
+}

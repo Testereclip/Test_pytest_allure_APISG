@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 373,
+    "codCalle_2": 1057,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100198.8047854141,
+    "coordenada_y": 103502.8124112546,
+    "direccion": "RODRIGUEZ, MANUEL A., GENERAL Y SEGUI, F. J., ALTE.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RODRIGUEZ, MANUEL A., GENERAL",
+    "nombreCalle_2": "SEGUI, F. J., ALTE.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-109-019b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

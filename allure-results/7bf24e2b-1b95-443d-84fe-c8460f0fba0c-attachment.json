@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 1278,
+    "codCalle_2": 1843,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 96575.5704105974,
+    "coordenada_y": 98158.9842865548,
+    "direccion": "CORVALAN Y GARCIA GRANDE DE ZEQUEIRA, SEVERO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CORVALAN",
+    "nombreCalle_2": "GARCIA GRANDE DE ZEQUEIRA, SEVERO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "060-057-024",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 95,
+    "codCalle_2": 907,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103110.5235350758,
+    "coordenada_y": 104923.5077238035,
+    "direccion": "NICARAGUA Y FRAY JUSTO SANTAMARIA DE ORO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NICARAGUA",
+    "nombreCalle_2": "FRAY JUSTO SANTAMARIA DE ORO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-095-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

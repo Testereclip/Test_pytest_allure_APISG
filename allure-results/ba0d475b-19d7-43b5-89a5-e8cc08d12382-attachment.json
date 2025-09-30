@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 2073,
+    "codCalle_2": 2199,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96987.3907236124,
+    "coordenada_y": 106739.9920982076,
+    "direccion": "ANDONAEGUI Y TAMBORINI, JOSE PASCUAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ANDONAEGUI",
+    "nombreCalle_2": "TAMBORINI, JOSE PASCUAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-097-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

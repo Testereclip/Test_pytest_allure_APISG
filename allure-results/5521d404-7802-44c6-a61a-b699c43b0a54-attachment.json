@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 1633,
+    "codCalle_2": 2014,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 95533.1485357596,
+    "coordenada_y": 98252.7499114754,
+    "direccion": "PIERES Y PATRON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PIERES",
+    "nombreCalle_2": "PATRON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-136-029c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

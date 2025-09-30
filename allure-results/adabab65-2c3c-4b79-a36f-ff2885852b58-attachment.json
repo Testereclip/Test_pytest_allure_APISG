@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 132,
+    "codCalle_2": 2549,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104566.3907222986,
+    "coordenada_y": 104014.3436614967,
+    "direccion": "PARAGUAY Y DIAZ, CNEL. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PARAGUAY",
+    "nombreCalle_2": "DIAZ, CNEL. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-006-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

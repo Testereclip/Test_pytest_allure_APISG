@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 2213,
+    "codCalle_2": 2679,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99697.92197304,
+    "coordenada_y": 104274.796786143,
+    "direccion": "ELCANO AV. Y DEL CAMPO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ELCANO AV.",
+    "nombreCalle_2": "DEL CAMPO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-027-000D",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

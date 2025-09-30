@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BLANES%2C+JUAN+MANUEL+Y+CABOTO&v2=true

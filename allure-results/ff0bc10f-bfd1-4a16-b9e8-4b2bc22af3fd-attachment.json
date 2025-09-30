@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 239,
+    "codCalle_2": 346,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102444.6172848052,
+    "coordenada_y": 99385.749911825,
+    "direccion": "ASAMBLEA AV. Y DEL COMERCIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ASAMBLEA AV.",
+    "nombreCalle_2": "DEL COMERCIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-176-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

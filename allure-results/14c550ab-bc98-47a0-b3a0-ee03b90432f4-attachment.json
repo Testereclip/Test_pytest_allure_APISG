@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 286,
+    "codCalle_2": 557,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107760.1407214796,
+    "coordenada_y": 98837.0545997351,
+    "direccion": "ICALMA Y SALMUN FEIJOO, JOSE AARON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ICALMA",
+    "nombreCalle_2": "SALMUN FEIJOO, JOSE AARON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-127-000C",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

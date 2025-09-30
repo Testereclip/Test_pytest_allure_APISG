@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 1342,
+    "codCalle_2": 2613,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96655.8672860975,
+    "coordenada_y": 105768.0545982875,
+    "direccion": "CARACAS Y FRANCO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARACAS",
+    "nombreCalle_2": "FRANCO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-099-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

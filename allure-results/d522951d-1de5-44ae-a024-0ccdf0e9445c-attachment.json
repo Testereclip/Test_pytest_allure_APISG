@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 2038,
+    "codCalle_2": 2625,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106010.6797843064,
+    "coordenada_y": 99845.0702245193,
+    "direccion": "BRASIL Y MATHEU",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BRASIL",
+    "nombreCalle_2": "MATHEU",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "024-087-024",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

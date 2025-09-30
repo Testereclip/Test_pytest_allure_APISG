@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 601,
+    "codCalle_2": 1773,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100019.7266601582,
+    "coordenada_y": 99309.1014741687,
+    "direccion": "TANDIL Y ITALIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TANDIL",
+    "nombreCalle_2": "ITALIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-077-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

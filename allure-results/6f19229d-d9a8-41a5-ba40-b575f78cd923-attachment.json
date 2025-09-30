@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA REAL",
+    "barrioInf": null,
+    "codCalle_1": 1466,
+    "codCalle_2": 2595,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 94215.125098615,
+    "coordenada_y": 100595.148348649,
+    "direccion": "PORCEL DE PERALTA, MANUEL Y NAZARRE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PORCEL DE PERALTA, MANUEL",
+    "nombreCalle_2": "NAZARRE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "093-067B-005",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

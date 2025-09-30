@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=FIGUEROA+ALCORTA%2C+PRES.+AV.+Y+PUENTE+DISTRIBUIDOR+SCALABRINI+ORTIZ&v2=true

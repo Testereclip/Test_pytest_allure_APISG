@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 2028,
+    "codCalle_2": 2497,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101352.6329103851,
+    "coordenada_y": 105642.4686611155,
+    "direccion": "CONDE Y OLLEROS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CONDE",
+    "nombreCalle_2": "OLLEROS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "033-100-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

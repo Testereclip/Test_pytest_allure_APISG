@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 236,
+    "codCalle_2": 1307,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96950.711035606,
+    "coordenada_y": 99138.0858489803,
+    "direccion": "RIVADAVIA AV. Y DONIZETTI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIVADAVIA AV.",
+    "nombreCalle_2": "DONIZETTI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "060-138-001c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

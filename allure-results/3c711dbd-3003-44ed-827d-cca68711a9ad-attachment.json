@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio Parque Almirante Brown",
+    "codCalle_1": 1600,
+    "codCalle_2": 1914,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99326.3282223913,
+    "coordenada_y": 93776.0936621848,
+    "direccion": "CA\u00d1ONERA AMERICA Y FRAGATA 25 DE MAYO",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CA\u00d1ONERA AMERICA",
+    "nombreCalle_2": "FRAGATA 25 DE MAYO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "082-122C-001",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

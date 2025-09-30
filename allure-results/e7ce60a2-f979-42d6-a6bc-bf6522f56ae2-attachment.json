@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": null,
+    "codCalle_1": 295,
+    "codCalle_2": 992,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107114.187596901,
+    "coordenada_y": 103723.6405366956,
+    "direccion": "TALCAHUANO Y SANTA FE AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TALCAHUANO",
+    "nombreCalle_2": "SANTA FE AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "007-046-006e",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 729,
+    "codCalle_2": 2140,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103734.9766601392,
+    "coordenada_y": 107235.8124111147,
+    "direccion": "FIGUEROA ALCORTA, PRES. AV. Y PINEDO, INT.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FIGUEROA ALCORTA, PRES. AV.",
+    "nombreCalle_2": "PINEDO, INT.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-146A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

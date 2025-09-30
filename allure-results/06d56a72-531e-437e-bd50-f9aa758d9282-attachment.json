@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 350,
+    "codCalle_2": 711,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99516.7344729931,
+    "coordenada_y": 103162.1952237411,
+    "direccion": "ALVAREZ JONTE Y ESPINOSA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALVAREZ JONTE",
+    "nombreCalle_2": "ESPINOSA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-047-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

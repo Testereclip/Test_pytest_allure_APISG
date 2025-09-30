@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 202,
+    "codCalle_2": 1326,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100020.1329105209,
+    "coordenada_y": 104699.6249111242,
+    "direccion": "14 DE JULIO Y ITURRI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "14 DE JULIO",
+    "nombreCalle_2": "ITURRI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-130-033",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

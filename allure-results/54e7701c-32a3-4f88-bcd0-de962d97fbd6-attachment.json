@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 759,
+    "codCalle_2": 2229,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94553.0079109089,
+    "coordenada_y": 98298.8983489048,
+    "direccion": "FACUNDO Y TUYUTI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FACUNDO",
+    "nombreCalle_2": "TUYUTI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-082C-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

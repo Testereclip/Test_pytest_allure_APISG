@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 1754,
+    "codCalle_2": 2254,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95388.4063486774,
+    "coordenada_y": 104138.4452233663,
+    "direccion": "LOPEZ, CARLOS ANTONIO Y SAN NICOLAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LOPEZ, CARLOS ANTONIO",
+    "nombreCalle_2": "SAN NICOLAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-132-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

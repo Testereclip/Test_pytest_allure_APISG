@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": 1645,
+    "barrio": "BOEDO",
+    "barrioInf": null,
+    "codCalle_1": 63,
+    "codCalle_2": null,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103828.7500489402,
+    "coordenada_y": 99594.6429320756,
+    "direccion": "TREINTA Y TRES ORIENTALES 1645",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": null,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-167-034",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_altura"
+  },
+  "status_code": 200
+}

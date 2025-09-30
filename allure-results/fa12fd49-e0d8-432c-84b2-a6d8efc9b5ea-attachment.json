@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 1180,
+    "codCalle_2": 2364,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97742.5547855768,
+    "coordenada_y": 100463.679598899,
+    "direccion": "TRES ARROYOS Y MERCEDES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TRES ARROYOS",
+    "nombreCalle_2": "MERCEDES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-026A-030",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

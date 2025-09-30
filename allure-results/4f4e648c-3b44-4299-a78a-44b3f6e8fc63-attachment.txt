@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VALLEJOS+Y+LINCOLN+AV.&v2=true

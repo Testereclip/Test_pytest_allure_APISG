@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 2516,
+    "codCalle_2": 2614,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100428.1329100174,
+    "coordenada_y": 98093.3905368205,
+    "direccion": "ALVAREZ, CRISOSTOMO Y LAFUENTE AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALVAREZ, CRISOSTOMO",
+    "nombreCalle_2": "LAFUENTE AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "050-065A-021",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

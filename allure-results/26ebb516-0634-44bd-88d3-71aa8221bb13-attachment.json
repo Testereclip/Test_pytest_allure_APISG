@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 178,
+    "codCalle_2": 2490,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94856.1407237202,
+    "coordenada_y": 103595.3124108877,
+    "direccion": "GUTENBERG Y MOSCONI GENERAL AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUTENBERG",
+    "nombreCalle_2": "MOSCONI GENERAL AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-037-024",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

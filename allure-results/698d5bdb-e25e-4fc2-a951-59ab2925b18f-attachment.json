@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 990,
+    "codCalle_2": 2392,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96559.5157235336,
+    "coordenada_y": 104597.1014733995,
+    "direccion": "VALLEJOS Y NAZCA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VALLEJOS",
+    "nombreCalle_2": "NAZCA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "073-028-010b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

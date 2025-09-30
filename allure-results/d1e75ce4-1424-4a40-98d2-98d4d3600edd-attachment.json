@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 612,
+    "codCalle_2": 1604,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103532.0391595976,
+    "coordenada_y": 98700.4764744657,
+    "direccion": "DRUMOND Y SOMELLERA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DRUMOND",
+    "nombreCalle_2": "SOMELLERA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-123-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

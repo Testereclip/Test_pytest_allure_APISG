@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 855,
+    "codCalle_2": 1696,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98650.0625983795,
+    "coordenada_y": 106966.2811607965,
+    "direccion": "PLAZA Y RIVERA, PEDRO I., DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PLAZA",
+    "nombreCalle_2": "RIVERA, PEDRO I., DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "053-101-001d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

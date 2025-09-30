@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 760,
+    "codCalle_2": 1031,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99574.5625977852,
+    "coordenada_y": 100180.8592865518,
+    "direccion": "CONDARCO Y BACACAY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CONDARCO",
+    "nombreCalle_2": "BACACAY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "065-043-021d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

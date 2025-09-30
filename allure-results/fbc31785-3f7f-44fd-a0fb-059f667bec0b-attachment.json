@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAAVEDRA",
+    "barrioInf": null,
+    "codCalle_1": 1406,
+    "codCalle_2": 2073,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96560.0625987216,
+    "coordenada_y": 107404.4061606119,
+    "direccion": "PELLEGRINI, CARLOS E. Y ANDONAEGUI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PELLEGRINI, CARLOS E.",
+    "nombreCalle_2": "ANDONAEGUI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "055-001D-000B",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

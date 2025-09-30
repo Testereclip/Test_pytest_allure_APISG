@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 73,
+    "codCalle_2": 1196,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100050.203222627,
+    "coordenada_y": 98918.1795992117,
+    "direccion": "LAFERRERE, GREGORIO DE Y PILLADO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAFERRERE, GREGORIO DE",
+    "nombreCalle_2": "PILLADO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-070-034",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

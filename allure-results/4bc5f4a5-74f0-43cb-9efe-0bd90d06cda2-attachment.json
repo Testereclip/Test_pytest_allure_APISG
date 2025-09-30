@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 708,
+    "codCalle_2": 1220,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102909.0391599386,
+    "coordenada_y": 102419.3514740475,
+    "direccion": "ESTIVAO Y RAMOS MEJIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ESTIVAO",
+    "nombreCalle_2": "RAMOS MEJIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-150-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

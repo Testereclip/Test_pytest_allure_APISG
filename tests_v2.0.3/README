@@ -1,0 +1,32 @@
+VERSION 2.0.3 
+
+Endpoint GEOCODER: 
+-Se modificaron funciones para refinar la interpolacion 
+interpolacion_puertas_validas(maria) 
+interpolacion_eje_de_calle(maria) 
+-Se corrigió la repuesta de calles atípicas en método de codficación y se enmascaró en el parámetro v2 (martin) 
+
+Smp: letra al final en minuscula 
+
+Correccion de v2 en atipicas 
+
+Endpoint  DATOS UTILES: 
+-Se esta agregando un atributo a datos utiles (poligonos itinerantes) (martin) 
+-Tabla contexto.ctx_poligonos_itinerarios (marianela) 
+
+Endpoint UBICACIONES TECNICAS: 
+-Se actualizaron las funciones de Unidades Tecnicas 
+ubicacion_tecnica(maria) 
+
+Endpoint  SITIOS DE INTERES: 
+lugares/ reverse se agrego el filtro opcionable para monstrar los tipos de sitio segun las coordenadas. (martin) 
+
+CORRECCION DE LUGARES/BUSQUEDA - LIMITE DE CARACTERES(APPCALCBA-278)(martin) 
+
+*****Correr solo los errores de geocoder en el test_cruces_totales
+pytest -m known_issue --alluredir=allure-errores
+allure generate allure-errores -o reporte-errores --clean
+
+*****Correr solo los casos que no son errores en el test_cruces_totales
+pytest -m "not known_issue" --alluredir=allure-regression
+allure generate allure-regression -o reporte-regression --clean

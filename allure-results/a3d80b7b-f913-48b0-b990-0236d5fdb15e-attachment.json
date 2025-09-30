@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 97,
+    "codCalle_2": 1620,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96489.4375982804,
+    "coordenada_y": 100685.4999112937,
+    "direccion": "PAZ, MARCOS Y GARCIA, JUAN AGUSTIN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PAZ, MARCOS",
+    "nombreCalle_2": "GARCIA, JUAN AGUSTIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-051-026b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

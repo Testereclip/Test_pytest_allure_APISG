@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SAN+MARTIN+DE+TOURS+Y+TEDIN%2C+JUEZ&v2=true

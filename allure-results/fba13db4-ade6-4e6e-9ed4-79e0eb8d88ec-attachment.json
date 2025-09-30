@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 564,
+    "codCalle_2": 2297,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103878.79697265,
+    "coordenada_y": 107728.7264735724,
+    "direccion": "CARCANO, RAMON J. Y NOBLE, JULIO ARGENTINO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARCANO, RAMON J.",
+    "nombreCalle_2": "NOBLE, JULIO ARGENTINO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-142A-000J",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

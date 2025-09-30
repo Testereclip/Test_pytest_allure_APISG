@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": "Barrio Padre Mugica",
+    "codCalle_1": 503,
+    "codCalle_2": 2312,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107481.4052414691,
+    "coordenada_y": 104340.340524284,
+    "direccion": "POSADAS Y AUTOPISTA ARTURO ILLIA",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "POSADAS",
+    "nombreCalle_2": "AUTOPISTA ARTURO ILLIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "003-017C-000",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

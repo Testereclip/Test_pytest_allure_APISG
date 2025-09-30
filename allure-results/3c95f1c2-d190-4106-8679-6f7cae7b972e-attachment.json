@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 119,
+    "codCalle_2": 632,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 95548.1641612348,
+    "coordenada_y": 105343.1874107554,
+    "direccion": "CURUPAYTI Y LARSEN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CURUPAYTI",
+    "nombreCalle_2": "LARSEN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-008A-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 557,
+    "codCalle_2": 940,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107710.0860340084,
+    "coordenada_y": 99166.7811621966,
+    "direccion": "SALMUN FEIJOO, JOSE AARON Y VALLE, ARISTOBULO DEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SALMUN FEIJOO, JOSE AARON",
+    "nombreCalle_2": "VALLE, ARISTOBULO DEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "016-065-016",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

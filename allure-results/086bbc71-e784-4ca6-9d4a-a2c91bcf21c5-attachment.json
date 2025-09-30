@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1245,
+    "codCalle_2": 2287,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102750.3472154568,
+    "coordenada_y": 106266.4858576664,
+    "direccion": "CAMPOS, LUIS M. AV. Y CHENAUT, INDALESIO, GRAL. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CAMPOS, LUIS M. AV.",
+    "nombreCalle_2": "CHENAUT, INDALESIO, GRAL. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-008-000D",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

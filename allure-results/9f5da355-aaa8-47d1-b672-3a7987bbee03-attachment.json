@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 557,
+    "codCalle_2": 614,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107734.0157214925,
+    "coordenada_y": 98994.6874122206,
+    "direccion": "SALMUN FEIJOO, JOSE AARON Y BRANDSEN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SALMUN FEIJOO, JOSE AARON",
+    "nombreCalle_2": "BRANDSEN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "016-064-014a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

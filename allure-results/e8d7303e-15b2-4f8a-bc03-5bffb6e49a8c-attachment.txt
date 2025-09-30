@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=REMEDIOS+Y+GUARDIA+NACIONAL&v2=true

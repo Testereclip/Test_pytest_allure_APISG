@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 2536,
+    "codCalle_2": 821,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 96620.7032229654,
+    "coordenada_y": 96306.1952242472,
+    "direccion": "DE LA TORRE, LISANDRO AV. Y DE LOS CORRALES AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LA TORRE, LISANDRO AV.",
+    "nombreCalle_2": "DE LOS CORRALES AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "076-185-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

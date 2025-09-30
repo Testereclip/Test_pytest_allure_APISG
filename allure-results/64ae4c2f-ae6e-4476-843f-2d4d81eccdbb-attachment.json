@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 1517,
+    "codCalle_2": 1815,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96704.1797860553,
+    "coordenada_y": 105270.03116084,
+    "direccion": "GRIVEO Y ARTIGAS, JOSE GERVASIO, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GRIVEO",
+    "nombreCalle_2": "ARTIGAS, JOSE GERVASIO, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "073-056-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

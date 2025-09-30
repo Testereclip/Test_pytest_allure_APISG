@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CONSTITUCION",
+    "barrioInf": null,
+    "codCalle_1": 2273,
+    "codCalle_2": 2211,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107103.5469717149,
+    "coordenada_y": 100897.421786983,
+    "direccion": "HUMBERTO 1\u00b0 Y SAN JOSE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HUMBERTO 1\u00b0",
+    "nombreCalle_2": "SAN JOSE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "014-032-027a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

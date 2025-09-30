@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1889,
+    "codCalle_2": 1971,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102559.2032226687,
+    "coordenada_y": 105092.2108487539,
+    "direccion": "EL SALVADOR Y FITZ ROY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "EL SALVADOR",
+    "nombreCalle_2": "FITZ ROY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "035-044-018b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

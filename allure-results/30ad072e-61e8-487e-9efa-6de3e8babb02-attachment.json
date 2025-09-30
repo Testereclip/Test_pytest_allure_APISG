@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 876,
+    "codCalle_2": 2307,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94271.0547862176,
+    "coordenada_y": 102241.1405359848,
+    "direccion": "CERVANTES Y NUEVA YORK",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CERVANTES",
+    "nombreCalle_2": "NUEVA YORK",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "089-019A-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

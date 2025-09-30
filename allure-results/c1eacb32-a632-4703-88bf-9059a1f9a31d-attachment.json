@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 1062,
+    "codCalle_2": 1309,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 102168.8516601676,
+    "coordenada_y": 104185.117098818,
+    "direccion": "LOYOLA Y JUSTO, JUAN B. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LOYOLA",
+    "nombreCalle_2": "JUSTO, JUAN B. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-047-027",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

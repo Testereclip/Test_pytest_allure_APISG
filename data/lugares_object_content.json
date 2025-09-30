@@ -1,0 +1,131 @@
+{
+  "casos": [
+    {
+      "id_objeto": "16-34",
+      "descripcion_esperada": "Comisaría Comunal 2",
+      "fuente": "SEGURIDAD",
+      "contenido": {
+        "id": 34,
+        "tipo": "Departamento",
+        "altura": "1861",
+        "telefonos": "4801-1698/3333",
+        "designacion": "C2A",
+        "nombre_anterior": "Comisaría 17"
+      }
+    },
+    {
+      "id_objeto": "16-10",
+      "descripcion_esperada": "Comisaría Vecinal 11-A",
+      "fuente": "SEGURIDAD",
+      "contenido": {
+        "id": 10,
+        "tipo": "División",
+        "altura": "1800",
+        "telefonos": "4581-3155/ 4582-3333/4585-5458",
+        "designacion": "C11A",
+        "nombre_anterior": "Comisaría 41"
+      }
+    },
+    {
+      "id_objeto": "12-63",
+      "descripcion_esperada": "CMB N° 19",
+      "fuente": "SALUD",
+      "direccion_normalizada": "Virgilio 2502",     
+      "contenido": {
+        "id": 63,
+        "especialidades": "Pediatría - Odontología - Clínica Médica - Tocoginecología"
+      }
+    },
+    {
+      "id_objeto": "6-1585",
+      "descripcion_esperada": " (Esp. Verde Pub.)",
+      "fuente": "MEPHU",
+      "direccion_normalizada": "MARTÍN RODRÍGUEZ - JUAN MANUEL BLANES",     
+      "contenido": {
+        "id": 1585,
+        "tipo": "PLAZA"
+      }
+    },
+    {
+      "id_objeto": "1-30",
+      "descripcion_esperada": "HOSP. PIÑERO (Hospital General de Agudos)",
+      "fuente": "SALUD",
+      "direccion_normalizada": "VARELA AV. 1301",     
+      "contenido": {
+        "id": 30,
+        "tipo": "Hospital General de Agudos"
+      }
+    },
+    {
+      "id_objeto": "2-15",
+      "descripcion_esperada": "TALLERES DE REHAB. PSIQUIATRICA (Hospital Especializado)",
+      "fuente": "SALUD",
+      "direccion_normalizada": "SUAREZ AV. 2215",     
+      "contenido": {
+        "id": 15,
+        "tipo": "Hospital Especializado"
+      }
+    },
+    {
+      "id_objeto": "3-2",
+      "descripcion_esperada": "HOSP. DE ELIZALDE (Hospital de Niños)",
+      "fuente": "SALUD",
+      "direccion_normalizada": "MONTES DE OCA, MANUEL AV. 40",     
+      "contenido": {
+        "id": 2,
+        "tipo": "Hospital de Niños"
+      }
+    },
+    {
+      "id_objeto": "4-803",
+      "descripcion_esperada": "INST. SUP. DE ED. FISICA Nº 01 DR.ENRIQUE ROMERO BREST DE 10 (EEGE)",
+      "fuente": "EDUCACION",
+      "direccion_normalizada": "Sanchez, Miguel B. Av. 1050",     
+      "contenido": {
+        "id": 803,
+        "tipo": "Institutos de Educación Superior de Formación Docente"
+      }
+    },
+    {
+      "id_objeto": "5-156",
+      "descripcion_esperada": "137 - Azopardo y Chile (Estación ecobici)",
+      "fuente": "INFRAESTRUCTURA",
+      "direccion_normalizada": "Azopardo 700",     
+      "contenido": {
+        "id": 156,
+        "anclajes": 24
+      }
+    },
+    {
+      "id_objeto": "6-82",
+      "descripcion_esperada": "Paseo de los Vecinos destacados de Villa Lugano Comuna 8 - Bautista Mazzini (Esp. Verde Pub.)",
+      "fuente": "MEPHU",
+      "direccion_normalizada": "RIESTRA, AV. E/ LARRAYA Y LARRAZABAL, AV.",     
+      "contenido": {
+        "id": 82,
+        "tipo": "CANTERO CENTRAL"
+      }
+    },
+    {
+      "id_objeto": "7-628",
+      "descripcion_esperada": "AySA (Esp. Verde Priv.)",
+      "fuente": "MEPHU",
+      "direccion_normalizada": "",     
+      "contenido": {
+        "id": 628
+      }
+    },    
+    {
+      "id_objeto": "8-23",
+      "descripcion_esperada": "Callao - Maestro Alfredo Bravo (Est. Subte)",
+      "fuente": "TRANSPORTE",
+      "direccion_normalizada": "",     
+      "contenido": {
+        "id": 23,
+        "cabeceras": "J. M. de Rosas - L. N. Alem"
+      }
+    }
+
+
+  ]
+}

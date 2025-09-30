@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 431,
+    "codCalle_2": 1309,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94983.164160929,
+    "coordenada_y": 99559.9920988056,
+    "direccion": "PJE (J.B. JUSTO 9100) Y JUSTO, JUAN B. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PJE (J.B. JUSTO 9100)",
+    "nombreCalle_2": "JUSTO, JUAN B. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "095-064A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 559,
+    "codCalle_2": 1175,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108772.4375963276,
+    "coordenada_y": 98817.2030373078,
+    "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. Y HERNANDARIAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARAOZ DE LAMADRID, GREGORIO, GRAL.",
+    "nombreCalle_2": "HERNANDARIAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-061-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

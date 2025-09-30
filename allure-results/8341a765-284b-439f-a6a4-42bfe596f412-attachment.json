@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 1284,
+    "codCalle_2": 2322,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98740.2500976734,
+    "coordenada_y": 96673.984286849,
+    "direccion": "ECHEANDIA Y ESCALADA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ECHEANDIA",
+    "nombreCalle_2": "ESCALADA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "064-097B-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CALIFORNIA+Y+MAGALDI%2C+AGUSTIN&v2=true

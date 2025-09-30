@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": "Villa Piletones",
+    "codCalle_1": 364,
+    "codCalle_2": 1449,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100775.1597751776,
+    "coordenada_y": 96115.312179557,
+    "direccion": "14 DE ABRIL Y NUESTRA SE\u00d1ORA DE CAACUPE",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "14 DE ABRIL",
+    "nombreCalle_2": "NUESTRA SE\u00d1ORA DE CAACUPE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "056-055Q-001",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 1788,
+    "codCalle_2": 2718,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97467.0547859181,
+    "coordenada_y": 104902.5780359307,
+    "direccion": "PAREJA Y GAVILAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PAREJA",
+    "nombreCalle_2": "GAVILAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "073-082-016a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

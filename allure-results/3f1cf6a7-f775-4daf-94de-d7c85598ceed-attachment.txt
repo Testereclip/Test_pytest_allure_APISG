@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PAEZ+Y+ESTADO+PLURINACIONAL+DE+BOLIVIA&v2=true

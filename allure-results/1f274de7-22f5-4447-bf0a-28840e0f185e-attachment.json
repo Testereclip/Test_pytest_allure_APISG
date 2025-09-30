@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": "Barrio Padre Mugica",
+    "codCalle_1": 2,
+    "codCalle_2": 1817,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107312.26325654,
+    "coordenada_y": 105568.1430534141,
+    "direccion": "CALCHAQUIES Y ISLA DE PASCUA",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CALCHAQUIES",
+    "nombreCalle_2": "ISLA DE PASCUA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "003-102-002",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

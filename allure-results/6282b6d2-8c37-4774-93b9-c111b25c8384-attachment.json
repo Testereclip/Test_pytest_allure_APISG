@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 72,
+    "codCalle_2": 520,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 103298.7266596675,
+    "coordenada_y": 99239.9608493969,
+    "direccion": "BALBASTRO Y DOBLAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BALBASTRO",
+    "nombreCalle_2": "DOBLAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-119-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

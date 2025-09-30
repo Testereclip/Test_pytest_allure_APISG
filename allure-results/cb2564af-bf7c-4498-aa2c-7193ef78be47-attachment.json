@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1859,
+    "codCalle_2": 1950,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108172.0469713037,
+    "coordenada_y": 97119.2342874382,
+    "direccion": "LUJAN Y HERRERA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LUJAN",
+    "nombreCalle_2": "HERRERA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-128-013d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

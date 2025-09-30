@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 135,
+    "codCalle_2": 1846,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 104776.2188472012,
+    "coordenada_y": 103017.2342866112,
+    "direccion": "AGUERO Y LAVALLE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AGUERO",
+    "nombreCalle_2": "LAVALLE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "013-053-001c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

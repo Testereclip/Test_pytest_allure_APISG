@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RIVERA+INDARTE+AV.+Y+RODRIGUEZ%2C+IGNACIO+F.&v2=true

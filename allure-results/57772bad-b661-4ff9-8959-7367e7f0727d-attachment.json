@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 50,
+    "codCalle_2": 175,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96237.9610358696,
+    "coordenada_y": 101466.1405361965,
+    "direccion": "SEGUROLA AV. Y ARREGUI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SEGUROLA AV.",
+    "nombreCalle_2": "ARREGUI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-099B-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=FIGUEROA%2C+D.+APOLINARIO%2C+CORONEL+Y+GUIDO+Y+SPANO%2C+CARLOS&v2=true

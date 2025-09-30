@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 2476,
+    "codCalle_2": 2629,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94301.8829111888,
+    "coordenada_y": 101887.3358485216,
+    "direccion": "CANTILO, JOSE LUIS Y ALTA GRACIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CANTILO, JOSE LUIS",
+    "nombreCalle_2": "ALTA GRACIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "089-033B-007",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

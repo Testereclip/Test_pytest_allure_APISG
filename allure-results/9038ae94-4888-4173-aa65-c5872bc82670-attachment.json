@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 1279,
+    "codCalle_2": 2610,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98085.3985351311,
+    "coordenada_y": 94583.4764745201,
+    "direccion": "CA\u00d1ADA DE GOMEZ Y ZELARRAYAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CA\u00d1ADA DE GOMEZ",
+    "nombreCalle_2": "ZELARRAYAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "080-058B-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

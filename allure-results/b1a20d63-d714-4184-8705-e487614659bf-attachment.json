@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": "Barrio Padre Mugica",
+    "codCalle_1": 2,
+    "codCalle_2": 1261,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107157.4612027115,
+    "coordenada_y": 105592.3683729479,
+    "direccion": "CALCHAQUIES Y \u00d1ANDUBAY",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CALCHAQUIES",
+    "nombreCalle_2": "\u00d1ANDUBAY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "003-140-006",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

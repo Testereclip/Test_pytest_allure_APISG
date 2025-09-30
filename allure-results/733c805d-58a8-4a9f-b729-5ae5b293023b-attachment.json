@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 388,
+    "codCalle_2": 519,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 95720.4335116251,
+    "coordenada_y": 98238.5275164158,
+    "direccion": "LARRAZABAL AV. Y ACASSUSO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LARRAZABAL AV.",
+    "nombreCalle_2": "ACASSUSO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "074-144-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

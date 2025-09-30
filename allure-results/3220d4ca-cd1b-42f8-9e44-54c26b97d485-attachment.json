@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 2282,
+    "codCalle_2": 2296,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 97330.2344727773,
+    "coordenada_y": 95096.5936619166,
+    "direccion": "GUERRERO, SIMON Y PIEDRA BUENA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUERRERO, SIMON",
+    "nombreCalle_2": "PIEDRA BUENA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "078-056-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

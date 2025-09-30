@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 2668,
+    "codCalle_2": 88,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96247.3360361924,
+    "coordenada_y": 106263.0467857087,
+    "direccion": "DE LOS CONSTITUYENTES AV. Y EZEIZA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LOS CONSTITUYENTES AV.",
+    "nombreCalle_2": "EZEIZA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-010-024",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

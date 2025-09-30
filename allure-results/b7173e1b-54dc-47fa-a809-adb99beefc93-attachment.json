@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 1610,
+    "codCalle_2": 2407,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94977.0782235445,
+    "coordenada_y": 101255.7655361306,
+    "direccion": "PASO DE LOS LIBRES Y DESEADO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PASO DE LOS LIBRES",
+    "nombreCalle_2": "DESEADO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-008A-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

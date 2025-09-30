@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 1153,
+    "codCalle_2": 2054,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99041.1719732373,
+    "coordenada_y": 105729.9139734511,
+    "direccion": "LUGONES Y ALVAREZ THOMAS AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LUGONES",
+    "nombreCalle_2": "ALVAREZ THOMAS AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-052-038",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

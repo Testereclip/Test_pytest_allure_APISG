@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1820,
+    "codCalle_2": 2589,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103536.0391595289,
+    "coordenada_y": 97690.3124120693,
+    "direccion": "MORENO, PERITO AV. Y CORRALES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MORENO, PERITO AV.",
+    "nombreCalle_2": "CORRALES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-006B-007a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

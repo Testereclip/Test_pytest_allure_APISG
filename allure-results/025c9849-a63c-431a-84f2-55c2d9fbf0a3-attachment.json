@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 2093,
+    "codCalle_2": 2582,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105599.1563469546,
+    "coordenada_y": 101164.7186618549,
+    "direccion": "SAAVEDRA Y INDEPENDENCIA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAAVEDRA",
+    "nombreCalle_2": "INDEPENDENCIA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "020-012-018a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

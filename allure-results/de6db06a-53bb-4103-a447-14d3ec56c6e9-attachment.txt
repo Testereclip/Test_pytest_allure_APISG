@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BELAUSTEGUI%2C+LUIS%2C+DR.+Y+ESTADO+PLURINACIONAL+DE+BOLIVIA&v2=true

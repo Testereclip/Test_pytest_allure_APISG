@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 5,
+    "codCalle_2": 379,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 101921.88410728,
+    "coordenada_y": 95654.0818007136,
+    "direccion": "AUTOPISTA PRESIDENTE HECTOR J. CAMPORA Y ROCA, CNEL. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AUTOPISTA PRESIDENTE HECTOR J. CAMPORA",
+    "nombreCalle_2": "ROCA, CNEL. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "058-014G-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1053,
+    "codCalle_2": 1648,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102302.8985349341,
+    "coordenada_y": 101025.5233491488,
+    "direccion": "SAN IRENEO Y ROSARIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN IRENEO",
+    "nombreCalle_2": "ROSARIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-058-022",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 727,
+    "codCalle_2": 2203,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95347.4844733973,
+    "coordenada_y": 99889.257723796,
+    "direccion": "MIRANDA Y IRIGOYEN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MIRANDA",
+    "nombreCalle_2": "IRIGOYEN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "091-049-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

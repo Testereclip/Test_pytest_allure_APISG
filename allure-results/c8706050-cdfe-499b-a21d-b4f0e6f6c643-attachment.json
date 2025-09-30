@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 351,
+    "codCalle_2": 1571,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98623.9766607728,
+    "coordenada_y": 105310.4452234654,
+    "direccion": "LONDRES Y BERNA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LONDRES",
+    "nombreCalle_2": "BERNA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-186-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

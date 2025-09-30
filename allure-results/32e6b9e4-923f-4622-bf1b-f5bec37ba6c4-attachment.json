@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 486,
+    "codCalle_2": 1712,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100049.414160271,
+    "coordenada_y": 101043.5624114963,
+    "direccion": "GRANADEROS Y VALLESE, FELIPE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GRANADEROS",
+    "nombreCalle_2": "VALLESE, FELIPE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "065-116-026a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

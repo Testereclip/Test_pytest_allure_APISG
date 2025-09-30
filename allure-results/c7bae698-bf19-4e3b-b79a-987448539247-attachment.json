@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 1289,
+    "codCalle_2": 1934,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102164.0547848274,
+    "coordenada_y": 99109.5780368353,
+    "direccion": "MARTINEZ, VICTOR Y DIAZ, AVELINO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MARTINEZ, VICTOR",
+    "nombreCalle_2": "DIAZ, AVELINO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-137A-013a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

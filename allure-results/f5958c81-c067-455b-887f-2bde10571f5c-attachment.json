@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 842,
+    "codCalle_2": 1483,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99973.5860356742,
+    "coordenada_y": 106848.8045983997,
+    "direccion": "ECHEVERRIA Y FREIRE, RAMON, CAP. GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ECHEVERRIA",
+    "nombreCalle_2": "FREIRE, RAMON, CAP. GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "039-047A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

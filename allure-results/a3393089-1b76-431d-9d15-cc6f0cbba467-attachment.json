@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 554,
+    "codCalle_2": 1857,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97522.593848109,
+    "coordenada_y": 100437.6249113859,
+    "direccion": "BELAUSTEGUI, LUIS, DR. Y CACHEUTA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BELAUSTEGUI, LUIS, DR.",
+    "nombreCalle_2": "CACHEUTA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-015A-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 625,
+    "codCalle_2": 1785,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101321.3438476647,
+    "coordenada_y": 102265.4920989562,
+    "direccion": "GAONA AV. Y REPETTO, NICOLAS, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GAONA AV.",
+    "nombreCalle_2": "REPETTO, NICOLAS, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "057-123-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

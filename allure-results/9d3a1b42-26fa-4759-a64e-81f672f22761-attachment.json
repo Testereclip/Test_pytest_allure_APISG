@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 99,
+    "codCalle_2": 2428,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 109005.4688463097,
+    "coordenada_y": 99054.9452247982,
+    "direccion": "SUAREZ Y POLIZA, PRACTICO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SUAREZ",
+    "nombreCalle_2": "POLIZA, PRACTICO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-112A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

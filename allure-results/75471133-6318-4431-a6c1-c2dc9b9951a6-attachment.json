@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 537,
+    "codCalle_2": 601,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 96193.0469730184,
+    "coordenada_y": 96151.640536729,
+    "direccion": "ANDALGALA Y TANDIL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ANDALGALA",
+    "nombreCalle_2": "TANDIL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "076-080-033",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

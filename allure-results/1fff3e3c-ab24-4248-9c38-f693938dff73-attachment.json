@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN CRISTOBAL",
+    "barrioInf": null,
+    "codCalle_1": 1577,
+    "codCalle_2": 2643,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105329.6954094183,
+    "coordenada_y": 100043.9764744519,
+    "direccion": "DEAN FUNES Y CHICLANA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DEAN FUNES",
+    "nombreCalle_2": "CHICLANA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "030-077-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

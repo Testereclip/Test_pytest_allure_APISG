@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 792,
+    "codCalle_2": 1324,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104991.0625968674,
+    "coordenada_y": 98512.1483495821,
+    "direccion": "ELIA Y CHUTRO, PEDRO, PROF., DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ELIA",
+    "nombreCalle_2": "CHUTRO, PEDRO, PROF., DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "032-069-024b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

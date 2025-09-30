@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 433,
+    "codCalle_2": 992,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106294.1954095212,
+    "coordenada_y": 103709.8436616439,
+    "direccion": "RIOBAMBA Y SANTA FE AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIOBAMBA",
+    "nombreCalle_2": "SANTA FE AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "011-072-031",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

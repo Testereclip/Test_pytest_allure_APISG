@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 4,
+    "codCalle_2": 2238,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 96725.5938480104,
+    "coordenada_y": 97221.6952241607,
+    "direccion": "RODO, JOSE E. Y LARRAZABAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RODO, JOSE E.",
+    "nombreCalle_2": "LARRAZABAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "076-180-027c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

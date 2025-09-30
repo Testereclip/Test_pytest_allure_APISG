@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 99,
+    "codCalle_2": 1080,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107009.6016590656,
+    "coordenada_y": 98470.7811622226,
+    "direccion": "SUAREZ Y PERDRIEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SUAREZ",
+    "nombreCalle_2": "PERDRIEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-027-001l",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 208,
+    "codCalle_2": 2138,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99489.382910286,
+    "coordenada_y": 100019.3670990619,
+    "direccion": "TERRADA Y YERBAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TERRADA",
+    "nombreCalle_2": "YERBAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "065-042A-009c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

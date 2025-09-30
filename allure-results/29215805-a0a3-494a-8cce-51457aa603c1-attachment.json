@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 385,
+    "codCalle_2": 2673,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104896.2500973053,
+    "coordenada_y": 104848.3358489347,
+    "direccion": "BULNES Y JUNCAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BULNES",
+    "nombreCalle_2": "JUNCAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-030-000B",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

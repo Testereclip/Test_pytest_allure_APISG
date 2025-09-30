@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 197,
+    "codCalle_2": 2359,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101993.0860349372,
+    "coordenada_y": 100383.999911693,
+    "direccion": "FERRARI, ANTONINO M. Y CACHIMAYO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FERRARI, ANTONINO M.",
+    "nombreCalle_2": "CACHIMAYO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-017B-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

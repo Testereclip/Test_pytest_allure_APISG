@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1541,
+    "codCalle_2": 1825,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104630.6485349608,
+    "coordenada_y": 106564.5936612425,
+    "direccion": "ROLDAN, BELISARIO AV. Y LEVILLIER, ROBERTO, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ROLDAN, BELISARIO AV.",
+    "nombreCalle_2": "LEVILLIER, ROBERTO, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-154-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

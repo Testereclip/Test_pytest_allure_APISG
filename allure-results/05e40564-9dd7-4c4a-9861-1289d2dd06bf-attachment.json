@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BOEDO",
+    "barrioInf": null,
+    "codCalle_1": 1447,
+    "codCalle_2": 1808,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103775.4766596985,
+    "coordenada_y": 100777.1639742732,
+    "direccion": "BOCAYUVA, QUINTINO Y LOPEZ ANAUT, PEDRO, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BOCAYUVA, QUINTINO",
+    "nombreCalle_2": "LOPEZ ANAUT, PEDRO, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "036-073-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

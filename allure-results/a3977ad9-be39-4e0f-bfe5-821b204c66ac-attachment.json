@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 30,
+    "codCalle_2": 2543,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97686.7032231547,
+    "coordenada_y": 101484.0624112913,
+    "direccion": "CONCORDIA Y ALBARRACIN DE SARMIENTO, PAULA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CONCORDIA",
+    "nombreCalle_2": "ALBARRACIN DE SARMIENTO, PAULA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-108-034",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

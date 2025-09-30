@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 741,
+    "codCalle_2": 2526,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103710.0235344517,
+    "coordenada_y": 96941.5155371561,
+    "direccion": "RABANAL, FRANCISCO, INTENDENTE AV. Y CRESPO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RABANAL, FRANCISCO, INTENDENTE AV.",
+    "nombreCalle_2": "CRESPO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "046-120C-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

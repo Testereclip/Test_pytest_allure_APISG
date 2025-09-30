@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 301,
+    "codCalle_2": 2392,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 95897.4610361912,
+    "coordenada_y": 105481.3358482646,
+    "direccion": "COCHRANE Y NAZCA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "COCHRANE",
+    "nombreCalle_2": "NAZCA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-025A-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 412,
+    "codCalle_2": 1456,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98212.2422853132,
+    "coordenada_y": 97596.4217867227,
+    "direccion": "SAN PEDRO Y WHITE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN PEDRO",
+    "nombreCalle_2": "WHITE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "062-164B-026b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

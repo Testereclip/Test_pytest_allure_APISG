@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 768,
+    "codCalle_2": 1182,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102626.6250973651,
+    "coordenada_y": 100689.9764742038,
+    "direccion": "MORENO, JOSE MARIA AV. Y ALBERDI, JUAN BAUTISTA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MORENO, JOSE MARIA AV.",
+    "nombreCalle_2": "ALBERDI, JUAN BAUTISTA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-071-001d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

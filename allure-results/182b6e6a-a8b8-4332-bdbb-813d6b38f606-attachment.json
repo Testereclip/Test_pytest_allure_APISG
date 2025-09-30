@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 414,
+    "codCalle_2": 429,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100961.3360353123,
+    "coordenada_y": 103691.9764737882,
+    "direccion": "CALDAS Y MARTINEZ ROSAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CALDAS",
+    "nombreCalle_2": "MARTINEZ ROSAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-085-022d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

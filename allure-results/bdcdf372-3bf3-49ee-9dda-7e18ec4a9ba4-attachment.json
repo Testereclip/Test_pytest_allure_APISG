@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1861,
+    "codCalle_2": 2637,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105008.4766592539,
+    "coordenada_y": 96852.5936622545,
+    "direccion": "CACHI Y PITTALUGA, EDUARDO, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CACHI",
+    "nombreCalle_2": "PITTALUGA, EDUARDO, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "034-013A-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

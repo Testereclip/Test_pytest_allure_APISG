@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "AGRONOMIA",
+    "barrioInf": null,
+    "codCalle_1": 2718,
+    "codCalle_2": 2740,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 97853.6407233251,
+    "coordenada_y": 104386.132723508,
+    "direccion": "GAVILAN Y CRUZ DEL EJE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GAVILAN",
+    "nombreCalle_2": "CRUZ DEL EJE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-133-025",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

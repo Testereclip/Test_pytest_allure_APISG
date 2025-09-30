@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PUERTO MADERO",
+    "barrioInf": null,
+    "codCalle_1": 35,
+    "codCalle_2": 570,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108919.7947627291,
+    "coordenada_y": 102348.9748662177,
+    "direccion": "PUENTE DE LA MUJER Y PUENTE DE LA IGUALDAD",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PUENTE DE LA MUJER",
+    "nombreCalle_2": "PUENTE DE LA IGUALDAD",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "098-005C-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 892,
+    "codCalle_2": 2159,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95994.8360359171,
+    "coordenada_y": 101626.187411163,
+    "direccion": "CHAGAS, CARLOS Y SASTRE, MARCOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CHAGAS, CARLOS",
+    "nombreCalle_2": "SASTRE, MARCOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-101-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

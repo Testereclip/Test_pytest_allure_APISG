@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 1269,
+    "codCalle_2": 2073,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98766.9375981829,
+    "coordenada_y": 104318.2577235762,
+    "direccion": "QUIROS Y ANDONAEGUI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "QUIROS",
+    "nombreCalle_2": "ANDONAEGUI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-027-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GALVEZ%2C+MANUEL+Y+GUSTAVINO%2C+ENRIQUE&v2=true

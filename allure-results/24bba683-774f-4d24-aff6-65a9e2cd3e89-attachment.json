@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 658,
+    "codCalle_2": 1328,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99388.0296951332,
+    "coordenada_y": 95229.3242247048,
+    "direccion": "RIESTRA AV. Y ARGENTINA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIESTRA AV.",
+    "nombreCalle_2": "ARGENTINA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "066-044-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

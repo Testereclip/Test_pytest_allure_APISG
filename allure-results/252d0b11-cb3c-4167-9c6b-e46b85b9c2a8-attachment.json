@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 1193,
+    "codCalle_2": 2679,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99599.8594730617,
+    "coordenada_y": 104360.890536129,
+    "direccion": "CHASSAING, JUAN Y DEL CAMPO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CHASSAING, JUAN",
+    "nombreCalle_2": "DEL CAMPO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-028-001k",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

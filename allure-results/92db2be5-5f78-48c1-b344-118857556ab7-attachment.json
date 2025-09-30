@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 2387,
+    "codCalle_2": 2654,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101513.3985352691,
+    "coordenada_y": 104247.3592862681,
+    "direccion": "DORREGO AV. Y VILLARROEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DORREGO AV.",
+    "nombreCalle_2": "VILLARROEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "033-007-037",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

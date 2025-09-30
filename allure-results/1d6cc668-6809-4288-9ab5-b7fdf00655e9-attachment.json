@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 1284,
+    "codCalle_2": 1662,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 97720.5860352542,
+    "coordenada_y": 95613.9217868885,
+    "direccion": "ECHEANDIA Y LEGUIZAMON, MARTINIANO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ECHEANDIA",
+    "nombreCalle_2": "LEGUIZAMON, MARTINIANO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "078-118-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

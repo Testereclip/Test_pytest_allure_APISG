@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 1331,
+    "codCalle_2": 2003,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98595.0547855999,
+    "coordenada_y": 102713.4920987288,
+    "direccion": "CARRANZA, ADOLFO P. Y FERNANDEZ ESPIRO DIEGO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARRANZA, ADOLFO P.",
+    "nombreCalle_2": "FERNANDEZ ESPIRO DIEGO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "069-067-006",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

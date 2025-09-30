@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 263,
+    "codCalle_2": 2650,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97292.8610256572,
+    "coordenada_y": 98770.8686653822,
+    "direccion": "AUTOPISTA PERITO MORENO Y CAJARAVILLA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AUTOPISTA PERITO MORENO",
+    "nombreCalle_2": "CAJARAVILLA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-027A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

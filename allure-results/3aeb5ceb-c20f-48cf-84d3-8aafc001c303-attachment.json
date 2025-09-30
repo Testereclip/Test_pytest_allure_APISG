@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 725,
+    "codCalle_2": 2414,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 101541.1016604342,
+    "coordenada_y": 106766.4920985151,
+    "direccion": "AGUILAR Y VUELTA DE OBLIGADO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AGUILAR",
+    "nombreCalle_2": "VUELTA DE OBLIGADO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-028-007",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

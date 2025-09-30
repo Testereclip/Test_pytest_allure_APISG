@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 995,
+    "codCalle_2": 1342,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100048.3125977344,
+    "coordenada_y": 100488.3358490536,
+    "direccion": "BOGOTA Y CARACAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BOGOTA",
+    "nombreCalle_2": "CARACAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "065-084-021",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

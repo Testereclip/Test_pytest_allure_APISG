@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 521,
+    "codCalle_2": 2340,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97566.2735359244,
+    "coordenada_y": 105220.7499109041,
+    "direccion": "JURAMENTO Y CERETTI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JURAMENTO",
+    "nombreCalle_2": "CERETTI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-011B-004a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

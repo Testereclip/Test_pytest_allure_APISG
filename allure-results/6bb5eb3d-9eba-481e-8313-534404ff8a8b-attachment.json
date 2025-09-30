@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 387,
+    "codCalle_2": 1826,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 96807.9734577361,
+    "coordenada_y": 94744.7036051075,
+    "direccion": "SCAPINO, RODOLFO Y PAZ, GRAL. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SCAPINO, RODOLFO",
+    "nombreCalle_2": "PAZ, GRAL. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "078-008A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

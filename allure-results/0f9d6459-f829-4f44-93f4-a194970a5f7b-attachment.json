@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 919,
+    "codCalle_2": 1182,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102740.5782223471,
+    "coordenada_y": 100704.8280367128,
+    "direccion": "BEAUCHEF Y ALBERDI, JUAN BAUTISTA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BEAUCHEF",
+    "nombreCalle_2": "ALBERDI, JUAN BAUTISTA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-100B-018c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

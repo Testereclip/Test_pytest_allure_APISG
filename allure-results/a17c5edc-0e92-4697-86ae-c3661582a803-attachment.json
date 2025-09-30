@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 414,
+    "codCalle_2": 1678,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99431.054785633,
+    "coordenada_y": 105044.7499110472,
+    "direccion": "CALDAS Y CHORROARIN AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CALDAS",
+    "nombreCalle_2": "CHORROARIN AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-068-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

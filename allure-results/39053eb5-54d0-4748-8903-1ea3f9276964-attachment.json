@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA GRAL. MITRE",
+    "barrioInf": null,
+    "codCalle_1": 1512,
+    "codCalle_2": 1930,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 99232.6797854955,
+    "coordenada_y": 102548.0155362888,
+    "direccion": "SAN BLAS Y BOYACA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN BLAS",
+    "nombreCalle_2": "BOYACA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-011-024",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

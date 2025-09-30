@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 1625,
+    "codCalle_2": 2425,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103612.1329098771,
+    "coordenada_y": 103068.8514740275,
+    "direccion": "GASCON Y HUMAHUACA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GASCON",
+    "nombreCalle_2": "HUMAHUACA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "017-071-011c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

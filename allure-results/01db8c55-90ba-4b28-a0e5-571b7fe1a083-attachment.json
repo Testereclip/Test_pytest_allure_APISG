@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 634,
+    "codCalle_2": 1604,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99482.0313474882,
+    "coordenada_y": 95559.4374120142,
+    "direccion": "ARAUJO Y SOMELLERA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARAUJO",
+    "nombreCalle_2": "SOMELLERA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "066-070A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

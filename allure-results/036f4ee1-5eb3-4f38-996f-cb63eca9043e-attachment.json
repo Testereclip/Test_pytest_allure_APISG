@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 995,
+    "codCalle_2": 2168,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97664.0625980257,
+    "coordenada_y": 99540.8592864882,
+    "direccion": "BOGOTA Y GOMEZ DE FONSECA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BOGOTA",
+    "nombreCalle_2": "GOMEZ DE FONSECA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "077-047-025",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

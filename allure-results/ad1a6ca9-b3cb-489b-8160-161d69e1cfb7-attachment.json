@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 228,
+    "codCalle_2": 441,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104529.7110349028,
+    "coordenada_y": 105494.5077238419,
+    "direccion": "LAFINUR Y CABELLO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAFINUR",
+    "nombreCalle_2": "CABELLO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-049-005",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

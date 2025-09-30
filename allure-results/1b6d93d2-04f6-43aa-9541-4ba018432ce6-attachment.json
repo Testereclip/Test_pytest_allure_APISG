@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 1355,
+    "codCalle_2": 2246,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 95469.81259876,
+    "coordenada_y": 105548.5311607274,
+    "direccion": "ALBARELLOS AV. Y HELGUERA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALBARELLOS AV.",
+    "nombreCalle_2": "HELGUERA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-019E-000A",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

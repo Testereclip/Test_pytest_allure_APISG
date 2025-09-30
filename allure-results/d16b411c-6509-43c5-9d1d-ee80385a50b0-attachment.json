@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 220,
+    "codCalle_2": 1291,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 102943.0938475243,
+    "coordenada_y": 103796.4217864101,
+    "direccion": "SCALABRINI ORTIZ, RAUL AV. Y LERMA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SCALABRINI ORTIZ, RAUL AV.",
+    "nombreCalle_2": "LERMA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-075-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

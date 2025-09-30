@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAAVEDRA",
+    "barrioInf": null,
+    "codCalle_1": 7,
+    "codCalle_2": 556,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 99008.5704109688,
+    "coordenada_y": 109089.9061606056,
+    "direccion": "VILELA Y VIDAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VILELA",
+    "nombreCalle_2": "VIDAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "043-156-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

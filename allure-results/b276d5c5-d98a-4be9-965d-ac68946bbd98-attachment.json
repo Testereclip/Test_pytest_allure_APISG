@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN CRISTOBAL",
+    "barrioInf": null,
+    "codCalle_1": 2115,
+    "codCalle_2": 2603,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105110.6250970102,
+    "coordenada_y": 100929.9608493456,
+    "direccion": "ESTADOS UNIDOS Y LA RIOJA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ESTADOS UNIDOS",
+    "nombreCalle_2": "LA RIOJA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "030-075-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

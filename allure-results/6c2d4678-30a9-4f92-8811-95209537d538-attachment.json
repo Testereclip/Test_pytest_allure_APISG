@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": "Barrio Padre Mugica",
+    "codCalle_1": 300,
+    "codCalle_2": 2188,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 106855.1793388774,
+    "coordenada_y": 105456.7458025509,
+    "direccion": "ALPACA Y MBARACAYU",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALPACA",
+    "nombreCalle_2": "MBARACAYU",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "CO - Cristo Obrero",
+    "smp": "015-162J-002",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

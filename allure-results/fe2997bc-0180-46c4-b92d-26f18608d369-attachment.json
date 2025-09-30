@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NU\u00d1EZ",
+    "barrioInf": null,
+    "codCalle_1": 1772,
+    "codCalle_2": 1992,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99503.9454108603,
+    "coordenada_y": 108576.6092856878,
+    "direccion": "AZURDUY JUANA Y AMENABAR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AZURDUY JUANA",
+    "nombreCalle_2": "AMENABAR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "041-139-016b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

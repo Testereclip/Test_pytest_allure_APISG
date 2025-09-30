@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NU\u00d1EZ",
+    "barrioInf": null,
+    "codCalle_1": 89,
+    "codCalle_2": 161,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99946.5547858678,
+    "coordenada_y": 109655.3124106093,
+    "direccion": "RIO PIEDRAS Y RIVADAVIA MARTIN, COMODORO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIO PIEDRAS",
+    "nombreCalle_2": "RIVADAVIA MARTIN, COMODORO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "029-083B-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

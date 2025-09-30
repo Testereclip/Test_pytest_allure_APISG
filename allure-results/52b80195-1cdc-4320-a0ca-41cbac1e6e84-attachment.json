@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN NICOLAS",
+    "barrioInf": null,
+    "codCalle_1": 258,
+    "codCalle_2": 1993,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108098.8907216711,
+    "coordenada_y": 102444.4686618942,
+    "direccion": "FLORIDA Y SAENZ PE\u00d1A, ROQUE, PRES. DIAGONAL NORTE AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FLORIDA",
+    "nombreCalle_2": "SAENZ PE\u00d1A, ROQUE, PRES. DIAGONAL NORTE AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "001-017A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

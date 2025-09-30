@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 1214,
+    "codCalle_2": 1520,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99188.4922857001,
+    "coordenada_y": 105509.468660982,
+    "direccion": "GIRIBONE Y ACHA, MARIANO, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GIRIBONE",
+    "nombreCalle_2": "ACHA, MARIANO, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-058-028",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

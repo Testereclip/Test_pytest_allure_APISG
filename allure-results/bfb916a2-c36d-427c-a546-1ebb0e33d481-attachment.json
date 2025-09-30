@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 1437,
+    "codCalle_2": 2038,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105519.2969718638,
+    "coordenada_y": 99628.4764745066,
+    "direccion": "LUCA, ESTEBAN DE Y BRASIL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LUCA, ESTEBAN DE",
+    "nombreCalle_2": "BRASIL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "024-031-038c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

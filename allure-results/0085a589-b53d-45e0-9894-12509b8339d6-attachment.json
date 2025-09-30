@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 277,
+    "codCalle_2": 365,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 109244.3282212392,
+    "coordenada_y": 98523.0389748671,
+    "direccion": "VESPUCIO Y PALACIOS, ALFREDO L.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VESPUCIO",
+    "nombreCalle_2": "PALACIOS, ALFREDO L.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-104-000B",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

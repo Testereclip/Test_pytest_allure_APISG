@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 1284,
+    "codCalle_2": 1826,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 96899.6563478126,
+    "coordenada_y": 94660.8749119308,
+    "direccion": "ECHEANDIA Y PAZ, GRAL. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ECHEANDIA",
+    "nombreCalle_2": "PAZ, GRAL. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "078-007-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 313,
+    "codCalle_2": 475,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102778.2969727591,
+    "coordenada_y": 106898.6249110842,
+    "direccion": "MATIENZO, BENJAMIN, TENIENTE Y MIGUELETES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MATIENZO, BENJAMIN, TENIENTE",
+    "nombreCalle_2": "MIGUELETES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-118-013c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

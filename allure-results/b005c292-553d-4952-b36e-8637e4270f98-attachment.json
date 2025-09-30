@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 910,
+    "codCalle_2": 2322,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99418.7310262816,
+    "coordenada_y": 96185.6559497754,
+    "direccion": "SARAZA Y ESCALADA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SARAZA",
+    "nombreCalle_2": "ESCALADA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "064-099L-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

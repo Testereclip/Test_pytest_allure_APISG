@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 370,
+    "codCalle_2": 1554,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101881.7500978521,
+    "coordenada_y": 106313.4842860837,
+    "direccion": "MAURE Y ZAPATA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MAURE",
+    "nombreCalle_2": "ZAPATA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "035-109-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

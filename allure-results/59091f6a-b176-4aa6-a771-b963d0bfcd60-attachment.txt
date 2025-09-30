@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DIAZ%2C+AVELINO+Y+CURAPALIGUE+AV.&v2=true

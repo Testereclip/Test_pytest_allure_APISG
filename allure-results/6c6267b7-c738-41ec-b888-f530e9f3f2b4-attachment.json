@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 1682,
+    "codCalle_2": 2231,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101040.2813480755,
+    "coordenada_y": 107765.1795983781,
+    "direccion": "ZAVALIA Y JURAMENTO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ZAVALIA",
+    "nombreCalle_2": "JURAMENTO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "025-040-009h",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 2285,
+    "codCalle_2": 2720,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 95787.3206395398,
+    "coordenada_y": 106278.3261639676,
+    "direccion": "ESTADO PLURINACIONAL DE BOLIVIA Y ALVAREZ PRADO, MANUEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ESTADO PLURINACIONAL DE BOLIVIA",
+    "nombreCalle_2": "ALVAREZ PRADO, MANUEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-019D-000R",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

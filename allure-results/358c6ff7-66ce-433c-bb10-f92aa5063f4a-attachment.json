@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN TELMO",
+    "barrioInf": null,
+    "codCalle_1": 712,
+    "codCalle_2": 2408,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108024.398534088,
+    "coordenada_y": 101058.882724528,
+    "direccion": "CALVO, CARLOS Y CHACABUCO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CALVO, CARLOS",
+    "nombreCalle_2": "CHACABUCO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "004-011-031a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 1916,
+    "codCalle_2": 2541,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99547.398535584,
+    "coordenada_y": 104597.3905361006,
+    "direccion": "MONTENEGRO Y ESTOMBA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MONTENEGRO",
+    "nombreCalle_2": "ESTOMBA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-112-005",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

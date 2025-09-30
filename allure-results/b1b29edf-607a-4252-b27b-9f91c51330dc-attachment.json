@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN CRISTOBAL",
+    "barrioInf": null,
+    "codCalle_1": 2093,
+    "codCalle_2": 2602,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105709.2657218911,
+    "coordenada_y": 100467.6483494352,
+    "direccion": "SAAVEDRA Y COCHABAMBA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAAVEDRA",
+    "nombreCalle_2": "COCHABAMBA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "022-003-006b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

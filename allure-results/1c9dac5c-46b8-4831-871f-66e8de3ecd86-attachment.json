@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 80,
+    "codCalle_2": 223,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102772.0079100945,
+    "coordenada_y": 104427.0858488338,
+    "direccion": "THAMES Y CABRERA, JOSE A.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "THAMES",
+    "nombreCalle_2": "CABRERA, JOSE A.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-019-023b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

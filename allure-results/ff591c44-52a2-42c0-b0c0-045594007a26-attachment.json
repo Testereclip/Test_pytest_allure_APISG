@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 2636,
+    "codCalle_2": 2638,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108316.0860339579,
+    "coordenada_y": 99748.2889746827,
+    "direccion": "TACUARI Y GARCIA, MARTIN AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TACUARI",
+    "nombreCalle_2": "GARCIA, MARTIN AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "008-027-006m",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

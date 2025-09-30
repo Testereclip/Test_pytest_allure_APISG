@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 2138,
+    "codCalle_2": 2254,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 98620.6407228974,
+    "coordenada_y": 99726.3202240349,
+    "direccion": "YERBAL Y SAN NICOLAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "YERBAL",
+    "nombreCalle_2": "SAN NICOLAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "077-122-006b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

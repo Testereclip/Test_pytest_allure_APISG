@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 1178,
+    "codCalle_2": 1385,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 102005.7266602887,
+    "coordenada_y": 105650.4920986586,
+    "direccion": "ARENAL, CONCEPCION Y CONESA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARENAL, CONCEPCION",
+    "nombreCalle_2": "CONESA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "035-051A-000B",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

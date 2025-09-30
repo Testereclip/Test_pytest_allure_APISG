@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SOMELLERA+Y+MARTINEZ%2C+PLACIDO&v2=true

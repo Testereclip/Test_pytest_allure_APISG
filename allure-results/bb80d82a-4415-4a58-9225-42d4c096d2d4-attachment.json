@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 1130,
+    "codCalle_2": 1805,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94412.3594734437,
+    "coordenada_y": 98499.820223875,
+    "direccion": "BOSCH, VENTURA Y LOS RECUERDOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BOSCH, VENTURA",
+    "nombreCalle_2": "LOS RECUERDOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-070E-016",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

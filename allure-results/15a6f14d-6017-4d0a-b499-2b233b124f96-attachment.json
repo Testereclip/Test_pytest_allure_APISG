@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 645,
+    "codCalle_2": 917,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99172.5782225252,
+    "coordenada_y": 95425.054599507,
+    "direccion": "MIRALLA Y AQUINO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MIRALLA",
+    "nombreCalle_2": "AQUINO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "066-045-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

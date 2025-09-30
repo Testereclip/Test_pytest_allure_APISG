@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 963,
+    "codCalle_2": 2416,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96822.5000982839,
+    "coordenada_y": 101510.2655362314,
+    "direccion": "ALVAREZ JONTE AV. Y CHIVILCOY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALVAREZ JONTE AV.",
+    "nombreCalle_2": "CHIVILCOY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-048-000A",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

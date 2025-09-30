@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PLUMERILLO+ROSADO+Y+UYUNI&v2=true

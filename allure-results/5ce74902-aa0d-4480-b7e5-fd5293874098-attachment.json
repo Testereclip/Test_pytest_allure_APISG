@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 2007,
+    "codCalle_2": 812,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106031.2969720497,
+    "coordenada_y": 103553.2967866421,
+    "direccion": "ALVEAR, MARCELO T. DE Y JUNIN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALVEAR, MARCELO T. DE",
+    "nombreCalle_2": "JUNIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "011-054-020b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 410,
+    "codCalle_2": 1853,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 100958.1954101834,
+    "coordenada_y": 101744.1170989836,
+    "direccion": "AMBERES Y PLANES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AMBERES",
+    "nombreCalle_2": "PLANES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "057-089A-016",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

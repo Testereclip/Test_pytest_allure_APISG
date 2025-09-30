@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 673,
+    "codCalle_2": 1793,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100529.9688480866,
+    "coordenada_y": 106797.4530359427,
+    "direccion": "HERNANDEZ, JOSE Y ELCANO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HERNANDEZ, JOSE",
+    "nombreCalle_2": "ELCANO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "037-125-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

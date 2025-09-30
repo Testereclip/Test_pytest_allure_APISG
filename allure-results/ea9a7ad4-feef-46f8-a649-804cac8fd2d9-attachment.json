@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 2668,
+    "codCalle_2": 2207,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98132.9688482836,
+    "coordenada_y": 104412.6170985227,
+    "direccion": "DE LOS CONSTITUYENTES AV. Y MOSCU",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LOS CONSTITUYENTES AV.",
+    "nombreCalle_2": "MOSCU",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-061-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

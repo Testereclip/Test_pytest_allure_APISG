@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 760,
+    "codCalle_2": 990,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96767.9375985119,
+    "coordenada_y": 104753.0311608985,
+    "direccion": "CONDARCO Y VALLEJOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CONDARCO",
+    "nombreCalle_2": "VALLEJOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "073-044-011a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

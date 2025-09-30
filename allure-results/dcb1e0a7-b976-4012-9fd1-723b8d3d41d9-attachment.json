@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 237,
+    "codCalle_2": 1182,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102479.4688473845,
+    "coordenada_y": 100671.6639741967,
+    "direccion": "RIGLOS Y ALBERDI, JUAN BAUTISTA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIGLOS",
+    "nombreCalle_2": "ALBERDI, JUAN BAUTISTA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-071-011b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

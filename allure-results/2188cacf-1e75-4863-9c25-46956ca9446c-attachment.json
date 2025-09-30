@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 1959,
+    "codCalle_2": 72,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 101991.0235348375,
+    "coordenada_y": 98900.2811618431,
+    "direccion": "CASTRO, JUAN DE Y BALBASTRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CASTRO, JUAN DE",
+    "nombreCalle_2": "BALBASTRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-124-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 222,
+    "codCalle_2": 2600,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98284.1016609529,
+    "coordenada_y": 107222.9295982469,
+    "direccion": "GOYENECHE, ROBERTO PARQUE AV. Y QUESADA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GOYENECHE, ROBERTO PARQUE AV.",
+    "nombreCalle_2": "QUESADA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "053-094-005",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

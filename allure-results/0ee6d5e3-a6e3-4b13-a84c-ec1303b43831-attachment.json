@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 2236,
+    "codCalle_2": 2254,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 96123.7657234997,
+    "coordenada_y": 103156.8905360172,
+    "direccion": "NAVARRO Y SAN NICOLAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NAVARRO",
+    "nombreCalle_2": "SAN NICOLAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-118-023c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

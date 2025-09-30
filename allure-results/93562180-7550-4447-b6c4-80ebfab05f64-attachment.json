@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 336,
+    "codCalle_2": 727,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95711.2579108698,
+    "coordenada_y": 100285.3983487823,
+    "direccion": "VIRGILIO Y MIRANDA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VIRGILIO",
+    "nombreCalle_2": "MIRANDA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "091-106-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

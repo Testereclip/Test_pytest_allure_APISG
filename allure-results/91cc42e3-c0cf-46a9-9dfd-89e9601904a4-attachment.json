@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 938,
+    "codCalle_2": 876,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95675.5469734173,
+    "coordenada_y": 100932.2030362132,
+    "direccion": "ALMEIRA, HILARIO DE Y CERVANTES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALMEIRA, HILARIO DE",
+    "nombreCalle_2": "CERVANTES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-016A-004",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

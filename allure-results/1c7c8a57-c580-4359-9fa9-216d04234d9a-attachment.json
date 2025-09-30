@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 823,
+    "codCalle_2": 1157,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100896.1031248222,
+    "coordenada_y": 96325.9719599662,
+    "direccion": "ESPERANZA Y LACARRA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ESPERANZA",
+    "nombreCalle_2": "LACARRA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "056-055F-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

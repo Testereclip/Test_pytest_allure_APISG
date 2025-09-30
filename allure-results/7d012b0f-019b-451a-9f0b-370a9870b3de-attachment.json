@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 1515,
+    "codCalle_2": 1537,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94738.6797858668,
+    "coordenada_y": 98099.5467864378,
+    "direccion": "EL HORNERO Y BOQUERON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "EL HORNERO",
+    "nombreCalle_2": "BOQUERON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-092-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

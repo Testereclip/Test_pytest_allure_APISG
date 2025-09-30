@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 668,
+    "codCalle_2": 2050,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96242.8360358369,
+    "coordenada_y": 101001.0936612455,
+    "direccion": "ALCARAZ Y JUAREZ, BENITO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALCARAZ",
+    "nombreCalle_2": "JUAREZ, BENITO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-047-028",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

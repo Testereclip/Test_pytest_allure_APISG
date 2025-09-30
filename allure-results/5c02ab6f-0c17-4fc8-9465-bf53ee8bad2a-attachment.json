@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 711,
+    "codCalle_2": 1467,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99135.1016605564,
+    "coordenada_y": 103263.0858487082,
+    "direccion": "ESPINOSA Y LINNEO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ESPINOSA",
+    "nombreCalle_2": "LINNEO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-004-003",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

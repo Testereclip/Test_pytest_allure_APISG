@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 1692,
+    "codCalle_2": 2735,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96799.3594731881,
+    "coordenada_y": 100038.4764738792,
+    "direccion": "CASTELAR, EMILIO Y ESCALADA DE SAN MARTIN, R.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CASTELAR, EMILIO",
+    "nombreCalle_2": "ESCALADA DE SAN MARTIN, R.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-029-030",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": 449,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 63,
+    "codCalle_2": null,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103567.4292975653,
+    "coordenada_y": 101183.7828018076,
+    "direccion": "TREINTA Y TRES ORIENTALES 449",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": null,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "036-042A-023b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_altura"
+  },
+  "status_code": 200
+}

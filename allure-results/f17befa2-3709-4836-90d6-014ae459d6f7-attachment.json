@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 988,
+    "codCalle_2": 1447,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103678.3985347742,
+    "coordenada_y": 101676.382724173,
+    "direccion": "SAN CARLOS Y BOCAYUVA, QUINTINO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN CARLOS",
+    "nombreCalle_2": "BOCAYUVA, QUINTINO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "036-084-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

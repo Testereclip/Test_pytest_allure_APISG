@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 645,
+    "codCalle_2": 2467,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 95588.8594732944,
+    "coordenada_y": 98881.1170989144,
+    "direccion": "MIRALLA Y BEDOYA, ELIAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MIRALLA",
+    "nombreCalle_2": "BEDOYA, ELIAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "060-042-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

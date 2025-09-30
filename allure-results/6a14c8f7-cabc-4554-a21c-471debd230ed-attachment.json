@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 656,
+    "codCalle_2": 998,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97920.9610358634,
+    "coordenada_y": 105113.0155359374,
+    "direccion": "ALTOLAGUIRRE Y LA PAMPA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALTOLAGUIRRE",
+    "nombreCalle_2": "LA PAMPA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-016-028",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

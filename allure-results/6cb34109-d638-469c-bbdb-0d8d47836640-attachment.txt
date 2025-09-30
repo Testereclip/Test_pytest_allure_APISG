@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BATEMAN%2C+J.+F.+Y+TINOGASTA&v2=true

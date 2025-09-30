@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 2584,
+    "codCalle_2": 2727,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101682.4063474741,
+    "coordenada_y": 100242.640536688,
+    "direccion": "TERRY, JOSE A. Y GOYENA, PEDRO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TERRY, JOSE A.",
+    "nombreCalle_2": "GOYENA, PEDRO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "042-083-005a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

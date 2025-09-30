@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 797,
+    "codCalle_2": 2050,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94964.8750986416,
+    "coordenada_y": 102665.8045984862,
+    "direccion": "ASUNCION Y JUAREZ, BENITO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ASUNCION",
+    "nombreCalle_2": "JUAREZ, BENITO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "089-072-017k",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN CRISTOBAL",
+    "barrioInf": null,
+    "codCalle_1": 447,
+    "codCalle_2": 2328,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106510.1329092634,
+    "coordenada_y": 100309.9999120031,
+    "direccion": "PAVON Y COMBATE DE LOS POZOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PAVON",
+    "nombreCalle_2": "COMBATE DE LOS POZOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "022-062-005",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

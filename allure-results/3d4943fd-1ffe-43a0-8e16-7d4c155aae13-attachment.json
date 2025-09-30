@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 1510,
+    "codCalle_2": 1643,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 105632.3047846891,
+    "coordenada_y": 104746.460848994,
+    "direccion": "PACHECO DE MELO, JOSE ANDRES Y AUSTRIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PACHECO DE MELO, JOSE ANDRES",
+    "nombreCalle_2": "AUSTRIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-073-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

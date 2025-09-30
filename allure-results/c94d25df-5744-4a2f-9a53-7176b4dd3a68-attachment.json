@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 2246,
+    "codCalle_2": 2544,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99096.9532228397,
+    "coordenada_y": 99944.9295990428,
+    "direccion": "HELGUERA Y FLORES, VENANCIO, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HELGUERA",
+    "nombreCalle_2": "FLORES, VENANCIO, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "065-011B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

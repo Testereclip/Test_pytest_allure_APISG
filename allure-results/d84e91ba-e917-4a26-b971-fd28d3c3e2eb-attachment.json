@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 727,
+    "codCalle_2": 2416,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96939.039160761,
+    "coordenada_y": 101403.2577237511,
+    "direccion": "MIRANDA Y CHIVILCOY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MIRANDA",
+    "nombreCalle_2": "CHIVILCOY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-060-032",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

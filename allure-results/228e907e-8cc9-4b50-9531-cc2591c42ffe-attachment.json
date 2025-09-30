@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 2304,
+    "codCalle_2": 2425,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103202.6954099405,
+    "coordenada_y": 103117.9061614962,
+    "direccion": "YATAY Y HUMAHUACA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "YATAY",
+    "nombreCalle_2": "HUMAHUACA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "017-018-001b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

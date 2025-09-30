@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 841,
+    "codCalle_2": 959,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 97798.5860352878,
+    "coordenada_y": 96295.6795993259,
+    "direccion": "LARRAYA Y PRIMERA JUNTA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LARRAYA",
+    "nombreCalle_2": "PRIMERA JUNTA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "062-001-035a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

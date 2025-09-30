@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1932,
+    "codCalle_2": 2481,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 102992.9063471541,
+    "coordenada_y": 98371.8045994666,
+    "direccion": "DARACT AV. Y SALVIGNY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DARACT AV.",
+    "nombreCalle_2": "SALVIGNY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-024B-005",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

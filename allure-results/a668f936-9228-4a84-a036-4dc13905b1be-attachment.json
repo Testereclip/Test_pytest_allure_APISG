@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 114,
+    "codCalle_2": 1228,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 96875.3750980233,
+    "coordenada_y": 97734.7967866184,
+    "direccion": "ALBARI\u00d1O Y ANKARA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALBARI\u00d1O",
+    "nombreCalle_2": "ANKARA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "062-080-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

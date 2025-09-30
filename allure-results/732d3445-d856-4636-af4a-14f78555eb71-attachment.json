@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": "Barrio Padre Mugica",
+    "codCalle_1": 300,
+    "codCalle_2": 1939,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107676.906145926,
+    "coordenada_y": 104987.856754789,
+    "direccion": "ALPACA Y CA\u00d1A",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALPACA",
+    "nombreCalle_2": "CA\u00d1A",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "003-066B-001r",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

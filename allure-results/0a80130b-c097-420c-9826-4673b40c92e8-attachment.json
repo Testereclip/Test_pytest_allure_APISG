@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 33,
+    "codCalle_2": 1593,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 109402.0391587191,
+    "coordenada_y": 98570.0858498731,
+    "direccion": "CARBONARI, FRANCISCO, CMTE. Y PADRE FEDERICO GROTE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARBONARI, FRANCISCO, CMTE.",
+    "nombreCalle_2": "PADRE FEDERICO GROTE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-124B-008a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

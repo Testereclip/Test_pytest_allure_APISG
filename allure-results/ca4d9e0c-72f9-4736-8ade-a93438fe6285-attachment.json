@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 239,
+    "codCalle_2": 319,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 101063.1329099633,
+    "coordenada_y": 98691.5702243004,
+    "direccion": "ASAMBLEA AV. Y ORTIZ, CARLOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ASAMBLEA AV.",
+    "nombreCalle_2": "ORTIZ, CARLOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-043B-019a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

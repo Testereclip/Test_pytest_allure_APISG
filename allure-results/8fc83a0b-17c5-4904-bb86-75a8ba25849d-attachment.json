@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 175,
+    "codCalle_2": 380,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96456.7969733477,
+    "coordenada_y": 101617.7420986955,
+    "direccion": "ARREGUI Y GUALEGUAYCHU",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARREGUI",
+    "nombreCalle_2": "GUALEGUAYCHU",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-015-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

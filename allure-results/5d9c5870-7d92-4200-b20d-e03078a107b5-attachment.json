@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": "Barrio Padre Mugica",
+    "codCalle_1": 300,
+    "codCalle_2": 770,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107269.1225531324,
+    "coordenada_y": 105228.2831972442,
+    "direccion": "ALPACA Y PALO SANTO",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALPACA",
+    "nombreCalle_2": "PALO SANTO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "FE - Ferroviario",
+    "smp": "003-066B-001r",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

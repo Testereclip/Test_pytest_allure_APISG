@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 1192,
+    "codCalle_2": 1873,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100902.1407229256,
+    "coordenada_y": 105233.1092861277,
+    "direccion": "CHARLONE Y GARCIA, TEODORO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CHARLONE",
+    "nombreCalle_2": "GARCIA, TEODORO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "037-005-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

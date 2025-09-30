@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 537,
+    "codCalle_2": 750,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 95267.1172857182,
+    "coordenada_y": 97054.8280365787,
+    "direccion": "ANDALGALA Y PIZARRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ANDALGALA",
+    "nombreCalle_2": "PIZARRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "074-050-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

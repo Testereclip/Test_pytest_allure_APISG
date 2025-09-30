@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 87,
+    "codCalle_2": 1142,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 109023.6485337301,
+    "coordenada_y": 97884.5858499191,
+    "direccion": "IRALA Y DON PEDRO DE MENDOZA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "IRALA",
+    "nombreCalle_2": "DON PEDRO DE MENDOZA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-066-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

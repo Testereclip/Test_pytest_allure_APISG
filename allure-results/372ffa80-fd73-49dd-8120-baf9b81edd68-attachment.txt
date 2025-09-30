@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SEGUI%2C+F.+J.%2C+ALTE.+Y+MAGARI%C3%91OS+CERVANTES%2C+A.&v2=true

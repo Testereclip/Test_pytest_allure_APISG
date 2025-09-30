@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 132,
+    "codCalle_2": 2496,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 104683.6563472735,
+    "coordenada_y": 103901.1717865161,
+    "direccion": "PARAGUAY Y SANCHEZ DE BUSTAMANTE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PARAGUAY",
+    "nombreCalle_2": "SANCHEZ DE BUSTAMANTE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-062-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

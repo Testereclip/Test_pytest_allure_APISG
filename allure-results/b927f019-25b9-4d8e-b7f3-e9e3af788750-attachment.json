@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 755,
+    "codCalle_2": 2695,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96343.1719732448,
+    "coordenada_y": 99849.1170988678,
+    "direccion": "LOPE DE VEGA AV. Y MURATURE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LOPE DE VEGA AV.",
+    "nombreCalle_2": "MURATURE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-003B-007",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

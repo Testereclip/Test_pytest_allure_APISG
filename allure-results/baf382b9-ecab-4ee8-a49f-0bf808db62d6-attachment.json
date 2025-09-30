@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 336,
+    "codCalle_2": 668,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95565.3282233967,
+    "coordenada_y": 100377.4061612622,
+    "direccion": "VIRGILIO Y ALCARAZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VIRGILIO",
+    "nombreCalle_2": "ALCARAZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "091-092B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

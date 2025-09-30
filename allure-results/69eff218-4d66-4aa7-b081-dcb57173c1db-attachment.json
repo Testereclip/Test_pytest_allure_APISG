@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 2050,
+    "codCalle_2": 2268,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94729.7032236981,
+    "coordenada_y": 102980.5311609429,
+    "direccion": "JUAREZ, BENITO Y HABANA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JUAREZ, BENITO",
+    "nombreCalle_2": "HABANA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "089-057B-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 236,
+    "codCalle_2": 1662,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94823.6094734098,
+    "coordenada_y": 98918.0936613614,
+    "direccion": "RIVADAVIA AV. Y LEGUIZAMON, MARTINIANO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIVADAVIA AV.",
+    "nombreCalle_2": "LEGUIZAMON, MARTINIANO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "095-027-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

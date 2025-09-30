@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio Piedrabuena",
+    "codCalle_1": 27,
+    "codCalle_2": 141,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 97593.7344726942,
+    "coordenada_y": 94436.0702245019,
+    "direccion": "BARCA CABO DE HORNOS Y GOLETA MANUELITA",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BARCA CABO DE HORNOS",
+    "nombreCalle_2": "GOLETA MANUELITA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "078-161B-000",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

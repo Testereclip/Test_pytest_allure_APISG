@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 756,
+    "codCalle_2": 1192,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99305.2266606773,
+    "coordenada_y": 105412.1795985002,
+    "direccion": "DONADO Y CHARLONE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DONADO",
+    "nombreCalle_2": "CHARLONE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-047-019d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 662,
+    "codCalle_2": 760,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98249.2813481447,
+    "coordenada_y": 102585.5545987184,
+    "direccion": "RUSIA Y CONDARCO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RUSIA",
+    "nombreCalle_2": "CONDARCO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "069-041B-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

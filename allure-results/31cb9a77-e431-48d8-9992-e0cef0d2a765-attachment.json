@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA REAL",
+    "barrioInf": null,
+    "codCalle_1": 1089,
+    "codCalle_2": 2441,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 94266.0000986376,
+    "coordenada_y": 101050.8045986057,
+    "direccion": "CORTINA Y SIMBRON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CORTINA",
+    "nombreCalle_2": "SIMBRON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "093-142-022",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

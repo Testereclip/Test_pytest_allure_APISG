@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 799,
+    "codCalle_2": 921,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96454.7657233345,
+    "coordenada_y": 101429.5233487141,
+    "direccion": "SANABRIA Y LASCANO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANABRIA",
+    "nombreCalle_2": "LASCANO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-002A-025",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

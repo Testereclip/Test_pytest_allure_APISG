@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 2463,
+    "codCalle_2": 2638,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108060.3047839739,
+    "coordenada_y": 99426.1249121983,
+    "direccion": "MONTES DE OCA, MANUEL AV. Y GARCIA, MARTIN AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MONTES DE OCA, MANUEL AV.",
+    "nombreCalle_2": "GARCIA, MARTIN AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "016-081A-028",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

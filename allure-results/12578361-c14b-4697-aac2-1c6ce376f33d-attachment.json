@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 1577,
+    "codCalle_2": 2243,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105111.8985345637,
+    "coordenada_y": 101714.3983492675,
+    "direccion": "DEAN FUNES Y MORENO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DEAN FUNES",
+    "nombreCalle_2": "MORENO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "028-060-026b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

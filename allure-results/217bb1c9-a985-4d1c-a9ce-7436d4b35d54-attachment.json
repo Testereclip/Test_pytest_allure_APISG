@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1820,
+    "codCalle_2": 2262,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103749.6329094972,
+    "coordenada_y": 97702.1639745826,
+    "direccion": "MORENO, PERITO AV. Y TABARE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MORENO, PERITO AV.",
+    "nombreCalle_2": "TABARE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-056-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

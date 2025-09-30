@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 8,
+    "codCalle_2": 2503,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104465.1250973031,
+    "coordenada_y": 103844.6170990075,
+    "direccion": "CARCOVA, DE LA Y BRAVO, MARIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARCOVA, DE LA",
+    "nombreCalle_2": "BRAVO, MARIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-003-053",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

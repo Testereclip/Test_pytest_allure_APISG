@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VERSALLES",
+    "barrioInf": null,
+    "codCalle_1": 552,
+    "codCalle_2": 880,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 94243.8360360506,
+    "coordenada_y": 99708.7655362389,
+    "direccion": "GAMBOA, MARCELO Y MADERO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GAMBOA, MARCELO",
+    "nombreCalle_2": "MADERO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "093-021A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

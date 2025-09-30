@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 760,
+    "codCalle_2": 921,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98217.9219731516,
+    "coordenada_y": 102626.8592862116,
+    "direccion": "CONDARCO Y LASCANO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CONDARCO",
+    "nombreCalle_2": "LASCANO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "069-042A-036",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

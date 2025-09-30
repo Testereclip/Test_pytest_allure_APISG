@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 208,
+    "codCalle_2": 1351,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96257.1641611205,
+    "coordenada_y": 105216.7186608139,
+    "direccion": "TERRADA Y CABEZON, JOSE LEON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TERRADA",
+    "nombreCalle_2": "CABEZON, JOSE LEON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-045-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

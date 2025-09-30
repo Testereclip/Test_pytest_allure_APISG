@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 166,
+    "codCalle_2": 729,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 105361.0469723043,
+    "coordenada_y": 105846.8592863618,
+    "direccion": "SALGUERO, JERONIMO Y FIGUEROA ALCORTA, PRES. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SALGUERO, JERONIMO",
+    "nombreCalle_2": "FIGUEROA ALCORTA, PRES. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-114-000C",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

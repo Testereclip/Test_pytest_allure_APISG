@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=FRENCH+Y+SCALABRINI+ORTIZ%2C+RAUL&v2=true

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 528,
+    "codCalle_2": 1639,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 105921.9922846323,
+    "coordenada_y": 104533.1639740349,
+    "direccion": "BARRIENTOS Y PUEYRREDON AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BARRIENTOS",
+    "nombreCalle_2": "PUEYRREDON AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "011-010-004",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

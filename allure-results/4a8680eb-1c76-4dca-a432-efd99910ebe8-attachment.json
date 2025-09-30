@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 208,
+    "codCalle_2": 651,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97929.5469732053,
+    "coordenada_y": 102794.4217861744,
+    "direccion": "TERRADA Y RIVAS, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TERRADA",
+    "nombreCalle_2": "RIVAS, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "069-026-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

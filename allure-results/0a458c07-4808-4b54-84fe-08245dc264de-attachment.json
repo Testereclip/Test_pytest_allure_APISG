@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 544,
+    "codCalle_2": 1846,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 104651.3672847218,
+    "coordenada_y": 103068.1874115986,
+    "direccion": "GALLO Y LAVALLE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GALLO",
+    "nombreCalle_2": "LAVALLE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "013-042-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

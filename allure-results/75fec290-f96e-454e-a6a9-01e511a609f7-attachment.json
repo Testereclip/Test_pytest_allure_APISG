@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 1169,
+    "codCalle_2": 609,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 102582.2110350156,
+    "coordenada_y": 102850.1014739813,
+    "direccion": "IBARBOUROU, JUANA DE Y GALLARDO, ANGEL AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "IBARBOUROU, JUANA DE",
+    "nombreCalle_2": "GALLARDO, ANGEL AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-184-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

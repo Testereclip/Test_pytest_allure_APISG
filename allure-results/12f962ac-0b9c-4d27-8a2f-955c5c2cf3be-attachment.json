@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 677,
+    "codCalle_2": 1244,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 101549.7500972248,
+    "coordenada_y": 96224.2420995865,
+    "direccion": "VALPARAISO Y MARACAIBO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VALPARAISO",
+    "nombreCalle_2": "MARACAIBO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "058-053P-032",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 544,
+    "codCalle_2": 1555,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 104631.8360347183,
+    "coordenada_y": 102967.2655366095,
+    "direccion": "GALLO Y GUARDIA VIEJA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GALLO",
+    "nombreCalle_2": "GUARDIA VIEJA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "013-042-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

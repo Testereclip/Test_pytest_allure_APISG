@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 1573,
+    "codCalle_2": 2177,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99506.2344732408,
+    "coordenada_y": 106821.0858483703,
+    "direccion": "MENDOZA Y MELIAN AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MENDOZA",
+    "nombreCalle_2": "MELIAN AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "039-025-009f",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

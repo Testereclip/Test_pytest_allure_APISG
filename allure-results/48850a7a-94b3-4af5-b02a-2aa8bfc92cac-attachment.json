@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 573,
+    "codCalle_2": 579,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 105883.7891596465,
+    "coordenada_y": 104666.7733490162,
+    "direccion": "LAPRIDA Y GUTIERREZ, JUAN MARIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAPRIDA",
+    "nombreCalle_2": "GUTIERREZ, JUAN MARIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-144-010a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 2169,
+    "codCalle_2": 2559,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106204.1563469967,
+    "coordenada_y": 103141.2967866955,
+    "direccion": "AYACUCHO Y VIAMONTE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AYACUCHO",
+    "nombreCalle_2": "VIAMONTE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "009-073-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

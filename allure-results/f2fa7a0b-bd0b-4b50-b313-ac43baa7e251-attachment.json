@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 65,
+    "codCalle_2": 1031,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102144.8516599806,
+    "coordenada_y": 101344.5545991054,
+    "direccion": "PARRAL Y BACACAY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PARRAL",
+    "nombreCalle_2": "BACACAY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-042C-001f",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

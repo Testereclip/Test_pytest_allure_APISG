@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 1088,
+    "codCalle_2": 2010,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 103468.7735346239,
+    "coordenada_y": 98994.6952244322,
+    "direccion": "SENILLOSA Y ZA\u00d1ARTU",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SENILLOSA",
+    "nombreCalle_2": "ZA\u00d1ARTU",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-117-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

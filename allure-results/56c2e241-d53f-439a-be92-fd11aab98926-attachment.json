@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 521,
+    "codCalle_2": 687,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98020.6016608754,
+    "coordenada_y": 105521.2967859024,
+    "direccion": "JURAMENTO Y BUCARELLI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JURAMENTO",
+    "nombreCalle_2": "BUCARELLI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-033-009b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

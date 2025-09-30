@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 114,
+    "codCalle_2": 917,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99240.2813475193,
+    "coordenada_y": 95502.0858495057,
+    "direccion": "ALBARI\u00d1O Y AQUINO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALBARI\u00d1O",
+    "nombreCalle_2": "AQUINO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "066-046-029a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

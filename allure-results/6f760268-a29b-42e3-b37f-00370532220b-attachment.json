@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "AGRONOMIA",
+    "barrioInf": null,
+    "codCalle_1": 563,
+    "codCalle_2": 944,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 97729.0704107966,
+    "coordenada_y": 103692.2655360694,
+    "direccion": "CORTAZAR, JULIO Y TINOGASTA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CORTAZAR, JULIO",
+    "nombreCalle_2": "TINOGASTA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "071-054A-000F",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 72,
+    "codCalle_2": 1918,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100456.3204099764,
+    "coordenada_y": 97545.2811618764,
+    "direccion": "BALBASTRO Y PERGAMINO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BALBASTRO",
+    "nombreCalle_2": "PERGAMINO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "050-009B-000B",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ESPADA%C3%91A+Y+AYMARA&v2=true

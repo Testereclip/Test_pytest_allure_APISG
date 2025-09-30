@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 517,
+    "codCalle_2": 2553,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99537.2266605996,
+    "coordenada_y": 104780.3670985799,
+    "direccion": "TRONADOR Y GIRARDOT",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TRONADOR",
+    "nombreCalle_2": "GIRARDOT",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-085A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

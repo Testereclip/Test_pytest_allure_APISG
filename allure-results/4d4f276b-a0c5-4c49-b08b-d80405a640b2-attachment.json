@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 370,
+    "codCalle_2": 2054,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101294.3750978737,
+    "coordenada_y": 105333.7889736436,
+    "direccion": "MAURE Y ALVAREZ THOMAS AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MAURE",
+    "nombreCalle_2": "ALVAREZ THOMAS AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "033-092-011a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

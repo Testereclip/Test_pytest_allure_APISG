@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 236,
+    "codCalle_2": 1487,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 98025.4569729743,
+    "coordenada_y": 99408.542089558,
+    "direccion": "RIVADAVIA AV. Y BOLA\u00d1OS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIVADAVIA AV.",
+    "nombreCalle_2": "BOLA\u00d1OS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-121-012a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

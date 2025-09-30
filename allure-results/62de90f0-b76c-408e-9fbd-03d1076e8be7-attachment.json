@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 595,
+    "codCalle_2": 1950,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108197.9532213253,
+    "coordenada_y": 97507.3436624021,
+    "direccion": "CRUZ, OSVALDO AV. Y HERRERA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CRUZ, OSVALDO AV.",
+    "nombreCalle_2": "HERRERA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-129-016",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

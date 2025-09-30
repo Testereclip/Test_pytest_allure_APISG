@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 236,
+    "codCalle_2": 1785,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101871.8047849908,
+    "coordenada_y": 100904.4999116339,
+    "direccion": "RIVADAVIA AV. Y REPETTO, NICOLAS, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIVADAVIA AV.",
+    "nombreCalle_2": "REPETTO, NICOLAS, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-005A-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 395,
+    "codCalle_2": 2130,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 102934.4677488695,
+    "coordenada_y": 97097.8131952227,
+    "direccion": "BONORINO, ESTEBAN, CNEL. AV. Y MATORRAS DE SAN MARTIN, GREGORIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BONORINO, ESTEBAN, CNEL. AV.",
+    "nombreCalle_2": "MATORRAS DE SAN MARTIN, GREGORIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "046-066-037",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

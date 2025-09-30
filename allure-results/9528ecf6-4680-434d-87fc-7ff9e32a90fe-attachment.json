@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 2304,
+    "codCalle_2": 2533,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103230.7579099538,
+    "coordenada_y": 103350.1092864727,
+    "direccion": "YATAY Y ROCAMORA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "YATAY",
+    "nombreCalle_2": "ROCAMORA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "017-020-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

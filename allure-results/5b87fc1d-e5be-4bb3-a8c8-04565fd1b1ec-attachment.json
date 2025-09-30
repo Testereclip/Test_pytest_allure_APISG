@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 1279,
+    "codCalle_2": 2286,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 95455.0625981978,
+    "coordenada_y": 97172.4764740819,
+    "direccion": "CA\u00d1ADA DE GOMEZ Y LUXEMBURGO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CA\u00d1ADA DE GOMEZ",
+    "nombreCalle_2": "LUXEMBURGO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "074-069-027",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

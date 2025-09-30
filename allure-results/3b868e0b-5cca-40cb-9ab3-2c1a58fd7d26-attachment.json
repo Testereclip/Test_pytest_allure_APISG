@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 2097,
+    "codCalle_2": 2589,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 102743.1094720932,
+    "coordenada_y": 96919.6795995963,
+    "direccion": "RIVERA INDARTE AV. Y CORRALES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIVERA INDARTE AV.",
+    "nombreCalle_2": "CORRALES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "046-049-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

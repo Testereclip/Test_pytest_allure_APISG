@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 517,
+    "codCalle_2": 1326,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99704.1250980877,
+    "coordenada_y": 104979.2420985725,
+    "direccion": "TRONADOR Y ITURRI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TRONADOR",
+    "nombreCalle_2": "ITURRI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-086-000A",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

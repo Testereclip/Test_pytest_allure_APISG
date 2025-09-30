@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 2257,
+    "codCalle_2": 2590,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 105639.1250971112,
+    "coordenada_y": 103578.3202241139,
+    "direccion": "LARREA Y MANSILLA, LUCIO NORBERTO, GENERAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LARREA",
+    "nombreCalle_2": "MANSILLA, LUCIO NORBERTO, GENERAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "011-014-003d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

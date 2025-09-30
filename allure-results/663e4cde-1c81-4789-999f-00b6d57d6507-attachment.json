@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 445,
+    "codCalle_2": 1309,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98301.3260239388,
+    "coordenada_y": 100704.892488606,
+    "direccion": "LAMARCA, EMILIO Y JUSTO, JUAN B. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAMARCA, EMILIO",
+    "nombreCalle_2": "JUSTO, JUAN B. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-087-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NU\u00d1EZ",
+    "barrioInf": null,
+    "codCalle_1": 284,
+    "codCalle_2": 2600,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99738.0625982957,
+    "coordenada_y": 108143.3202232529,
+    "direccion": "MOLDES Y QUESADA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MOLDES",
+    "nombreCalle_2": "QUESADA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "041-134-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio INTA (ex Villa 19)",
+    "codCalle_1": 146,
+    "codCalle_2": 183,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 97942.3495341216,
+    "coordenada_y": 94053.0148230645,
+    "direccion": "LOS CEDROS Y LOS OLMOS",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LOS CEDROS",
+    "nombreCalle_2": "LOS OLMOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "080-004C-001",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

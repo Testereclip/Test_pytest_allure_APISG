@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 966,
+    "codCalle_2": 2265,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105943.2500967674,
+    "coordenada_y": 99141.6249120837,
+    "direccion": "PATAGONES Y COLONIA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PATAGONES",
+    "nombreCalle_2": "COLONIA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "024-063-020b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

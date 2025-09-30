@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 1616,
+    "codCalle_2": 2313,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 105248.1954096886,
+    "coordenada_y": 103887.8905365556,
+    "direccion": "CHARCAS Y ANCHORENA, TOMAS MANUEL DE, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CHARCAS",
+    "nombreCalle_2": "ANCHORENA, TOMAS MANUEL DE, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-126-010a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

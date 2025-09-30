@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN CRISTOBAL",
+    "barrioInf": null,
+    "codCalle_1": 1437,
+    "codCalle_2": 791,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105430.9398783818,
+    "coordenada_y": 100358.4140259468,
+    "direccion": "LUCA, ESTEBAN DE Y AUTOPISTA 25 DE MAYO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LUCA, ESTEBAN DE",
+    "nombreCalle_2": "AUTOPISTA 25 DE MAYO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "030-081-004f",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

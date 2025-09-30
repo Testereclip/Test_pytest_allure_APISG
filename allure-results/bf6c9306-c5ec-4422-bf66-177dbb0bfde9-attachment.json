@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 687,
+    "codCalle_2": 2199,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97089.8985361032,
+    "coordenada_y": 106805.9842857082,
+    "direccion": "BUCARELLI Y TAMBORINI, JOSE PASCUAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BUCARELLI",
+    "nombreCalle_2": "TAMBORINI, JOSE PASCUAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-109-022",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

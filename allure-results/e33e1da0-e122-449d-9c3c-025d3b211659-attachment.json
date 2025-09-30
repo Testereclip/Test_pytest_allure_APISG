@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA GRAL. MITRE",
+    "barrioInf": null,
+    "codCalle_1": 1160,
+    "codCalle_2": 1938,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 99494.2813478815,
+    "coordenada_y": 101453.1405364167,
+    "direccion": "VIALE, LUIS Y BUFANO, ALFREDO R.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VIALE, LUIS",
+    "nombreCalle_2": "BUFANO, ALFREDO R.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "067-095-012a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 182,
+    "codCalle_2": 1118,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107013.1641589532,
+    "coordenada_y": 96798.8592873918,
+    "direccion": "LUZURIAGA Y ZEPITA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LUZURIAGA",
+    "nombreCalle_2": "ZEPITA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-017-000B",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

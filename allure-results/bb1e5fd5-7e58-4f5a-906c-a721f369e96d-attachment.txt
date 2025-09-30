@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ROSALES+AV.+Y+MADERO%2C+EDUARDO+AV.&v2=true

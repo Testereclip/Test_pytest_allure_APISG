@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=12+DE+OCTUBRE+Y+ESPINOSA&v2=true

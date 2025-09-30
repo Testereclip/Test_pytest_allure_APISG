@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 934,
+    "codCalle_2": 1613,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98326.4688478207,
+    "coordenada_y": 97936.0311616972,
+    "direccion": "BRUIX AV. Y GARZON EUGENIO GENERAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BRUIX AV.",
+    "nombreCalle_2": "GARZON EUGENIO GENERAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-056-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

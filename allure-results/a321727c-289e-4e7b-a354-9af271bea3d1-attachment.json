@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COGHLAN",
+    "barrioInf": null,
+    "codCalle_1": 1622,
+    "codCalle_2": 1696,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98919.3047858532,
+    "coordenada_y": 107163.3358482944,
+    "direccion": "NAON, ROMULO Y RIVERA, PEDRO I., DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NAON, ROMULO",
+    "nombreCalle_2": "RIVERA, PEDRO I., DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "041-002-009a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

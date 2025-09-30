@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 1742,
+    "codCalle_2": 2644,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98965.0704101675,
+    "coordenada_y": 97082.8514743252,
+    "direccion": "HUBAC Y MOZART",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HUBAC",
+    "nombreCalle_2": "MOZART",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "064-134-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

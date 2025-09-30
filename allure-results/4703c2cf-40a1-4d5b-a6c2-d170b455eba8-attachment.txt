@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GOLFARINI%2C+JUAN+ANGEL%2C+DR.+Y+BLANCO+ENCALADA&v2=true

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 772,
+    "codCalle_2": 1220,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102759.1329099837,
+    "coordenada_y": 102769.5858490021,
+    "direccion": "MACHADO, ANTONIO Y RAMOS MEJIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MACHADO, ANTONIO",
+    "nombreCalle_2": "RAMOS MEJIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-158-013c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

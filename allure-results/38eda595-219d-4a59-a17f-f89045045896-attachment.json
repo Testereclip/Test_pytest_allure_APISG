@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 953,
+    "codCalle_2": 1006,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95096.1485359851,
+    "coordenada_y": 100630.007723702,
+    "direccion": "SANTO TOME Y MOLIERE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANTO TOME",
+    "nombreCalle_2": "MOLIERE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "093-150A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

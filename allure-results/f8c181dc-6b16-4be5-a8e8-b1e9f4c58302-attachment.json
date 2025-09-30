@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 1525,
+    "codCalle_2": 2350,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 99122.0860353116,
+    "coordenada_y": 99569.3983490844,
+    "direccion": "FALCON, RAMON L.,CNEL. Y PORTELA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FALCON, RAMON L.,CNEL.",
+    "nombreCalle_2": "PORTELA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-205-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

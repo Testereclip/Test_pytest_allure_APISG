@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 2058,
+    "codCalle_2": 2525,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101348.2269460422,
+    "coordenada_y": 102807.962967336,
+    "direccion": "PUEYRREDON, HONORIO, DR. AV. Y GALICIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PUEYRREDON, HONORIO, DR. AV.",
+    "nombreCalle_2": "GALICIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-030-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 1235,
+    "codCalle_2": 2589,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 102652.5000971029,
+    "coordenada_y": 96844.3592870973,
+    "direccion": "PEDERNERA Y CORRALES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PEDERNERA",
+    "nombreCalle_2": "CORRALES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "046-031-021",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

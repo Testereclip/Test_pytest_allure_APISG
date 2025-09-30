@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1684,
+    "codCalle_2": 2727,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101365.5157225166,
+    "coordenada_y": 100166.0936616713,
+    "direccion": "MIRO Y GOYENA, PEDRO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MIRO",
+    "nombreCalle_2": "GOYENA, PEDRO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "042-065-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

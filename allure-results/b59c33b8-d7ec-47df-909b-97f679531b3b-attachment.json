@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 1934,
+    "codCalle_2": 2473,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102027.4141598428,
+    "coordenada_y": 99058.476474331,
+    "direccion": "DIAZ, AVELINO Y HORTIGUERA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DIAZ, AVELINO",
+    "nombreCalle_2": "HORTIGUERA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-136B-016a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

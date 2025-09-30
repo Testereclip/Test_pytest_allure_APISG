@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 894,
+    "codCalle_2": 1503,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97259.3360356007,
+    "coordenada_y": 99726.9920989417,
+    "direccion": "ARANGUREN, JUAN F., DR. Y CARDOSO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARANGUREN, JUAN F., DR.",
+    "nombreCalle_2": "CARDOSO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "077-033A-030",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 1298,
+    "codCalle_2": 2219,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99170.7266599571,
+    "coordenada_y": 94421.5311621099,
+    "direccion": "UNANUE Y MURGUIONDO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "UNANUE",
+    "nombreCalle_2": "MURGUIONDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "080-098-026",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

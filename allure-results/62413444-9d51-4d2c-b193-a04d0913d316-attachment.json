@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 44,
+    "codCalle_2": 2605,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94111.9610360449,
+    "coordenada_y": 99333.9764737694,
+    "direccion": "BUERAS Y RESERVISTAS ARGENTINOS AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BUERAS",
+    "nombreCalle_2": "RESERVISTAS ARGENTINOS AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "095-005-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

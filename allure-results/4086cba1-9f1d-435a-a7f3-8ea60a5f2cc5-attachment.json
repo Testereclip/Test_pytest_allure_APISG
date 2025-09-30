@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 739,
+    "codCalle_2": 2406,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99218.9095059301,
+    "coordenada_y": 95098.3543792795,
+    "direccion": "OZANAM FEDERICO, BEATO Y FONROUGE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OZANAM FEDERICO, BEATO",
+    "nombreCalle_2": "FONROUGE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "066-026B-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

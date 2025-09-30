@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 445,
+    "codCalle_2": 1620,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97445.054785694,
+    "coordenada_y": 101530.445223772,
+    "direccion": "LAMARCA, EMILIO Y GARCIA, JUAN AGUSTIN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAMARCA, EMILIO",
+    "nombreCalle_2": "GARCIA, JUAN AGUSTIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-109-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

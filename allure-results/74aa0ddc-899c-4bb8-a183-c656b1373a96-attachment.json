@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 737,
+    "codCalle_2": 1573,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98452.0782233498,
+    "coordenada_y": 106094.5545983724,
+    "direccion": "COMBATIENTES DE MALVINAS AV. Y MENDOZA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "COMBATIENTES DE MALVINAS AV.",
+    "nombreCalle_2": "MENDOZA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-072-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

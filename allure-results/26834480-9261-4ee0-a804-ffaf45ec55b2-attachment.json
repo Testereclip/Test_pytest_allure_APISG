@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 1806,
+    "codCalle_2": 2235,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 96975.9532233478,
+    "coordenada_y": 102779.8436611112,
+    "direccion": "MELINCUE Y LLAVALLOL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MELINCUE",
+    "nombreCalle_2": "LLAVALLOL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-152-013a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

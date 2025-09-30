@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 417,
+    "codCalle_2": 1767,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 103186.8125973144,
+    "coordenada_y": 101216.9920991875,
+    "direccion": "LA PLATA AV. Y REPUBLICA BOLIVARIANA DE VENEZUELA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LA PLATA AV.",
+    "nombreCalle_2": "REPUBLICA BOLIVARIANA DE VENEZUELA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-145-001k",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

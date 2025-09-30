@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 959,
+    "codCalle_2": 2561,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98934.3594727017,
+    "coordenada_y": 97531.179599279,
+    "direccion": "PRIMERA JUNTA Y MEDINA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PRIMERA JUNTA",
+    "nombreCalle_2": "MEDINA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-096B-028",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

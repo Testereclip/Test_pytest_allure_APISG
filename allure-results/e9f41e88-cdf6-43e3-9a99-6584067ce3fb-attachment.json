@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COGHLAN",
+    "barrioInf": null,
+    "codCalle_1": 845,
+    "codCalle_2": 1483,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 99610.7891607613,
+    "coordenada_y": 107355.109285825,
+    "direccion": "MONROE AV. Y FREIRE, RAMON, CAP. GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MONROE AV.",
+    "nombreCalle_2": "FREIRE, RAMON, CAP. GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "041-058-028",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

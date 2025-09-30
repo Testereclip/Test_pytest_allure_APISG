@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 275,
+    "codCalle_2": 1823,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 101312.1016599557,
+    "coordenada_y": 99131.5624117739,
+    "direccion": "DAVILA Y ZUVIRIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DAVILA",
+    "nombreCalle_2": "ZUVIRIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-098B-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

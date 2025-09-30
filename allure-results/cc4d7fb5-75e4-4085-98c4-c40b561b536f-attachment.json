@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 97,
+    "codCalle_2": 921,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96226.7657233583,
+    "coordenada_y": 101284.9295987131,
+    "direccion": "PAZ, MARCOS Y LASCANO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PAZ, MARCOS",
+    "nombreCalle_2": "LASCANO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-085A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

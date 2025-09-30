@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1352,
+    "codCalle_2": 2571,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108445.6563463812,
+    "coordenada_y": 98883.7342872759,
+    "direccion": "OLAVARRIA Y AZARA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OLAVARRIA",
+    "nombreCalle_2": "AZARA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-034-001b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

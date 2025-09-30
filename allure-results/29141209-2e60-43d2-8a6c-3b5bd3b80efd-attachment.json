@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 73,
+    "codCalle_2": 444,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 99383.2657226934,
+    "coordenada_y": 98397.9686617191,
+    "direccion": "LAFERRERE, GREGORIO DE Y ACOSTA, MARIANO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAFERRERE, GREGORIO DE",
+    "nombreCalle_2": "ACOSTA, MARIANO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-139-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

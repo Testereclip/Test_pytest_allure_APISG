@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 12,
+    "codCalle_2": 1991,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 101467.3516599484,
+    "coordenada_y": 99390.1405367587,
+    "direccion": "MALVINAS ARGENTINAS Y CURAPALIGUE AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MALVINAS ARGENTINAS",
+    "nombreCalle_2": "CURAPALIGUE AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "042-033-008c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

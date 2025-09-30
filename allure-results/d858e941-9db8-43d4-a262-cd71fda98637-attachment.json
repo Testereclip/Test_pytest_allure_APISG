@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 521,
+    "codCalle_2": 1713,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98112.7344733666,
+    "coordenada_y": 105585.0936609035,
+    "direccion": "JURAMENTO Y BAUNESS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JURAMENTO",
+    "nombreCalle_2": "BAUNESS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-039-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

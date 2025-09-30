@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CONSTITUCION",
+    "barrioInf": null,
+    "codCalle_1": 2038,
+    "codCalle_2": 2687,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107711.933872956,
+    "coordenada_y": 100173.9770559375,
+    "direccion": "BRASIL Y AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BRASIL",
+    "nombreCalle_2": "AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "016-086A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

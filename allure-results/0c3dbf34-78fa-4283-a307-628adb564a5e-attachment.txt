@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LA+PAMPA+Y+OBLIGADO+RAFAEL%2C+AV.COSTANERA&v2=true

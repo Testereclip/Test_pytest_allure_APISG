@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=USPALLATA+Y+COLONIA+AV.&v2=true

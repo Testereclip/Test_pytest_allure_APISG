@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 1385,
+    "codCalle_2": 2446,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100981.281347986,
+    "coordenada_y": 106301.5702235234,
+    "direccion": "CONESA Y ZABALA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CONESA",
+    "nombreCalle_2": "ZABALA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "037-111-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

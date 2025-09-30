@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": "Barrio Rivadavia I",
+    "codCalle_1": 896,
+    "codCalle_2": 2481,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102216.9922847562,
+    "coordenada_y": 98167.7030369334,
+    "direccion": "TORRES Y TENORIO, PRES. Y SALVIGNY",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "nombreCalle_2": "SALVIGNY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "044-119A-012",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

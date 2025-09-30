@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 1745,
+    "codCalle_2": 2026,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98989.3829107017,
+    "coordenada_y": 105072.3436610139,
+    "direccion": "TORRENT Y BEHRING",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TORRENT",
+    "nombreCalle_2": "BEHRING",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-049-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

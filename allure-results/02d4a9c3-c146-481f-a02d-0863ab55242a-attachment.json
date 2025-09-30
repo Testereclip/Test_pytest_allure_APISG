@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 384,
+    "codCalle_2": 1182,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99275.9766602806,
+    "coordenada_y": 99461.9452241029,
+    "direccion": "MARTI, JOSE Y ALBERDI, JUAN BAUTISTA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MARTI, JOSE",
+    "nombreCalle_2": "ALBERDI, JUAN BAUTISTA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-011-027",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 1361,
+    "codCalle_2": 1472,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97779.3125981792,
+    "coordenada_y": 102075.4999112363,
+    "direccion": "CUENCA Y EL DELTA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CUENCA",
+    "nombreCalle_2": "EL DELTA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-145A-018a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

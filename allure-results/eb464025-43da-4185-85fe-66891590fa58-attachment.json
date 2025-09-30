@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA GRAL. MITRE",
+    "barrioInf": null,
+    "codCalle_1": 2525,
+    "codCalle_2": 2680,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 100095.6016603293,
+    "coordenada_y": 101995.0311614056,
+    "direccion": "GALICIA Y TRELLES, MANUEL R.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GALICIA",
+    "nombreCalle_2": "TRELLES, MANUEL R.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-064-010c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

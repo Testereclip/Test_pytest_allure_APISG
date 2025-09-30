@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 855,
+    "codCalle_2": 2600,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98412.1719734377,
+    "coordenada_y": 107303.249910747,
+    "direccion": "PLAZA Y QUESADA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PLAZA",
+    "nombreCalle_2": "QUESADA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "053-106-024",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

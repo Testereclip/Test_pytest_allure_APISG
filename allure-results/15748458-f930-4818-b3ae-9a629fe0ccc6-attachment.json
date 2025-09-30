@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 614,
+    "codCalle_2": 2480,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 109893.5938462147,
+    "coordenada_y": 99593.8514748017,
+    "direccion": "BRANDSEN Y CABOTO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BRANDSEN",
+    "nombreCalle_2": "CABOTO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "006-068-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

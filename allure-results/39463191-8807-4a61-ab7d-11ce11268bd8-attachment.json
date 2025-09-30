@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 989,
+    "codCalle_2": 2034,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98489.4610359066,
+    "coordenada_y": 107009.7108482813,
+    "direccion": "NAHUEL HUAPI Y HOLMBERG",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NAHUEL HUAPI",
+    "nombreCalle_2": "HOLMBERG",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "053-102-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

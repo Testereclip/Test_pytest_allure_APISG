@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA RIACHUELO",
+    "barrioInf": null,
+    "codCalle_1": 1826,
+    "codCalle_2": 2512,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98662.6172849421,
+    "coordenada_y": 93051.2733497129,
+    "direccion": "PAZ, GRAL. AV. Y ITAQUI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PAZ, GRAL. AV.",
+    "nombreCalle_2": "ITAQUI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "082-006-021",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

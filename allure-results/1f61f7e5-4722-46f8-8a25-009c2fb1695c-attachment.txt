@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MENDEZ%2C+AGUSTIN+Y+ALSINA%2C+VALENTIN+AV.&v2=true

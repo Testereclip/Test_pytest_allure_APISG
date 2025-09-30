@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA GRAL. MITRE",
+    "barrioInf": null,
+    "codCalle_1": 1342,
+    "codCalle_2": 2525,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 99526.3204103881,
+    "coordenada_y": 101631.9217863997,
+    "direccion": "CARACAS Y GALICIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARACAS",
+    "nombreCalle_2": "GALICIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "067-107-008b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

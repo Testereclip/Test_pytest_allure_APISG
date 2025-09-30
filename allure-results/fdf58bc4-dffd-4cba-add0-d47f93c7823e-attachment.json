@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 2059,
+    "codCalle_2": 2526,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103492.1563469977,
+    "coordenada_y": 97129.0311621243,
+    "direccion": "RAMIREZ, CARLOS M. Y CRESPO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RAMIREZ, CARLOS M.",
+    "nombreCalle_2": "CRESPO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "046-123-006",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

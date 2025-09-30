@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": 2022,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 896,
+    "codCalle_2": null,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102037.9698652222,
+    "coordenada_y": 98383.5275471703,
+    "direccion": "TORRES Y TENORIO, PRES. 2022",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "nombreCalle_2": null,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-110-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_altura"
+  },
+  "status_code": 200
+}

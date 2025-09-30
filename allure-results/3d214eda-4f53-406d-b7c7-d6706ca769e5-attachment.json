@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 135,
+    "codCalle_2": 2002,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106083.54697214,
+    "coordenada_y": 105001.7420989974,
+    "direccion": "AGUERO Y ARJONILLA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AGUERO",
+    "nombreCalle_2": "ARJONILLA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-151-000B",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

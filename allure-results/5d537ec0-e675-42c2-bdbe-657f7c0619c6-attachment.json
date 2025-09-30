@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 1309,
+    "codCalle_2": 2654,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101813.7110352007,
+    "coordenada_y": 103887.1092863245,
+    "direccion": "JUSTO, JUAN B. AV. Y VILLARROEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JUSTO, JUAN B. AV.",
+    "nombreCalle_2": "VILLARROEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-010-020f",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

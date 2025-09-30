@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 2655,
+    "codCalle_2": 202,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99914.6641606222,
+    "coordenada_y": 105964.8358484848,
+    "direccion": "DE LOS INCAS AV. Y 14 DE JULIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LOS INCAS AV.",
+    "nombreCalle_2": "14 DE JULIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-188-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

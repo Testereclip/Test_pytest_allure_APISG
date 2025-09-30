@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MANZI%2C+HOMERO+Y+CORRALES&v2=true

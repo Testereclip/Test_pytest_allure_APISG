@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 403,
+    "codCalle_2": 366,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94185.1563487089,
+    "coordenada_y": 101919.74991101,
+    "direccion": "IBARROLA, RODRIGO DE Y MORAN, PEDRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "IBARROLA, RODRIGO DE",
+    "nombreCalle_2": "MORAN, PEDRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "089-018B-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

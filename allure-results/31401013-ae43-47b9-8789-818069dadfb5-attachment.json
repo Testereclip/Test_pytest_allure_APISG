@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 820,
+    "codCalle_2": 943,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94345.8282234698,
+    "coordenada_y": 98747.6327238435,
+    "direccion": "CARHUE Y MBURUCUYA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARHUE",
+    "nombreCalle_2": "MBURUCUYA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-056A-028",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

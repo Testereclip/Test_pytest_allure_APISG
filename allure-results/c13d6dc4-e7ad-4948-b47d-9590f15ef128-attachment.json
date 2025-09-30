@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 1153,
+    "codCalle_2": 2621,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98161.4297859498,
+    "coordenada_y": 106930.2342857689,
+    "direccion": "LUGONES Y LE BRETON, TOMAS A.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LUGONES",
+    "nombreCalle_2": "LE BRETON, TOMAS A.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "053-065-013a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

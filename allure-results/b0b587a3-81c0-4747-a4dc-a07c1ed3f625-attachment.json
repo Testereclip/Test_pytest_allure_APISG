@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CONSTITUCION",
+    "barrioInf": null,
+    "codCalle_1": 1494,
+    "codCalle_2": 1804,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107514.2422840862,
+    "coordenada_y": 99896.5858496133,
+    "direccion": "ECHAGUE, PEDRO Y LIMA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ECHAGUE, PEDRO",
+    "nombreCalle_2": "LIMA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "016-067-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

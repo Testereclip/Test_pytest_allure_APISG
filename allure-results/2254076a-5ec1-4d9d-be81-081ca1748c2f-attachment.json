@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 1491,
+    "codCalle_2": 1971,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101753.8282227361,
+    "coordenada_y": 104303.538973777,
+    "direccion": "RAMIREZ DE VELASCO, JUAN Y FITZ ROY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RAMIREZ DE VELASCO, JUAN",
+    "nombreCalle_2": "FITZ ROY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "033-021D-000A",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 254,
+    "codCalle_2": 2034,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98643.1954108702,
+    "coordenada_y": 106800.203035813,
+    "direccion": "ROOSEVELT FRANKLIN D. Y HOLMBERG",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ROOSEVELT FRANKLIN D.",
+    "nombreCalle_2": "HOLMBERG",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "053-090-018f",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

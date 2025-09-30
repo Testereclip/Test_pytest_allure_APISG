@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 97,
+    "codCalle_2": 990,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94726.5000987148,
+    "coordenada_y": 103226.999910913,
+    "direccion": "PAZ, MARCOS Y VALLEJOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PAZ, MARCOS",
+    "nombreCalle_2": "VALLEJOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "089-059-008a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

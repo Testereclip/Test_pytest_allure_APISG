@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 1460,
+    "codCalle_2": 1759,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97082.8125981835,
+    "coordenada_y": 100575.1092863415,
+    "direccion": "MAGARI\u00d1OS CERVANTES, A. Y TUPAC AMARU",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MAGARI\u00d1OS CERVANTES, A.",
+    "nombreCalle_2": "TUPAC AMARU",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-093-027",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

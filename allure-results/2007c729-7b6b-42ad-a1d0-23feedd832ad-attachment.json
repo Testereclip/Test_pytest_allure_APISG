@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 2538,
+    "codCalle_2": 1144,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 109384.5167614799,
+    "coordenada_y": 98716.8799354112,
+    "direccion": "DE LAS MUJERES DEL BARRIO LA BOCA, PASEO PEATONAL COSTERO Y QUINQUELA MARTIN, BENITO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LAS MUJERES DEL BARRIO LA BOCA, PASEO PEATONAL COSTERO",
+    "nombreCalle_2": "QUINQUELA MARTIN, BENITO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-118-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

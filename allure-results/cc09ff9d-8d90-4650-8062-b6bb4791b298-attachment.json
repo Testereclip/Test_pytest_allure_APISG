@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 1823,
+    "codCalle_2": 2406,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98278.7110351951,
+    "coordenada_y": 95985.0233493892,
+    "direccion": "ZUVIRIA Y FONROUGE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ZUVIRIA",
+    "nombreCalle_2": "FONROUGE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "064-014-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

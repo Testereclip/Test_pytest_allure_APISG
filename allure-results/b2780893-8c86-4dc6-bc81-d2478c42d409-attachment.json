@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 1550,
+    "codCalle_2": 1612,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99751.7032230182,
+    "coordenada_y": 104070.1014736661,
+    "direccion": "BALBOA Y PAZ SOLDAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BALBOA",
+    "nombreCalle_2": "PAZ SOLDAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-019-033",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

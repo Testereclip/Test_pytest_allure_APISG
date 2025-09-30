@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 507,
+    "codCalle_2": 841,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99688.2059950621,
+    "coordenada_y": 94496.2227632335,
+    "direccion": "DELPINI JOSE L ING. Y LARRAYA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DELPINI JOSE L ING.",
+    "nombreCalle_2": "LARRAYA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "066-011S-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 1103,
+    "codCalle_2": 2238,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 96623.4375980341,
+    "coordenada_y": 97343.351474142,
+    "direccion": "TAPALQUE Y LARRAZABAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TAPALQUE",
+    "nombreCalle_2": "LARRAZABAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "076-182-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

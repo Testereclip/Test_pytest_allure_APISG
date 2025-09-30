@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 198,
+    "codCalle_2": 643,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103157.1016600853,
+    "coordenada_y": 105153.7108487852,
+    "direccion": "GODOY CRUZ Y GUATEMALA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GODOY CRUZ",
+    "nombreCalle_2": "GUATEMALA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-097H-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

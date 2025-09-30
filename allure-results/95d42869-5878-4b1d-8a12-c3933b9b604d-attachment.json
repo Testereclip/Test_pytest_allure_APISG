@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 315,
+    "codCalle_2": 424,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104679.2032219003,
+    "coordenada_y": 98341.0389745812,
+    "direccion": "MIRI\u00d1AY Y GENA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MIRI\u00d1AY",
+    "nombreCalle_2": "GENA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "032-056J-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

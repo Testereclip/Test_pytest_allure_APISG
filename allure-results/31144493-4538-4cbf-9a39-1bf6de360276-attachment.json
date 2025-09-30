@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": "Barrio Padre Mugica",
+    "codCalle_1": 1014,
+    "codCalle_2": 2576,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107801.7941916704,
+    "coordenada_y": 105009.8165841665,
+    "direccion": "ULLA ULLA Y EVITA",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ULLA ULLA",
+    "nombreCalle_2": "EVITA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "GU - Guemes",
+    "smp": "003-066B-002",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

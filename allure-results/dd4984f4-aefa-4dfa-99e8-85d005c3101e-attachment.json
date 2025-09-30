@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 223,
+    "codCalle_2": 1422,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103975.406347361,
+    "coordenada_y": 103633.8749114941,
+    "direccion": "CABRERA, JOSE A. Y MEDRANO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CABRERA, JOSE A.",
+    "nombreCalle_2": "MEDRANO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-002-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

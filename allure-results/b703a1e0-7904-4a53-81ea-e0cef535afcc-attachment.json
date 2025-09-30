@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 703,
+    "codCalle_2": 2420,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102115.4922853461,
+    "coordenada_y": 106740.7967860551,
+    "direccion": "MALASIA Y GOROSTIAGA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MALASIA",
+    "nombreCalle_2": "GOROSTIAGA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-019-029",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

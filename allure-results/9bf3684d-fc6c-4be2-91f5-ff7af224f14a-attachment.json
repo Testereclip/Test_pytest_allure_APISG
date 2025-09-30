@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 1234,
+    "codCalle_2": 1441,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105742.2500968422,
+    "coordenada_y": 99803.7499120031,
+    "direccion": "SALCEDO Y JUJUY AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SALCEDO",
+    "nombreCalle_2": "JUJUY AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "024-068-022b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

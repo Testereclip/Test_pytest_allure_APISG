@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 687,
+    "codCalle_2": 864,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98752.445410697,
+    "coordenada_y": 104497.3905360565,
+    "direccion": "BUCARELLI Y CAMPILLO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BUCARELLI",
+    "nombreCalle_2": "CAMPILLO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-034-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

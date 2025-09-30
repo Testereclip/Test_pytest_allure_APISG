@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 172,
+    "codCalle_2": 2632,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100951.7754135276,
+    "coordenada_y": 106440.141272448,
+    "direccion": "LORETO, VIRREY Y CRAMER",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LORETO, VIRREY",
+    "nombreCalle_2": "CRAMER",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "037-115-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 1620,
+    "codCalle_2": 1741,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96710.1954107555,
+    "coordenada_y": 100819.4061612933,
+    "direccion": "GARCIA, JUAN AGUSTIN Y ATAHUALPA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GARCIA, JUAN AGUSTIN",
+    "nombreCalle_2": "ATAHUALPA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-072-028",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

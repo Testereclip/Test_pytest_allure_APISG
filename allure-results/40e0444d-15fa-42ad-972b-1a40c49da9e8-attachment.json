@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 149,
+    "codCalle_2": 791,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100939.6954100102,
+    "coordenada_y": 99144.1014742483,
+    "direccion": "RECUERO, CASIMIRO, TTE. CNEL. Y AUTOPISTA 25 DE MAYO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RECUERO, CASIMIRO, TTE. CNEL.",
+    "nombreCalle_2": "AUTOPISTA 25 DE MAYO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-136-042",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

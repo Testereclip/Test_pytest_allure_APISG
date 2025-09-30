@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 2158,
+    "codCalle_2": 2688,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94961.828223658,
+    "coordenada_y": 102912.2733484641,
+    "direccion": "GUTIERREZ, RICARDO Y CARRIL, SALVADOR MARIA DEL AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUTIERREZ, RICARDO",
+    "nombreCalle_2": "CARRIL, SALVADOR MARIA DEL AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "089-073B-007f",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

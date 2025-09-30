@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 1683,
+    "codCalle_2": 2485,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97173.7422855372,
+    "coordenada_y": 98614.01553655,
+    "direccion": "HOMERO Y ZELADA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HOMERO",
+    "nombreCalle_2": "ZELADA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "060-132-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

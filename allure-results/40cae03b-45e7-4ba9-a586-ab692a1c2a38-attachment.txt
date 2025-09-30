@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CIUDAD+DE+LA+PAZ+Y+ARREDONDO%2C+VIRREY&v2=true

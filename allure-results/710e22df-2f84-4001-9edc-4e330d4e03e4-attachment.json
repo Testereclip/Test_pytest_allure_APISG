@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 2655,
+    "codCalle_2": 2019,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100085.552503957,
+    "coordenada_y": 106099.5076630435,
+    "direccion": "DE LOS INCAS AV. Y MARTINEZ, ENRIQUE, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LOS INCAS AV.",
+    "nombreCalle_2": "MARTINEZ, ENRIQUE, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "037-044-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

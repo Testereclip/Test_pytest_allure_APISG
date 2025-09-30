@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 519,
+    "codCalle_2": 820,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94857.2813482964,
+    "coordenada_y": 97300.8670990282,
+    "direccion": "ACASSUSO Y CARHUE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACASSUSO",
+    "nombreCalle_2": "CARHUE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "074-045-008c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

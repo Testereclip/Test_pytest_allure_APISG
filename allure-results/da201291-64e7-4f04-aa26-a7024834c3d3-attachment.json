@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 2219,
+    "codCalle_2": 2610,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98515.3360350951,
+    "coordenada_y": 95026.2811620036,
+    "direccion": "MURGUIONDO Y ZELARRAYAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MURGUIONDO",
+    "nombreCalle_2": "ZELARRAYAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "080-104-000D",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

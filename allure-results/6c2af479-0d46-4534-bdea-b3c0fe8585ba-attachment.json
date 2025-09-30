@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio 20",
+    "codCalle_1": 581,
+    "codCalle_2": 841,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99630.3937053009,
+    "coordenada_y": 94552.9019729292,
+    "direccion": "PASAJE EL ENCUENTRO Y LARRAYA",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PASAJE EL ENCUENTRO",
+    "nombreCalle_2": "LARRAYA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "066-011U-003",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

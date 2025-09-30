@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ORTIZ%2C+CARLOS+Y+CASTILLO%2C+JUAN+DEL&v2=true

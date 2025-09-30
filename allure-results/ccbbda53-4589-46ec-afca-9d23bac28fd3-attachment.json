@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 1567,
+    "codCalle_2": 2621,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96739.3438485961,
+    "coordenada_y": 105948.0545982728,
+    "direccion": "ACHEGA Y LE BRETON, TOMAS A.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACHEGA",
+    "nombreCalle_2": "LE BRETON, TOMAS A.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-005-008a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

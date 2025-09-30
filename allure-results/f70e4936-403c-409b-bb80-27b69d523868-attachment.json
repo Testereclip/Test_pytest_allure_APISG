@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 865,
+    "codCalle_2": 1826,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94190.7591856085,
+    "coordenada_y": 102562.2811881503,
+    "direccion": "PUENTE ALT. BERMUDEZ Y PAZ, GRAL. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PUENTE ALT. BERMUDEZ",
+    "nombreCalle_2": "PAZ, GRAL. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "089-005C-000E",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 1610,
+    "codCalle_2": 1806,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95009.890723538,
+    "coordenada_y": 101225.3436611386,
+    "direccion": "PASO DE LOS LIBRES Y MELINCUE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PASO DE LOS LIBRES",
+    "nombreCalle_2": "MELINCUE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-007B-005",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

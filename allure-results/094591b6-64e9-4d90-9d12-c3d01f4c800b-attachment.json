@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 1575,
+    "codCalle_2": 1938,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99603.3047853521,
+    "coordenada_y": 101259.0467864415,
+    "direccion": "FRANKLIN Y BUFANO, ALFREDO R.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FRANKLIN",
+    "nombreCalle_2": "BUFANO, ALFREDO R.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "065-097-005g",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

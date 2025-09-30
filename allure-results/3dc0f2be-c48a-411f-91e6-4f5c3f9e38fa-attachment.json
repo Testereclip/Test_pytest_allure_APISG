@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 72,
+    "codCalle_2": 1311,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 97901.75009768,
+    "coordenada_y": 94916.679599475,
+    "direccion": "BALBASTRO Y GORDILLO, TIMOTEO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BALBASTRO",
+    "nombreCalle_2": "GORDILLO, TIMOTEO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "078-081-001d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

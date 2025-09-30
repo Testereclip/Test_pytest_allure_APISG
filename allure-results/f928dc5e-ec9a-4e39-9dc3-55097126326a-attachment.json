@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio Piedrabuena",
+    "codCalle_1": 1329,
+    "codCalle_2": 2516,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 97340.4844727484,
+    "coordenada_y": 94672.5624119623,
+    "direccion": "MONTIEL Y ALVAREZ, CRISOSTOMO",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MONTIEL",
+    "nombreCalle_2": "ALVAREZ, CRISOSTOMO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "078-001H-000C",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

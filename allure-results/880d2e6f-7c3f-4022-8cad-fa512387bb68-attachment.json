@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 2364,
+    "codCalle_2": 2709,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 96271.5938484091,
+    "coordenada_y": 102130.6327236297,
+    "direccion": "MERCEDES Y NOGOYA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MERCEDES",
+    "nombreCalle_2": "NOGOYA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-045-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

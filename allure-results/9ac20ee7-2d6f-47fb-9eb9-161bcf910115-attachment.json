@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN TELMO",
+    "barrioInf": null,
+    "codCalle_1": 712,
+    "codCalle_2": 720,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108161.8594715674,
+    "coordenada_y": 101061.9374120375,
+    "direccion": "CALVO, CARLOS Y PERU",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CALVO, CARLOS",
+    "nombreCalle_2": "PERU",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "004-023-024",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

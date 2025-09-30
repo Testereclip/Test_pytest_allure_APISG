@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONSERRAT",
+    "barrioInf": null,
+    "codCalle_1": 92,
+    "codCalle_2": 1082,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107861.7422841624,
+    "coordenada_y": 101818.1170994433,
+    "direccion": "BELGRANO AV. Y ROCA, JULIO A., PRESIDENTE DIAGONAL SUR AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BELGRANO AV.",
+    "nombreCalle_2": "ROCA, JULIO A., PRESIDENTE DIAGONAL SUR AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "002-013-010a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

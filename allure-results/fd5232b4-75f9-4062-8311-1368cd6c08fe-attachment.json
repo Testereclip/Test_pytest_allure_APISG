@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 50,
+    "codCalle_2": 745,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96116.7344733973,
+    "coordenada_y": 101619.374911172,
+    "direccion": "SEGUROLA AV. Y RIO COLORADO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SEGUROLA AV.",
+    "nombreCalle_2": "RIO COLORADO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-101-042",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

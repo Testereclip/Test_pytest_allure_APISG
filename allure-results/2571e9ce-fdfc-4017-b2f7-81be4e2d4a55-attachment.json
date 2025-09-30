@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 198,
+    "codCalle_2": 243,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103761.7266600485,
+    "coordenada_y": 105963.367098743,
+    "direccion": "GODOY CRUZ Y CERVI\u00d1O AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GODOY CRUZ",
+    "nombreCalle_2": "CERVI\u00d1O AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-054-001c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

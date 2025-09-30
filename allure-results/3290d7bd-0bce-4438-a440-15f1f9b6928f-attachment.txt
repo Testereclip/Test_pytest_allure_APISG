@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=HERNANDEZ%2C+RAFAEL+Y+SOLIER%2C+DANIEL+DE%2C+ALTE.&v2=true

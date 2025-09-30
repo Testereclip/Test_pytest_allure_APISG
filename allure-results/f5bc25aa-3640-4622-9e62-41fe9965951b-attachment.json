@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 1741,
+    "codCalle_2": 2331,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96923.867285686,
+    "coordenada_y": 100265.3202238644,
+    "direccion": "ATAHUALPA Y DIAZ, CESAR, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ATAHUALPA",
+    "nombreCalle_2": "DIAZ, CESAR, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-080-021",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

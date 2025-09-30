@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN NICOLAS",
+    "barrioInf": null,
+    "codCalle_1": 993,
+    "codCalle_2": 1242,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107537.7642342908,
+    "coordenada_y": 102312.1196109311,
+    "direccion": "9 DE JULIO AV. Y RIVADAVIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "9 DE JULIO AV.",
+    "nombreCalle_2": "RIVADAVIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "005-058A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

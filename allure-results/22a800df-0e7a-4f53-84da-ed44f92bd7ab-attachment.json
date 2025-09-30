@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 603,
+    "codCalle_2": 1361,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97809.1641606722,
+    "coordenada_y": 102030.0858487458,
+    "direccion": "EL LITORAL Y CUENCA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "EL LITORAL",
+    "nombreCalle_2": "CUENCA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-144-028a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

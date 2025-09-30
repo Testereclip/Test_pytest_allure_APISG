@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 2255,
+    "codCalle_2": 2350,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 101535.7344722558,
+    "coordenada_y": 96661.6092870406,
+    "direccion": "BARROS PAZOS, JOSE Y PORTELA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BARROS PAZOS, JOSE",
+    "nombreCalle_2": "PORTELA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "050-018-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

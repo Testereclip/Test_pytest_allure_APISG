@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 1328,
+    "codCalle_2": 2035,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 96632.3125978791,
+    "coordenada_y": 95041.9295993759,
+    "direccion": "ARGENTINA AV. Y SALADILLO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARGENTINA AV.",
+    "nombreCalle_2": "SALADILLO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "078-013-027",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

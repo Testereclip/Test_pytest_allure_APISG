@@ -1,0 +1,261 @@
+[
+  {
+    "direccion": "Juan carlos Gomez 276",
+    "esperado": {
+      "barrio": "PARQUE PATRICIOS",
+      "calle": "GOMEZ, JUAN CARLOS",
+      "comuna": "Comuna 4",
+      "distancia": 0,
+      "nivelUbicacion": 6,
+      "nombre": "B-VP-07058-00201-PAR-00276"
+    }
+  },
+    {
+    "direccion": "BARCA CABO DE HORNOS 6883",
+    "esperado": {
+      "barrio": "VILLA LUGANO",
+      "calle": "BARCA CABO DE HORNOS",
+      "comuna": "Comuna 8",
+      "distancia": 8,
+      "nivelUbicacion": 6,
+      "nombre": "B-VP-02140-06701-IMP-06883"
+    }
+  },
+    {
+    "direccion": "ARANGUREN JUAN 462",
+    "esperado": {
+      "barrio": "CABALLITO",
+      "calle": "ARANGUREN, JUAN F., DR.",
+      "comuna": "Comuna 6",
+      "distancia": 0,
+      "nivelUbicacion": 6,
+      "nombre": "B-VP-01094-00401-PAR-00462"
+    }
+
+    },
+    {
+    "direccion": "AMBROSETTI JUAN  453",
+    "esperado": {
+      "barrio": "CABALLITO",
+      "calle": "AMBROSETTI, JUAN B.",
+      "comuna": "Comuna 6",
+      "distancia": 0,
+      "nivelUbicacion": 6,
+      "nombre": "B-VP-01070-00401-IMP-00453"
+    }
+  },
+      {
+    "direccion": "LOBOS ELEODORO 432",
+    "esperado": {
+      "barrio": "CABALLITO",
+      "calle": "LOBOS, ELEODORO, DR.",
+      "comuna": "Comuna 6",
+      "distancia": 0,
+      "nivelUbicacion": 6,
+      "nombre": "B-VP-12122-00401-PAR-00432"
+    }
+  },
+      {
+    "direccion": "BELAUSTEGUI LUIS 3263",
+    "esperado": {
+      "barrio": "VILLA SANTA RITA",
+      "calle": "BELAUSTEGUI, LUIS, DR.",
+      "comuna": "Comuna 11",
+      "distancia": 0,
+      "nivelUbicacion": 6,
+      "nombre": "B-VP-02046-03201-IMP-03263"
+    }
+  },
+      {
+    "direccion": "PAEZ 3170",
+    "esperado": {
+      "barrio": "FLORES",
+      "calle": "PAEZ",
+      "comuna": "Comuna 7",
+      "distancia": 0,
+      "nivelUbicacion": 6,
+      "nombre": "B-VP-17005-03151-PAR-03170"
+    }
+  },
+        {
+    "direccion": "ESCALADA  4201",
+    "esperado": {
+      "barrio": "VILLA LUGANO",
+      "calle": "ESCALADA AV.",
+      "comuna": "Comuna 8",
+      "distancia": 12,
+      "nivelUbicacion": 6,
+      "nombre": "B-VP-05067-04201-IMP-04201"
+    }
+  },
+        {
+    "direccion": "JUSTO JUAN B  6464",
+    "esperado": {
+      "barrio": "VILLA SANTA RITA",
+      "calle": "JUSTO, JUAN B. AV.",
+      "comuna": "Comuna 11",
+      "distancia": 0,
+      "nivelUbicacion": 6,
+      "nombre": "B-VP-10018-06401-PAR-06464"
+    }
+  },
+          {
+    "direccion": "MORON 3830",
+    "esperado": {
+      "barrio": "FLORESTA",
+      "calle": "MORON",
+      "comuna": "Comuna 10",
+      "distancia": 0,
+      "nivelUbicacion": 6,
+      "nombre": "B-VP-13132-03801-PAR-03830"
+    }
+  },
+          {
+    "direccion": "BAHIA BLANCA 592",
+    "esperado": {
+      "barrio": "FLORESTA",
+      "calle": "BAHIA BLANCA",
+      "comuna": "Comuna 10",
+      "distancia": 0,
+      "nivelUbicacion": 6,
+      "nombre": "B-VP-02008-00501-PAR-00592"
+    }
+  },
+          {
+    "direccion": "CONCORDIA 2759",
+    "esperado": {
+      "barrio": "VILLA DEL PARQUE",
+      "calle": "CONCORDIA",
+      "comuna": "Comuna 11",
+      "distancia": 0,
+      "nivelUbicacion": 6,
+      "nombre": "B-VP-03151-02701-IMP-02759"
+    }
+  },
+        {
+    "direccion": "GUALEGUAYCHU 2077",
+    "esperado": {
+      "barrio": "MONTE CASTRO",
+      "calle": "GUALEGUAYCHU",
+      "comuna": "Comuna 10",
+      "distancia": 0,
+      "nivelUbicacion": 6,
+      "nombre": "B-VP-07087-02001-IMP-02077"
+    }
+  },
+          {
+    "direccion": "CORRIENTES 1300",
+    "esperado": {
+      "barrio": "SAN NICOLAS",
+      "calle": "CORRIENTES AV.",
+      "comuna": "Comuna 1",
+      "distancia": 0,
+      "nivelUbicacion": 6,
+      "nombre": "B-VP-03174-01201-PAR-01300"
+    }
+  },
+          {
+    "direccion": "MORAN PEDRO 2153",
+    "esperado": {
+      "barrio": "AGRONOMIA",
+      "calle": "MORAN, PEDRO",
+      "comuna": "Comuna 15",
+      "distancia": 0,
+      "nivelUbicacion": 6,
+      "nombre": "B-VP-13123-02101-IMP-02153"
+    }
+  },
+          {
+    "direccion": "FONROUGE 3049",
+    "esperado": {
+      "barrio": "VILLA LUGANO",
+      "calle": "FONROUGE",
+      "comuna": "Comuna 8",
+      "distancia": 0,
+      "nivelUbicacion": 6,
+      "nombre": "B-VP-06037-03001-IMP-03049"
+    }
+  },
+          {
+    "direccion": "SARAVIA 2460",
+    "esperado": {
+      "barrio": "PARQUE AVELLANEDA",
+      "calle": "SARAVIA",
+      "comuna": "Comuna 9",
+      "distancia": 0,
+      "nivelUbicacion": 6,
+      "nombre": "B-VP-20072-02451-PAR-02460"
+    }
+  },
+          {
+    "direccion": "PEDRAZA MANUELA 5813",
+    "esperado": {
+      "barrio": "VILLA URQUIZA",
+      "calle": "PEDRAZA, MANUELA",
+      "comuna": "Comuna 12",
+      "distancia": 0,
+      "nivelUbicacion": 6,
+      "nombre": "B-VP-17048-05801-IMP-05813"
+    }
+  },
+          {
+    "direccion": "LARRAYA 3038",
+    "esperado": {
+      "barrio": "VILLA LUGANO",
+      "calle": "LARRAYA",
+      "comuna": "Comuna 8",
+      "distancia": 0,
+      "nivelUbicacion": 6,
+      "nombre": "B-VP-12063-03001-PAR-03038"
+    }
+  },
+         {
+    "direccion": "YERBAL 2083",
+    "esperado": {
+      "barrio": "FLORES",
+      "calle": "YERBAL",
+      "comuna": "Comuna 7",
+      "distancia": 0,
+      "nivelUbicacion": 6,
+      "nombre": "B-VP-26003-02001-IMP-02083"
+    }
+  },
+           {
+    "direccion": "DERQUI  4122",
+    "esperado": {
+      "barrio": "PARQUE AVELLANEDA",
+      "calle": "DERQUI AV.",
+      "comuna": "Comuna 9",
+      "distancia": 0,
+      "nivelUbicacion": 6,
+      "nombre": "B-VP-04065-04137-PAR-04122"
+    }
+  },
+             {
+    "direccion": "LASCANO 2288",
+    "esperado": {
+    "barrio": "VILLA DEL PARQUE",
+    "calle": "LASCANO",
+    "comuna": "Comuna 11",
+    "nombre": "B-VP-12071-02263-PAR-02288"
+    }
+  },
+             {
+    "direccion": "LASCANO 2286",
+    "esperado": {
+    "barrio": "VILLA DEL PARQUE",
+    "calle": "LASCANO",
+    "comuna": "Comuna 11",
+    "nombre": "B-VP-12071-02263-PAR-02286"
+    }
+  },           {
+    "direccion": "MURGUIONDO 3292",
+    "esperado": {
+    "barrio": "VILLA LUGANO",
+    "calle": "MURGUIONDO",
+    "comuna": "Comuna 8",
+    "nombre": "B-VP-13145-03271-PAR-03292"
+    }
+  }
+
+]

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 2138,
+    "codCalle_2": 2728,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96067.6094732361,
+    "coordenada_y": 99096.6327239249,
+    "direccion": "YERBAL Y RUIZ DE LOS LLANOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "YERBAL",
+    "nombreCalle_2": "RUIZ DE LOS LLANOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "095-040-016a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

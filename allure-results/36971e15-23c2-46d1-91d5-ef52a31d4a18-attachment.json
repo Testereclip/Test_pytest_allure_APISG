@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 306,
+    "codCalle_2": 1820,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103067.1875970952,
+    "coordenada_y": 97666.6561620424,
+    "direccion": "VEDIA, AGUSTIN DE Y MORENO, PERITO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VEDIA, AGUSTIN DE",
+    "nombreCalle_2": "MORENO, PERITO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "046-154B-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

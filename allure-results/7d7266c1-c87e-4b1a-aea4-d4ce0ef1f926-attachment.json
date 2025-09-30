@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 88,
+    "codCalle_2": 1704,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 95903.7876770532,
+    "coordenada_y": 106016.615514653,
+    "direccion": "EZEIZA Y O'CONNOR, ELSA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "EZEIZA",
+    "nombreCalle_2": "O'CONNOR, ELSA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-065-016a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

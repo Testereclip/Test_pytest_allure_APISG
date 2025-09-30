@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 2169,
+    "codCalle_2": 2724,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106251.6641594542,
+    "coordenada_y": 102595.1639742523,
+    "direccion": "AYACUCHO Y SARMIENTO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AYACUCHO",
+    "nombreCalle_2": "SARMIENTO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "009-060-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

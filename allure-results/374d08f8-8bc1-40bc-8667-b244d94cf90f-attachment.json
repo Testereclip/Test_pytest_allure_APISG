@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 1046,
+    "codCalle_2": 2068,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96551.4688482855,
+    "coordenada_y": 100914.8514737766,
+    "direccion": "UNQUERA, BALTASAR DE Y BERNALDES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "UNQUERA, BALTASAR DE",
+    "nombreCalle_2": "BERNALDES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-061A-030",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

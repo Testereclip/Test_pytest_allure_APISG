@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 1039,
+    "codCalle_2": 1240,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 99591.4610350606,
+    "coordenada_y": 96877.5155368898,
+    "direccion": "ASTURIAS AV. Y SANTIAGO DE COMPOSTELA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ASTURIAS AV.",
+    "nombreCalle_2": "SANTIAGO DE COMPOSTELA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "056-065-004",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

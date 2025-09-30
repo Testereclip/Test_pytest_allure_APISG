@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 115,
+    "codCalle_2": 592,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102531.5391599729,
+    "coordenada_y": 102104.4061615568,
+    "direccion": "JAURETCHE, ARTURO Y CAMPICHUELO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JAURETCHE, ARTURO",
+    "nombreCalle_2": "CAMPICHUELO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-120-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

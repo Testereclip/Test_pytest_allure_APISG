@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 475,
+    "codCalle_2": 732,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102838.523535248,
+    "coordenada_y": 106856.2655360926,
+    "direccion": "MIGUELETES Y SAN BENITO DE PALERMO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MIGUELETES",
+    "nombreCalle_2": "SAN BENITO DE PALERMO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-118-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

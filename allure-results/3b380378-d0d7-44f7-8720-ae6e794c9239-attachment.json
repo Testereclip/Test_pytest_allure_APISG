@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 1346,
+    "codCalle_2": 1763,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 101404.578222489,
+    "coordenada_y": 99845.4686617077,
+    "direccion": "ACHAVAL Y BILBAO, FRANCISCO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACHAVAL",
+    "nombreCalle_2": "BILBAO, FRANCISCO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "042-057-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 1595,
+    "codCalle_2": 1667,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97073.1485361241,
+    "coordenada_y": 107076.5467856818,
+    "direccion": "PIRAN Y TRIUNVIRATO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PIRAN",
+    "nombreCalle_2": "TRIUNVIRATO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-122-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

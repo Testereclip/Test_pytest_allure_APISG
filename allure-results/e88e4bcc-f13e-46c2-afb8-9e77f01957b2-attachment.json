@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 2668,
+    "codCalle_2": 2717,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97131.7397200674,
+    "coordenada_y": 105443.1608656342,
+    "direccion": "DE LOS CONSTITUYENTES AV. Y BLANCO ENCALADA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LOS CONSTITUYENTES AV.",
+    "nombreCalle_2": "BLANCO ENCALADA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "073-087-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

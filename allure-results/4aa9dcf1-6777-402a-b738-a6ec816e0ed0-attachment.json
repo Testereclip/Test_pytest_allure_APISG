@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1297,
+    "codCalle_2": 1490,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108380.3204088369,
+    "coordenada_y": 98097.062412354,
+    "direccion": "CALIFORNIA Y ISABEL LA CATOLICA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CALIFORNIA",
+    "nombreCalle_2": "ISABEL LA CATOLICA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-007-022",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": "Barrio Padre Mugica",
+    "codCalle_1": 2053,
+    "codCalle_2": 2124,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107370.1383951353,
+    "coordenada_y": 105489.0333510646,
+    "direccion": "RUDA Y PERETTE, CARLOS H.",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RUDA",
+    "nombreCalle_2": "PERETTE, CARLOS H.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "YPF - Vivienda Nueva",
+    "smp": "003-111B-001",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

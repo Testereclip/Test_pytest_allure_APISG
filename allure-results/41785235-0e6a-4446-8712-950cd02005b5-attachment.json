@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 135,
+    "codCalle_2": 1555,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 104757.1329096974,
+    "coordenada_y": 102925.1795991189,
+    "direccion": "AGUERO Y GUARDIA VIEJA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AGUERO",
+    "nombreCalle_2": "GUARDIA VIEJA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "013-060-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

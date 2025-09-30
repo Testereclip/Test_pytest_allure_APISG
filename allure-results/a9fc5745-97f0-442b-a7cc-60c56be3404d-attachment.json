@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 1846,
+    "codCalle_2": 2110,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 104417.9766597617,
+    "coordenada_y": 103160.9608490748,
+    "direccion": "LAVALLE Y BILLINGHURST",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAVALLE",
+    "nombreCalle_2": "BILLINGHURST",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "013-032-020b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

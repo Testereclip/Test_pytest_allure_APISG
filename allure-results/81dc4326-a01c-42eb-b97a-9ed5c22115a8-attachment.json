@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 1826,
+    "codCalle_2": 2229,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94001.1875984899,
+    "coordenada_y": 98266.7811613709,
+    "direccion": "PAZ, GRAL. AV. Y TUYUTI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PAZ, GRAL. AV.",
+    "nombreCalle_2": "TUYUTI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-011C-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

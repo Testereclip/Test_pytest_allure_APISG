@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN NICOLAS",
+    "barrioInf": null,
+    "codCalle_1": 1341,
+    "codCalle_2": 1505,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107808.2500967576,
+    "coordenada_y": 103108.3905368053,
+    "direccion": "ESMERALDA Y TUCUMAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ESMERALDA",
+    "nombreCalle_2": "TUCUMAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "001-006-001b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 1259,
+    "codCalle_2": 2505,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100512.7991341207,
+    "coordenada_y": 96159.4505149572,
+    "direccion": "BATLLE Y ORDO\u00d1EZ, JOSE P.T. Y SENDERO MUJERES VICTORIOSAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BATLLE Y ORDO\u00d1EZ, JOSE P.T.",
+    "nombreCalle_2": "SENDERO MUJERES VICTORIOSAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "056-203-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

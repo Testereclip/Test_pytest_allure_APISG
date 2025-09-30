@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 116,
+    "codCalle_2": 380,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 96218.7422859056,
+    "coordenada_y": 101947.8124111431,
+    "direccion": "BAIGORRIA Y GUALEGUAYCHU",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BAIGORRIA",
+    "nombreCalle_2": "GUALEGUAYCHU",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-019-025",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

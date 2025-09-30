@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 911,
+    "codCalle_2": 2267,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96263.8438482783,
+    "coordenada_y": 100158.4686613315,
+    "direccion": "CALDERON DE LA BARCA, PEDRO Y CAMARONES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CALDERON DE LA BARCA, PEDRO",
+    "nombreCalle_2": "CAMARONES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-006A-021",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

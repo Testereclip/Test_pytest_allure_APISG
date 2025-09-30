@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio 15 (Ciudad Oculta)",
+    "codCalle_1": 1026,
+    "codCalle_2": 1284,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 97498.3217531514,
+    "coordenada_y": 95423.690239927,
+    "direccion": "CYMES, JUAN Y ECHEANDIA",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CYMES, JUAN",
+    "nombreCalle_2": "ECHEANDIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "078-075N-000",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

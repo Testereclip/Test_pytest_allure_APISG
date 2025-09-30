@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VERSALLES",
+    "barrioInf": null,
+    "codCalle_1": 1578,
+    "codCalle_2": 1826,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 93911.4922861219,
+    "coordenada_y": 100037.7577236851,
+    "direccion": "FRAGUEIRO Y PAZ, GRAL. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FRAGUEIRO",
+    "nombreCalle_2": "PAZ, GRAL. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "093-011-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

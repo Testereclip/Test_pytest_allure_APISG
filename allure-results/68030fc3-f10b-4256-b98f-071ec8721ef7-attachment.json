@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 44,
+    "codCalle_2": 726,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94122.1797860353,
+    "coordenada_y": 99223.9374112813,
+    "direccion": "BUERAS Y JACQUES, AMADEO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BUERAS",
+    "nombreCalle_2": "JACQUES, AMADEO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "095-011-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

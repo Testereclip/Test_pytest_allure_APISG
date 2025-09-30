@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio 20",
+    "codCalle_1": 1619,
+    "codCalle_2": 1888,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99641.0225959343,
+    "coordenada_y": 94829.515735055,
+    "direccion": "PASAJE DE LOS SUE\u00d1OS Y POLA",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PASAJE DE LOS SUE\u00d1OS",
+    "nombreCalle_2": "POLA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "066-131-002",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

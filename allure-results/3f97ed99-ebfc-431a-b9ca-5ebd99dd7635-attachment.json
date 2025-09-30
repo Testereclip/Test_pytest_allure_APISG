@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 919,
+    "codCalle_2": 2727,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102795.3985348195,
+    "coordenada_y": 100393.4061617451,
+    "direccion": "BEAUCHEF Y GOYENA, PEDRO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BEAUCHEF",
+    "nombreCalle_2": "GOYENA, PEDRO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-097-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

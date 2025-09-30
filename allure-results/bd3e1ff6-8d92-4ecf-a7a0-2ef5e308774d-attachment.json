@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 503,
+    "codCalle_2": 2089,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 107188.0782219418,
+    "coordenada_y": 104487.6170991249,
+    "direccion": "POSADAS Y MONTEVIDEO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "POSADAS",
+    "nombreCalle_2": "MONTEVIDEO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "007-026-029",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

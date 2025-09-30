@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 1628,
+    "codCalle_2": 1725,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 99007.8204102107,
+    "coordenada_y": 97827.6014742554,
+    "direccion": "VALLE, MARIA R. DEL Y CAGLIARI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VALLE, MARIA R. DEL",
+    "nombreCalle_2": "CAGLIARI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-101C-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 899,
+    "codCalle_2": 2367,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107227.3672839972,
+    "coordenada_y": 97930.6952247912,
+    "direccion": "SANTA ELENA Y ALVARADO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANTA ELENA",
+    "nombreCalle_2": "ALVARADO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-043A-024",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

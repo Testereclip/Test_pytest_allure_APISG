@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 1540,
+    "codCalle_2": 2304,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103128.5313473964,
+    "coordenada_y": 102277.570224077,
+    "direccion": "DIAZ VELEZ AV. Y YATAY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DIAZ VELEZ AV.",
+    "nombreCalle_2": "YATAY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "017-027-007a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

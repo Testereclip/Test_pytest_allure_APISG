@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 1354,
+    "codCalle_2": 2302,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96038.4532236325,
+    "coordenada_y": 104917.7108483308,
+    "direccion": "ALVAREZ, AGUSTIN Y LADINES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALVAREZ, AGUSTIN",
+    "nombreCalle_2": "LADINES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-011A-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CHARCAS+Y+ANCHORENA%2C+TOMAS+MANUEL+DE%2C+DR.&v2=true

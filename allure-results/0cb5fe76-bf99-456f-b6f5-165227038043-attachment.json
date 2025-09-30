@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA REAL",
+    "barrioInf": null,
+    "codCalle_1": 1089,
+    "codCalle_2": 2018,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 94403.7344736083,
+    "coordenada_y": 100927.968661127,
+    "direccion": "CORTINA Y GUTIERREZ, EDUARDO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CORTINA",
+    "nombreCalle_2": "GUTIERREZ, EDUARDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "093-126-027d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

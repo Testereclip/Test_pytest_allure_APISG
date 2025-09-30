@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 747,
+    "codCalle_2": 2450,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103938.1797845071,
+    "coordenada_y": 98286.1952245355,
+    "direccion": "ALAGON Y FERREYRA, ANDRES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALAGON",
+    "nombreCalle_2": "FERREYRA, ANDRES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-153-019a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

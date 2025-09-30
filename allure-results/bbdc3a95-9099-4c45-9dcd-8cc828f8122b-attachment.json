@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 876,
+    "codCalle_2": 1806,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95164.1329110253,
+    "coordenada_y": 101404.6014736313,
+    "direccion": "CERVANTES Y MELINCUE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CERVANTES",
+    "nombreCalle_2": "MELINCUE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-035D-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

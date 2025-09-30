@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 348,
+    "codCalle_2": 2631,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97929.1407229632,
+    "coordenada_y": 99186.1717865417,
+    "direccion": "LACARRA Y FERNANDEZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LACARRA",
+    "nombreCalle_2": "FERNANDEZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-094-006i",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

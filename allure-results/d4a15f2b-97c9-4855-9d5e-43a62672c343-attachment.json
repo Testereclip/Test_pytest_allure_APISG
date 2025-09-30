@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 445,
+    "codCalle_2": 2441,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 96449.0079109376,
+    "coordenada_y": 102936.765536061,
+    "direccion": "LAMARCA, EMILIO Y SIMBRON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAMARCA, EMILIO",
+    "nombreCalle_2": "SIMBRON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-103-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

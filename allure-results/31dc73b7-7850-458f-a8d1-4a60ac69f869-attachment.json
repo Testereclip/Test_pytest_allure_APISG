@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 991,
+    "codCalle_2": 1942,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99062.5235353721,
+    "coordenada_y": 100352.7420990014,
+    "direccion": "ARGERICH Y VALLE PJE. PARTICULAR (ALT. ARGERICH 500)",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARGERICH",
+    "nombreCalle_2": "VALLE PJE. PARTICULAR (ALT. ARGERICH 500)",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "065-025-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

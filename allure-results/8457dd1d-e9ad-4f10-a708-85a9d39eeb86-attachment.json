@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONSERRAT",
+    "barrioInf": null,
+    "codCalle_1": 1078,
+    "codCalle_2": 1700,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108362.468846618,
+    "coordenada_y": 102252.7030369293,
+    "direccion": "DEFENSA Y YRIGOYEN, HIPOLITO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DEFENSA",
+    "nombreCalle_2": "YRIGOYEN, HIPOLITO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "002-053-000A",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

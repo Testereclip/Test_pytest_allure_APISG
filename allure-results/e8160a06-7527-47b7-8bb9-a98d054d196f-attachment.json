@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 117,
+    "codCalle_2": 2621,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97683.1797859975,
+    "coordenada_y": 106574.6483482749,
+    "direccion": "DIAZ COLODRERO Y LE BRETON, TOMAS A.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DIAZ COLODRERO",
+    "nombreCalle_2": "LE BRETON, TOMAS A.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-129-026a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

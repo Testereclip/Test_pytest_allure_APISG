@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PAZ%2C+MARCOS+Y+SOLA%2C+MANUEL&v2=true

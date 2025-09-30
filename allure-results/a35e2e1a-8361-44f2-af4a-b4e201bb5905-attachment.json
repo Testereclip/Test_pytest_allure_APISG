@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 777,
+    "codCalle_2": 750,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 95522.5391606997,
+    "coordenada_y": 97353.3514740663,
+    "direccion": "DE LA TORRE, LISANDRO Y PIZARRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LA TORRE, LISANDRO",
+    "nombreCalle_2": "PIZARRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "074-077-013a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

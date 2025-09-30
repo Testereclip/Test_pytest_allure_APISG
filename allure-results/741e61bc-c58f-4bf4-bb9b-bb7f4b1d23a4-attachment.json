@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio Piedrabuena",
+    "codCalle_1": 497,
+    "codCalle_2": 2250,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 97708.5912797922,
+    "coordenada_y": 94556.4407715182,
+    "direccion": "GOLETA SANTA CRUZ Y PAILEBOT DAVISON",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GOLETA SANTA CRUZ",
+    "nombreCalle_2": "PAILEBOT DAVISON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "078-159E-015",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1727,
+    "codCalle_2": 2589,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103174.0000970526,
+    "coordenada_y": 97270.9686620903,
+    "direccion": "EREZCANO Y CORRALES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "EREZCANO",
+    "nombreCalle_2": "CORRALES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "046-126-016b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

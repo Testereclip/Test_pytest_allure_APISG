@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 285,
+    "codCalle_2": 1324,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106211.4922842016,
+    "coordenada_y": 98735.3436621425,
+    "direccion": "GARCIA, MANUEL Y CHUTRO, PEDRO, PROF., DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GARCIA, MANUEL",
+    "nombreCalle_2": "CHUTRO, PEDRO, PROF., DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "024-071-026c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

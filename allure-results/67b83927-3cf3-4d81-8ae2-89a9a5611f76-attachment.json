@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 519,
+    "codCalle_2": 537,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94927.1485357892,
+    "coordenada_y": 97377.2889740254,
+    "direccion": "ACASSUSO Y ANDALGALA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACASSUSO",
+    "nombreCalle_2": "ANDALGALA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "074-045-003",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 700,
+    "codCalle_2": 76,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95101.0469735507,
+    "coordenada_y": 101628.1795986027,
+    "direccion": "SOLORZANO PEREIRA, JUAN DE Y LOZANO, PEDRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SOLORZANO PEREIRA, JUAN DE",
+    "nombreCalle_2": "LOZANO, PEDRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-038-031a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

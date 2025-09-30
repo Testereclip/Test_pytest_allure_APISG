@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 2013,
+    "codCalle_2": 2246,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96259.0079110716,
+    "coordenada_y": 104496.882723388,
+    "direccion": "MISTRAL, GABRIELA Y HELGUERA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MISTRAL, GABRIELA",
+    "nombreCalle_2": "HELGUERA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "073-013-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

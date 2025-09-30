@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 153,
+    "codCalle_2": 979,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 99198.3204101601,
+    "coordenada_y": 97507.0545992981,
+    "direccion": "ZINNY Y PERON, EVA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ZINNY",
+    "nombreCalle_2": "PERON, EVA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-096A-031",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

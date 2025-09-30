@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 2538,
+    "codCalle_2": 2520,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 109318.4607248644,
+    "coordenada_y": 98780.7203594024,
+    "direccion": "DE LAS MUJERES DEL BARRIO LA BOCA, PASEO PEATONAL COSTERO Y ROCHA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LAS MUJERES DEL BARRIO LA BOCA, PASEO PEATONAL COSTERO",
+    "nombreCalle_2": "ROCHA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-120-022",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 1590,
+    "codCalle_2": 1815,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96193.0157236792,
+    "coordenada_y": 105951.593660736,
+    "direccion": "ESCOBAR Y ARTIGAS, JOSE GERVASIO, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ESCOBAR",
+    "nombreCalle_2": "ARTIGAS, JOSE GERVASIO, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-077-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

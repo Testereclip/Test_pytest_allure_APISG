@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 373,
+    "codCalle_2": 1180,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101074.609472736,
+    "coordenada_y": 102786.203036388,
+    "direccion": "RODRIGUEZ, MANUEL A., GENERAL Y TRES ARROYOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RODRIGUEZ, MANUEL A., GENERAL",
+    "nombreCalle_2": "TRES ARROYOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-018-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

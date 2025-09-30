@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 307,
+    "codCalle_2": 2612,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 97968.8125983302,
+    "coordenada_y": 104725.9764734814,
+    "direccion": "BUDAPEST Y CONSTANTINOPLA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BUDAPEST",
+    "nombreCalle_2": "CONSTANTINOPLA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-129-029",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

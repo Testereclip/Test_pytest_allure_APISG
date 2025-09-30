@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 1178,
+    "codCalle_2": 2553,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100744.6801839981,
+    "coordenada_y": 103734.669413137,
+    "direccion": "ARENAL, CONCEPCION Y GIRARDOT",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARENAL, CONCEPCION",
+    "nombreCalle_2": "GIRARDOT",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-059A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

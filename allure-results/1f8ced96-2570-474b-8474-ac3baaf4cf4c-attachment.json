@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 490,
+    "codCalle_2": 750,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 95637.4375981918,
+    "coordenada_y": 97487.3124115592,
+    "direccion": "CAFAYATE Y PIZARRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CAFAYATE",
+    "nombreCalle_2": "PIZARRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "074-096-001d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 944,
+    "codCalle_2": 2416,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 96102.3360359603,
+    "coordenada_y": 102520.7264735788,
+    "direccion": "TINOGASTA Y CHIVILCOY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TINOGASTA",
+    "nombreCalle_2": "CHIVILCOY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-062-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

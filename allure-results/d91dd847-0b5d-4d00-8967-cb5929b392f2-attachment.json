@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COGHLAN",
+    "barrioInf": null,
+    "codCalle_1": 1803,
+    "codCalle_2": 2177,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 99259.2579107952,
+    "coordenada_y": 107079.5077233255,
+    "direccion": "MONROE Y MELIAN AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MONROE",
+    "nombreCalle_2": "MELIAN AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "041-012-018a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

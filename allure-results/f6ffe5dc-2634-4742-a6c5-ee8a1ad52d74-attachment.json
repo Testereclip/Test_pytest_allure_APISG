@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 656,
+    "codCalle_2": 2207,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98275.2344732734,
+    "coordenada_y": 104578.3124110165,
+    "direccion": "ALTOLAGUIRRE Y MOSCU",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALTOLAGUIRRE",
+    "nombreCalle_2": "MOSCU",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-066-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

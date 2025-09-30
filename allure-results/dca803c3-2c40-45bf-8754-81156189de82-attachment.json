@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 449,
+    "codCalle_2": 2094,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102677.4141599351,
+    "coordenada_y": 101856.7967865921,
+    "direccion": "SAN SEBASTIAN Y AVELLANEDA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN SEBASTIAN",
+    "nombreCalle_2": "AVELLANEDA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-117-010a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

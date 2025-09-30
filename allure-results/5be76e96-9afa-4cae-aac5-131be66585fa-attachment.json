@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 850,
+    "codCalle_2": 1628,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 99093.9610351975,
+    "coordenada_y": 97815.3670992588,
+    "direccion": "GAITAN, LUIS Y VALLE, MARIA R. DEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GAITAN, LUIS",
+    "nombreCalle_2": "VALLE, MARIA R. DEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-101A-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

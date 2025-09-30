@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 990,
+    "codCalle_2": 2235,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95953.1563485938,
+    "coordenada_y": 104143.8436609042,
+    "direccion": "VALLEJOS Y LLAVALLOL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VALLEJOS",
+    "nombreCalle_2": "LLAVALLOL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-198-025b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

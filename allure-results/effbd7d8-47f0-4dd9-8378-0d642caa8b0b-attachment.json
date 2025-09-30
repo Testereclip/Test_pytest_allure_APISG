@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 2340,
+    "codCalle_2": 2412,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97452.2110359527,
+    "coordenada_y": 105397.5702233767,
+    "direccion": "CERETTI Y FOULLIER, FELIX O.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CERETTI",
+    "nombreCalle_2": "FOULLIER, FELIX O.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-013-015d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

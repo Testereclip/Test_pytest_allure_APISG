@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 87,
+    "codCalle_2": 365,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108957.4454087736,
+    "coordenada_y": 98411.7342873592,
+    "direccion": "IRALA Y PALACIOS, ALFREDO L.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "IRALA",
+    "nombreCalle_2": "PALACIOS, ALFREDO L.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-084-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

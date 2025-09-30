@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 741,
+    "codCalle_2": 2036,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103446.2735344813,
+    "coordenada_y": 96788.6092871565,
+    "direccion": "RABANAL, FRANCISCO, INTENDENTE AV. Y CHARRUA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RABANAL, FRANCISCO, INTENDENTE AV.",
+    "nombreCalle_2": "CHARRUA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "046-083D-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

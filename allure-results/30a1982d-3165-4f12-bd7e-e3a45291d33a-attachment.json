@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": null,
+    "codCalle_1": 2007,
+    "codCalle_2": 993,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107511.382909335,
+    "coordenada_y": 103611.3124117368,
+    "direccion": "ALVEAR, MARCELO T. DE Y 9 DE JULIO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALVEAR, MARCELO T. DE",
+    "nombreCalle_2": "9 DE JULIO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "003-011A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

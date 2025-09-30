@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NU\u00d1EZ",
+    "barrioInf": null,
+    "codCalle_1": 165,
+    "codCalle_2": 814,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100416.1954107583,
+    "coordenada_y": 109075.9374107025,
+    "direccion": "ARRIBE\u00d1OS Y PEDRAZA, MANUELA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARRIBE\u00d1OS",
+    "nombreCalle_2": "PEDRAZA, MANUELA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "027-076-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

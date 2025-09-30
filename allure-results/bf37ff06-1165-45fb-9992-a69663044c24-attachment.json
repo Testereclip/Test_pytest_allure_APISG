@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 208,
+    "codCalle_2": 2735,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98746.0782230036,
+    "coordenada_y": 101608.0936613514,
+    "direccion": "TERRADA Y ESCALADA DE SAN MARTIN, R.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TERRADA",
+    "nombreCalle_2": "ESCALADA DE SAN MARTIN, R.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "067-054-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

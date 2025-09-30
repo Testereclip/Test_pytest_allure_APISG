@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1315,
+    "codCalle_2": 2678,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 101806.7266602781,
+    "coordenada_y": 105050.3436612052,
+    "direccion": "AREVALO Y VEGA, NICETO, CNEL. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AREVALO",
+    "nombreCalle_2": "VEGA, NICETO, CNEL. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "033-071-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

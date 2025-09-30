@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 753,
+    "codCalle_2": 2299,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100651.0970904273,
+    "coordenada_y": 97171.0781652889,
+    "direccion": "PASAJE C Y ACOSTA, MARIANO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PASAJE C",
+    "nombreCalle_2": "ACOSTA, MARIANO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "056-109L-000A",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

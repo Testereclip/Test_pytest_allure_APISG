@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BOEDO",
+    "barrioInf": null,
+    "codCalle_1": 747,
+    "codCalle_2": 1217,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103758.5704095697,
+    "coordenada_y": 98810.1483494717,
+    "direccion": "ALAGON Y CASEROS AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALAGON",
+    "nombreCalle_2": "CASEROS AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-146-021",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

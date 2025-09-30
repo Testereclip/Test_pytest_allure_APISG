@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 95,
+    "codCalle_2": 1274,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103161.0157225666,
+    "coordenada_y": 104875.6170988141,
+    "direccion": "NICARAGUA Y URIARTE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NICARAGUA",
+    "nombreCalle_2": "URIARTE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-086-007d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 239,
+    "codCalle_2": 2049,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 101185.4063474553,
+    "coordenada_y": 98845.0077242952,
+    "direccion": "ASAMBLEA AV. Y LAUTARO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ASAMBLEA AV.",
+    "nombreCalle_2": "LAUTARO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-075-025a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

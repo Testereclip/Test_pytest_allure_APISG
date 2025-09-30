@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1727,
+    "codCalle_2": 2262,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103272.9297845323,
+    "coordenada_y": 97185.0077246017,
+    "direccion": "EREZCANO Y TABARE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "EREZCANO",
+    "nombreCalle_2": "TABARE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "046-111-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

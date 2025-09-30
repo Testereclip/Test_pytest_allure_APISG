@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 652,
+    "codCalle_2": 1284,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 99308.1563476311,
+    "coordenada_y": 97319.4374118241,
+    "direccion": "DERQUI AV. Y ECHEANDIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DERQUI AV.",
+    "nombreCalle_2": "ECHEANDIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "056-070B-026b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

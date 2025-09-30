@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio 20",
+    "codCalle_1": 1278,
+    "codCalle_2": 2401,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99952.3740803026,
+    "coordenada_y": 95027.4611805842,
+    "direccion": "CORVALAN Y CHILAVERT, MARTINIANO, CORONEL",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CORVALAN",
+    "nombreCalle_2": "CHILAVERT, MARTINIANO, CORONEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "066-030E-001h",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

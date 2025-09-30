@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 2316,
+    "codCalle_2": 2514,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102571.3282222757,
+    "coordenada_y": 99256.6405368461,
+    "direccion": "PICHEUTA Y CASTA\u00d1ARES AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PICHEUTA",
+    "nombreCalle_2": "CASTA\u00d1ARES AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-175-034b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

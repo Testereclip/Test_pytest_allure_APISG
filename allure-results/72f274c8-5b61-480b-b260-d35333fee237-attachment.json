@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 1204,
+    "codCalle_2": 1367,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99980.4922855946,
+    "coordenada_y": 105698.687411016,
+    "direccion": "AVILES, VIRREY Y HEREDIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AVILES, VIRREY",
+    "nombreCalle_2": "HEREDIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-123-027b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,4158 @@
+[
+    {
+        "direccion": "DON ANSELMO AIETA 1083",
+        "Esperado 1": "HUMBERTO 1°",
+        "Esperado 2": "BETHLEM"
+    },
+    {
+        "direccion": "ACASSUSO 7136",
+        "Esperado 1": "ANDALGALA",
+        "Esperado 2": "CARHUE"
+    },
+    {
+        "direccion": "ACASSUSO 6376",
+        "Esperado 1": "MURGUIONDO",
+        "Esperado 2": "LEGUIZAMON, MARTINIANO"
+    },
+    {
+        "direccion": "ACEVEDO 55",
+        "Esperado 1": "WARNES AV.",
+        "Esperado 2": "MURILLO"
+    },
+    {
+        "direccion": "ACEVEDO 1064",
+        "Esperado 1": "JUFRE",
+        "Esperado 2": "LERMA"
+    },
+    {
+        "direccion": "ACEVEDO 596",
+        "Esperado 1": "VERA",
+        "Esperado 2": "RAMIREZ DE VELASCO, JUAN"
+    },
+    {
+        "direccion": "ARMENIA 1931",
+        "Esperado 1": "NICARAGUA",
+        "Esperado 2": "SOLER"
+    },
+    {
+        "direccion": "ARMENIA 2149",
+        "Esperado 1": "GUATEMALA",
+        "Esperado 2": "PARAGUAY"
+    },
+    {
+        "direccion": "ARMENIA 1945",
+        "Esperado 1": "NICARAGUA",
+        "Esperado 2": "SOLER"
+    },
+    {
+        "direccion": "ACEVEDO, EDUARDO 92",
+        "Esperado 1": "RIVADAVIA AV.",
+        "Esperado 2": "YERBAL"
+    },
+    {
+        "direccion": "ACEVEDO, EDUARDO 510",
+        "Esperado 1": "ARANGUREN, JUAN F., DR.",
+        "Esperado 2": "JAURETCHE, ARTURO"
+    },
+    {
+        "direccion": "ACEVEDO, EDUARDO 336",
+        "Esperado 1": "BOGOTA",
+        "Esperado 2": "AVELLANEDA"
+    },
+    {
+        "direccion": "IBARBOUROU, JUANA DE 1037",
+        "Esperado 1": "GALLARDO, ANGEL AV.",
+        "Esperado 2": "PATRICIAS ARGENTINAS AV."
+    },
+    {
+        "direccion": "ACONCAGUA 5606",
+        "Esperado 1": "CORVALAN",
+        "Esperado 2": "ALBARIÑO"
+    },
+    {
+        "direccion": "ACONCAGUA 5726",
+        "Esperado 1": "MIRALLA",
+        "Esperado 2": "POLA"
+    },
+    {
+        "direccion": "ACONCAGUA 5855",
+        "Esperado 1": "POLA",
+        "Esperado 2": "FONROUGE"
+    },
+    {
+        "direccion": "ACOYTE 1330",
+        "Esperado 1": "GANDHI, MAHATMA",
+        "Esperado 2": "ANTEZANA"
+    },
+    {
+        "direccion": "ACOYTE AV. 253",
+        "Esperado 1": "ARAOZ ALFARO, GREGORIO, DR",
+        "Esperado 2": "BOGOTA"
+    },
+    {
+        "direccion": "ACOYTE AV. 564",
+        "Esperado 1": "ARANGUREN, JUAN F., DR.",
+        "Esperado 2": "VALLESE, FELIPE"
+    },
+    {
+        "direccion": "ACUÑA DE FIGUEROA, FRANCISCO 1041",
+        "Esperado 1": "LAVALLE",
+        "Esperado 2": "ROCAMORA"
+    },
+    {
+        "direccion": "ACUÑA DE FIGUEROA, FRANCISCO 818",
+        "Esperado 1": "GUARDIA VIEJA",
+        "Esperado 2": "HUMAHUACA"
+    },
+    {
+        "direccion": "ACUÑA DE FIGUEROA, FRANCISCO 316",
+        "Esperado 1": "PERON, JUAN DOMINGO, TTE. GENERAL",
+        "Esperado 2": "POTOSI"
+    },
+    {
+        "direccion": "ACHA, MARIANO, GRAL. 1644",
+        "Esperado 1": "ALVAREZ THOMAS AV.",
+        "Esperado 2": "PINO, VIRREY DEL"
+    },
+    {
+        "direccion": "ACHA, MARIANO, GRAL. 3911",
+        "Esperado 1": "GARCIA DEL RIO",
+        "Esperado 2": "PAROISSIEN"
+    },
+    {
+        "direccion": "ACHA, MARIANO, GRAL. 1870",
+        "Esperado 1": "LA PAMPA",
+        "Esperado 2": "SUCRE, ANTONIO JOSE DE, MCAL."
+    },
+    {
+        "direccion": "ACHALA 3676",
+        "Esperado 1": "GUARANI",
+        "Esperado 2": "AGACES"
+    },
+    {
+        "direccion": "ACHALA 3669",
+        "Esperado 1": "GUARANI",
+        "Esperado 2": "AGACES"
+    },
+    {
+        "direccion": "ACHALA 3550",
+        "Esperado 1": "GUARANI",
+        "Esperado 2": "ALMAFUERTE AV."
+    },
+    {
+        "direccion": "ACHAVAL 753",
+        "Esperado 1": "FERNANDEZ MORENO, BALDOMERO",
+        "Esperado 2": "PRIMERA JUNTA"
+    },
+    {
+        "direccion": "ACHAVAL 278",
+        "Esperado 1": "ALBERDI, JUAN BAUTISTA AV.",
+        "Esperado 2": "GOYENA, PEDRO AV."
+    },
+    {
+        "direccion": "ACHEGA 3325",
+        "Esperado 1": "TAMBORINI, JOSE PASCUAL",
+        "Esperado 2": "PEDRAZA, MANUELA"
+    },
+    {
+        "direccion": "ACHEGA 3008",
+        "Esperado 1": "CONGRESO AV.",
+        "Esperado 2": "QUESADA"
+    },
+    {
+        "direccion": "ACHEGA 3119",
+        "Esperado 1": "QUESADA",
+        "Esperado 2": "IBERA"
+    },
+    {
+        "direccion": "ACHIRA 4934",
+        "Esperado 1": "VALDENEGRO",
+        "Esperado 2": "GALVAN"
+    },
+    {
+        "direccion": "ACHUPALLAS 1605",
+        "Esperado 1": "JUSTO, JUAN B. AV.",
+        "Esperado 2": "ESCALADA DE SAN MARTIN, R."
+    },
+    {
+        "direccion": "AGACES 189",
+        "Esperado 1": "POMAR, GREGORIO TTE. CNEL.",
+        "Esperado 2": "USPALLATA"
+    },
+    {
+        "direccion": "AGACES 241",
+        "Esperado 1": "USPALLATA",
+        "Esperado 2": "ACHALA"
+    },
+    {
+        "direccion": "AGACES 224",
+        "Esperado 1": "ACHALA",
+        "Esperado 2": "USPALLATA"
+    },
+    {
+        "direccion": "AGOTE, LUIS DR. 2449",
+        "Esperado 1": "GUIDO",
+        "Esperado 2": "LEVENE, RICARDO, DR."
+    },
+    {
+        "direccion": "AGOTE PEDRO 1462",
+        "Esperado 1": "RICCHERI, PABLO, TTE. GRAL.",
+        "Esperado 2": "HERNANDEZ, RAFAEL"
+    },
+    {
+        "direccion": "AGRELO 3336",
+        "Esperado 1": "SANCHEZ DE LORIA",
+        "Esperado 2": "LINIERS VIRREY"
+    },
+    {
+        "direccion": "AGRELO 3278",
+        "Esperado 1": "24 DE NOVIEMBRE",
+        "Esperado 2": "SANCHEZ DE LORIA"
+    },
+    {
+        "direccion": "AGRELO 3968",
+        "Esperado 1": "YAPEYU",
+        "Esperado 2": "BOCAYUVA, QUINTINO"
+    },
+    {
+        "direccion": "AGUADO, ALEJANDRO M. DE 2874",
+        "Esperado 1": "ORTIZ DE OCAMPO AV.",
+        "Esperado 2": "ELIZALDE, RUFINO DE"
+    },
+
+    {
+        "direccion": "AGUARIBAY 6878",
+        "Esperado 1": "GANA",
+        "Esperado 2": "CUZCO"
+    },
+
+    {
+        "direccion": "AGUAS BUENAS 3116",
+        "Esperado 1": "QUESADA",
+        "Esperado 2": "IBERA"
+    },
+    {
+        "direccion": "AGUERO 1865",
+        "Esperado 1": "JUNCAL",
+        "Esperado 2": "BERUTI"
+    },
+    {
+        "direccion": "AGUILAR 2655",
+        "Esperado 1": "MOLDES",
+        "Esperado 2": "AMENABAR"
+    },
+    {
+        "direccion": "AGUILAR 2584",
+        "Esperado 1": "AMENABAR",
+        "Esperado 2": "CIUDAD DE LA PAZ"
+    },
+    {
+        "direccion": "AGUIRRE 952",
+        "Esperado 1": "SERRANO",
+        "Esperado 2": "THAMES"
+    },
+    {
+        "direccion": "AGUIRRE 560",
+        "Esperado 1": "SCALABRINI ORTIZ, RAUL AV.",
+        "Esperado 2": "MALABIA"
+    },
+    {
+        "direccion": "AGUIRRE, JULIAN 1431",
+        "Esperado 1": "ERCILLA",
+        "Esperado 2": "SCHMIDL, ULRICO"
+    },
+    {
+        "direccion": "AGUIRRE, JULIAN 1477",
+        "Esperado 1": "ERCILLA",
+        "Esperado 2": "SCHMIDL, ULRICO"
+    },
+    {
+        "direccion": "AGUIRRE, JULIAN 1425",
+        "Esperado 1": "ERCILLA",
+        "Esperado 2": "SCHMIDL, ULRICO"
+    },
+    {
+        "direccion": "AIZPURUA 3012",
+        "Esperado 1": "QUESADA",
+        "Esperado 2": "CONGRESO AV."
+    },
+    {
+        "direccion": "AIZPURUA 2348",
+        "Esperado 1": "MONROE",
+        "Esperado 2": "BLANCO ENCALADA"
+    },
+    {
+        "direccion": "ALAGON 328",
+        "Esperado 1": "FERREYRA, ANDRES",
+        "Esperado 2": "PAGOLA, CNEL."
+    },
+    {
+        "direccion": "ALAGON 281",
+        "Esperado 1": "PAGOLA, CNEL.",
+        "Esperado 2": "CHICLANA AV."
+    },
+    {
+        "direccion": "ALAGON 17",
+        "Esperado 1": "POMAR, GREGORIO TTE. CNEL.",
+        "Esperado 2": "CASEROS AV."
+    },
+    {
+        "direccion": "ALBANIA 4653",
+        "Esperado 1": "PAZ, MARCOS",
+        "Esperado 2": "JUAREZ, BENITO"
+    },
+    {
+        "direccion": "ALBANIA 4590",
+        "Esperado 1": "BERNALDES",
+        "Esperado 2": "PAZ, MARCOS"
+    },
+    {
+        "direccion": "ALBARELLOS AV. 2348",
+        "Esperado 1": "DE LOS CONSTITUYENTES AV.",
+        "Esperado 2": "ZAMUDIO"
+    },
+    {
+        "direccion": "ALBARELLOS AV. 2775",
+        "Esperado 1": "EL GAUCHO",
+        "Esperado 2": "TERRADA"
+    },
+    {
+        "direccion": "ALBARELLOS AV. 2669",
+        "Esperado 1": "ESTADO PLURINACIONAL DE BOLIVIA",
+        "Esperado 2": "CONDARCO"
+    },
+    {
+        "direccion": "ALBARIÑO 1952",
+        "Esperado 1": "GARZON, EUGENIO, GRAL. AV.",
+        "Esperado 2": "SAN PEDRO"
+    },
+    {
+        "direccion": "ALBARIÑO 1253",
+        "Esperado 1": "ANKARA",
+        "Esperado 2": "TAPALQUE"
+    },
+    {
+        "direccion": "ALBARIÑO 3315",
+        "Esperado 1": "ZELARRAYAN",
+        "Esperado 2": "CASTAÑARES AV."
+    },
+    {
+        "direccion": "ALBARRACIN 1623",
+        "Esperado 1": "DIAZ, AVELINO",
+        "Esperado 2": "BALBASTRO"
+    },
+    {
+        "direccion": "ALBARRACIN 2006",
+        "Esperado 1": "ZELARRAYAN",
+        "Esperado 2": "COBO AV."
+    },
+    {
+        "direccion": "ALBARRACIN DE SARMIENTO, PAULA 3493",
+        "Esperado 1": "LLAVALLOL",
+        "Esperado 2": "CONCORDIA"
+    },
+    {
+        "direccion": "ALBERDI, JUAN BAUTISTA AV. 5986",
+        "Esperado 1": "OLIDEN",
+        "Esperado 2": "PIERES"
+    },
+    {
+        "direccion": "ALBERDI, JUAN BAUTISTA AV. 4375",
+        "Esperado 1": "EL SERENO",
+        "Esperado 2": "MEDINA"
+    },
+    {
+        "direccion": "ALBERDI, JUAN BAUTISTA AV. 2860",
+        "Esperado 1": "LAFUENTE",
+        "Esperado 2": "SAN PEDRITO AV."
+    },
+    {
+        "direccion": "ALBERTI 923",
+        "Esperado 1": "CALVO, CARLOS",
+        "Esperado 2": "ESTADOS UNIDOS"
+    },
+    {
+        "direccion": "ALBERTI 1871",
+        "Esperado 1": "CASTILLO, CATULO",
+        "Esperado 2": "BRASIL"
+    },
+    {
+        "direccion": "ALBERTI 323",
+        "Esperado 1": "BELGRANO AV.",
+        "Esperado 2": "MORENO"
+    },
+    {
+        "direccion": "ALCARAZ 5767",
+        "Esperado 1": "CORTINA",
+        "Esperado 2": "IRIGOYEN"
+    },
+    {
+        "direccion": "ALCARAZ 4911",
+        "Esperado 1": "ALLENDE",
+        "Esperado 2": "BERMUDEZ"
+    },
+    {
+        "direccion": "ALCARAZ 5625",
+        "Esperado 1": "HUGO, VICTOR",
+        "Esperado 2": "CORTINA"
+    },
+    {
+        "direccion": "ALCORTA, AMANCIO AV. 3365",
+        "Esperado 1": "MAGNAUD, JUEZ",
+        "Esperado 2": "PEPIRI"
+    },
+    {
+        "direccion": "ALCORTA, AMANCIO AV. 1687",
+        "Esperado 1": "BAIGORRI",
+        "Esperado 2": "PERDRIEL"
+    },
+    {
+        "direccion": "ALCORTA, AMANCIO AV. 2862",
+        "Esperado 1": "SUAREZ",
+        "Esperado 2": "LAVARDEN"
+    },
+    {
+        "direccion": "ALEM, LEANDRO N. AV. 1016",
+        "Esperado 1": "ROJAS, RICARDO, DR.",
+        "Esperado 2": "ALVEAR, MARCELO T. DE"
+    },
+    {
+        "direccion": "ALEM, LEANDRO N. AV. 739",
+        "Esperado 1": "VIAMONTE",
+        "Esperado 2": "CORDOBA AV."
+    },
+    {
+        "direccion": "ALEM, LEANDRO N. AV. 278",
+        "Esperado 1": "SARMIENTO",
+        "Esperado 2": "PERON, JUAN DOMINGO, TTE. GENERAL"
+    },
+    {
+        "direccion": "ALEMANIA 2739",
+        "Esperado 1": "CONDARCO",
+        "Esperado 2": "TERRADA"
+    },
+    {
+        "direccion": "ALFARERO 4133",
+        "Esperado 1": "ZELARRAYAN",
+        "Esperado 2": "AQUINO"
+    },
+    {
+        "direccion": "ALGARROBO 1021",
+        "Esperado 1": "VILLARINO",
+        "Esperado 2": "SAN RICARDO"
+    },
+    {
+        "direccion": "ALGARROBO 830",
+        "Esperado 1": "SANTO DOMINGO",
+        "Esperado 2": "JORGE"
+    },
+    {
+        "direccion": "ALICANTE 1902",
+        "Esperado 1": "NOGOYA",
+        "Esperado 2": "NAZARRE"
+    },
+    {
+        "direccion": "ALMAFUERTE AV. 751",
+        "Esperado 1": "OCHOA, ENRIQUE",
+        "Esperado 2": "DEL TIGRE"
+    },
+    {
+        "direccion": "ALMAFUERTE AV. 251",
+        "Esperado 1": "USPALLATA",
+        "Esperado 2": "LOS PATOS"
+    },
+    {
+        "direccion": "ALMAFUERTE AV. 627",
+        "Esperado 1": "DEL TIGRE",
+        "Esperado 2": "FERREYRA, ANDRES"
+    },
+    {
+        "direccion": "ALMAGRO 1687",
+        "Esperado 1": "CAMARONES",
+        "Esperado 2": "MAGARIÑOS CERVANTES, A."
+    },
+    {
+        "direccion": "ALMEIRA, HILARIO DE 5089",
+        "Esperado 1": "CERVANTES",
+        "Esperado 2": "BERMUDEZ"
+    },
+    {
+        "direccion": "ALMEIRA, HILARIO DE 4864",
+        "Esperado 1": "ALLENDE",
+        "Esperado 2": "DESAGUADERO"
+    },
+    {
+        "direccion": "ALMEIRA, HILARIO DE 4752",
+        "Esperado 1": "ALLENDE",
+        "Esperado 2": "ALLENDE"
+    },
+    {
+        "direccion": "ALPATACAL 6505",
+        "Esperado 1": "CAFAYATE",
+        "Esperado 2": "PILAR"
+    },
+    {
+        "direccion": "ALPATACAL 6646",
+        "Esperado 1": "PILAR",
+        "Esperado 2": "DE LA TORRE, LISANDRO"
+    },
+    {
+        "direccion": "ALPATACAL 6437",
+        "Esperado 1": "LEGUIZAMON, MARTINIANO",
+        "Esperado 2": "CAFAYATE"
+    },
+    {
+        "direccion": "ALSINA, ADOLFO 2191",
+        "Esperado 1": "PASCO",
+        "Esperado 2": "RINCON"
+    },
+    {
+        "direccion": "ALSINA, ADOLFO 2127",
+        "Esperado 1": "PASCO",
+        "Esperado 2": "RINCON"
+    },
+    {
+        "direccion": "ALSINA, ADOLFO 261",
+        "Esperado 1": "BALCARCE",
+        "Esperado 2": "PASEO COLON AV."
+    },
+    {
+        "direccion": "ALTA GRACIA 3328",
+        "Esperado 1": "MORAN, PEDRO",
+        "Esperado 2": "CANTILO, JOSE LUIS"
+    },
+    {
+        "direccion": "ALTA GRACIA 3495",
+        "Esperado 1": "ASUNCION",
+        "Esperado 2": "MORAN, PEDRO"
+    },
+    {
+        "direccion": "ALTA GRACIA 3219",
+        "Esperado 1": "CANTILO, JOSE LUIS",
+        "Esperado 2": "NAVARRO"
+    },
+    {
+        "direccion": "ALTOLAGUIRRE 1262",
+        "Esperado 1": "ESTOCOLMO",
+        "Esperado 2": "VICTORICA, BENJAMIN, GENERAL, AV."
+    },
+    {
+        "direccion": "ALTOLAGUIRRE 3460",
+        "Esperado 1": "PIRAN",
+        "Esperado 2": "NUÑEZ"
+    },
+    {
+        "direccion": "ALVAR NUÑEZ 226",
+        "Esperado 1": "PALACIOS, ALFREDO L.",
+        "Esperado 2": "SALVADORES, CNEL."
+    },
+    {
+        "direccion": "ALVAR NUÑEZ 150",
+        "Esperado 1": "QUINQUELA MARTIN, BENITO",
+        "Esperado 2": "PALACIOS, ALFREDO L."
+    },
+    {
+        "direccion": "ALVARADO 2836",
+        "Esperado 1": "PERDRIEL",
+        "Esperado 2": "RIO LIMAY"
+    },
+    {
+        "direccion": "ALVARADO 2402",
+        "Esperado 1": "CALIFORNIA",
+        "Esperado 2": "ALVARADO"
+    },
+    {
+        "direccion": "ALVARADO 2858",
+        "Esperado 1": "RIO LIMAY",
+        "Esperado 2": "LUZURIAGA"
+    },
+    {
+        "direccion": "PALACIOS, ALFREDO L. 1319",
+        "Esperado 1": "REGIMIENTO DE PATRICIOS AV.",
+        "Esperado 2": "AZARA"
+    },
+    {
+        "direccion": "PALACIOS, ALFREDO L. 1327",
+        "Esperado 1": "REGIMIENTO DE PATRICIOS AV.",
+        "Esperado 2": "AZARA"
+    },
+    {
+        "direccion": "PALACIOS, ALFREDO L. 882",
+        "Esperado 1": "VESPUCIO",
+        "Esperado 2": "MELO, CARLOS F."
+    },
+    {
+        "direccion": "ALVAREZ, AGUSTIN 4938",
+        "Esperado 1": "GRIVEO",
+        "Esperado 2": "LADINES"
+    },
+    {
+        "direccion": "ALVAREZ, AGUSTIN 4792",
+        "Esperado 1": "MOSCONI GENERAL AV.",
+        "Esperado 2": "LOPEZ, CARLOS ANTONIO"
+    },
+    {
+        "direccion": "ALVAREZ, AGUSTIN 4723",
+        "Esperado 1": "MOSCONI GENERAL AV.",
+        "Esperado 2": "LOPEZ, CARLOS ANTONIO"
+    },
+    {
+        "direccion": "ALVAREZ, CRISOSTOMO 3295",
+        "Esperado 1": "DON SEGUNDO SOMBRA",
+        "Esperado 2": "PERGAMINO"
+    },
+    {
+        "direccion": "ALVAREZ, CRISOSTOMO 3904",
+        "Esperado 1": "ZINNY",
+        "Esperado 2": "ASTURIAS AV."
+    },
+    {
+        "direccion": "ALVAREZ, CRISOSTOMO 4458",
+        "Esperado 1": "DERQUI AV.",
+        "Esperado 2": "ESCALADA AV."
+    },
+    {
+        "direccion": "ALVAREZ DE ACEVEDO, TOMAS 1878",
+        "Esperado 1": "PERON, EVA AV.",
+        "Esperado 2": "ECHEANDIA"
+    },
+    {
+        "direccion": "ALVAREZ, DONATO, TTE. GRAL. 415",
+        "Esperado 1": "AVELLANEDA AV.",
+        "Esperado 2": "ARANGUREN, JUAN F., DR."
+    },
+    {
+        "direccion": "ALVAREZ, DONATO, TTE. GRAL. 1965",
+        "Esperado 1": "MAGARIÑOS CERVANTES, A.",
+        "Esperado 2": "CAMARONES"
+    },
+    {
+        "direccion": "ALVAREZ, DONATO, TTE. GRAL. 368",
+        "Esperado 1": "BOGOTA",
+        "Esperado 2": "AVELLANEDA AV."
+    },
+    {
+        "direccion": "COMBATIENTES DE MALVINAS AV. 3807",
+        "Esperado 1": "JURAMENTO",
+        "Esperado 2": "MENDOZA"
+    },
+    {
+        "direccion": "COMBATIENTES DE MALVINAS AV. 3631",
+        "Esperado 1": "LA PAMPA",
+        "Esperado 2": "SUCRE, ANTONIO JOSE DE, MCAL."
+    },
+    {
+        "direccion": "COMBATIENTES DE MALVINAS AV. 3542",
+        "Esperado 1": "CHINA",
+        "Esperado 2": "LA PAMPA"
+    },
+    {
+        "direccion": "ALVAREZ JONTE 2164",
+        "Esperado 1": "BOYACA",
+        "Esperado 2": "GAVILAN"
+    },
+    {
+        "direccion": "ALVAREZ JONTE 2410",
+        "Esperado 1": "BUFANO, ALFREDO R.",
+        "Esperado 2": "ARTIGAS, JOSE GERVASIO, GRAL."
+    },
+    {
+        "direccion": "ALVAREZ JONTE AV. 2801",
+        "Esperado 1": "ALVAREZ JONTE AV.",
+        "Esperado 2": "CARRANZA, ADOLFO P."
+    },
+    {
+        "direccion": "ALVAREZ JONTE AV. 5474",
+        "Esperado 1": "VIRGILIO",
+        "Esperado 2": "MOLIERE"
+    },
+    {
+        "direccion": "ALVAREZ JONTE AV. 2620",
+        "Esperado 1": "ESTADO PLURINACIONAL DE BOLIVIA",
+        "Esperado 2": "PERNAMBUCO"
+    },
+    {
+        "direccion": "ALVAREZ, JULIAN 2418",
+        "Esperado 1": "SANTA FE AV.",
+        "Esperado 2": "GUEMES"
+    },
+    {
+        "direccion": "ALVAREZ, JULIAN 2711",
+        "Esperado 1": "JUNCAL",
+        "Esperado 2": "BERUTI"
+    },
+    {
+        "direccion": "ALVAREZ, JULIAN 259",
+        "Esperado 1": "DRAGO, LUIS MARIA",
+        "Esperado 2": "CAMARGO"
+    },
+    {
+        "direccion": "ALVAREZ PRADO, MANUEL 2591",
+        "Esperado 1": "DI PASCUALE, JORGE",
+        "Esperado 2": "REARTE, GUSTAVO"
+    },
+    {
+        "direccion": "ALVAREZ THOMAS AV. 2359",
+        "Esperado 1": "LA PAMPA",
+        "Esperado 2": "LUGONES"
+    },
+    {
+        "direccion": "ALVAREZ THOMAS AV. 762",
+        "Esperado 1": "GARCIA, TEODORO",
+        "Esperado 2": "PALPA"
+    },
+    {
+        "direccion": "ALVAREZ THOMAS AV. 776",
+        "Esperado 1": "GARCIA, TEODORO",
+        "Esperado 2": "PALPA"
+    },
+    {
+        "direccion": "ALVEAR 1535",
+        "Esperado 1": "MONTEVIDEO",
+        "Esperado 2": "LIBERTAD"
+    },
+    {
+        "direccion": "ALVEAR 1502",
+        "Esperado 1": "MONTEVIDEO",
+        "Esperado 2": "PARERA"
+    },
+    {
+        "direccion": "ALVEAR 1800",
+        "Esperado 1": "CALLAO AV.",
+        "Esperado 2": "RODRIGUEZ PEÑA"
+    },
+    {
+        "direccion": "ALVEAR AV. 1894",
+        "Esperado 1": "AYACUCHO",
+        "Esperado 2": "CALLAO AV."
+    },
+    {
+        "direccion": "ALVEAR AV. 1941",
+        "Esperado 1": "CASARES, ADOLFO BIOY",
+        "Esperado 2": "AYACUCHO"
+    },
+    {
+        "direccion": "ALVEAR AV. 1814",
+        "Esperado 1": "AYACUCHO",
+        "Esperado 2": "CALLAO AV."
+    },
+    {
+        "direccion": "ALVEAR, EMILIO, DE 4826",
+        "Esperado 1": "JUAREZ, BENITO",
+        "Esperado 2": "ALLENDE"
+    },
+    {
+        "direccion": "ALVEAR, MARCELO T. DE 2051",
+        "Esperado 1": "AYACUCHO",
+        "Esperado 2": "JUNIN"
+    },
+    {
+        "direccion": "ALVEAR, MARCELO T. DE 1801",
+        "Esperado 1": "CALLAO AV.",
+        "Esperado 2": "RIOBAMBA"
+    },
+    {
+        "direccion": "ALVEAR, MARCELO T. DE 1256",
+        "Esperado 1": "LIBERTAD",
+        "Esperado 2": "TALCAHUANO"
+    },
+    {
+        "direccion": "ALZAGA 2063",
+        "Esperado 1": "CHICLANA AV.",
+        "Esperado 2": "METAN"
+    },
+    {
+        "direccion": "ALZAGA 2221",
+        "Esperado 1": "RONDEAU",
+        "Esperado 2": "CASEROS AV."
+    },
+    {
+        "direccion": "ALZAGA 2038",
+        "Esperado 1": "CHICLANA AV.",
+        "Esperado 2": "LAS CASAS"
+    },
+    {
+        "direccion": "ALLENDE 2167",
+        "Esperado 1": "ALVAREZ JONTE AV.",
+        "Esperado 2": "ALCARAZ"
+    },
+    {
+        "direccion": "ALLENDE 3576",
+        "Esperado 1": "NAVARRO",
+        "Esperado 2": "BEIRO, FRANCISCO AV."
+    },
+    {
+        "direccion": "ALLENDE 2548",
+        "Esperado 1": "SASTRE, MARCOS",
+        "Esperado 2": "SANTO TOME"
+    },
+    {
+        "direccion": "AMALIA 416",
+        "Esperado 1": "PALMAR",
+        "Esperado 2": "TUYUTI"
+    },
+    {
+        "direccion": "AMALIA 475",
+        "Esperado 1": "PALMAR",
+        "Esperado 2": "TUYUTI"
+    },
+    {
+        "direccion": "AMALIA 348",
+        "Esperado 1": "BOSCH, VENTURA",
+        "Esperado 2": "PALMAR"
+    },
+    {
+        "direccion": "AMAMBAY 3555",
+        "Esperado 1": "NUÑEZ",
+        "Esperado 2": "LARRALDE, CRISOLOGO AV."
+    },
+    {
+        "direccion": "LOPEZ ANAUT, PEDRO, DR. 4009",
+        "Esperado 1": "BOCAYUVA, QUINTINO",
+        "Esperado 2": "TREINTA Y TRES ORIENTALES"
+    },
+    {
+        "direccion": "AMBERES 783",
+        "Esperado 1": "NEUQUEN",
+        "Esperado 2": "ARENGREEN"
+    },
+    {
+        "direccion": "AMBERES 1015",
+        "Esperado 1": "FRANKLIN",
+        "Esperado 2": "GAONA AV."
+    },
+    {
+        "direccion": "AMBERES 756",
+        "Esperado 1": "NEUQUEN",
+        "Esperado 2": "ARENGREEN"
+    },
+    {
+        "direccion": "AMBROSETTI, JUAN B. 994",
+        "Esperado 1": "MACHADO, ANTONIO",
+        "Esperado 2": "DAVEL, DESIDERIO FERNANDO, DR."
+    },
+    {
+        "direccion": "AMBROSETTI, JUAN B. 230",
+        "Esperado 1": "ARAOZ ALFARO, GREGORIO, DR",
+        "Esperado 2": "BOGOTA"
+    },
+    {
+        "direccion": "AMEGHINO, FLORENTINO, DR. 1315",
+        "Esperado 1": "BILBAO, FRANCISCO",
+        "Esperado 2": "SAN PEDRO"
+    },
+    {
+        "direccion": "AMEGHINO, FLORENTINO, DR. 1769",
+        "Esperado 1": "PERON, EVA AV.",
+        "Esperado 2": "PRIMERA JUNTA"
+    },
+    {
+        "direccion": "AMEGHINO, FLORENTINO, DR. 675",
+        "Esperado 1": "TAPALQUE",
+        "Esperado 2": "RODO, JOSE E."
+    },
+    {
+        "direccion": "AMENABAR 2099",
+        "Esperado 1": "ECHEVERRIA",
+        "Esperado 2": "JURAMENTO AV."
+    },
+    {
+        "direccion": "AMENABAR 711",
+        "Esperado 1": "LACROZE, FEDERICO AV.",
+        "Esperado 2": "GARCIA, TEODORO"
+    },
+    {
+        "direccion": "AMENABAR 3435",
+        "Esperado 1": "AZURDUY JUANA",
+        "Esperado 2": "NUÑEZ"
+    },
+    {
+        "direccion": "PAINE, AIME 1153",
+        "Esperado 1": "VILLAFLOR, AZUCENA",
+        "Esperado 2": "LYNCH MARTA"
+    },
+    {
+        "direccion": "PAINE, AIME 1581",
+        "Esperado 1": "EYLE, PETRONA",
+        "Esperado 2": "EZCURRA, ENCARNACION"
+    },
+    {
+        "direccion": "PAINE, AIME 1173",
+        "Esperado 1": "VILLAFLOR, AZUCENA",
+        "Esperado 2": "LYNCH MARTA"
+    },
+    {
+        "direccion": "AMPERE 875",
+        "Esperado 1": "PUEYRREDON, HONORIO, DR. AV.",
+        "Esperado 2": "ROJAS"
+    },
+    {
+        "direccion": "AMPERE 837",
+        "Esperado 1": "PUEYRREDON, HONORIO, DR. AV.",
+        "Esperado 2": "ROJAS"
+    },
+    {
+        "direccion": "AMPERE 836",
+        "Esperado 1": "PUEYRREDON, HONORIO, DR. AV.",
+        "Esperado 2": "ROJAS"
+    },
+    {
+        "direccion": "AMSTERDAM 3793",
+        "Esperado 1": "SAN NICOLAS",
+        "Esperado 2": "LAMARCA, EMILIO"
+    },
+    {
+        "direccion": "ANCASTE 3163",
+        "Esperado 1": "IGUAZU",
+        "Esperado 2": "ATUEL"
+    },
+    {
+        "direccion": "ANCASTE 3469",
+        "Esperado 1": "PEPIRI",
+        "Esperado 2": "TABORDA, DIOGENES"
+    },
+    {
+        "direccion": "ANCASTE 3484",
+        "Esperado 1": "PEPIRI",
+        "Esperado 2": "TABORDA, DIOGENES"
+    },
+    {
+        "direccion": "ANCON 5319",
+        "Esperado 1": "DORREGO AV.",
+        "Esperado 2": "",
+        "_Comentario": "duplicado"
+    },
+    {
+        "direccion": "ANCON 5103",
+        "Esperado 1": "RAVIGNANI, EMILIO, DR.",
+        "Esperado 2": ""
+    },
+    {
+        "direccion": "ANCHORENA, TOMAS MANUEL DE, DR. 1233",
+        "Esperado 1": "MANSILLA, LUCIO NORBERTO, GENERAL",
+        "Esperado 2": "CHARCAS"
+    },
+    {
+        "direccion": "ANCHORENA, TOMAS MANUEL DE, DR. 311",
+        "Esperado 1": "SARMIENTO",
+        "Esperado 2": "GOMEZ, VALENTIN"
+    },
+    {
+        "direccion": "ANCHORENA, TOMAS MANUEL DE, DR. 864",
+        "Esperado 1": "SAN LUIS",
+        "Esperado 2": "CORDOBA AV."
+    },
+    {
+        "direccion": "ANCHORIS 93",
+        "Esperado 1": "CASEROS AV.",
+        "Esperado 2": "FINOCHIETTO ENRIQUE DR."
+    },
+    {
+        "direccion": "ANDALGALA 1561",
+        "Esperado 1": "SCHMIDL, ULRICO",
+        "Esperado 2": "PIZARRO"
+    },
+    {
+        "direccion": "ANDALGALA 1690",
+        "Esperado 1": "PIZARRO",
+        "Esperado 2": "ZELADA"
+    },
+    {
+        "direccion": "ANDALGALA 2712",
+        "Esperado 1": "SAN PEDRO",
+        "Esperado 2": "SUAREZ, JUSTO ANTONIO"
+    },
+    {
+        "direccion": "ANDALUCIA 3483",
+        "Esperado 1": "CONCORDIA",
+        "Esperado 2": "CAMPANA"
+    },
+    {
+        "direccion": "ANDONAEGUI 1669",
+        "Esperado 1": "ATENAS",
+        "Esperado 2": "LIVERPOOL"
+    },
+    {
+        "direccion": "ANDONAEGUI 3407",
+        "Esperado 1": "PIRAN",
+        "Esperado 2": "PEDRAZA, MANUELA"
+    },
+    {
+        "direccion": "ANDONAEGUI 2174",
+        "Esperado 1": "OLAZABAL AV.",
+        "Esperado 2": "MENDOZA AV."
+    },
+    {
+        "direccion": "ANDORRA 7484",
+        "Esperado 1": "MOLINA",
+        "Esperado 2": "SUAREZ, JOSE LEON"
+    },
+    {
+        "direccion": "ANDRADE, OLEGARIO, V. 352",
+        "Esperado 1": "BOGOTA",
+        "Esperado 2": "AVELLANEDA AV."
+    },
+    {
+        "direccion": "ANDRADE, OLEGARIO, V. 284",
+        "Esperado 1": "BOGOTA",
+        "Esperado 2": "AVELLANEDA AV."
+    },
+    {
+        "direccion": "ANGACO 4131",
+        "Esperado 1": "MARMOL, JOSE",
+        "Esperado 2": "TREINTA Y TRES ORIENTALES"
+    },
+    {
+        "direccion": "ANGACO 4072",
+        "Esperado 1": "TREINTA Y TRES ORIENTALES",
+        "Esperado 2": ""
+    },
+    {
+        "direccion": "ANGACO 4166",
+        "Esperado 1": "MARMOL, JOSE",
+        "Esperado 2": "TREINTA Y TRES ORIENTALES"
+    },
+    {
+        "direccion": "ANKARA 5491",
+        "Esperado 1": "ALBARIÑO",
+        "Esperado 2": "MIRALLA"
+    },
+    {
+        "direccion": "ANTARTIDA ARGENTINA AV. 1690",
+        "Esperado 1": "CASTILLO, RAMON S., PRES. AV.",
+        "Esperado 2": ""
+    },
+    {
+        "direccion": "ANTARTIDA ARGENTINA AV. 1402",
+        "Esperado 1": "GENDARMERIA NACIONAL AV.",
+        "Esperado 2": "CASTILLO, RAMON S., PRES. AV."
+    },
+    {
+        "direccion": "ANTARTIDA ARGENTINA AV. 1475",
+        "Esperado 1": "CASTILLO, RAMON S., PRES. AV.",
+        "Esperado 2": "ZANNI PEDRO COMODORO"
+    },
+    {
+        "direccion": "ANTEQUERA 1732",
+        "Esperado 1": "SOLIS",
+        "Esperado 2": "MOMPOX"
+    },
+    {
+        "direccion": "ANTEZANA 271",
+        "Esperado 1": "HIDALGO",
+        "Esperado 2": "OLAYA"
+    },
+    {
+        "direccion": "ANTEZANA 348",
+        "Esperado 1": "VIRASORO, VALENTIN",
+        "Esperado 2": "OLAYA"
+    },
+    {
+        "direccion": "ANTEZANA 70",
+        "Esperado 1": "ACOYTE",
+        "Esperado 2": "WARNES AV."
+    },
+    {
+        "direccion": "ANTOFAGASTA 5257",
+        "Esperado 1": "ARAUJO",
+        "Esperado 2": "CORVALAN"
+    },
+    {
+        "direccion": "AÑASCO 2408",
+        "Esperado 1": "SEGUI, F. J., ALTE.",
+        "Esperado 2": "OROÑO, NICASIO"
+    },
+    {
+        "direccion": "AÑASCO 2659",
+        "Esperado 1": "GARCIA, JUAN AGUSTIN",
+        "Esperado 2": "BELLA VISTA"
+    },
+    {
+        "direccion": "AÑASCO 2585",
+        "Esperado 1": "DICKMAN, ADOLFO, DR.",
+        "Esperado 2": "SEGUI, F. J., ALTE."
+    },
+    {
+        "direccion": "REPETTO, NICOLAS, DR. 1014",
+        "Esperado 1": "FRANKLIN",
+        "Esperado 2": "GAONA AV."
+    },
+    {
+        "direccion": "REPETTO, NICOLAS, DR. 1665",
+        "Esperado 1": "TRES ARROYOS",
+        "Esperado 2": "BELAUSTEGUI, LUIS, DR."
+    },
+    {
+        "direccion": "REPETTO, NICOLAS, DR. 951",
+        "Esperado 1": "PLANES",
+        "Esperado 2": "FRANKLIN"
+    },
+    {
+        "direccion": "APULE 1660",
+        "Esperado 1": "CASACUBERTA",
+        "Esperado 2": "INCLAN"
+    },
+    {
+        "direccion": "APULE 1650",
+        "Esperado 1": "GARAY, JUAN DE AV.",
+        "Esperado 2": "CASACUBERTA"
+    },
+    {
+        "direccion": "APULE 1686",
+        "Esperado 1": "CASACUBERTA",
+        "Esperado 2": "INCLAN"
+    },
+    {
+        "direccion": "AQUINO 5540",
+        "Esperado 1": "LARRAZABAL",
+        "Esperado 2": "OLIDEN"
+    },
+    {
+        "direccion": "AQUINO 5162",
+        "Esperado 1": "MIRALLA",
+        "Esperado 2": "POLA"
+    },
+    {
+        "direccion": "AQUINO 6425",
+        "Esperado 1": "COSQUIN",
+        "Esperado 2": "HUDSON, GUILLERMO"
+    },
+    {
+        "direccion": "ARANGUREN, JUAN F., DR. 678",
+        "Esperado 1": "PUEYRREDON, HONORIO, DR. AV.",
+        "Esperado 2": "COLPAYO"
+    },
+    {
+        "direccion": "ARANGUREN, JUAN F., DR. 1849",
+        "Esperado 1": "ALVAREZ, DONATO, TTE. GRAL.",
+        "Esperado 2": "CALCENA"
+    },
+    {
+        "direccion": "ARANGUREN, JUAN F., DR. 3136",
+        "Esperado 1": "HELGUERA",
+        "Esperado 2": "CUENCA"
+    },
+    {
+        "direccion": "ARAOZ 2795",
+        "Esperado 1": "BERUTI",
+        "Esperado 2": "JUNCAL"
+    },
+    {
+        "direccion": "ARAOZ 2424",
+        "Esperado 1": "GUEMES",
+        "Esperado 2": "SANTA FE AV."
+    },
+    {
+        "direccion": "ARAOZ 223",
+        "Esperado 1": "CAMARGO",
+        "Esperado 2": "DRAGO, LUIS MARIA"
+    },
+    {
+        "direccion": "ARATA, PEDRO N. 1515",
+        "Esperado 1": "IRIARTE, GRAL. AV.",
+        "Esperado 2": "RIO CUARTO"
+    },
+    {
+        "direccion": "ARATA, PEDRO N. 1555",
+        "Esperado 1": "RIO CUARTO",
+        "Esperado 2": "IRIARTE, GRAL. AV."
+    },
+    {
+        "direccion": "ARAUJO 837",
+        "Esperado 1": "GARCIA GRANDE DE ZEQUEIRA, SEVERO",
+        "Esperado 2": "MUZILLI, CAROLINA"
+    },
+    {
+        "direccion": "ARAUJO 2412",
+        "Esperado 1": "PERON, EVA AV.",
+        "Esperado 2": "HUBAC"
+    },
+    {
+        "direccion": "ARAUJO 2156",
+        "Esperado 1": "LAFERRERE, GREGORIO DE",
+        "Esperado 2": "MONTE"
+    },
+    {
+        "direccion": "ARCAMENDIA 793",
+        "Esperado 1": "RICO, CNEL.",
+        "Esperado 2": "SUAREZ AV."
+    },
+    {
+        "direccion": "ARCAMENDIA 712",
+        "Esperado 1": "ICALMA",
+        "Esperado 2": "COPAHUE"
+    },
+    {
+        "direccion": "ARCE 269",
+        "Esperado 1": "ARGUIBEL, ANDRES",
+        "Esperado 2": "AREVALO",
+        "_Comentario":"duplicado"
+    },
+    {
+        "direccion": "ARCE 350",
+        "Esperado 1": "AREVALO",
+        "Esperado 2": "CHENAUT, INDALESIO, GRAL. AV."
+    },
+    {
+        "direccion": "ARCE 516",
+        "Esperado 1": "ORTEGA Y GASSET",
+        "Esperado 2": "REPUBLICA DE ESLOVENIA"
+    },
+    {
+        "direccion": "ARCE, MANUEL 1130",
+        "Esperado 1": "MARTINEZ DE HOZ",
+        "Esperado 2": "URIEN"
+    },
+    {
+        "direccion": "ARCE, MANUEL 1013",
+        "Esperado 1": "MARTINEZ DE HOZ",
+        "Esperado 2": "URIEN"
+    },
+    {
+        "direccion": "JUANA DE ARCO 2580",
+        "Esperado 1": "CHILAVERT, MARTINIANO, CORONEL",
+        "Esperado 2": "FERNANDEZ DE LA CRUZ, F., GRAL. AV."
+    },
+    {
+        "direccion": "ARCOS 1650",
+        "Esperado 1": "PINO, VIRREY DEL",
+        "Esperado 2": "HERNANDEZ, JOSE"
+    },
+    {
+        "direccion": "ARCOS 2808",
+        "Esperado 1": "CONGRESO",
+        "Esperado 2": "QUESADA"
+    },
+    {
+        "direccion": "ARCOS 4280",
+        "Esperado 1": "RUIZ HUIDOBRO",
+        "Esperado 2": "CORREA"
+    },
+    {
+        "direccion": "ARENAL, CONCEPCION 3532",
+        "Esperado 1": "CHARLONE",
+        "Esperado 2": "CORDOBA AV."
+    },
+    {
+        "direccion": "ARENAL, CONCEPCION 2436",
+        "Esperado 1": "CABILDO AV.",
+        "Esperado 2": "ZAPATA"
+    },
+    {
+        "direccion": "ARENALES 1631",
+        "Esperado 1": "MONTEVIDEO",
+        "Esperado 2": "RODRIGUEZ PEÑA"
+    },
+    {
+        "direccion": "ARENALES 2275",
+        "Esperado 1": "AZCUENAGA",
+        "Esperado 2": "URIBURU JOSE E., PRES."
+    },
+    {
+        "direccion": "ARENALES 2899",
+        "Esperado 1": "AGUERO",
+        "Esperado 2": "LAPRIDA"
+    },
+    {
+        "direccion": "ARENGREEN 1125",
+        "Esperado 1": "PUJOL",
+        "Esperado 2": "CUCHA CUCHA"
+    },
+    {
+        "direccion": "ARENGREEN 1014",
+        "Esperado 1": "CUCHA CUCHA",
+        "Esperado 2": "GAINZA, MARTIN DE, GRAL."
+    },
+    {
+        "direccion": "ARENGREEN 1380",
+        "Esperado 1": "PAYSANDU",
+        "Esperado 2": "ESPINOSA"
+    },
+    {
+        "direccion": "CANGALLO 43",
+        "Esperado 1": "RIO DE JANEIRO",
+        "Esperado 2": "RAMOS MEJIA"
+    },
+    {
+        "direccion": "CANGALLO 106",
+        "Esperado 1": "RAMOS MEJIA",
+        "Esperado 2": "PATRICIAS ARGENTINAS AV."
+    },
+    {
+        "direccion": "AREVALO 1629",
+        "Esperado 1": "GORRITI",
+        "Esperado 2": "HONDURAS"
+    },
+    {
+        "direccion": "AREVALO 1793",
+        "Esperado 1": "HONDURAS",
+        "Esperado 2": "EL SALVADOR"
+    },
+    {
+        "direccion": "AREVALO 1579",
+        "Esperado 1": "CABRERA, JOSE A.",
+        "Esperado 2": "GORRITI"
+    },
+    {
+        "direccion": "ARGAÑARAS 23",
+        "Esperado 1": "ESTADO DE ISRAEL AV.",
+        "Esperado 2": "LAVALLEJA"
+    },
+    {
+        "direccion": "ARGELIA 2761",
+        "Esperado 1": "CRAMER",
+        "Esperado 2": "CONESA"
+    },
+    {
+        "direccion": "ARGENTINA AV. 6608",
+        "Esperado 1": "SCAPINO, RODOLFO",
+        "Esperado 2": "ARGENTINA AV."
+    },
+    {
+        "direccion": "ARGENTINA AV. 5448",
+        "Esperado 1": "AQUINO",
+        "Esperado 2": "AUTOPISTA DELLEPIANE LUIS TTE. GRAL."
+    },
+    {
+        "direccion": "ARGENTINA AV. 5687",
+        "Esperado 1": "ARGENTINA AV.",
+        "Esperado 2": "CASTAÑARES AV."
+    },
+    {
+        "direccion": "ARGERICH 2522",
+        "Esperado 1": "ARREGUI",
+        "Esperado 2": "LASCANO"
+    },
+    {
+        "direccion": "ARGERICH 3275",
+        "Esperado 1": "SIMBRON",
+        "Esperado 2": "TINOGASTA"
+    },
+    {
+        "direccion": "ARGERICH 3159",
+        "Esperado 1": "TINOGASTA",
+        "Esperado 2": "LOZANO, PEDRO"
+    },
+    {
+        "direccion": "ARIAS 4666",
+        "Esperado 1": "LUGONES",
+        "Esperado 2": "ACHA, MARIANO, GRAL."
+    },
+    {
+        "direccion": "ARIAS 3340",
+        "Esperado 1": "FREIRE, RAMON, CAP. GRAL.",
+        "Esperado 2": "CONDE"
+    },
+    {
+        "direccion": "ARIAS 3362",
+        "Esperado 1": "FREIRE, RAMON, CAP. GRAL.",
+        "Esperado 2": "CONDE"
+    },
+    {
+        "direccion": "ARIEL 2530",
+        "Esperado 1": "ARTIGAS, JOSE GERVASIO, GRAL.",
+        "Esperado 2": "ESTADO PLURINACIONAL DE BOLIVIA"
+    },
+    {
+        "direccion": "ARISMENDI 2546",
+        "Esperado 1": "GAMARRA",
+        "Esperado 2": "TORRENT"
+    },
+    {
+        "direccion": "ARISMENDI 2648",
+        "Esperado 1": "AVALOS",
+        "Esperado 2": "GAMARRA"
+    },
+    {
+        "direccion": "ARISMENDI 2438",
+        "Esperado 1": "TORRENT",
+        "Esperado 2": "COMBATIENTES DE MALVINAS AV."
+    },
+    {
+        "direccion": "ARIZONA 4771",
+        "Esperado 1": "COMBATIENTES DE MALVINAS AV.",
+        "Esperado 2": "ALVAREZ THOMAS AV."
+    },
+    {
+        "direccion": "AROMA 2316",
+        "Esperado 1": "CASTILLO, JUAN DEL",
+        "Esperado 2": "GONZALEZ, ROQUE"
+    },
+    {
+        "direccion": "AROMA 2375",
+        "Esperado 1": "RODRIGUEZ, ALONSO",
+        "Esperado 2": "GONZALEZ, ROQUE"
+    },
+    {
+        "direccion": "AROMO 4885",
+        "Esperado 1": "MILLER",
+        "Esperado 2": "VALDENEGRO"
+    },
+    {
+        "direccion": "ARQUIMEDES 2299",
+        "Esperado 1": "SALVIGNY",
+        "Esperado 2": "SOMELLERA"
+    },
+    {
+        "direccion": "ARQUIMEDES 2259",
+        "Esperado 1": "SALVIGNY",
+        "Esperado 2": "SOMELLERA"
+    },
+    {
+        "direccion": "ARREDONDO, VIRREY 2914",
+        "Esperado 1": "CONESA",
+        "Esperado 2": "ZAPIOLA"
+    },
+    {
+        "direccion": "ARREDONDO, VIRREY 2205",
+        "Esperado 1": "VUELTA DE OBLIGADO",
+        "Esperado 2": "ARCOS"
+    },
+    {
+        "direccion": "ARREDONDO, VIRREY 2537",
+        "Esperado 1": "AMENABAR",
+        "Esperado 2": "CIUDAD DE LA PAZ"
+    },
+    {
+        "direccion": "ARREGUI 3946",
+        "Esperado 1": "GONZALEZ, JOAQUIN V.",
+        "Esperado 2": "BAHIA BLANCA"
+    },
+    {
+        "direccion": "ARREGUI 6870",
+        "Esperado 1": "CALDEN",
+        "Esperado 2": "FRAGUEIRO"
+    },
+    {
+        "direccion": "ARREGUI 5895",
+        "Esperado 1": "IRIGOYEN",
+        "Esperado 2": "RUIZ DE LOS LLANOS"
+    },
+    {
+        "direccion": "ARREGUI AV. 6388",
+        "Esperado 1": "BRUSELAS",
+        "Esperado 2": "PORCEL DE PERALTA, MANUEL"
+    },
+    {
+        "direccion": "ARREGUI AV. 6127",
+        "Esperado 1": "LISBOA",
+        "Esperado 2": "ROMA"
+    },
+    {
+        "direccion": "ARREGUI AV. 6347",
+        "Esperado 1": "BRUSELAS",
+        "Esperado 2": "PORCEL DE PERALTA, MANUEL"
+    },
+    {
+        "direccion": "ARRIBEÑOS 2263",
+        "Esperado 1": "MENDOZA",
+        "Esperado 2": "OLAZABAL"
+    },
+    {
+        "direccion": "ARRIBEÑOS 2375",
+        "Esperado 1": "OLAZABAL",
+        "Esperado 2": "BLANCO ENCALADA"
+    },
+    {
+        "direccion": "ARRIBEÑOS 2278",
+        "Esperado 1": "MENDOZA",
+        "Esperado 2": "OLAZABAL"
+    },
+    {
+        "direccion": "MALASIA 850",
+        "Esperado 1": "MAURE",
+        "Esperado 2": "GOROSTIAGA"
+    },
+    {
+        "direccion": "ARRIOLA 114",
+        "Esperado 1": "PATAGONES",
+        "Esperado 2": "ZAVALETA"
+    },
+    {
+        "direccion": "ARRIOLA 248",
+        "Esperado 1": "USPALLATA",
+        "Esperado 2": "LOS PATOS"
+    },
+    {
+        "direccion": "ARRIOLA 27",
+        "Esperado 1": "CASEROS AV.",
+        "Esperado 2": "PATAGONES"
+    },
+    {
+        "direccion": "ARROTEA 842",
+        "Esperado 1": "FERNANDEZ MORENO, BALDOMERO",
+        "Esperado 2": "PRIMERA JUNTA"
+    },
+    {
+        "direccion": "ARROTEA 781",
+        "Esperado 1": "LAFERRERE, GREGORIO DE",
+        "Esperado 2": "FERNANDEZ MORENO, BALDOMERO"
+    },
+    {
+        "direccion": "ARROYO 841",
+        "Esperado 1": "SUIPACHA",
+        "Esperado 2": "ESMERALDA"
+    },
+    {
+        "direccion": "ARROYO 1166",
+        "Esperado 1": "CERRITO",
+        "Esperado 2": "LIBERTAD"
+    },
+    {
+        "direccion": "ARTIGAS, JOSE GERVASIO, GRAL. 2569",
+        "Esperado 1": "TERRERO",
+        "Esperado 2": "ARREGUI"
+    },
+    {
+        "direccion": "ARTIGAS, JOSE GERVASIO, GRAL. 2251",
+        "Esperado 1": "ALVAREZ JONTE",
+        "Esperado 2": "BIARRITZ"
+    },
+    {
+        "direccion": "ARTIGAS, JOSE GERVASIO, GRAL. 3887",
+        "Esperado 1": "ASUNCION",
+        "Esperado 2": "MORAN, PEDRO"
+    },
+    {
+        "direccion": "ARTIGAS MANUEL DE 6214",
+        "Esperado 1": "MURGUIONDO",
+        "Esperado 2": "OLIDEN"
+    },
+    {
+        "direccion": "ARTIGAS MANUEL DE 5514",
+        "Esperado 1": "ALBARIÑO",
+        "Esperado 2": "CORVALAN"
+    },
+    {
+        "direccion": "ARTIGAS MANUEL DE 6153",
+        "Esperado 1": "OLIDEN",
+        "Esperado 2": "PIERES"
+    },
+    {
+        "direccion": "ARTILLEROS 2156",
+        "Esperado 1": "JURAMENTO",
+        "Esperado 2": "MENDOZA"
+    },
+    {
+        "direccion": "ARTILLEROS 2464",
+        "Esperado 1": "BLANCO ENCALADA",
+        "Esperado 2": "MONROE"
+    },
+    {
+        "direccion": "ARTILLEROS 2360",
+        "Esperado 1": "TEMPERLEY",
+        "Esperado 2": "BLANCO ENCALADA"
+    },
+    {
+        "direccion": "ASAMBLEA AV. 927",
+        "Esperado 1": "DE LAS ARTES",
+        "Esperado 2": "DEL BUEN ORDEN"
+    },
+    {
+        "direccion": "ASAMBLEA AV. 1861",
+        "Esperado 1": "LAUTARO",
+        "Esperado 2": "CARABOBO AV."
+    },
+    {
+        "direccion": "ASAMBLEA AV. 1480",
+        "Esperado 1": "SENDERO PARQUE CHACABUCO (NO OFICIAL)",
+        "Esperado 2": "CURAPALIGUE AV."
+    },
+    {
+        "direccion": "ASCASUBI 3245",
+        "Esperado 1": "MAGALDI, AGUSTIN",
+        "Esperado 2": "LUNA"
+    },
+    {
+        "direccion": "ASIA 1475",
+        "Esperado 1": "SANTANDER",
+        "Esperado 2": "DIAZ, AVELINO"
+    },
+    {
+        "direccion": "ASUNCION 4967",
+        "Esperado 1": "BERMUDEZ",
+        "Esperado 2": "QUEVEDO"
+    },
+    {
+        "direccion": "ASUNCION 4142",
+        "Esperado 1": "MERCEDES",
+        "Esperado 2": "LAVAISSE, BENJAMIN J."
+    },
+    {
+        "direccion": "ASUNCION 4814",
+        "Esperado 1": "LASTRA AV.",
+        "Esperado 2": "DESAGUADERO"
+    },
+    {
+        "direccion": "ATACALCO 1715",
+        "Esperado 1": "HONDURAS",
+        "Esperado 2": "GORRITI"
+    },
+    {
+        "direccion": "ATAHUALPA 1683",
+        "Esperado 1": "GARCIA, JUAN AGUSTIN",
+        "Esperado 2": "GONZALEZ, ELPIDIO"
+    },
+    {
+        "direccion": "ATAHUALPA 1437",
+        "Esperado 1": "CAMARONES",
+        "Esperado 2": "DELAMBRE"
+    },
+    {
+        "direccion": "ATAHUALPA 1394",
+        "Esperado 1": "MAGARIÑOS CERVANTES, A.",
+        "Esperado 2": "CAMARONES"
+    },
+    {
+        "direccion": "ATENAS 2967",
+        "Esperado 1": "BUCARELLI",
+        "Esperado 2": "ANDONAEGUI"
+    },
+    {
+        "direccion": "ROBBIANI, ANGEL DR. 553",
+        "Esperado 1": "TUYUTI",
+        "Esperado 2": "HUMAITA"
+    },
+    {
+        "direccion": "ROBBIANI, ANGEL DR. 421",
+        "Esperado 1": "PALMAR",
+        "Esperado 2": "TUYUTI"
+    },
+    {
+        "direccion": "ATUEL 957",
+        "Esperado 1": "ANCASTE",
+        "Esperado 2": "VELARDE, PEDRO"
+    },
+    {
+        "direccion": "ATUEL 448",
+        "Esperado 1": "CHUTRO, PEDRO, PROF., DR.",
+        "Esperado 2": "EL REFRAN"
+    },
+    {
+        "direccion": "ATUEL 767",
+        "Esperado 1": "FAMATINA",
+        "Esperado 2": "GRITO DE ASENCIO"
+    },
+    {
+        "direccion": "AUSTRALIA AV. 2630",
+        "Esperado 1": "SANTA MARIA DEL BUEN AIRE",
+        "Esperado 2": "SANTA ELENA"
+    },
+    {
+        "direccion": "AUSTRALIA AV. 2398",
+        "Esperado 1": "PINEDO AV.",
+        "Esperado 2": "SANTA MAGDALENA"
+    },
+    {
+        "direccion": "AUSTRALIA AV. 2320",
+        "Esperado 1": "GONCALVES DIAS",
+        "Esperado 2": "PINEDO AV."
+    },
+    {
+        "direccion": "QUINQUELA MARTIN, BENITO 819",
+        "Esperado 1": "MELO, CARLOS F.",
+        "Esperado 2": "GARIBALDI"
+    },
+    {
+        "direccion": "QUINQUELA MARTIN, BENITO 1779",
+        "Esperado 1": "HORNOS, GRAL.",
+        "Esperado 2": "MONTES DE OCA, MANUEL AV."
+    },
+    {
+        "direccion": "QUINQUELA MARTIN, BENITO 1524",
+        "Esperado 1": "ISABEL LA CATOLICA",
+        "Esperado 2": "JOVELLANOS, GASPAR M. DE"
+    },
+    {
+        "direccion": "AUSTRIA 2229",
+        "Esperado 1": "PEÑA",
+        "Esperado 2": "PACHECO DE MELO, JOSE ANDRES"
+    },
+    {
+        "direccion": "AUSTRIA 1995",
+        "Esperado 1": "BERUTI",
+        "Esperado 2": "JUNCAL"
+    },
+    {
+        "direccion": "AUSTRIA 2033",
+        "Esperado 1": "JUNCAL",
+        "Esperado 2": "FRENCH"
+    },
+    {
+        "direccion": "AVALOS 1589",
+        "Esperado 1": "VICTORICA, BENJAMIN, GENERAL, AV.",
+        "Esperado 2": "BERLIN"
+    },
+    {
+        "direccion": "AVALOS 1287",
+        "Esperado 1": "BEHRING",
+        "Esperado 2": "ARISMENDI"
+    },
+    {
+        "direccion": "AVALOS 732",
+        "Esperado 1": "ESTOMBA",
+        "Esperado 2": "TRONADOR",
+        "_Comentario": "duplicado"
+    },
+    {
+        "direccion": "AVALLE 2288",
+        "Esperado 1": "RONDEAU",
+        "Esperado 2": ""
+    },
+    {
+        "direccion": "AVELLANEDA 4282",
+        "Esperado 1": "GOYA",
+        "Esperado 2": "SEGUROLA AV."
+    },
+    {
+        "direccion": "AVELLANEDA 952",
+        "Esperado 1": "REPETTO, NICOLAS, DR.",
+        "Esperado 2": "ROJAS"
+    },
+    {
+        "direccion": "AVELLANEDA 4256",
+        "Esperado 1": "GOYA",
+        "Esperado 2": "SEGUROLA AV."
+    },
+    {
+        "direccion": "AVELLANEDA AV. 2610",
+        "Esperado 1": "CONDARCO",
+        "Esperado 2": "ESTADO PLURINACIONAL DE BOLIVIA"
+    },
+    {
+        "direccion": "AVELLANEDA AV. 3791",
+        "Esperado 1": "BAHIA BLANCA",
+        "Esperado 2": "GONZALEZ, JOAQUIN V."
+    },
+    {
+        "direccion": "AVELLANEDA AV. 2616",
+        "Esperado 1": "CONDARCO",
+        "Esperado 2": "ESTADO PLURINACIONAL DE BOLIVIA"
+    },
+    {
+        "direccion": "AVILES, VIRREY 2949",
+        "Esperado 1": "CONESA",
+        "Esperado 2": "ZAPIOLA"
+    },
+    {
+        "direccion": "AVILES, VIRREY 2955",
+        "Esperado 1": "CONESA",
+        "Esperado 2": "ZAPIOLA"
+    },
+    {
+        "direccion": "AVILES, VIRREY 3434",
+        "Esperado 1": "MARTINEZ, ENRIQUE, GRAL.",
+        "Esperado 2": "DELGADO"
+    },
+    {
+        "direccion": "AYACUCHO 654",
+        "Esperado 1": "TUCUMAN",
+        "Esperado 2": "VIAMONTE"
+    },
+    {
+        "direccion": "AYACUCHO 1740",
+        "Esperado 1": "GUIDO",
+        "Esperado 2": "LOPEZ, VICENTE"
+    },
+    {
+        "direccion": "AYACUCHO 448",
+        "Esperado 1": "CORRIENTES AV.",
+        "Esperado 2": "LAVALLE"
+    },
+    {
+        "direccion": "AYOLAS 480",
+        "Esperado 1": "BROWN, ALTE. AV.",
+        "Esperado 2": "RODRIGUEZ, MARTIN"
+    },
+    {
+        "direccion": "AYUI 6824",
+        "Esperado 1": "GANA",
+        "Esperado 2": "CUZCO"
+    },
+    {
+        "direccion": "AZARA 1530",
+        "Esperado 1": "CALIFORNIA",
+        "Esperado 2": "CERRI, DANIEL, GRAL."
+    },
+    {
+        "direccion": "AZARA 956",
+        "Esperado 1": "ARAOZ DE LAMADRID, GREGORIO, GRAL.",
+        "Esperado 2": "MAGALLANES"
+    },
+    {
+        "direccion": "AZARA 222",
+        "Esperado 1": "ARZOBISPO ESPINOSA",
+        "Esperado 2": "VILLAFAÑE, WENCESLAO"
+    },
+    {
+        "direccion": "AZCUENAGA 294",
+        "Esperado 1": "SARMIENTO",
+        "Esperado 2": "PERON, JUAN DOMINGO, TTE. GENERAL"
+    },
+    {
+        "direccion": "AZCUENAGA 1773",
+        "Esperado 1": "LAS HERAS GENERAL AV.",
+        "Esperado 2": "PACHECO DE MELO, JOSE ANDRES"
+    },
+    {
+        "direccion": "AZCUENAGA 48",
+        "Esperado 1": "COLOMBO, CARLOS AMBROSIO",
+        "Esperado 2": "RIVADAVIA AV."
+    },
+    {
+        "direccion": "AZOPARDO 918",
+        "Esperado 1": "CALVO, CARLOS",
+        "Esperado 2": "ESTADOS UNIDOS"
+    },
+    {
+        "direccion": "AZOPARDO 1364",
+        "Esperado 1": "GARAY, JUAN DE AV.",
+        "Esperado 2": "COCHABAMBA"
+    },
+    {
+        "direccion": "AZOPARDO 423",
+        "Esperado 1": "REPUBLICA BOLIVARIANA DE VENEZUELA",
+        "Esperado 2": "BELGRANO AV."
+    },
+    {
+        "direccion": "AZUL 359",
+        "Esperado 1": "BONIFACIO, JOSE",
+        "Esperado 2": "ALBERDI, JUAN BAUTISTA AV."
+    },
+    {
+        "direccion": "AZUL 430",
+        "Esperado 1": "DIRECTORIO AV.",
+        "Esperado 2": "BONIFACIO, JOSE"
+    },
+    {
+        "direccion": "AZUL 613",
+        "Esperado 1": "REMEDIOS",
+        "Esperado 2": "TANDIL"
+    },
+    {
+        "direccion": "AZURDUY JUANA 3299",
+        "Esperado 1": "PINTO",
+        "Esperado 2": "FREIRE, RAMON, CAP. GRAL."
+    },
+    {
+        "direccion": "AZURDUY JUANA 3030",
+        "Esperado 1": "CONESA",
+        "Esperado 2": "ZAPIOLA"
+    },
+    {
+        "direccion": "AZURDUY JUANA 2617",
+        "Esperado 1": "AMENABAR",
+        "Esperado 2": "MOLDES"
+    },
+    {
+        "direccion": "ARGUIBEL, ANDRES 2871",
+        "Esperado 1": "BAEZ",
+        "Esperado 2": "ARCE"
+    },
+    {
+        "direccion": "AROLAS, EDUARDO 2101",
+        "Esperado 1": "CARRILLO, RAMON, DR.",
+        "Esperado 2": "PARACAS"
+    },
+    {
+        "direccion": "ANASAGASTI 2067",
+        "Esperado 1": "SANTA FE AV.",
+        "Esperado 2": "GUEMES"
+    },
+    {
+        "direccion": "ARAOZ ALFARO, GREGORIO, DR 421",
+        "Esperado 1": "ACOYTE AV.",
+        "Esperado 2": "AMBROSETTI, JUAN B."
+    },
+    {
+        "direccion": "ARAOZ ALFARO, GREGORIO, DR 274",
+        "Esperado 1": "LOBOS, ELEODORO, DR.",
+        "Esperado 2": "CAMPICHUELO"
+    },
+    {
+        "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. 521",
+        "Esperado 1": "RODRIGUEZ, MARTIN",
+        "Esperado 2": "PALOS"
+    },
+    {
+        "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. 1788",
+        "Esperado 1": "HORNOS, GRAL.",
+        "Esperado 2": "HERRERA"
+    },
+    {
+        "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. 1470",
+        "Esperado 1": "JOVELLANOS, GASPAR M. DE",
+        "Esperado 2": "ISABEL LA CATOLICA"
+    },
+    {
+        "direccion": "CALIFORNIA 639",
+        "Esperado 1": "CARBONARI, FRANCISCO, CMTE.",
+        "Esperado 2": "DON PEDRO DE MENDOZA AV."
+    },
+    {
+        "direccion": "CALIFORNIA 1642",
+        "Esperado 1": "MONTES DE OCA, MANUEL AV.",
+        "Esperado 2": "ISABEL LA CATOLICA"
+    },
+    {
+        "direccion": "CALIFORNIA 2184",
+        "Esperado 1": "SAN ANTONIO",
+        "Esperado 2": "VIEYTES"
+    },
+    {
+        "direccion": "18 DE OCTUBRE DE 1908 4555",
+        "Esperado 1": "AUBRUN, EMILIO",
+        "Esperado 2": "FERNANDEZ DE LA CRUZ, F., GRAL. AV."
+    },
+    {
+        "direccion": "18 DE OCTUBRE DE 1908 4570",
+        "Esperado 1": "AUBRUN, EMILIO",
+        "Esperado 2": "FERNANDEZ DE LA CRUZ, F., GRAL. AV."
+    },
+    {
+        "direccion": "18 DE OCTUBRE DE 1908 4510",
+        "Esperado 1": "AUBRUN, EMILIO",
+        "Esperado 2": "FERNANDEZ DE LA CRUZ, F., GRAL. AV."
+    },
+    {
+        "direccion": "AUBAIN, TEODORO DR. 1813",
+        "Esperado 1": "LA PAMPA",
+        "Esperado 2": "BORCHES, JOSE"
+    },
+    {
+        "direccion": "ASTURIAS AV. 2525",
+        "Esperado 1": "DELLEPIANE, LUIS, TTE. GRAL.",
+        "Esperado 2": "SANTANDER"
+    },
+    {
+        "direccion": "ASTURIAS AV. 2606",
+        "Esperado 1": "SANTIAGO DE COMPOSTELA AV.",
+        "Esperado 2": "SANTANDER"
+    },
+    {
+        "direccion": "ASTURIAS AV. 2538",
+        "Esperado 1": "SANTANDER",
+        "Esperado 2": "DELLEPIANE, LUIS, TTE. GRAL."
+    },
+    {
+        "direccion": "DE LA MISERICORDIA 5567",
+        "Esperado 1": "POLA",
+        "Esperado 2": "FONROUGE"
+    },
+    {
+        "direccion": "PACINI DE ALVEAR REGINA 400",
+        "Esperado 1": "COSSETTINI, OLGA",
+        "Esperado 2": "MANSO JUANA"
+    },
+    {
+        "direccion": "BACACAY 5085",
+        "Esperado 1": "MILTON",
+        "Esperado 2": "CALDERON DE LA BARCA, PEDRO"
+    },
+    {
+        "direccion": "BACACAY 2449",
+        "Esperado 1": "FRAY CAYETANO RODRIGUEZ",
+        "Esperado 2": "ARTIGAS, JOSE GERVASIO, GRAL."
+    },
+    {
+        "direccion": "BACACAY 5168",
+        "Esperado 1": "LOPE DE VEGA",
+        "Esperado 2": "MILTON"
+    },
+    {
+        "direccion": "BACACAY AV. 5765",
+        "Esperado 1": "JUSTO, JUAN B. AV.",
+        "Esperado 2": "RUIZ DE LOS LLANOS"
+    },
+    {
+        "direccion": "BACLE, CESAR H. 3853",
+        "Esperado 1": "ACOSTA, MARIANO AV.",
+        "Esperado 2": "MARTINEZ CASTRO"
+    },
+    {
+        "direccion": "BACON 5097",
+        "Esperado 1": "CABEZON, JOSE LEON",
+        "Esperado 2": "LADINES"
+    },
+    {
+        "direccion": "BACON 4871",
+        "Esperado 1": "LOPEZ, CARLOS ANTONIO",
+        "Esperado 2": ""
+    },
+    {
+        "direccion": "BACH, JUAN SEBASTIAN 4418",
+        "Esperado 1": "DONADO",
+        "Esperado 2": "MACHAIN"
+    },
+    {
+        "direccion": "BAEZ 330",
+        "Esperado 1": "CHENAUT, INDALESIO, GRAL. AV.",
+        "Esperado 2": "AREVALO"
+    },
+    {
+        "direccion": "BAEZ 584",
+        "Esperado 1": "REPUBLICA DE ESLOVENIA",
+        "Esperado 2": "ORTEGA Y GASSET"
+    },
+    {
+        "direccion": "BAEZ 644",
+        "Esperado 1": "MATIENZO, BENJAMIN, TENIENTE",
+        "Esperado 2": "REPUBLICA DE ESLOVENIA"
+    },
+    {
+        "direccion": "BAHIA 1784",
+        "Esperado 1": "SASTRE, MARCOS",
+        "Esperado 2": "BAIGORRIA"
+    },
+    {
+        "direccion": "BAHIA BLANCA 2672",
+        "Esperado 1": "BAIGORRIA",
+        "Esperado 2": "NOGOYA"
+    },
+    {
+        "direccion": "BAHIA BLANCA 591",
+        "Esperado 1": "ARANGUREN, JUAN F., DR.",
+        "Esperado 2": "MORON"
+    },
+    {
+        "direccion": "BAIGORRI 141",
+        "Esperado 1": "FINOCHIETTO ENRIQUE DR.",
+        "Esperado 2": "ALCORTA, AMANCIO AV."
+    },
+    {
+        "direccion": "BAIGORRIA 5307",
+        "Esperado 1": "LOPE DE VEGA AV.",
+        "Esperado 2": "MARTINEZ, JUAN ESTEBAN"
+    },
+    {
+        "direccion": "BAIGORRIA 3285",
+        "Esperado 1": "CUENCA",
+        "Esperado 2": "CAMPANA"
+    },
+    {
+        "direccion": "BAIGORRIA 3395",
+        "Esperado 1": "CAMPANA",
+        "Esperado 2": "LLAVALLOL"
+    },
+    {
+        "direccion": "BALBASTRO 1170",
+        "Esperado 1": "PICHEUTA",
+        "Esperado 2": "BARCO CENTENERA DEL"
+    },
+    {
+        "direccion": "BALBASTRO 1648",
+        "Esperado 1": "HORTIGUERA",
+        "Esperado 2": "CASTRO, JUAN DE"
+    },
+    {
+        "direccion": "BALBASTRO 5405",
+        "Esperado 1": "LARRAYA",
+        "Esperado 2": "LARRAZABAL"
+    },
+    {
+        "direccion": "BALBOA 220",
+        "Esperado 1": "PAZ SOLDAN",
+        "Esperado 2": ""
+    },
+    {
+        "direccion": "BALCARCE 1099",
+        "Esperado 1": "CALVO, CARLOS",
+        "Esperado 2": "HUMBERTO 1°"
+    },
+    {
+        "direccion": "BALCARCE 1150",
+        "Esperado 1": "HUMBERTO 1°",
+        "Esperado 2": "SAN JUAN AV."
+    },
+    {
+        "direccion": "BALCARCE 873",
+        "Esperado 1": "GIUFFRA, JOSE M.,DR.",
+        "Esperado 2": "ESTADOS UNIDOS"
+    },
+    {
+        "direccion": "BALCARCE, FLORENCIO 36",
+        "Esperado 1": "YERBAL",
+        "Esperado 2": "RIVADAVIA AV."
+    },
+    {
+        "direccion": "BALTORE, JOSE R. 6931",
+        "Esperado 1": "CAÑADA DE GOMEZ",
+        "Esperado 2": "COSQUIN"
+    },
+    {
+        "direccion": "BALLIVIAN 3337",
+        "Esperado 1": "BURELA",
+        "Esperado 2": "CERETTI"
+    },
+    {
+        "direccion": "BALLIVIAN 2165",
+        "Esperado 1": "ACHA, MARIANO, GRAL.",
+        "Esperado 2": "LUGONES"
+    },
+    {
+        "direccion": "BALLIVIAN 2597",
+        "Esperado 1": "VICTORICA, BENJAMIN, GENERAL, AV.",
+        "Esperado 2": "GAMARRA"
+    },
+    {
+        "direccion": "BARADERO 224",
+        "Esperado 1": "ALBERDI, JUAN BAUTISTA AV.",
+        "Esperado 2": "RAFAELA"
+    },
+    {
+        "direccion": "BARADERO 329",
+        "Esperado 1": "BONIFACIO, JOSE",
+        "Esperado 2": "ALBERDI, JUAN BAUTISTA AV."
+    },
+    {
+        "direccion": "BARADERO 264",
+        "Esperado 1": "ALBERDI, JUAN BAUTISTA AV.",
+        "Esperado 2": "RAFAELA"
+    },
+    {
+        "direccion": "BARAGAÑA 2336",
+        "Esperado 1": "ZAMUDIO",
+        "Esperado 2": "DE LOS CONSTITUYENTES AV."
+    },
+    {
+        "direccion": "BARCALA 3065",
+        "Esperado 1": "LA RIOJA",
+        "Esperado 2": "URQUIZA, GRAL."
+    },
+    {
+        "direccion": "BARCELONA 2868",
+        "Esperado 1": "SAN PEDRITO",
+        "Esperado 2": "CASTAÑON"
+    },
+    {
+        "direccion": "BARZANA 1371",
+        "Esperado 1": "MOSCU",
+        "Esperado 2": "DE LOS INCAS AV."
+    },
+    {
+        "direccion": "BARZANA 1489",
+        "Esperado 1": "HAMBURGO",
+        "Esperado 2": "NAPOLES"
+    },
+    {
+        "direccion": "BARZANA 2086",
+        "Esperado 1": "JURAMENTO",
+        "Esperado 2": "MENDOZA AV."
+    },
+    {
+        "direccion": "BARILARI, ATILIO S., ALTE. 1422",
+        "Esperado 1": "PLAZA, VICTORINO DE LA, DR.",
+        "Esperado 2": "DEL LIBERTADOR AV."
+    },
+    {
+        "direccion": "BARILARI, ATILIO S., ALTE. 1389",
+        "Esperado 1": "HERNANDEZ, RAFAEL",
+        "Esperado 2": "PLAZA, VICTORINO DE LA, DR."
+    },
+    {
+        "direccion": "BARILOCHE 3149",
+        "Esperado 1": "BLANDENGUES",
+        "Esperado 2": "CHUBUT"
+    },
+    {
+        "direccion": "BARRAGAN 1056",
+        "Esperado 1": "SASTRE, MARCOS",
+        "Esperado 2": "SANTO TOME"
+    },
+    {
+        "direccion": "BARRAGAN 380",
+        "Esperado 1": "AUTOPISTA PERITO MORENO",
+        "Esperado 2": "RESERVISTAS ARGENTINOS AV."
+    },
+    {
+        "direccion": "BARRAGAN 762",
+        "Esperado 1": "LASCANO",
+        "Esperado 2": "GAMBOA, MARCELO"
+    },
+    {
+        "direccion": "BARRIENTOS 1586",
+        "Esperado 1": "PACHECO DE MELO, JOSE ANDRES",
+        "Esperado 2": "PEÑA"
+    },
+    {
+        "direccion": "BARROS PAZOS, JOSE 3130",
+        "Esperado 1": "MARTI, JOSE",
+        "Esperado 2": "PORTELA"
+    },
+    {
+        "direccion": "BARROS PAZOS, JOSE 5684",
+        "Esperado 1": "MURGUIONDO",
+        "Esperado 2": "OLIDEN"
+    },
+    {
+        "direccion": "BARROS PAZOS, JOSE 1707",
+        "Esperado 1": "BARCO CENTENERA DEL AV.",
+        "Esperado 2": "GOMEZ, INDALECIO"
+    },
+    {
+        "direccion": "BASAVILBASO 1215",
+        "Esperado 1": "JUNCAL",
+        "Esperado 2": "ARENALES"
+    },
+    {
+        "direccion": "BASAVILBASO 1378",
+        "Esperado 1": "DEL LIBERTADOR AV.",
+        "Esperado 2": "JUNCAL"
+    },
+    {
+        "direccion": "BASAVILBASO 1288",
+        "Esperado 1": "JUNCAL",
+        "Esperado 2": "ARENALES"
+    },
+    {
+        "direccion": "BASAVILBASO, LEOPOLDO 948",
+        "Esperado 1": "BAVIO, ERNESTO A.",
+        "Esperado 2": "FIGUEROA ALCORTA, PRES. AV."
+    },
+    {
+        "direccion": "BASUALDO 731",
+        "Esperado 1": "ARTIGAS MANUEL DE",
+        "Esperado 2": "GARCIA GRANDE DE ZEQUEIRA, SEVERO"
+    },
+    {
+        "direccion": "BASUALDO 99",
+        "Esperado 1": "FALCON, RAMON L.,CNEL. AV.",
+        "Esperado 2": "RIVADAVIA AV."
+    },
+    {
+        "direccion": "BASUALDO 1876",
+        "Esperado 1": "SAN PEDRO",
+        "Esperado 2": "BILBAO, FRANCISCO"
+    },
+    {
+        "direccion": "BATEMAN, J. F. 2930",
+        "Esperado 1": "LOZANO, PEDRO",
+        "Esperado 2": "NAZARRE"
+    },
+    {
+        "direccion": "BATEMAN, J. F. 3086",
+        "Esperado 1": "TINOGASTA",
+        "Esperado 2": "LOZANO, PEDRO"
+    },
+    {
+        "direccion": "BATHURST 3386",
+        "Esperado 1": "LINIERS VIRREY",
+        "Esperado 2": "SANCHEZ DE LORIA AV."
+    },
+    {
+        "direccion": "BAUNESS 2155",
+        "Esperado 1": "OLAZABAL AV.",
+        "Esperado 2": "MENDOZA AV."
+    },
+    {
+        "direccion": "BAUNESS 287",
+        "Esperado 1": "PAZ SOLDAN",
+        "Esperado 2": "PUNTA ARENAS"
+    },
+    {
+        "direccion": "BAUNESS 2600",
+        "Esperado 1": "CULLEN",
+        "Esperado 2": "ROOSEVELT FRANKLIN D. AV."
+    },
+    {
+        "direccion": "BAUZA, FRANCISCO 2680",
+        "Esperado 1": "LISTA, RAMON, CORONEL",
+        "Esperado 2": "VARELA, JOSE PEDRO"
+    },
+    {
+        "direccion": "BAUZA, FRANCISCO 2382",
+        "Esperado 1": "TINOGASTA",
+        "Esperado 2": "LOZANO, PEDRO"
+    },
+    {
+        "direccion": "BAUZA, FRANCISCO 2876",
+        "Esperado 1": "CANTILO, JOSE LUIS",
+        "Esperado 2": "BEIRO, FRANCISCO AV."
+    },
+    {
+        "direccion": "BAVIO, ERNESTO A. 3164",
+        "Esperado 1": "AGOTE PEDRO",
+        "Esperado 2": "BETBEDER, ONOFRE, ALTE."
+    },
+    {
+        "direccion": "BAVIO, ERNESTO A. 2915",
+        "Esperado 1": "GARCIA, MANUEL J., ALTE.",
+        "Esperado 2": "PLAZA, VICTORINO DE LA, DR."
+    },
+    {
+        "direccion": "BAVIO, ERNESTO A. 2992",
+        "Esperado 1": "QUINTEROS, LIDORO J. AV.",
+        "Esperado 2": "GARCIA, MANUEL J., ALTE."
+    },
+    {
+        "direccion": "BAZURCO 2481",
+        "Esperado 1": "ARTIGAS, JOSE GERVASIO, GRAL.",
+        "Esperado 2": "ZAMUDIO"
+    },
+    {
+        "direccion": "BAZURCO 3423",
+        "Esperado 1": "CONCORDIA",
+        "Esperado 2": "LLAVALLOL"
+    },
+    {
+        "direccion": "BAZURCO 3632",
+        "Esperado 1": "PAZ, GRAL. AV.",
+        "Esperado 2": "LAMARCA, EMILIO"
+    },
+    {
+        "direccion": "BEAUCHEF 855",
+        "Esperado 1": "DIRECTORIO AV.",
+        "Esperado 2": "BONIFACIO, JOSE"
+    },
+    {
+        "direccion": "BEAUCHEF 224",
+        "Esperado 1": "GUAYAQUIL",
+        "Esperado 2": "ROSARIO"
+    },
+    {
+        "direccion": "BEAUCHEF 553",
+        "Esperado 1": "VALLE",
+        "Esperado 2": "MATORRAS"
+    },
+    {
+        "direccion": "BEAZLEY 3605",
+        "Esperado 1": "CACHI",
+        "Esperado 2": "EINSTEIN, ALBERTO"
+    },
+    {
+        "direccion": "BEAZLEY 3894",
+        "Esperado 1": "OCHOA, ENRIQUE",
+        "Esperado 2": "ROMERO"
+    },
+    {
+        "direccion": "BEAZLEY 3930",
+        "Esperado 1": "ROMERO",
+        "Esperado 2": "FALUCHO"
+    },
+    {
+        "direccion": "BECHER, EMILIO 2383",
+        "Esperado 1": "MONTE",
+        "Esperado 2": "PRIMERA JUNTA"
+    },
+    {
+        "direccion": "BEDOYA, ELIAS 10",
+        "Esperado 1": "RIVADAVIA AV.",
+        "Esperado 2": "YERBAL"
+    },
+    {
+        "direccion": "BEETHOVEN 3433",
+        "Esperado 1": "PEDRAZA, MANUELA",
+        "Esperado 2": "PIRAN"
+    },
+    {
+        "direccion": "BEETHOVEN 3570",
+        "Esperado 1": "NUÑEZ",
+        "Esperado 2": "LARRALDE, CRISOLOGO AV."
+    },
+    {
+        "direccion": "BEHRING 2582",
+        "Esperado 1": "GAMARRA",
+        "Esperado 2": "TORRENT"
+    },
+    {
+        "direccion": "BEIRO, FRANCISCO AV. 2693",
+        "Esperado 1": "GUTENBERG",
+        "Esperado 2": "CONDARCO"
+    },
+    {
+        "direccion": "BEIRO, FRANCISCO AV. 5280",
+        "Esperado 1": "IBARROLA, RODRIGO DE",
+        "Esperado 2": "LOPE DE VEGA AV."
+    },
+    {
+        "direccion": "BEIRO, FRANCISCO AV. 5382",
+        "Esperado 1": "COLIGUE",
+        "Esperado 2": "VIRGILIO"
+    },
+    {
+        "direccion": "BELAUSTEGUI, LUIS, DR. 2736",
+        "Esperado 1": "TERRADA",
+        "Esperado 2": "CONDARCO"
+    },
+    {
+        "direccion": "BELAUSTEGUI, LUIS, DR. 3781",
+        "Esperado 1": "BAHIA BLANCA",
+        "Esperado 2": "GONZALEZ, JOAQUIN V."
+    },
+    {
+        "direccion": "BELAUSTEGUI, LUIS, DR. 1660",
+        "Esperado 1": "TRELLES, MANUEL R.",
+        "Esperado 2": "ALVAREZ, DONATO, TTE. GRAL."
+    },
+    {
+        "direccion": "BELEN 728",
+        "Esperado 1": "GAONA AV.",
+        "Esperado 2": "MORON"
+    },
+    {
+        "direccion": "BELEN 683",
+        "Esperado 1": "MORON",
+        "Esperado 2": "ARANGUREN, JUAN F., DR."
+    },
+    {
+        "direccion": "BELFAST 2662",
+        "Esperado 1": "BAIGORRIA",
+        "Esperado 2": "SASTRE, MARCOS"
+    },
+    {
+        "direccion": "BELFAST 2750",
+        "Esperado 1": "NOGOYA",
+        "Esperado 2": "BAIGORRIA"
+    },
+    {
+        "direccion": "BELGICA 2367",
+        "Esperado 1": "CARACAS",
+        "Esperado 2": "BUFANO, ALFREDO R."
+    },
+    {
+        "direccion": "BELGRADO 3180",
+        "Esperado 1": "ALTOLAGUIRRE",
+        "Esperado 2": "PRAGA"
+    },
+    {
+        "direccion": "BELGRADO 3042",
+        "Esperado 1": "BARZANA",
+        "Esperado 2": "MOSCU"
+    },
+    {
+        "direccion": "BELGRADO 3134",
+        "Esperado 1": "PRAGA",
+        "Esperado 2": "BARZANA"
+    },
+    {
+        "direccion": "BELGRANO 3835",
+        "Esperado 1": "YAPEYU",
+        "Esperado 2": "CASTRO BARROS AV."
+    },
+    {
+        "direccion": "BELGRANO 4225",
+        "Esperado 1": "MUÑIZ",
+        "Esperado 2": "MARMOL, JOSE"
+    },
+    {
+        "direccion": "BELGRANO 4067",
+        "Esperado 1": "TREINTA Y TRES ORIENTALES",
+        "Esperado 2": "BOCAYUVA, QUINTINO"
+    },
+    {
+        "direccion": "BELGRANO AV. 3221",
+        "Esperado 1": "SANCHEZ DE LORIA",
+        "Esperado 2": "24 DE NOVIEMBRE"
+    },
+    {
+        "direccion": "BELGRANO AV. 666",
+        "Esperado 1": "PERU",
+        "Esperado 2": "CHACABUCO"
+    },
+    {
+        "direccion": "BELGRANO AV. 3793",
+        "Esperado 1": "CASTRO BARROS AV.",
+        "Esperado 2": "COLOMBRES"
+    },
+    {
+        "direccion": "BELL VILLE 1212",
+        "Esperado 1": "ASAMBLEA AV.",
+        "Esperado 2": "SALAS"
+    },
+    {
+        "direccion": "BELLA VISTA 1136",
+        "Esperado 1": "RODRIGUEZ, MANUEL A., GENERAL",
+        "Esperado 2": "AÑASCO"
+    },
+    {
+        "direccion": "FRAY LUIS BELTRAN 46",
+        "Esperado 1": "YERBAL",
+        "Esperado 2": "RIVADAVIA AV."
+    },
+    {
+        "direccion": "FRAY LUIS BELTRAN 207",
+        "Esperado 1": "BOGOTA",
+        "Esperado 2": "BACACAY"
+    },
+    {
+        "direccion": "BENIELLI, CARLOS J. 7068",
+        "Esperado 1": "COSQUIN",
+        "Esperado 2": "AGUIRRE, JULIAN"
+    },
+    {
+        "direccion": "BERG, CARLOS 2789",
+        "Esperado 1": "FERNANDEZ DE LA CRUZ, F., GRAL. AV.",
+        "Esperado 2": "ITAQUI"
+    },
+    {
+        "direccion": "BERG, CARLOS 2813",
+        "Esperado 1": "ITAQUI",
+        "Esperado 2": "RIVERA, FRUCTUOSO, GENERAL"
+    },
+    {
+        "direccion": "BERG, CARLOS 3349",
+        "Esperado 1": "RAMIREZ, CARLOS M.",
+        "Esperado 2": "RABANAL, FRANCISCO, INTENDENTE AV."
+    },
+    {
+        "direccion": "BERLIN 4247",
+        "Esperado 1": "GANDARA",
+        "Esperado 2": "VICTORICA, BENJAMIN, GENERAL, AV."
+    },
+    {
+        "direccion": "BERLIN 4076",
+        "Esperado 1": "VICTORICA, BENJAMIN, GENERAL, AV.",
+        "Esperado 2": "AVALOS"
+    },
+    {
+        "direccion": "BERMEJO 6954",
+        "Esperado 1": "CARHUE",
+        "Esperado 2": "COSQUIN"
+    },
+    {
+        "direccion": "BERMEJO 6834",
+        "Esperado 1": "COSQUIN",
+        "Esperado 2": "GORDILLO, TIMOTEO"
+    },
+    {
+        "direccion": "BERMUDEZ 226",
+        "Esperado 1": "BACACAY",
+        "Esperado 2": "YERBAL",
+        "_Comentario":"duplicado"
+    },
+    {
+        "direccion": "BERMUDEZ 2608",
+        "Esperado 1": "MELINCUE",
+        "Esperado 2": "NAZARRE"
+    },
+    {
+        "direccion": "BERMUDEZ 1972",
+        "Esperado 1": "CANADA",
+        "Esperado 2": "LASCANO"
+    },
+    {
+        "direccion": "BERMUDEZ, ANTONIO 1490",
+        "Esperado 1": "MONTE",
+        "Esperado 2": "PRIMERA JUNTA"
+    },
+    {
+        "direccion": "BERMUDEZ, JORGE 1620",
+        "Esperado 1": "REMEDIOS",
+        "Esperado 2": "VIEJOBUENO"
+    },
+    {
+        "direccion": "BERNA 2364",
+        "Esperado 1": "CADIZ",
+        "Esperado 2": "LA HAYA"
+    },
+    {
+        "direccion": "BERNA 2265",
+        "Esperado 1": "GINEBRA",
+        "Esperado 2": "TRIUNVIRATO AV."
+    },
+    {
+        "direccion": "BERNAL 672",
+        "Esperado 1": "MENDEZ DE ANDES",
+        "Esperado 2": "VALLESE, FELIPE"
+    },
+    {
+        "direccion": "BERNALDES 1191",
+        "Esperado 1": "MURATURE",
+        "Esperado 2": "DIAZ, CESAR, GRAL."
+    },
+    {
+        "direccion": "BERNALDES 1714",
+        "Esperado 1": "UNQUERA, BALTASAR DE",
+        "Esperado 2": "GONZALEZ, ELPIDIO"
+    },
+    {
+        "direccion": "BERNALDES 1957",
+        "Esperado 1": "ALBANIA",
+        "Esperado 2": "ALCARAZ"
+    },
+    {
+        "direccion": "BERNARDI, CONSCRIPTO 681",
+        "Esperado 1": "JUSTO, JUAN B. AV.",
+        "Esperado 2": "MORON"
+    },
+    {
+        "direccion": "BERON DE ASTRADA 2260",
+        "Esperado 1": "BERG, CARLOS",
+        "Esperado 2": "O'GORMAN"
+    },
+    {
+        "direccion": "BERON DE ASTRADA 6811",
+        "Esperado 1": "SALADILLO",
+        "Esperado 2": "SUAREZ, JOSE LEON"
+    },
+    {
+        "direccion": "BERON DE ASTRADA 6640",
+        "Esperado 1": "MONTIEL",
+        "Esperado 2": "GUAMINI"
+    },
+    {
+        "direccion": "BERTHELOT 3445",
+        "Esperado 1": "PEDRAZA, MANUELA",
+        "Esperado 2": "PIRAN"
+    },
+    {
+        "direccion": "BERTHELOT 3462",
+        "Esperado 1": "PIRAN",
+        "Esperado 2": "NUÑEZ"
+    },
+    {
+        "direccion": "BERTHELOT 3449",
+        "Esperado 1": "PEDRAZA, MANUELA",
+        "Esperado 2": "PIRAN"
+    },
+    {
+        "direccion": "BERTRES 483",
+        "Esperado 1": "HUALFIN",
+        "Esperado 2": "VALLE"
+    },
+    {
+        "direccion": "BERUTI 3349",
+        "Esperado 1": "DIAZ, CNEL. AV.",
+        "Esperado 2": "BULNES"
+    },
+    {
+        "direccion": "BERUTI 2496",
+        "Esperado 1": "LARREA",
+        "Esperado 2": "PUEYRREDON AV."
+    },
+    {
+        "direccion": "BERUTI 3056",
+        "Esperado 1": "AUSTRIA",
+        "Esperado 2": "SANCHEZ DE BUSTAMANTE"
+    },
+    {
+        "direccion": "BERUTI, ARTURO 4488",
+        "Esperado 1": "GUAYMALLEN",
+        "Esperado 2": "OCHOA, ENRIQUE"
+    },
+    {
+        "direccion": "BERUTI, ARTURO 4274",
+        "Esperado 1": "CACHI",
+        "Esperado 2": ""
+    },
+    {
+        "direccion": "BERUTI, ARTURO 4491",
+        "Esperado 1": "GUAYMALLEN",
+        "Esperado 2": "OCHOA, ENRIQUE"
+    },
+    {
+        "direccion": "BESARES 3035",
+        "Esperado 1": "CONESA",
+        "Esperado 2": "ZAPIOLA"
+    },
+    {
+        "direccion": "BESARES 3305",
+        "Esperado 1": "FREIRE, RAMON, CAP. GRAL.",
+        "Esperado 2": "CONDE"
+    },
+    {
+        "direccion": "BESARES 3033",
+        "Esperado 1": "CONESA",
+        "Esperado 2": "ZAPIOLA"
+    },
+    {
+        "direccion": "BETBEDER, ONOFRE, ALTE. 1315",
+        "Esperado 1": "RICCHERI, PABLO, TTE. GRAL.",
+        "Esperado 2": "BAVIO, ERNESTO A."
+    },
+    {
+        "direccion": "BETBEDER, ONOFRE, ALTE. 1454",
+        "Esperado 1": "HERNANDEZ, RAFAEL",
+        "Esperado 2": "RICCHERI, PABLO, TTE. GRAL."
+    },
+    {
+        "direccion": "BETBEDER, ONOFRE, ALTE. 1332",
+        "Esperado 1": "RICCHERI, PABLO, TTE. GRAL.",
+        "Esperado 2": "BAVIO, ERNESTO A."
+    },
+    {
+        "direccion": "BEYROUTH 4975",
+        "Esperado 1": "BERMUDEZ",
+        "Esperado 2": "CERVANTES"
+    },
+    {
+        "direccion": "BIALET MASSE 620",
+        "Esperado 1": "FERNANDEZ MORENO, BALDOMERO",
+        "Esperado 2": "LAFERRERE, GREGORIO DE"
+    },
+    {
+        "direccion": "BIALET MASSE 547",
+        "Esperado 1": "LAFERRERE, GREGORIO DE",
+        "Esperado 2": "BILBAO, FRANCISCO"
+    },
+    {
+        "direccion": "BIALET MASSE 681",
+        "Esperado 1": "FERNANDEZ MORENO, BALDOMERO",
+        "Esperado 2": "LAFERRERE, GREGORIO DE"
+    },
+    {
+        "direccion": "BIANCHI, ANDRES 7488",
+        "Esperado 1": "SALADILLO",
+        "Esperado 2": "PAZ, GRAL. AV."
+    },
+    {
+        "direccion": "BIARRITZ 1829",
+        "Esperado 1": "ESPINOSA",
+        "Esperado 2": "SAN MARTIN AV."
+    },
+    {
+        "direccion": "BIARRITZ 2584",
+        "Esperado 1": "ARTIGAS, JOSE GERVASIO, GRAL.",
+        "Esperado 2": "ESTADO PLURINACIONAL DE BOLIVIA"
+    },
+    {
+        "direccion": "BIARRITZ 2338",
+        "Esperado 1": "CARACAS",
+        "Esperado 2": "BUFANO, ALFREDO R."
+    },
+    {
+        "direccion": "BIDEGAIN, PEDRO 4220",
+        "Esperado 1": "MARMOL, JOSE",
+        "Esperado 2": "MUÑIZ"
+    },
+    {
+        "direccion": "BIEDMA, JOSE JUAN 514",
+        "Esperado 1": "ARANGUREN, JUAN F., DR.",
+        "Esperado 2": "MENDEZ DE ANDES"
+    },
+    {
+        "direccion": "BIEDMA, JOSE JUAN 869",
+        "Esperado 1": "NEUQUEN",
+        "Esperado 2": "VINTTER, LORENZO, GENERAL"
+    },
+    {
+        "direccion": "BIEDMA, JOSE JUAN 1040",
+        "Esperado 1": "VINTTER, LORENZO, GENERAL",
+        "Esperado 2": "OROÑO, NICASIO"
+    },
+    {
+        "direccion": "BILBAO, FRANCISCO 5627",
+        "Esperado 1": "POLA",
+        "Esperado 2": "FONROUGE"
+    },
+    {
+        "direccion": "BILBAO, FRANCISCO 2302",
+        "Esperado 1": "MEMBRILLAR",
+        "Esperado 2": "CIPOLLETTI"
+    },
+    {
+        "direccion": "BILBAO, FRANCISCO AV. 3863",
+        "Esperado 1": "LAGUNA",
+        "Esperado 2": "LACARRA AV."
+    },
+    {
+        "direccion": "BILBAO, FRANCISCO AV. 3401",
+        "Esperado 1": "PORTELA",
+        "Esperado 2": "PERGAMINO"
+    },
+    {
+        "direccion": "SUAREZ, JUSTO ANTONIO 6901",
+        "Esperado 1": "ANDALGALA",
+        "Esperado 2": "CARHUE"
+    },
+    {
+        "direccion": "SUAREZ, JUSTO ANTONIO 7106",
+        "Esperado 1": "GUAMINI",
+        "Esperado 2": "MONTIEL"
+    },
+    {
+        "direccion": "SUAREZ, JUSTO ANTONIO 7497",
+        "Esperado 1": "SALADILLO",
+        "Esperado 2": "PAZ, GRAL. AV."
+    },
+    {
+        "direccion": "BILLINGHURST 1965",
+        "Esperado 1": "ARENALES",
+        "Esperado 2": "BERUTI"
+    },
+    {
+        "direccion": "BILLINGHURST 53",
+        "Esperado 1": "RIVADAVIA AV.",
+        "Esperado 2": "MITRE, BARTOLOME"
+    },
+    {
+        "direccion": "BILLINGHURST 1392",
+        "Esperado 1": "SOLER",
+        "Esperado 2": "PARAGUAY"
+    },
+    {
+        "direccion": "BLANCO ENCALADA 2986",
+        "Esperado 1": "BALBIN, RICARDO, DR. AV.",
+        "Esperado 2": "CRAMER AV."
+    },
+    {
+        "direccion": "BLANCO ENCALADA 3490",
+        "Esperado 1": "SUPERI",
+        "Esperado 2": "URTUBEY CLODOMIRO CDRO."
+    },
+    {
+        "direccion": "BLANCO ENCALADA 4391",
+        "Esperado 1": "ACHA, MARIANO, GRAL.",
+        "Esperado 2": "LUGONES"
+    },
+    {
+        "direccion": "BLANDENGUES 1293",
+        "Esperado 1": "CALIFORNIA",
+        "Esperado 2": "BARILOCHE"
+    },
+    {
+        "direccion": "BLANDENGUES 1203",
+        "Esperado 1": "BARILOCHE",
+        "Esperado 2": "ALVARADO"
+    },
+    {
+        "direccion": "BLANES, JUAN MANUEL 440",
+        "Esperado 1": "BROWN, ALTE. AV.",
+        "Esperado 2": "RODRIGUEZ, MARTIN"
+    },
+    {
+        "direccion": "BLANES, JUAN MANUEL 82",
+        "Esperado 1": "CABOTO",
+        "Esperado 2": "CABOTO"
+    },
+    {
+        "direccion": "BLANES, JUAN MANUEL 488",
+        "Esperado 1": "BROWN, ALTE. AV.",
+        "Esperado 2": "RODRIGUEZ, MARTIN"
+    },
+    {
+        "direccion": "BOCAYUVA, QUINTINO 955",
+        "Esperado 1": "CALVO, CARLOS AV.",
+        "Esperado 2": "ESTADOS UNIDOS"
+    },
+    {
+        "direccion": "BOCAYUVA, QUINTINO 1374",
+        "Esperado 1": "TARIJA",
+        "Esperado 2": "CONSTITUCION"
+    },
+    {
+        "direccion": "BOCAYUVA, QUINTINO 286",
+        "Esperado 1": "BELGRANO",
+        "Esperado 2": "YRIGOYEN, HIPOLITO AV."
+    },
+    {
+        "direccion": "BOEDO 52",
+        "Esperado 1": "RIVADAVIA AV.",
+        "Esperado 2": "DON BOSCO"
+    },
+    {
+        "direccion": "BOEDO 278",
+        "Esperado 1": "MORENO",
+        "Esperado 2": "BELGRANO AV."
+    },
+    {
+        "direccion": "BOEDO AV. 840",
+        "Esperado 1": "ESTADOS UNIDOS",
+        "Esperado 2": "SAN IGNACIO"
+    },
+    {
+        "direccion": "BOEDO AV. 948",
+        "Esperado 1": "HUMBERTO 1°",
+        "Esperado 2": "SAN JUAN AV."
+    },
+    {
+        "direccion": "BOEDO AV. 1910",
+        "Esperado 1": "METAN",
+        "Esperado 2": "RONDEAU"
+    },
+    {
+        "direccion": "BOERI, JUAN A. 1193",
+        "Esperado 1": "DIAZ, CESAR, GRAL.",
+        "Esperado 2": "TRIESTE"
+    },
+    {
+        "direccion": "BOGADO 4561",
+        "Esperado 1": "LAMBARE",
+        "Esperado 2": "YATAY"
+    },
+    {
+        "direccion": "BOGADO 4446",
+        "Esperado 1": "YATAY",
+        "Esperado 2": "PRINGLES"
+    },
+    {
+        "direccion": "BOGOTA 2142",
+        "Esperado 1": "GAVILAN",
+        "Esperado 2": "GRANADEROS"
+    },
+    {
+        "direccion": "BOGOTA 382",
+        "Esperado 1": "AMBROSETTI, JUAN B.",
+        "Esperado 2": "ACOYTE AV."
+    },
+    {
+        "direccion": "BOGOTA 65",
+        "Esperado 1": "ACEVEDO, EDUARDO",
+        "Esperado 2": "OTAMENDI"
+    },
+    {
+        "direccion": "BOLAÑOS 279",
+        "Esperado 1": "LA SELVA",
+        "Esperado 2": "FALCON, RAMON L.,CNEL."
+    },
+    {
+        "direccion": "BOLAÑOS 21",
+        "Esperado 1": "FALCON, RAMON L.,CNEL.",
+        "Esperado 2": "RIVADAVIA AV."
+    },
+    {
+        "direccion": "BOLIVAR 314",
+        "Esperado 1": "MORENO",
+        "Esperado 2": "BELGRANO AV."
+    },
+    {
+        "direccion": "BOLIVAR 975",
+        "Esperado 1": "ESTADOS UNIDOS",
+        "Esperado 2": "CALVO, CARLOS"
+    },
+    {
+        "direccion": "BOLIVAR 1336",
+        "Esperado 1": "COCHABAMBA",
+        "Esperado 2": "GARAY, JUAN DE AV."
+    },
+    {
+        "direccion": "ESTADO PLURINACIONAL DE BOLIVIA 1057",
+        "Esperado 1": "GAONA AV.",
+        "Esperado 2": "NEUQUEN"
+    },
+    {
+        "direccion": "ESTADO PLURINACIONAL DE BOLIVIA 3279",
+        "Esperado 1": "NAZARRE",
+        "Esperado 2": "SAN MARTIN AV."
+    },
+    {
+        "direccion": "ESTADO PLURINACIONAL DE BOLIVIA 2111",
+        "Esperado 1": "ALVAREZ JONTE AV.",
+        "Esperado 2": "GARCIA, JUAN AGUSTIN"
+    },
+    {
+        "direccion": "BOLONIA 5325",
+        "Esperado 1": "LOPE DE VEGA AV.",
+        "Esperado 2": "VIRGILIO"
+    },
+    {
+        "direccion": "BOLONIA 5469",
+        "Esperado 1": "VIRGILIO",
+        "Esperado 2": "MOLIERE"
+    },
+    {
+        "direccion": "BOLLINI 2294",
+        "Esperado 1": "PEÑA",
+        "Esperado 2": "PACHECO DE MELO, JOSE ANDRES"
+    },
+    {
+        "direccion": "BOLLINI 2136",
+        "Esperado 1": "FRENCH",
+        "Esperado 2": "PEÑA"
+    },
+    {
+        "direccion": "BOMBAY 2223",
+        "Esperado 1": "ALVAREZ JONTE AV.",
+        "Esperado 2": "LASCANO"
+    },
+    {
+        "direccion": "BONIFACIO, JOSE 483",
+        "Esperado 1": "BEAUCHEF",
+        "Esperado 2": "MORENO, JOSE MARIA AV."
+    },
+    {
+        "direccion": "BONIFACIO, JOSE 3039",
+        "Esperado 1": "QUIRNO",
+        "Esperado 2": "MARTI, JOSE"
+    },
+    {
+        "direccion": "BONIFACIO, JOSE 3208",
+        "Esperado 1": "PORTELA",
+        "Esperado 2": "PERGAMINO"
+    },
+    {
+        "direccion": "BONORINO, ESTEBAN, CNEL. AV. 1139",
+        "Esperado 1": "ZUVIRIA",
+        "Esperado 2": "ASAMBLEA AV."
+    },
+    {
+        "direccion": "BONORINO, ESTEBAN, CNEL. AV. 657",
+        "Esperado 1": "LAFERRERE, GREGORIO DE",
+        "Esperado 2": "FERNANDEZ MORENO, BALDOMERO"
+    },
+    {
+        "direccion": "BONORINO, ESTEBAN, CNEL. AV. 3253",
+        "Esperado 1": "RAMIREZ, CARLOS M.",
+        "Esperado 2": "CONDOR"
+    },
+    {
+        "direccion": "BONORINO, MARTINIANO 3136",
+        "Esperado 1": "IBERA",
+        "Esperado 2": "QUESADA"
+    },
+    {
+        "direccion": "BONORINO, MARTINIANO 3084",
+        "Esperado 1": "QUESADA",
+        "Esperado 2": "CONGRESO AV."
+    },
+    {
+        "direccion": "BONPLAND 2050",
+        "Esperado 1": "NICARAGUA",
+        "Esperado 2": "SOLER"
+    },
+    {
+        "direccion": "BONPLAND 2349",
+        "Esperado 1": "PARAGUAY",
+        "Esperado 2": "CHARCAS"
+    },
+    {
+        "direccion": "BONPLAND 1990",
+        "Esperado 1": "COSTA RICA",
+        "Esperado 2": "NICARAGUA"
+    },
+    {
+        "direccion": "BOQUERON 6842",
+        "Esperado 1": "EL CHACHO",
+        "Esperado 2": "LA CAUTIVA"
+    },
+    {
+        "direccion": "BOQUERON 7131",
+        "Esperado 1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+        "Esperado 2": "MONTIEL"
+    },
+    {
+        "direccion": "BOQUERON 7280",
+        "Esperado 1": "HUMAITA",
+        "Esperado 2": "LUCHTER (SUR)"
+    },
+    {
+        "direccion": "BOSCH, VENTURA 7150",
+        "Esperado 1": "SUAREZ, JOSE LEON",
+        "Esperado 2": "MONTIEL"
+    },
+    {
+        "direccion": "BOSCH, VENTURA 6466",
+        "Esperado 1": "MURGUIONDO",
+        "Esperado 2": "OLIDEN"
+    },
+    {
+        "direccion": "BOSCH, VENTURA 7127",
+        "Esperado 1": "SUAREZ, JOSE LEON",
+        "Esperado 2": "MONTIEL"
+    },
+    {
+        "direccion": "BOSTON 2788",
+        "Esperado 1": "BAIGORRIA",
+        "Esperado 2": "NOGOYA"
+    },
+    {
+        "direccion": "BOSTON 2661",
+        "Esperado 1": "SASTRE, MARCOS",
+        "Esperado 2": "BAIGORRIA"
+    },
+    {
+        "direccion": "BOSTON 2727",
+        "Esperado 1": "BAIGORRIA",
+        "Esperado 2": "NOGOYA"
+    },
+    {
+        "direccion": "BOUCHARD 479",
+        "Esperado 1": "LAVALLE",
+        "Esperado 2": "CORRIENTES AV."
+    },
+    {
+        "direccion": "BOUCHARD 656",
+        "Esperado 1": "VIAMONTE",
+        "Esperado 2": "TUCUMAN"
+    },
+    {
+        "direccion": "BOUCHARD 477",
+        "Esperado 1": "LAVALLE",
+        "Esperado 2": "CORRIENTES AV."
+    },
+    {
+        "direccion": "BOULOGNE SUR MER 570",
+        "Esperado 1": "CORRIENTES AV.",
+        "Esperado 2": "LAVALLE"
+    },
+    {
+        "direccion": "BOYACA 621",
+        "Esperado 1": "MENDEZ DE ANDES",
+        "Esperado 2": "VALLESE, FELIPE"
+    },
+    {
+        "direccion": "BOYACA 1778",
+        "Esperado 1": "ESCALADA DE SAN MARTIN, R.",
+        "Esperado 2": "DIAZ, CESAR, GRAL."
+    },
+    {
+        "direccion": "BOYACA AV. 60",
+        "Esperado 1": "RIVADAVIA AV.",
+        "Esperado 2": "YERBAL"
+    },
+    {
+        "direccion": "BOYACA AV. 372",
+        "Esperado 1": "BOGOTA",
+        "Esperado 2": "AVELLANEDA AV."
+    },
+    {
+        "direccion": "BOYACA AV. 533",
+        "Esperado 1": "ARANGUREN, JUAN F., DR.",
+        "Esperado 2": "MENDEZ DE ANDES"
+    },
+    {
+        "direccion": "BRAGADO 4729",
+        "Esperado 1": "HOMERO",
+        "Esperado 2": "WHITE"
+    },
+    {
+        "direccion": "BRAGADO 6853",
+        "Esperado 1": "ANDALGALA",
+        "Esperado 2": "COSQUIN"
+    },
+    {
+        "direccion": "BRAGADO 7215",
+        "Esperado 1": "ESTONIA",
+        "Esperado 2": "MONTIEL"
+    },
+    {
+        "direccion": "BRAILLE, LUIS 5418",
+        "Esperado 1": "VIRGILIO",
+        "Esperado 2": "MOLIERE"
+    },
+    {
+        "direccion": "BRAILLE, LUIS 5319",
+        "Esperado 1": "LOPE DE VEGA AV.",
+        "Esperado 2": "VIRGILIO"
+    },
+    {
+        "direccion": "BRANDSEN 401",
+        "Esperado 1": "BROWN, ALTE. AV.",
+        "Esperado 2": "RODRIGUEZ, MARTIN"
+    },
+    {
+        "direccion": "BRANDSEN 246",
+        "Esperado 1": "BRIN, MINISTRO",
+        "Esperado 2": "NECOCHEA"
+    },
+    {
+        "direccion": "BRASIL 1418",
+        "Esperado 1": "SAENZ PEÑA, LUIS, PRES.",
+        "Esperado 2": "SAN JOSE"
+    },
+    {
+        "direccion": "BRASIL 600",
+        "Esperado 1": "PERU",
+        "Esperado 2": "BOLIVAR"
+    },
+    {
+        "direccion": "BRASIL 1449",
+        "Esperado 1": "SAENZ PEÑA, LUIS, PRES.",
+        "Esperado 2": "SAN JOSE"
+    },
+    {
+        "direccion": "BRASIL AV. 2794",
+        "Esperado 1": "CATAMARCA",
+        "Esperado 2": "LUCA, ESTEBAN DE"
+    },
+    {
+        "direccion": "BRASIL AV. 2640",
+        "Esperado 1": "JUJUY AV.",
+        "Esperado 2": "CATAMARCA"
+    },
+    {
+        "direccion": "BRASIL AV. 2357",
+        "Esperado 1": "PICHINCHA AV.",
+        "Esperado 2": "MATHEU"
+    },
+    {
+        "direccion": "BRAVARD 1130",
+        "Esperado 1": "GALLARDO, ANGEL AV.",
+        "Esperado 2": "FERRARI"
+    },
+    {
+        "direccion": "BRAVO, MARIO 140",
+        "Esperado 1": "MITRE, BARTOLOME",
+        "Esperado 2": "DIAZ VELEZ AV."
+    },
+    {
+        "direccion": "BRAVO, MARIO 376",
+        "Esperado 1": "PERON, JUAN DOMINGO, TTE. GENERAL",
+        "Esperado 2": "SARMIENTO"
+    },
+    {
+        "direccion": "BRAVO, MARIO 460",
+        "Esperado 1": "GOMEZ, VALENTIN",
+        "Esperado 2": "CORRIENTES AV."
+    },
+    {
+        "direccion": "BRIN, MINISTRO 1146",
+        "Esperado 1": "BRANDSEN",
+        "Esperado 2": "SUAREZ"
+    },
+    {
+        "direccion": "BRIN, MINISTRO 843",
+        "Esperado 1": "VILLAFAÑE, WENCESLAO",
+        "Esperado 2": "VALLE, ARISTOBULO DEL"
+    },
+    {
+        "direccion": "BROWN, ALTE. AV. 277",
+        "Esperado 1": "PI Y MARGALL",
+        "Esperado 2": "LIBERTI, TOMAS"
+    },
+    {
+        "direccion": "BROWN, ALTE. AV. 1202",
+        "Esperado 1": "SUAREZ",
+        "Esperado 2": "OLAVARRIA"
+    },
+    {
+        "direccion": "BROWN, ALTE. AV. 1348",
+        "Esperado 1": "OLAVARRIA",
+        "Esperado 2": "ARAOZ DE LAMADRID, GREGORIO, GRAL."
+    },
+    {
+        "direccion": "BROWN, FRANK 1790",
+        "Esperado 1": "ALVAREZ, CRISOSTOMO",
+        "Esperado 2": "SANTANDER"
+    },
+    {
+        "direccion": "BRUIX AV. 4659",
+        "Esperado 1": "TAPALQUE",
+        "Esperado 2": ""
+    },
+    {
+        "direccion": "BRUIX AV. 4843",
+        "Esperado 1": "ALBERDI, JUAN BAUTISTA AV.",
+        "Esperado 2": "BRAGADO"
+    },
+    {
+        "direccion": "BRUIX AV. 4637",
+        "Esperado 1": "TAPALQUE",
+        "Esperado 2": ""
+    },
+    {
+        "direccion": "BRUNO, GIORDANO 715",
+        "Esperado 1": "NEUQUEN",
+        "Esperado 2": "COLPAYO"
+    },
+    {
+        "direccion": "BRUNO, GIORDANO 805",
+        "Esperado 1": "COLPAYO",
+        "Esperado 2": "BACACAY"
+    },
+    {
+        "direccion": "BRUSELAS 1145",
+        "Esperado 1": "NAZARRE",
+        "Esperado 2": "NOGOYA"
+    },
+    {
+        "direccion": "BRUSELAS 826",
+        "Esperado 1": "ARREGUI AV.",
+        "Esperado 2": "SANTO TOME"
+    },
+    {
+        "direccion": "BRUSELAS 601",
+        "Esperado 1": "GAMBOA, MARCELO",
+        "Esperado 2": "LA HUELLA"
+    },
+    {
+        "direccion": "BUFANO, ALFREDO R. 2163",
+        "Esperado 1": "GARCIA, JUAN AGUSTIN",
+        "Esperado 2": "SAN BLAS"
+    },
+    {
+        "direccion": "BUFANO, ALFREDO R. 813",
+        "Esperado 1": "PAEZ",
+        "Esperado 2": "VALLESE, FELIPE"
+    },
+    {
+        "direccion": "BUFANO, ALFREDO R. 2128",
+        "Esperado 1": "GARCIA, JUAN AGUSTIN",
+        "Esperado 2": "SAN BLAS"
+    },
+    {
+        "direccion": "BUCARELLI 1566",
+        "Esperado 1": "HAMBURGO",
+        "Esperado 2": "GANDARA"
+    },
+    {
+        "direccion": "BUCARELLI 966",
+        "Esperado 1": "CHORROARIN AV.",
+        "Esperado 2": "QUIROS"
+    },
+    {
+        "direccion": "BUCARELLI 1262",
+        "Esperado 1": "LLERENA",
+        "Esperado 2": "ARISMENDI"
+    },
+    {
+        "direccion": "BUCAREST 1311",
+        "Esperado 1": "DE LOS INCAS AV.",
+        "Esperado 2": "TURIN"
+    },
+    {
+        "direccion": "BUCAREST 1437",
+        "Esperado 1": "HAMBURGO",
+        "Esperado 2": "CONSTANTINOPLA"
+    },
+    {
+        "direccion": "BURGOS 907",
+        "Esperado 1": "CORONDA",
+        "Esperado 2": "BARCO CENTENERA DEL"
+    },
+    {
+        "direccion": "BUDAPEST 1433",
+        "Esperado 1": "CONSTANTINOPLA",
+        "Esperado 2": "HAMBURGO"
+    },
+    {
+        "direccion": "BUERAS 131",
+        "Esperado 1": "VIEDMA, FRANCISCO DE",
+        "Esperado 2": "BYNON"
+    },
+    {
+        "direccion": "BULGARIA 4383",
+        "Esperado 1": "CUBAS, JOSE",
+        "Esperado 2": "HABANA"
+    },
+    {
+        "direccion": "BULNES 1256",
+        "Esperado 1": "CABRERA, JOSE A.",
+        "Esperado 2": "CORDOBA AV."
+    },
+    {
+        "direccion": "BULNES 911",
+        "Esperado 1": "LAVALLE",
+        "Esperado 2": "GUARDIA VIEJA"
+    },
+    {
+        "direccion": "BULLRICH, INT. AV. 507",
+        "Esperado 1": "CERVIÑO AV.",
+        "Esperado 2": "SANTA FE AV."
+    },
+    {
+        "direccion": "BULLRICH, INT. AV. 149",
+        "Esperado 1": "DEL LIBERTADOR AV.",
+        "Esperado 2": "CERVIÑO AV."
+    },
+    {
+        "direccion": "BURELA 3368",
+        "Esperado 1": "PEDRAZA, MANUELA",
+        "Esperado 2": "TAMBORINI, JOSE PASCUAL"
+    },
+    {
+        "direccion": "BURELA 1890",
+        "Esperado 1": "LA PAMPA",
+        "Esperado 2": "ECHEVERRIA"
+    },
+    {
+        "direccion": "BURELA 2155",
+        "Esperado 1": "MENDOZA",
+        "Esperado 2": "OLAZABAL AV."
+    },
+    {
+        "direccion": "BUSCHIAZZO, JUAN A. 3025",
+        "Esperado 1": "SEGUI, JUAN FRANCISCO",
+        "Esperado 2": "DEL LIBERTADOR AV."
+    },
+    {
+        "direccion": "BUSTILLO, JOSE M., GRAL. 3311",
+        "Esperado 1": "QUIRNO",
+        "Esperado 2": "MARTI, JOSE"
+    },
+    {
+        "direccion": "BUSTILLO, JOSE M., GRAL. 3254",
+        "Esperado 1": "SAN PEDRITO",
+        "Esperado 2": "QUIRNO"
+    },
+    {
+        "direccion": "BUSTILLO, JOSE M., GRAL. 3383",
+        "Esperado 1": "QUIRNO",
+        "Esperado 2": "MARTI, JOSE"
+    },
+    {
+        "direccion": "BUTTELER 80",
+        "Esperado 1": "ZELARRAYAN",
+        "Esperado 2": "No encontrado"
+    },
+    {
+        "direccion": "BUTTELER 15",
+        "Esperado 1": "SENILLOSA",
+        "Esperado 2": "No encontrado"
+    },
+    {
+        "direccion": "BUTTELER 69",
+        "Esperado 1": "LA PLATA AV.",
+        "Esperado 2": ""
+    },
+    {
+        "direccion": "BYNON 6801",
+        "Esperado 1": "MADERO",
+        "Esperado 2": "CASCO"
+    },
+    {
+        "direccion": "BYNON 6991",
+        "Esperado 1": "BUERAS",
+        "Esperado 2": "CUZCO"
+    },
+    {
+        "direccion": "BYNON 6752",
+        "Esperado 1": "GALLARDO",
+        "Esperado 2": "MADERO"
+    },
+    {
+        "direccion": "BYRON 17",
+        "Esperado 1": "FALCON, RAMON L.,CNEL.",
+        "Esperado 2": "RIVADAVIA AV."
+    },
+    {
+        "direccion": "BETHLEM 427",
+        "Esperado 1": "DEFENSA",
+        "Esperado 2": "DON ANSELMO AIETA"
+    },
+    {
+        "direccion": "CARRILLO, RAMON, DR. 340",
+        "Esperado 1": "AROLAS, EDUARDO",
+        "Esperado 2": ""
+    },
+    {
+        "direccion": "CARRILLO, RAMON, DR. 64",
+        "Esperado 1": "CASEROS AV.",
+        "Esperado 2": "SANLUCAR DE BARRAMEDA"
+    },
+    {
+        "direccion": "CARRILLO, RAMON, DR. 550",
+        "Esperado 1": "BRANDSEN",
+        "Esperado 2": ""
+    },
+    {
+        "direccion": "BERGANTIN GOLETA ESPORA 6670",
+        "Esperado 1": "GOLETA MANUELITA",
+        "Esperado 2": "CUTER, LUISITO"
+    },
+    {
+        "direccion": "BERGANTIN GOLETA ESPORA 6624",
+        "Esperado 1": "PAILEBOT DAVISON",
+        "Esperado 2": "GOLETA MANUELITA"
+    },
+    {
+        "direccion": "BERGANTIN GENERAL BALCARCE 6060",
+        "Esperado 1": "SUMACA SANTISIMA TRINIDAD",
+        "Esperado 2": "CAÑONERA AMERICA"
+    },
+    {
+        "direccion": "BERGANTIN GENERAL BALCARCE 6096",
+        "Esperado 1": "DE LA TORRE, LISANDRO",
+        "Esperado 2": ""
+    },
+    {
+        "direccion": "BERGANTIN GENERAL BALCARCE 6010",
+        "Esperado 1": "FALUCHO SAN LUIS",
+        "Esperado 2": "SUMACA SANTISIMA TRINIDAD"
+    },
+    {
+        "direccion": "BRAUN MENENDEZ, EDUARDO, DR. 235",
+        "Esperado 1": "GALVEZ, MANUEL",
+        "Esperado 2": "VICTORICA, MIGUEL C."
+    },
+    {
+        "direccion": "BRAUN MENENDEZ, EDUARDO, DR. 150",
+        "Esperado 1": "D'ESPOSITO, ARNALDO",
+        "Esperado 2": "GALVEZ, MANUEL"
+    },
+    {
+        "direccion": "BRAUN MENENDEZ, EDUARDO, DR. 430",
+        "Esperado 1": "VICTORICA, MIGUEL C.",
+        "Esperado 2": "SIN NOMBRE OFICIAL (ALT. MIN. BRIN 400)"
+    },
+    {
+        "direccion": "BERMEJO, ANTONIO DR. 6333",
+        "Esperado 1": "DELLEPIANE, LUIS, TTE. GRAL.",
+        "Esperado 2": "COSQUIN"
+    },
+    {
+        "direccion": "ZONZA BRIANO, PEDRO 172",
+        "Esperado 1": "DE MOUSSY, MARTIN",
+        "Esperado 2": "BRAUN MENENDEZ, EDUARDO, DR."
+    },
+    {
+        "direccion": "ZONZA BRIANO, PEDRO 120",
+        "Esperado 1": "CABOTO",
+        "Esperado 2": "DE MOUSSY, MARTIN"
+    },
+    {
+        "direccion": "ZONZA BRIANO, PEDRO 139",
+        "Esperado 1": "DE MOUSSY, MARTIN",
+        "Esperado 2": "BRAUN MENENDEZ, EDUARDO, DR."
+    },
+    {
+        "direccion": "BANCHS ENRIQUE 3670",
+        "Esperado 1": "WILLIAMS, ALBERTO",
+        "Esperado 2": "FERNANDEZ, MACEDONIO"
+    },
+    {
+        "direccion": "BORCHES, JOSE 1002",
+        "Esperado 1": "HUSARES",
+        "Esperado 2": "AUBAIN, TEODORO DR."
+    },
+    {
+        "direccion": "BORCHES, JOSE 1069",
+        "Esperado 1": "AUBAIN, TEODORO DR.",
+        "Esperado 2": "ROMERO, D."
+    },
+    {
+        "direccion": "BORDABEHERE, ENZO 2894",
+        "Esperado 1": "CITTADINI, BASILIO",
+        "Esperado 2": "EMPEDRADO"
+    },
+    {
+        "direccion": "BORDABEHERE, ENZO 2970",
+        "Esperado 1": "EMPEDRADO",
+        "Esperado 2": "RIVAS, GRAL."
+    },
+    {
+        "direccion": "BORDABEHERE, ENZO 2872",
+        "Esperado 1": "CITTADINI, BASILIO",
+        "Esperado 2": "EMPEDRADO"
+    },
+    {
+        "direccion": "CAAGUAZU 6570",
+        "Esperado 1": "CAFAYATE",
+        "Esperado 2": "PILAR"
+    },
+    {
+        "direccion": "CAAGUAZU 5753",
+        "Esperado 1": "MIRALLA",
+        "Esperado 2": "POLA"
+    },
+    {
+        "direccion": "CAAGUAZU 6943",
+        "Esperado 1": "CAÑADA DE GOMEZ",
+        "Esperado 2": "COSQUIN"
+    },
+    {
+        "direccion": "CABALLITO 1490",
+        "Esperado 1": "DIAZ, AVELINO",
+        "Esperado 2": "SANTANDER"
+    },
+    {
+        "direccion": "CABELLO 3121",
+        "Esperado 1": "BULNES",
+        "Esperado 2": "DIAZ, CNEL. AV."
+    },
+    {
+        "direccion": "CABELLO 3743",
+        "Esperado 1": "REPUBLICA ARABE SIRIA",
+        "Esperado 2": "UGARTECHE"
+    },
+    {
+        "direccion": "CABELLO 3617",
+        "Esperado 1": "UGARTECHE",
+        "Esperado 2": "SCALABRINI ORTIZ, RAUL"
+    },
+    {
+        "direccion": "CABEZON, JOSE LEON 3042",
+        "Esperado 1": "ARGERICH",
+        "Esperado 2": "ALVAREZ, AGUSTIN"
+    },
+    {
+        "direccion": "CABEZON, JOSE LEON 3800",
+        "Esperado 1": "SAN MARTIN AV.",
+        "Esperado 2": "GONZALEZ, JOAQUIN V."
+    },
+    {
+        "direccion": "CABEZON, JOSE LEON 2264",
+        "Esperado 1": "DE LOS CONSTITUYENTES AV.",
+        "Esperado 2": "CARACAS"
+    },
+    {
+        "direccion": "CABILDO AV. 2254",
+        "Esperado 1": "MENDOZA",
+        "Esperado 2": "OLAZABAL"
+    },
+    {
+        "direccion": "CABILDO AV. 1349",
+        "Esperado 1": "ZABALA",
+        "Esperado 2": "LORETO, VIRREY"
+    },
+    {
+        "direccion": "CABILDO AV. 3723",
+        "Esperado 1": "LARRALDE, CRISOLOGO AV.",
+        "Esperado 2": "GARCIA DEL RIO AV."
+    },
+    {
+        "direccion": "CABOT 1733",
+        "Esperado 1": "GARAY, JUAN DE AV.",
+        "Esperado 2": "INCLAN"
+    },
+    {
+        "direccion": "CABOT 1633",
+        "Esperado 1": "PAVON",
+        "Esperado 2": "GARAY, JUAN DE AV."
+    },
+    {
+        "direccion": "CABOT 1714",
+        "Esperado 1": "GARAY, JUAN DE AV.",
+        "Esperado 2": "INCLAN"
+    },
+    {
+        "direccion": "CABRAL, SGTO. 837",
+        "Esperado 1": "SUIPACHA",
+        "Esperado 2": "ESMERALDA"
+    },
+    {
+        "direccion": "CABRER, CNEL. 4955",
+        "Esperado 1": "GURRUCHAGA",
+        "Esperado 2": "SERRANO"
+    },
+    {
+        "direccion": "CABRERA, JOSE A. 2972",
+        "Esperado 1": "LAPRIDA",
+        "Esperado 2": "ANCHORENA, TOMAS MANUEL DE, DR."
+    },
+    {
+        "direccion": "CABRERA, JOSE A. 6099",
+        "Esperado 1": "AREVALO",
+        "Esperado 2": "DORREGO"
+    },
+    {
+        "direccion": "CABRERA, JOSE A. 4625",
+        "Esperado 1": "SCALABRINI ORTIZ, RAUL AV.",
+        "Esperado 2": "MALABIA"
+    },
+    {
+        "direccion": "CACIQUE 2660",
+        "Esperado 1": "CHILAVERT, MARTINIANO, CORONEL",
+        "Esperado 2": "FERNANDEZ DE LA CRUZ, F., GRAL. AV."
+    },
+    {
+        "direccion": "CACIQUE 2516",
+        "Esperado 1": "BARROS PAZOS, JOSE",
+        "Esperado 2": "CHILAVERT, MARTINIANO, CORONEL"
+    },
+    {
+        "direccion": "CACHEUTA 930",
+        "Esperado 1": "JUSTO, JUAN B. AV.",
+        "Esperado 2": "BELAUSTEGUI, LUIS, DR."
+    },
+    {
+        "direccion": "CACHI 38",
+        "Esperado 1": "CORTEJARENA, JOSE A.",
+        "Esperado 2": "MIRIÑAY"
+    },
+    {
+        "direccion": "CACHI 1023",
+        "Esperado 1": "ALCORTA, AMANCIO AV.",
+        "Esperado 2": "CABRED, DOMINGO, DR."
+    },
+    {
+        "direccion": "CACHI 487",
+        "Esperado 1": "GRITO DE ASENCIO",
+        "Esperado 2": "ANCASTE"
+    },
+    {
+        "direccion": "CACHIMAYO 895",
+        "Esperado 1": "PERON, EVA AV.",
+        "Esperado 2": "ZUVIRIA"
+    },
+    {
+        "direccion": "CACHIMAYO 293",
+        "Esperado 1": "ALBERDI, JUAN BAUTISTA AV.",
+        "Esperado 2": "HUALFIN"
+    },
+    {
+        "direccion": "CACHIMAYO 823",
+        "Esperado 1": "PERON, EVA AV.",
+        "Esperado 2": "ZUVIRIA"
+    },
+    {
+        "direccion": "CADIZ 3901",
+        "Esperado 1": "GANDARA",
+        "Esperado 2": "BERNA"
+    },
+    {
+        "direccion": "CADIZ 3764",
+        "Esperado 1": "DE LOS INCAS AV.",
+        "Esperado 2": "TREVERIS"
+    },
+    {
+        "direccion": "CADIZ 4279",
+        "Esperado 1": "AVALOS",
+        "Esperado 2": "BAUNESS"
+    },
+    {
+        "direccion": "CAFAYATE 4666",
+        "Esperado 1": "CHILAVERT, MARTINIANO, CORONEL",
+        "Esperado 2": "BARROS PAZOS, JOSE"
+    },
+    {
+        "direccion": "CAFAYATE 1231",
+        "Esperado 1": "SCHMIDL, ULRICO",
+        "Esperado 2": "PIZARRO"
+    },
+    {
+        "direccion": "CAFAYATE 1068",
+        "Esperado 1": "ACASSUSO",
+        "Esperado 2": "ERCILLA"
+    },
+    {
+        "direccion": "CAFFARENA, AGUSTIN R. 86",
+        "Esperado 1": "DON PEDRO DE MENDOZA AV.",
+        "Esperado 2": ""
+    },
+    {
+        "direccion": "CAGLIARI 1418",
+        "Esperado 1": "MONTE",
+        "Esperado 2": "VALLE, MARIA R. DEL"
+    },
+    {
+        "direccion": "CALAZA, JOSE MARIA 1564",
+        "Esperado 1": "RECUERO, CASIMIRO, TTE. CNEL.",
+        "Esperado 2": "ECHEANDIA"
+    },
+    {
+        "direccion": "CALCENA 511",
+        "Esperado 1": "MENDEZ DE ANDES",
+        "Esperado 2": "ARANGUREN, JUAN F., DR."
+    },
+    {
+        "direccion": "CALCENA 435",
+        "Esperado 1": "ARANGUREN, JUAN F., DR.",
+        "Esperado 2": "AVELLANEDA AV."
+    },
+    {
+        "direccion": "CALCENA 382",
+        "Esperado 1": "AVELLANEDA AV.",
+        "Esperado 2": "BOGOTA"
+    },
+    {
+        "direccion": "CALDAS 1348",
+        "Esperado 1": "14 DE JULIO",
+        "Esperado 2": "HEREDIA"
+    },
+    {
+        "direccion": "CALDAS 141",
+        "Esperado 1": "ARENAL, CONCEPCION",
+        "Esperado 2": ""
+    },
+    {
+        "direccion": "CALDAS 88",
+        "Esperado 1": "LEIVA",
+        "Esperado 2": "DORREGO AV."
+    },
+    {
+        "direccion": "CALDEN 958",
+        "Esperado 1": "SANTO TOME",
+        "Esperado 2": "NOGOYA"
+    },
+    {
+        "direccion": "CALDEN 837",
+        "Esperado 1": "ARREGUI",
+        "Esperado 2": "SANTO TOME"
+    },
+    {
+        "direccion": "CALDERON DE LA BARCA, PEDRO 2960",
+        "Esperado 1": "SIMBRON",
+        "Esperado 2": "VARELA, JOSE PEDRO"
+    },
+    {
+        "direccion": "CALDERON DE LA BARCA, PEDRO 515",
+        "Esperado 1": "ARANGUREN, JUAN F., DR.",
+        "Esperado 2": "MORON"
+    },
+    {
+        "direccion": "CALDERON DE LA BARCA, PEDRO 441",
+        "Esperado 1": "SARACHAGA",
+        "Esperado 2": "ARANGUREN, JUAN F., DR."
+    },
+    {
+        "direccion": "CALFUCURA 2823",
+        "Esperado 1": "NAZCA AV.",
+        "Esperado 2": "TERRADA"
+    },
+    {
+        "direccion": "CALFUCURA 2730",
+        "Esperado 1": "TERRADA",
+        "Esperado 2": "CONDARCO"
+    },
+    {
+        "direccion": "CAPDEVILA, ARTURO 1696",
+        "Esperado 1": "PARAGUAY",
+        "Esperado 2": "RODRIGUEZ PEÑA"
+    },
+    {
+        "direccion": "CALINGASTA 1870",
+        "Esperado 1": "GARCIA, JUAN AGUSTIN",
+        "Esperado 2": "SAN BLAS"
+    },
+    {
+        "direccion": "CALOU, JUAN P. 5268",
+        "Esperado 1": "POLA",
+        "Esperado 2": "FONROUGE"
+    },
+    {
+        "direccion": "CALOU, JUAN P. 5443",
+        "Esperado 1": "LARRAYA",
+        "Esperado 2": "LARRAZABAL"
+    },
+    {
+        "direccion": "CALVO, CARLOS 772",
+        "Esperado 1": "CHACABUCO",
+        "Esperado 2": "PIEDRAS"
+    },
+    {
+        "direccion": "CALVO, CARLOS 1215",
+        "Esperado 1": "SALTA",
+        "Esperado 2": "SANTIAGO DEL ESTERO"
+    },
+    {
+        "direccion": "CALVO, CARLOS 2540",
+        "Esperado 1": "ALBERTI",
+        "Esperado 2": "SAAVEDRA"
+    },
+    {
+        "direccion": "CALVO, CARLOS AV. 3817",
+        "Esperado 1": "CASTRO BARROS",
+        "Esperado 2": "CASTRO"
+    },
+    {
+        "direccion": "CALVO, CARLOS AV. 4215",
+        "Esperado 1": "MARMOL, JOSE",
+        "Esperado 2": "MUÑIZ"
+    },
+    {
+        "direccion": "CALVO, CARLOS AV. 4067",
+        "Esperado 1": "TOTORAL",
+        "Esperado 2": "TREINTA Y TRES ORIENTALES"
+    },
+    {
+        "direccion": "CALLAO AV. 1458",
+        "Esperado 1": "PACHECO DE MELO, JOSE ANDRES",
+        "Esperado 2": "LAS HERAS GENERAL AV."
+    },
+    {
+        "direccion": "CALLAO AV. 1664",
+        "Esperado 1": "LOPEZ, VICENTE",
+        "Esperado 2": "GUIDO"
+    },
+    {
+        "direccion": "CALLAO AV. 1085",
+        "Esperado 1": "ALVEAR, MARCELO T. DE",
+        "Esperado 2": "SANTA FE AV."
+    },
+    {
+        "direccion": "CAMACUA 615",
+        "Esperado 1": "FERNANDEZ MORENO, BALDOMERO",
+        "Esperado 2": "LAFERRERE, GREGORIO DE"
+    },
+    {
+        "direccion": "CAMACUA 973",
+        "Esperado 1": "PERON, EVA AV.",
+        "Esperado 2": ""
+    },
+    {
+        "direccion": "CAMARGO 847",
+        "Esperado 1": "GURRUCHAGA",
+        "Esperado 2": "SERRANO"
+    },
+    {
+        "direccion": "CAMARGO 556",
+        "Esperado 1": "SCALABRINI ORTIZ, RAUL AV.",
+        "Esperado 2": "MALABIA"
+    },
+    {
+        "direccion": "CAMARGO 451",
+        "Esperado 1": "ARAOZ",
+        "Esperado 2": "SCALABRINI ORTIZ, RAUL AV."
+    },
+    {
+        "direccion": "CAMARONES 3831",
+        "Esperado 1": "BAHIA BLANCA",
+        "Esperado 2": "GONZALEZ, JOAQUIN V."
+    },
+    {
+        "direccion": "CAMARONES 2808",
+        "Esperado 1": "NAZCA AV.",
+        "Esperado 2": "TERRADA"
+    },
+    {
+        "direccion": "CAMARONES 4325",
+        "Esperado 1": "SEGUROLA AV.",
+        "Esperado 2": "SANABRIA"
+    },
+    {
+        "direccion": "CAMBIESES, EUSTAQUIO 1942",
+        "Esperado 1": "VELAZQUEZ",
+        "Esperado 2": "PORTELA"
+    },
+    {
+        "direccion": "CAMBIESES, EUSTAQUIO 1780",
+        "Esperado 1": "ACOSTA, MARIANO",
+        "Esperado 2": "SANTANDER"
+    },
+    {
+        "direccion": "CAMBIESES, EUSTAQUIO 1954",
+        "Esperado 1": "VELAZQUEZ",
+        "Esperado 2": "PORTELA"
+    },
+    {
+        "direccion": "CAMINO, MIGUEL ANDRES 3769",
+        "Esperado 1": "WILLIAMS, ALBERTO",
+        "Esperado 2": "YRURTIA, ROGELIO"
+    },
+    {
+        "direccion": "CAMINO, MIGUEL ANDRES 3746",
+        "Esperado 1": "FERNANDEZ, MACEDONIO",
+        "Esperado 2": "WILLIAMS, ALBERTO"
+    },
+    {
+        "direccion": "CAMINO, MIGUEL ANDRES 3647",
+        "Esperado 1": "LARRALDE, CRISOLOGO AV.",
+        "Esperado 2": "20 DE FEBRERO"
+    },
+    {
+        "direccion": "CAMOATI 5505",
+        "Esperado 1": "CORTINA",
+        "Esperado 2": "HUGO, VICTOR"
+    },
+    {
+        "direccion": "CAMPANA 1463",
+        "Esperado 1": "ANDALUCIA",
+        "Esperado 2": "DIAZ, CESAR, GRAL."
+    },
+    {
+        "direccion": "CAMPANA 1857",
+        "Esperado 1": "SAN BLAS",
+        "Esperado 2": "GARCIA, JUAN AGUSTIN"
+    },
+    {
+        "direccion": "CAMPANA 1458",
+        "Esperado 1": "ANDALUCIA",
+        "Esperado 2": "DIAZ, CESAR, GRAL."
+    },
+    {
+        "direccion": "CAMPICHUELO 376",
+        "Esperado 1": "BOGOTA",
+        "Esperado 2": "AVELLANEDA"
+    },
+    {
+        "direccion": "CAMPICHUELO 531",
+        "Esperado 1": "ARANGUREN, JUAN F., DR.",
+        "Esperado 2": "JAURETCHE, ARTURO"
+    },
+    {
+        "direccion": "MARECHAL, LEOPOLDO 968",
+        "Esperado 1": "FRANKLIN",
+        "Esperado 2": "LILLO AV."
+    },
+    {
+        "direccion": "MARECHAL, LEOPOLDO 1113",
+        "Esperado 1": "FERRARI",
+        "Esperado 2": "GALLARDO, ANGEL AV."
+    },
+    {
+        "direccion": "MARECHAL, LEOPOLDO 1314",
+        "Esperado 1": "WARNES AV.",
+        "Esperado 2": "GANDHI, MAHATMA"
+    },
+    {
+        "direccion": "CAMPILLO 2792",
+        "Esperado 1": "BAUNESS",
+        "Esperado 2": "MORLOTE"
+    },
+    {
+        "direccion": "CAMPILLO 2579",
+        "Esperado 1": "GAMARRA",
+        "Esperado 2": "TORRENT"
+    },
+    {
+        "direccion": "CAMPILLO 2854",
+        "Esperado 1": "BUCARELLI",
+        "Esperado 2": "BAUNESS"
+    },
+    {
+        "direccion": "CAMPOS, GASPAR 487",
+        "Esperado 1": "ALBERDI, JUAN BAUTISTA AV.",
+        "Esperado 2": "FORMOSA"
+    },
+    {
+        "direccion": "CAMPOS, LUIS M. AV. 1495",
+        "Esperado 1": "ZABALA",
+        "Esperado 2": "LORETO, VIRREY"
+    },
+    {
+        "direccion": "CAMPOS, LUIS M. AV. 350",
+        "Esperado 1": "AREVALO",
+        "Esperado 2": "CHENAUT, INDALESIO, GRAL. AV."
+    },
+    {
+        "direccion": "CAMPOS, LUIS M. AV. 301",
+        "Esperado 1": "AREVALO",
+        "Esperado 2": "CHENAUT, INDALESIO, GRAL. AV."
+    },
+    {
+        "direccion": "CAMPOS SALLES 1987",
+        "Esperado 1": "3 DE FEBRERO",
+        "Esperado 2": "GRECIA"
+    },
+    {
+        "direccion": "CAMPOS SALLES 2261",
+        "Esperado 1": "CUBA",
+        "Esperado 2": "VUELTA DE OBLIGADO"
+    },
+    {
+        "direccion": "CANADA 4854",
+        "Esperado 1": "ALLENDE",
+        "Esperado 2": "DESAGUADERO"
+    },
+    {
+        "direccion": "CANDELARIA 198",
+        "Esperado 1": "RAFAELA",
+        "Esperado 2": "FALCON, RAMON L.,CNEL."
+    },
+    {
+        "direccion": "CANDELARIA 82",
+        "Esperado 1": "FALCON, RAMON L.,CNEL.",
+        "Esperado 2": "RIVADAVIA AV."
+    },
+    {
+        "direccion": "CANE, MIGUEL 3037",
+        "Esperado 1": "OMBU",
+        "Esperado 2": "TEDIN, JUEZ"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 2712",
+        "Esperado 1": "CASTELLI",
+        "Esperado 2": "PUEYRREDON AV."
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 646",
+        "Esperado 1": "FLORIDA",
+        "Esperado 2": "MAIPU"
+    },
+    {
+        "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 3430",
+        "Esperado 1": "SANCHEZ DE BUSTAMANTE",
+        "Esperado 2": "BILLINGHURST"
+    },
+    {
+        "direccion": "CANGAYE 808",
+        "Esperado 1": "ARREGUI",
+        "Esperado 2": "LASCANO"
+    },
+    {
+        "direccion": "CANGAYE 1050",
+        "Esperado 1": "SANTO TOME",
+        "Esperado 2": "SASTRE, MARCOS"
+    },
+    {
+        "direccion": "CANGAYE 1146",
+        "Esperado 1": "SASTRE, MARCOS",
+        "Esperado 2": "NOGOYA"
+    },
+    {
+        "direccion": "SOLANO LOPEZ, F., MARISCAL 2839",
+        "Esperado 1": "TERRADA",
+        "Esperado 2": "GUTENBERG"
+    },
+    {
+        "direccion": "SOLANO LOPEZ, F., MARISCAL 2692",
+        "Esperado 1": "CONDARCO",
+        "Esperado 2": "ESTADO PLURINACIONAL DE BOLIVIA"
+    },
+    {
+        "direccion": "SOLANO LOPEZ, F., MARISCAL 3065",
+        "Esperado 1": "ARGERICH",
+        "Esperado 2": "HELGUERA"
+    },
+    {
+        "direccion": "CAÑADA DE GOMEZ 4868",
+        "Esperado 1": "CHILAVERT, MARTINIANO, CORONEL",
+        "Esperado 2": "FERNANDEZ DE LA CRUZ, F., GRAL. AV."
+    },
+    {
+        "direccion": "CAÑADA DE GOMEZ 1961",
+        "Esperado 1": "ALBERDI, JUAN BAUTISTA AV.",
+        "Esperado 2": "BRAGADO"
+    },
+    {
+        "direccion": "CAÑADA DE GOMEZ 4154",
+        "Esperado 1": "ZELARRAYAN",
+        "Esperado 2": "AQUINO"
+    },
+    {
+        "direccion": "CAÑUELAS 292",
+        "Esperado 1": "MURILLO",
+        "Esperado 2": "PADILLA"
+    },
+    {
+        "direccion": "CAPDEVILA 3085",
+        "Esperado 1": "CONGRESO AV.",
+        "Esperado 2": "QUESADA"
+    },
+    {
+        "direccion": "CAPDEVILA 3286",
+        "Esperado 1": "IBERA",
+        "Esperado 2": "TAMBORINI, JOSE PASCUAL"
+    },
+    {
+        "direccion": "CAPDEVILA 3040",
+        "Esperado 1": "CONGRESO AV.",
+        "Esperado 2": "QUESADA"
+    },
+    {
+        "direccion": "CAPERUCITA 1161",
+        "Esperado 1": "BARCO CENTENERA DEL",
+        "Esperado 2": "PICHEUTA"
+    },
+    {
+        "direccion": "CARABELAS 304",
+        "Esperado 1": "SARMIENTO",
+        "Esperado 2": "SAENZ PEÑA, ROQUE, PRES. DIAGONAL NORTE AV."
+    },
+    {
+        "direccion": "CARABELAS 282",
+        "Esperado 1": "PERON, JUAN DOMINGO, TTE. GENERAL",
+        "Esperado 2": "SARMIENTO"
+    },
+    {
+        "direccion": "CARABELAS 211",
+        "Esperado 1": "PERON, JUAN DOMINGO, TTE. GENERAL",
+        "Esperado 2": "SARMIENTO"
+    },
+    {
+        "direccion": "CARABOBO AV. 86",
+        "Esperado 1": "TIMBO",
+        "Esperado 2": "FALCON, RAMON L.,CNEL."
+    },
+    {
+        "direccion": "CARABOBO AV. 424",
+        "Esperado 1": "DIRECTORIO AV.",
+        "Esperado 2": "BILBAO, FRANCISCO"
+    },
+    {
+        "direccion": "CARABOBO AV. 217",
+        "Esperado 1": "ALBERDI, JUAN BAUTISTA AV.",
+        "Esperado 2": "BONIFACIO, JOSE"
+    },
+    {
+        "direccion": "COREA AV. 1766",
+        "Esperado 1": "CASTAÑARES AV.",
+        "Esperado 2": "RIVA, GASTON"
+    },
+    {
+        "direccion": "CARACAS 4750",
+        "Esperado 1": "MOSCONI GENERAL AV.",
+        "Esperado 2": "LOPEZ, CARLOS ANTONIO"
+    },
+    {
+        "direccion": "CARACAS 2091",
+        "Esperado 1": "CAMARONES",
+        "Esperado 2": "SAN BLAS"
+    },
+    {
+        "direccion": "CARACAS 2461",
+        "Esperado 1": "BIARRITZ",
+        "Esperado 2": "CARRANZA, ADOLFO P."
+    }
+]    

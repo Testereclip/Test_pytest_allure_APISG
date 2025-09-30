@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 1888,
+    "codCalle_2": 1940,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99428.9297849605,
+    "coordenada_y": 95038.7186620642,
+    "direccion": "POLA Y CALOU, JUAN P.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "POLA",
+    "nombreCalle_2": "CALOU, JUAN P.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "066-032-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

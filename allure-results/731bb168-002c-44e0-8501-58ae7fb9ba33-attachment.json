@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1027,
+    "codCalle_2": 2363,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103579.0000974474,
+    "coordenada_y": 104037.2030364287,
+    "direccion": "ALVAREZ, JULIAN Y HONDURAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALVAREZ, JULIAN",
+    "nombreCalle_2": "HONDURAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-028-007b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

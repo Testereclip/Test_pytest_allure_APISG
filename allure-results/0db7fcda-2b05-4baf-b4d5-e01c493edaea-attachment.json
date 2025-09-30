@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio Papa Francisco",
+    "codCalle_1": 1278,
+    "codCalle_2": 1952,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100080.6131789094,
+    "coordenada_y": 94927.5439425659,
+    "direccion": "CORVALAN Y KAHLO, FRIDA",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CORVALAN",
+    "nombreCalle_2": "KAHLO, FRIDA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "066-111-003",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

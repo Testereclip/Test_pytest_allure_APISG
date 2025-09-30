@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 380,
+    "codCalle_2": 2307,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95372.9375986089,
+    "coordenada_y": 103089.2577234738,
+    "direccion": "GUALEGUAYCHU Y NUEVA YORK",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUALEGUAYCHU",
+    "nombreCalle_2": "NUEVA YORK",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-026-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

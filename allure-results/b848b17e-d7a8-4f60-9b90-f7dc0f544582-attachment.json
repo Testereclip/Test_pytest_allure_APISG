@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 417,
+    "codCalle_2": 2686,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 103242.5782222861,
+    "coordenada_y": 100880.117099226,
+    "direccion": "LA PLATA AV. Y MORSE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LA PLATA AV.",
+    "nombreCalle_2": "MORSE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-143-027c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

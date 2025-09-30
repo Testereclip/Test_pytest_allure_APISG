@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 2527,
+    "codCalle_2": 1946,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 105705.226491688,
+    "coordenada_y": 105358.1795832342,
+    "direccion": "ELIZALDE, RUFINO DE Y CASTILLA, RAMON, MARISCAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ELIZALDE, RUFINO DE",
+    "nombreCalle_2": "CASTILLA, RAMON, MARISCAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-077-000B",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

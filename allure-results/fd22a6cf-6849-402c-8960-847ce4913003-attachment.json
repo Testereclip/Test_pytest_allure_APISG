@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1027,
+    "codCalle_2": 1536,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103950.1250974132,
+    "coordenada_y": 104348.0467864219,
+    "direccion": "ALVAREZ, JULIAN Y ACU\u00d1A DE FIGUEROA, FRANCISCO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALVAREZ, JULIAN",
+    "nombreCalle_2": "ACU\u00d1A DE FIGUEROA, FRANCISCO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-103-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

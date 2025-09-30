@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1107,
+    "codCalle_2": 2102,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106819.7969715245,
+    "coordenada_y": 97426.8983498139,
+    "direccion": "VELEZ SARSFIELD AV. Y RIO CUARTO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VELEZ SARSFIELD AV.",
+    "nombreCalle_2": "RIO CUARTO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-006B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

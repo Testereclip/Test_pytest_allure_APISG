@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 281,
+    "codCalle_2": 2363,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101996.1797852783,
+    "coordenada_y": 105461.0702236768,
+    "direccion": "DORREGO Y HONDURAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DORREGO",
+    "nombreCalle_2": "HONDURAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "035-008C-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

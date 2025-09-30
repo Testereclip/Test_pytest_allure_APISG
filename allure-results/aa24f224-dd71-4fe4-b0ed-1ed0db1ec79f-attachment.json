@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 557,
+    "codCalle_2": 2367,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107907.2266589114,
+    "coordenada_y": 98157.2420998134,
+    "direccion": "SALMUN FEIJOO, JOSE AARON Y ALVARADO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SALMUN FEIJOO, JOSE AARON",
+    "nombreCalle_2": "ALVARADO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-111-004e",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

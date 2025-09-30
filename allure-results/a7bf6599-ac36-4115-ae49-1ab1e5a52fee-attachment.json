@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 395,
+    "codCalle_2": 1934,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 101307.5704099164,
+    "coordenada_y": 98565.6092868327,
+    "direccion": "BONORINO, ESTEBAN, CNEL. AV. Y DIAZ, AVELINO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BONORINO, ESTEBAN, CNEL. AV.",
+    "nombreCalle_2": "DIAZ, AVELINO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-040-006e",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

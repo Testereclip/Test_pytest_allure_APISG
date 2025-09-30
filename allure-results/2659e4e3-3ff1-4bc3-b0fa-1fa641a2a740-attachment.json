@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 1441,
+    "codCalle_2": 2530,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105792.5391593218,
+    "coordenada_y": 99622.3202245253,
+    "direccion": "JUJUY AV. Y CASTILLO, CATULO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JUJUY AV.",
+    "nombreCalle_2": "CASTILLO, CATULO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "024-054-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

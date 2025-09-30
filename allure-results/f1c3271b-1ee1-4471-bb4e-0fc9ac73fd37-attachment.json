@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": 1025,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 1004,
+    "codCalle_2": null,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108651.4791023946,
+    "coordenada_y": 99850.7755487238,
+    "direccion": "PI Y MARGALL 1025",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "nombreCalle_1": "PI Y MARGALL",
+    "nombreCalle_2": null,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "008-071-016",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_altura"
+  },
+  "status_code": 200
+}

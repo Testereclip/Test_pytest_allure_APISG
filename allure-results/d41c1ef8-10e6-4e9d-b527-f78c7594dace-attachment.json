@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 1699,
+    "codCalle_2": 2458,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100069.3516601409,
+    "coordenada_y": 99135.4842866907,
+    "direccion": "BILBAO, FRANCISCO AV. Y ARROTEA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BILBAO, FRANCISCO AV.",
+    "nombreCalle_2": "ARROTEA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-075-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

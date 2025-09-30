@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 1582,
+    "codCalle_2": 2670,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98976.226660687,
+    "coordenada_y": 104841.171786037,
+    "direccion": "TASSO Y GAMARRA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TASSO",
+    "nombreCalle_2": "GAMARRA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-047-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

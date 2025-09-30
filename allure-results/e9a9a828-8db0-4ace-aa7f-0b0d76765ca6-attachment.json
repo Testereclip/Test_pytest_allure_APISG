@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 658,
+    "codCalle_2": 2640,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102733.7500971793,
+    "coordenada_y": 98188.7967869659,
+    "direccion": "RIESTRA AV. Y MOM",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIESTRA AV.",
+    "nombreCalle_2": "MOM",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-154-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

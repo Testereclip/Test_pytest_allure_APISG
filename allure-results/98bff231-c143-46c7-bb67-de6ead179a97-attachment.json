@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN TELMO",
+    "barrioInf": null,
+    "codCalle_1": 2115,
+    "codCalle_2": 2452,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108279.6172840595,
+    "coordenada_y": 101190.6639745324,
+    "direccion": "ESTADOS UNIDOS Y BOLIVAR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ESTADOS UNIDOS",
+    "nombreCalle_2": "BOLIVAR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "004-023-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 2375,
+    "codCalle_2": 2514,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99503.4454100202,
+    "coordenada_y": 96083.5780369623,
+    "direccion": "PASEO ISLAS MALVINAS Y CASTA\u00d1ARES AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PASEO ISLAS MALVINAS",
+    "nombreCalle_2": "CASTA\u00d1ARES AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "066-091-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

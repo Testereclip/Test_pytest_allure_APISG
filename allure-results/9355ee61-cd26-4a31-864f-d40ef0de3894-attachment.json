@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 733,
+    "codCalle_2": 924,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 100599.289160253,
+    "coordenada_y": 102003.0545989366,
+    "direccion": "ORO\u00d1O, NICASIO Y FIGUEROA, D. APOLINARIO, CORONEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ORO\u00d1O, NICASIO",
+    "nombreCalle_2": "FIGUEROA, D. APOLINARIO, CORONEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-110-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

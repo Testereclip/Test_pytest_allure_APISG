@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 202,
+    "codCalle_2": 2553,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99847.9219730336,
+    "coordenada_y": 104505.3280361296,
+    "direccion": "14 DE JULIO Y GIRARDOT",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "14 DE JULIO",
+    "nombreCalle_2": "GIRARDOT",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-128-034b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

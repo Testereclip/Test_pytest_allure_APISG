@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 1574,
+    "codCalle_2": 1702,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94528.9141609023,
+    "coordenada_y": 98174.1327239164,
+    "direccion": "COSQUIN Y HUMAITA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "COSQUIN",
+    "nombreCalle_2": "HUMAITA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-067A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 836,
+    "codCalle_2": 2525,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101704.1485351613,
+    "coordenada_y": 103082.7108488967,
+    "direccion": "ACOYTE Y GALICIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACOYTE",
+    "nombreCalle_2": "GALICIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-094-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

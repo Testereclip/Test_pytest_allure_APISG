@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio Papa Francisco",
+    "codCalle_1": 805,
+    "codCalle_2": 2693,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99955.5675413899,
+    "coordenada_y": 94875.4081902595,
+    "direccion": "MORO, JUANA Y GANDARILLAS, MANUELA",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MORO, JUANA",
+    "nombreCalle_2": "GANDARILLAS, MANUELA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "066-111-001",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 151,
+    "codCalle_2": 1483,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101561.4219728572,
+    "coordenada_y": 105674.906161126,
+    "direccion": "NEWBERY, JORGE Y FREIRE, RAMON, CAP. GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NEWBERY, JORGE",
+    "nombreCalle_2": "FREIRE, RAMON, CAP. GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "035-025-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

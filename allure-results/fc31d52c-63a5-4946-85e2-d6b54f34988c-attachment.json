@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1697,
+    "codCalle_2": 475,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102969.5469727204,
+    "coordenada_y": 106764.1170986092,
+    "direccion": "ORTEGA Y GASSET Y MIGUELETES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "nombreCalle_2": "MIGUELETES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-106-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

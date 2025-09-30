@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 264,
+    "codCalle_2": 654,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 110037.0221522826,
+    "coordenada_y": 99775.2049273707,
+    "direccion": "AUTOPISTA BUENOS AIRES - LA PLATA Y PINZON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AUTOPISTA BUENOS AIRES - LA PLATA",
+    "nombreCalle_2": "PINZON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "006-129-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

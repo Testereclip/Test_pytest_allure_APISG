@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 2668,
+    "codCalle_2": 1803,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97043.4920554947,
+    "coordenada_y": 105524.2474819759,
+    "direccion": "DE LOS CONSTITUYENTES AV. Y MONROE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LOS CONSTITUYENTES AV.",
+    "nombreCalle_2": "MONROE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "073-088-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

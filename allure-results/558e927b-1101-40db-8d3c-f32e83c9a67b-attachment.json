@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 781,
+    "codCalle_2": 2520,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108057.3594714091,
+    "coordenada_y": 98458.8514747922,
+    "direccion": "HORNOS, GRAL. Y ROCHA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HORNOS, GRAL.",
+    "nombreCalle_2": "ROCHA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-135-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

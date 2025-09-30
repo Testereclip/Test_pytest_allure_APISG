@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 2138,
+    "codCalle_2": 2439,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101957.2891599914,
+    "coordenada_y": 101107.4452241182,
+    "direccion": "YERBAL Y ROJAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "YERBAL",
+    "nombreCalle_2": "ROJAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-015A-006b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

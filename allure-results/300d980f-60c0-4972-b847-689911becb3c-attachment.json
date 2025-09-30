@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 2322,
+    "codCalle_2": 2374,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96897.679785567,
+    "coordenada_y": 98430.9217865489,
+    "direccion": "ESCALADA AV. Y CASTRO, EMILIO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ESCALADA AV.",
+    "nombreCalle_2": "CASTRO, EMILIO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "060-109-026",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

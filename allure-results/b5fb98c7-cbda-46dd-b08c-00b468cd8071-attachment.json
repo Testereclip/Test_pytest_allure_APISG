@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 522,
+    "codCalle_2": 750,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94930.0860357425,
+    "coordenada_y": 96673.6405365972,
+    "direccion": "FRAGATA TRINIDAD Y PIZARRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FRAGATA TRINIDAD",
+    "nombreCalle_2": "PIZARRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "074-010B-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

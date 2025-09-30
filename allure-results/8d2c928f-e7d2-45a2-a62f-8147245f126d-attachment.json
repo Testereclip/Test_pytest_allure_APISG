@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COGHLAN",
+    "barrioInf": null,
+    "codCalle_1": 1837,
+    "codCalle_2": 2199,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 99069.0079108859,
+    "coordenada_y": 108000.6483482212,
+    "direccion": "PROMETEO Y TAMBORINI, JOSE PASCUAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PROMETEO",
+    "nombreCalle_2": "TAMBORINI, JOSE PASCUAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "041-069A-024h",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

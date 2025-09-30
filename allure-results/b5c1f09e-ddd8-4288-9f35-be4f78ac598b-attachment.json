@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1786,
+    "codCalle_2": 2359,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101975.2188474149,
+    "coordenada_y": 100009.6014742308,
+    "direccion": "DIRECTORIO AV. Y CACHIMAYO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DIRECTORIO AV.",
+    "nombreCalle_2": "CACHIMAYO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-013-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

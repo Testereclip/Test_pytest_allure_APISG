@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 387,
+    "codCalle_2": 1329,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 97067.3562158475,
+    "coordenada_y": 94926.237639597,
+    "direccion": "SCAPINO, RODOLFO Y MONTIEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SCAPINO, RODOLFO",
+    "nombreCalle_2": "MONTIEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "078-008A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

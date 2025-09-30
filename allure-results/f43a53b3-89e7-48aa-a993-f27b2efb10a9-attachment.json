@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 64,
+    "codCalle_2": 2498,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98274.0625982877,
+    "coordenada_y": 104763.5780359962,
+    "direccion": "TURIN Y BARZANA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TURIN",
+    "nombreCalle_2": "BARZANA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-116-020b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

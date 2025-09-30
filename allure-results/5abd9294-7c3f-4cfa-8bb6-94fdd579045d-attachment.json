@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VERSALLES",
+    "barrioInf": null,
+    "codCalle_1": 1460,
+    "codCalle_2": 2728,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95743.8672858045,
+    "coordenada_y": 99404.8749113742,
+    "direccion": "MAGARI\u00d1OS CERVANTES, A. Y RUIZ DE LOS LLANOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MAGARI\u00d1OS CERVANTES, A.",
+    "nombreCalle_2": "RUIZ DE LOS LLANOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "091-039-022",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

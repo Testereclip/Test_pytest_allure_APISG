@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 2171,
+    "codCalle_2": 2541,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99857.3594730681,
+    "coordenada_y": 105030.8670985765,
+    "direccion": "GUEVARA Y ESTOMBA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUEVARA",
+    "nombreCalle_2": "ESTOMBA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-116-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

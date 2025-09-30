@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 391,
+    "codCalle_2": 2161,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99846.4454107195,
+    "coordenada_y": 107228.078035852,
+    "direccion": "OLAZABAL Y ZAPIOLA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OLAZABAL",
+    "nombreCalle_2": "ZAPIOLA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "039-058-024b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

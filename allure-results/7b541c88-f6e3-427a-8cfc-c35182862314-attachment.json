@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 1382,
+    "codCalle_2": 2236,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94493.3282236611,
+    "coordenada_y": 101914.9061610341,
+    "direccion": "RIO SALADO Y NAVARRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIO SALADO",
+    "nombreCalle_2": "NAVARRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "089-050-000C",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

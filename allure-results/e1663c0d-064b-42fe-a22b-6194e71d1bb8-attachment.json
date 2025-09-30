@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 2307,
+    "codCalle_2": 2555,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95489.3516610976,
+    "coordenada_y": 103176.210848472,
+    "direccion": "NUEVA YORK Y FERNANDEZ DE ENCISO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NUEVA YORK",
+    "nombreCalle_2": "FERNANDEZ DE ENCISO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-066-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

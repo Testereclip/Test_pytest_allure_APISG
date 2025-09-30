@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 777,
+    "codCalle_2": 1298,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98878.7032224811,
+    "coordenada_y": 94112.6717871217,
+    "direccion": "DE LA TORRE, LISANDRO Y UNANUE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LA TORRE, LISANDRO",
+    "nombreCalle_2": "UNANUE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "080-068-013b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 414,
+    "codCalle_2": 751,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100912.2969728257,
+    "coordenada_y": 103757.6639737764,
+    "direccion": "CALDAS Y LEIVA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CALDAS",
+    "nombreCalle_2": "LEIVA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-105A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

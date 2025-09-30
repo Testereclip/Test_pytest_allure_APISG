@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": 3071,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 542,
+    "codCalle_2": null,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100612.6417211167,
+    "coordenada_y": 106286.3446876962,
+    "direccion": "OLAGUER Y FELIU, VIRREY 3071",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_2": null,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "037-090-034a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_altura"
+  },
+  "status_code": 200
+}

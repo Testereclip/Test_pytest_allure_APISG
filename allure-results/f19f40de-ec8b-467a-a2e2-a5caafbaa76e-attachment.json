@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": null,
+    "codCalle_1": 1416,
+    "codCalle_2": 1607,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108296.5512544726,
+    "coordenada_y": 105060.2054496603,
+    "direccion": "ANTARTIDA ARGENTINA AV. Y ZANNI PEDRO COMODORO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ANTARTIDA ARGENTINA AV.",
+    "nombreCalle_2": "ZANNI PEDRO COMODORO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "003-072A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

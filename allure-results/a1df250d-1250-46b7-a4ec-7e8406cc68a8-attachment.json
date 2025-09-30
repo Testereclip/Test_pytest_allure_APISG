@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 493,
+    "codCalle_2": 2337,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102274.6407224608,
+    "coordenada_y": 101337.3670991147,
+    "direccion": "HIDALGO Y VILA, NICOLAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HIDALGO",
+    "nombreCalle_2": "VILA, NICOLAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-050A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

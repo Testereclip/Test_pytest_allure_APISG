@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 403,
+    "codCalle_2": 797,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94111.5625987243,
+    "coordenada_y": 101984.9608484997,
+    "direccion": "IBARROLA, RODRIGO DE Y ASUNCION",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "IBARROLA, RODRIGO DE",
+    "nombreCalle_2": "ASUNCION",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "089-001A-031",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

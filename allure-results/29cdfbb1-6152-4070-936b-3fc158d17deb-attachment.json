@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 470,
+    "codCalle_2": 867,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95823.2266610408,
+    "coordenada_y": 103060.1717860073,
+    "direccion": "SOLANO LOPEZ, F., MARISCAL Y BAHIA BLANCA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SOLANO LOPEZ, F., MARISCAL",
+    "nombreCalle_2": "BAHIA BLANCA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-097-005",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

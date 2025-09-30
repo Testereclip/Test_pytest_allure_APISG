@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 412,
+    "codCalle_2": 2322,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98002.9375978305,
+    "coordenada_y": 97377.9764742293,
+    "direccion": "SAN PEDRO Y ESCALADA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN PEDRO",
+    "nombreCalle_2": "ESCALADA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "062-146B-019a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

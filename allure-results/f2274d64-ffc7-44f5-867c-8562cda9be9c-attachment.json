@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 2692,
+    "codCalle_2": 2709,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97579.7401524884,
+    "coordenada_y": 103063.5512134564,
+    "direccion": "NAZCA AV. Y NOGOYA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NAZCA AV.",
+    "nombreCalle_2": "NOGOYA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "069-028-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

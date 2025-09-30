@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 50,
+    "codCalle_2": 1198,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95461.1016610579,
+    "coordenada_y": 102528.7186610362,
+    "direccion": "SEGUROLA AV. Y BEIRO, FRANCISCO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SEGUROLA AV.",
+    "nombreCalle_2": "BEIRO, FRANCISCO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-001A-007f",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

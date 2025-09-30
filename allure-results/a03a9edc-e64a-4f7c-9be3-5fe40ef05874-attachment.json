@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 239,
+    "codCalle_2": 2092,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 101263.4862251324,
+    "coordenada_y": 98931.1010484208,
+    "direccion": "ASAMBLEA AV. Y CARABOBO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ASAMBLEA AV.",
+    "nombreCalle_2": "CARABOBO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-074-010g",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

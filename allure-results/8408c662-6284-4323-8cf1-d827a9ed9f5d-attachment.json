@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 2655,
+    "codCalle_2": 2079,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98978.5614529298,
+    "coordenada_y": 105314.7663243763,
+    "direccion": "DE LOS INCAS AV. Y CADIZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LOS INCAS AV.",
+    "nombreCalle_2": "CADIZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-086-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

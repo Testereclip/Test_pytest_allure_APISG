@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 2236,
+    "codCalle_2": 2629,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94377.2344736721,
+    "coordenada_y": 101820.5624110328,
+    "direccion": "NAVARRO Y ALTA GRACIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NAVARRO",
+    "nombreCalle_2": "ALTA GRACIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "089-043B-004c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

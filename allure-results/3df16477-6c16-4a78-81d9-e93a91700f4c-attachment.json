@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 175,
+    "codCalle_2": 2246,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97677.9219732206,
+    "coordenada_y": 102456.9374111909,
+    "direccion": "ARREGUI Y HELGUERA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARREGUI",
+    "nombreCalle_2": "HELGUERA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "069-011-035",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

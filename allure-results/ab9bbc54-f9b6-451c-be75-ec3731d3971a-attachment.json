@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 595,
+    "codCalle_2": 2687,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108330.2512898281,
+    "coordenada_y": 97539.0376190722,
+    "direccion": "CRUZ, OSVALDO AV. Y AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CRUZ, OSVALDO AV.",
+    "nombreCalle_2": "AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-129-020c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN NICOLAS",
+    "barrioInf": null,
+    "codCalle_1": 1556,
+    "codCalle_2": 2559,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108313.7813466935,
+    "coordenada_y": 103279.2577243224,
+    "direccion": "RECONQUISTA Y VIAMONTE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RECONQUISTA",
+    "nombreCalle_2": "VIAMONTE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "001-039-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

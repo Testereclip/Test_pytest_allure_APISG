@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1379,
+    "codCalle_2": 1861,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104877.3672843006,
+    "coordenada_y": 97243.8436622051,
+    "direccion": "ALCORTA, AMANCIO AV. Y CACHI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALCORTA, AMANCIO AV.",
+    "nombreCalle_2": "CACHI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "034-053C-031",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

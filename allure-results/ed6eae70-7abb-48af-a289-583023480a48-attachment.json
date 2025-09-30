@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 643,
+    "codCalle_2": 2222,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102782.336035165,
+    "coordenada_y": 105516.5155362248,
+    "direccion": "GUATEMALA Y BONPLAND",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUATEMALA",
+    "nombreCalle_2": "BONPLAND",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "035-100-021",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

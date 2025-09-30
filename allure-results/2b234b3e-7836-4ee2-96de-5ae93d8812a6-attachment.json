@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "AGRONOMIA",
+    "barrioInf": null,
+    "codCalle_1": 470,
+    "codCalle_2": 510,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 96674.5079109549,
+    "coordenada_y": 103697.4452234983,
+    "direccion": "SOLANO LOPEZ, F., MARISCAL Y SAN MARTIN AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SOLANO LOPEZ, F., MARISCAL",
+    "nombreCalle_2": "SAN MARTIN AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "071-013-006b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

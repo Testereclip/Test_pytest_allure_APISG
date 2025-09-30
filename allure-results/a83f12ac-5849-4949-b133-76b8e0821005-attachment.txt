@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ARRIBE%C3%91OS+Y+UGARTE%2C+MANUEL&v2=true

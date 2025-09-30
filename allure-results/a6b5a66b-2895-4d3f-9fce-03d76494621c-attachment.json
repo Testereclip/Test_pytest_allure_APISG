@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 521,
+    "codCalle_2": 906,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97665.4766609135,
+    "coordenada_y": 105287.3983484024,
+    "direccion": "JURAMENTO Y BURELA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JURAMENTO",
+    "nombreCalle_2": "BURELA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-011A-030c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

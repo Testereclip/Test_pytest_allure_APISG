@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 717,
+    "codCalle_2": 1961,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105628.693334041,
+    "coordenada_y": 96814.6115113569,
+    "direccion": "8 DE JULIO DE 2008 Y IGUAZU",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "8 DE JULIO DE 2008",
+    "nombreCalle_2": "IGUAZU",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "034-084G-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

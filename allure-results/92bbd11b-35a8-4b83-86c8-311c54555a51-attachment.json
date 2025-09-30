@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 2110,
+    "codCalle_2": 2274,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 105199.7657222548,
+    "coordenada_y": 104762.4842864624,
+    "direccion": "BILLINGHURST Y FRENCH",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BILLINGHURST",
+    "nombreCalle_2": "FRENCH",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-052-023a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

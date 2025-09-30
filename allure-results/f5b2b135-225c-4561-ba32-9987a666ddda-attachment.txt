@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LOPEZ%2C+JORGE+EDUARDO%2C+CABO+2%C2%BA+Y+CASTA%C3%91ARES+AV.&v2=true

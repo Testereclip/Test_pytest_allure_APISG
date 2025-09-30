@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 1235,
+    "codCalle_2": 2223,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 102727.1641595847,
+    "coordenada_y": 96753.4452246102,
+    "direccion": "PEDERNERA Y MENDEZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PEDERNERA",
+    "nombreCalle_2": "MENDEZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "046-029B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

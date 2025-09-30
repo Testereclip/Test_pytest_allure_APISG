@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA REAL",
+    "barrioInf": null,
+    "codCalle_1": 76,
+    "codCalle_2": 2203,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 94376.0547861039,
+    "coordenada_y": 100792.8905361376,
+    "direccion": "LOZANO, PEDRO Y IRIGOYEN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LOZANO, PEDRO",
+    "nombreCalle_2": "IRIGOYEN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "093-098B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

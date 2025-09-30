@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 1683,
+    "codCalle_2": 1898,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 99174.3672850959,
+    "coordenada_y": 96485.8592868998,
+    "direccion": "HOMERO Y DELLEPIANE, LUIS, TTE. GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HOMERO",
+    "nombreCalle_2": "DELLEPIANE, LUIS, TTE. GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "064-102B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

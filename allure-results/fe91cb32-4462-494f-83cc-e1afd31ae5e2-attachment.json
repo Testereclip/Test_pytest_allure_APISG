@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 807,
+    "codCalle_2": 1604,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102136.9610347746,
+    "coordenada_y": 98283.2499119184,
+    "direccion": "PUAN Y SOMELLERA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PUAN",
+    "nombreCalle_2": "SOMELLERA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-119B-011a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

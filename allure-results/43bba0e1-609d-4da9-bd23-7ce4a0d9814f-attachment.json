@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 182,
+    "codCalle_2": 1321,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106929.1954090516,
+    "coordenada_y": 98059.2108497584,
+    "direccion": "LUZURIAGA Y AUSTRALIA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LUZURIAGA",
+    "nombreCalle_2": "AUSTRALIA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-009C-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

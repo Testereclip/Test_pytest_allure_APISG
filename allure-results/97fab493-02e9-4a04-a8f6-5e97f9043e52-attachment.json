@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 1981,
+    "codCalle_2": 1309,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96539.2344732048,
+    "coordenada_y": 99673.4374113991,
+    "direccion": "LOPE DE VEGA Y JUSTO, JUAN B. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LOPE DE VEGA",
+    "nombreCalle_2": "JUSTO, JUAN B. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-001-016",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

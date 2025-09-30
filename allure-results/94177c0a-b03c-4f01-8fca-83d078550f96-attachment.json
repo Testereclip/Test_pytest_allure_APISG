@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 1844,
+    "codCalle_2": 2191,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96113.140723216,
+    "coordenada_y": 98882.5936614499,
+    "direccion": "BASUALDO Y FALCON, RAMON L.,CNEL. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BASUALDO",
+    "nombreCalle_2": "FALCON, RAMON L.,CNEL. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "060-086-001d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

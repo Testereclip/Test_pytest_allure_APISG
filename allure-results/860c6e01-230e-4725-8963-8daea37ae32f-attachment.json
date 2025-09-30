@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": "Barrio Fatima (Villa 3)",
+    "codCalle_1": 66,
+    "codCalle_2": 658,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100930.1174805517,
+    "coordenada_y": 96814.3612857926,
+    "direccion": "PASAJE LA ESPERANZA Y RIESTRA AV.",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PASAJE LA ESPERANZA",
+    "nombreCalle_2": "RIESTRA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "056-106C-002",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

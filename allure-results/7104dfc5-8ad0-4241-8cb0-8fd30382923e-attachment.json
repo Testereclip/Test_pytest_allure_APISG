@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 1900,
+    "codCalle_2": 2169,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106727.8282220143,
+    "coordenada_y": 104540.1639740888,
+    "direccion": "QUINTANA, MANUEL, PRES. AV. Y AYACUCHO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "QUINTANA, MANUEL, PRES. AV.",
+    "nombreCalle_2": "AYACUCHO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "011-084-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

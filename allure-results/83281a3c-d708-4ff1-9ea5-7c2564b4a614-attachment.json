@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 331,
+    "codCalle_2": 516,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 103036.5469722169,
+    "coordenada_y": 99415.156161861,
+    "direccion": "ALBARRACIN Y SANTANDER",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALBARRACIN",
+    "nombreCalle_2": "SANTANDER",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-051-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

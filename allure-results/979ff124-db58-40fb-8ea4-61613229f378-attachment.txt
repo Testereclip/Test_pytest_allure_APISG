@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=UGARTE%2C+MANUEL+Y+VUELTA+DE+OBLIGADO&v2=true

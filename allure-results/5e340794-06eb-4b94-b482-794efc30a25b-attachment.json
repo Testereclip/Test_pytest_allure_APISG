@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": "Barrio Padre Mugica",
+    "codCalle_1": 300,
+    "codCalle_2": 2312,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107658.8890502813,
+    "coordenada_y": 104994.9351763352,
+    "direccion": "ALPACA Y AUTOPISTA ARTURO ILLIA",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALPACA",
+    "nombreCalle_2": "AUTOPISTA ARTURO ILLIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "GU - Guemes",
+    "smp": "003-066B-001r",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

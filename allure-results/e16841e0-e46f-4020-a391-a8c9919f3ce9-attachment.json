@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio Papa Francisco",
+    "codCalle_1": 805,
+    "codCalle_2": 2216,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100010.9085958546,
+    "coordenada_y": 94932.4108104413,
+    "direccion": "MORO, JUANA Y BELTRAN, NELLY",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MORO, JUANA",
+    "nombreCalle_2": "BELTRAN, NELLY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "066-117-000",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

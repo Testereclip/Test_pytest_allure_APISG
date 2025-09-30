@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 445,
+    "codCalle_2": 1801,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97346.5235357139,
+    "coordenada_y": 101625.4139737525,
+    "direccion": "LAMARCA, EMILIO Y GONZALEZ, ELPIDIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAMARCA, EMILIO",
+    "nombreCalle_2": "GONZALEZ, ELPIDIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-097-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

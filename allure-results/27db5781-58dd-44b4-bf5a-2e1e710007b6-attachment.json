@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 336,
+    "codCalle_2": 921,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95379.1954109372,
+    "coordenada_y": 100548.6170987314,
+    "direccion": "VIRGILIO Y LASCANO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VIRGILIO",
+    "nombreCalle_2": "LASCANO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "093-167A-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

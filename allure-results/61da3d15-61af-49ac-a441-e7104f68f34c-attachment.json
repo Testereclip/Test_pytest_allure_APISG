@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 128,
+    "codCalle_2": 1006,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95432.9922859148,
+    "coordenada_y": 100328.4139737568,
+    "direccion": "BOLONIA Y MOLIERE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BOLONIA",
+    "nombreCalle_2": "MOLIERE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "091-080-039",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

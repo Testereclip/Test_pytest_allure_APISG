@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 559,
+    "codCalle_2": 2251,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108623.4610338498,
+    "coordenada_y": 98792.8592872986,
+    "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. Y REGIMIENTO DE PATRICIOS AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARAOZ DE LAMADRID, GREGORIO, GRAL.",
+    "nombreCalle_2": "REGIMIENTO DE PATRICIOS AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-046-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

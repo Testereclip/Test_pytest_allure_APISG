@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 236,
+    "codCalle_2": 488,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101658.6206689728,
+    "coordenada_y": 100799.8913647759,
+    "direccion": "RIVADAVIA AV. Y GAINZA, MARTIN DE, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIVADAVIA AV.",
+    "nombreCalle_2": "GAINZA, MARTIN DE, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "057-100-005",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

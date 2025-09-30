@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 1310,
+    "codCalle_2": 2666,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100571.4375978283,
+    "coordenada_y": 103037.0311613286,
+    "direccion": "SUNCHALES Y CUCHA CUCHA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SUNCHALES",
+    "nombreCalle_2": "CUCHA CUCHA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-177-003",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

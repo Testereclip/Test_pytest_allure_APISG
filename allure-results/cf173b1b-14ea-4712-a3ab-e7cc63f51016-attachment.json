@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 1525,
+    "codCalle_2": 2644,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97377.4688480382,
+    "coordenada_y": 99065.2733490158,
+    "direccion": "FALCON, RAMON L.,CNEL. Y MOZART",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FALCON, RAMON L.,CNEL.",
+    "nombreCalle_2": "MOZART",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-028A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

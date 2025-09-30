@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 919,
+    "codCalle_2": 1744,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 103007.0704096927,
+    "coordenada_y": 98980.7420994042,
+    "direccion": "BEAUCHEF Y QUEROL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BEAUCHEF",
+    "nombreCalle_2": "QUEROL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-048-016",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

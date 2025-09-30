@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 991,
+    "codCalle_2": 1145,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98182.6250981116,
+    "coordenada_y": 101961.1483487775,
+    "direccion": "ARGERICH Y INGENIEROS, JOSE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARGERICH",
+    "nombreCalle_2": "INGENIEROS, JOSE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "067-023-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

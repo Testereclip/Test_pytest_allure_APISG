@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 2364,
+    "codCalle_2": 2544,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 98150.5547854572,
+    "coordenada_y": 99590.1561615144,
+    "direccion": "MERCEDES Y FLORES, VENANCIO, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MERCEDES",
+    "nombreCalle_2": "FLORES, VENANCIO, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "077-107A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 10,
+    "codCalle_2": 961,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100665.9844730926,
+    "coordenada_y": 107184.4842859122,
+    "direccion": "SUCRE, ANTONIO JOSE DE, MCAL. Y CIUDAD DE LA PAZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SUCRE, ANTONIO JOSE DE, MCAL.",
+    "nombreCalle_2": "CIUDAD DE LA PAZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "039-095-009a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 836,
+    "codCalle_2": 1839,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102125.7735350566,
+    "coordenada_y": 102460.85928649,
+    "direccion": "ACOYTE Y DAVEL, DESIDERIO FERNANDO, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACOYTE",
+    "nombreCalle_2": "DAVEL, DESIDERIO FERNANDO, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-077-038",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

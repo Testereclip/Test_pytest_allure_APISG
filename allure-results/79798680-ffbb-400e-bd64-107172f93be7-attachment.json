@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 55,
+    "codCalle_2": 2035,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 95239.6094731708,
+    "coordenada_y": 96313.7264741512,
+    "direccion": "PRIMOLI, JUAN B. Y SALADILLO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PRIMOLI, JUAN B.",
+    "nombreCalle_2": "SALADILLO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "076-030-000G",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

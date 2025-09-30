@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 1678,
+    "codCalle_2": 2679,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99308.4890120346,
+    "coordenada_y": 104643.0148559578,
+    "direccion": "CHORROARIN AV. Y DEL CAMPO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CHORROARIN AV.",
+    "nombreCalle_2": "DEL CAMPO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-031-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

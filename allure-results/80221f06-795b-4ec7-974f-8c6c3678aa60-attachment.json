@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 2057,
+    "codCalle_2": 2219,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 95218.6407232974,
+    "coordenada_y": 98128.5936614659,
+    "direccion": "GARCIA DE COSSIO Y MURGUIONDO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GARCIA DE COSSIO",
+    "nombreCalle_2": "MURGUIONDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-126-033",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1379,
+    "codCalle_2": 1656,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104997.1250967916,
+    "coordenada_y": 97395.7264746964,
+    "direccion": "ALCORTA, AMANCIO AV. Y TABORDA, DIOGENES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALCORTA, AMANCIO AV.",
+    "nombreCalle_2": "TABORDA, DIOGENES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "034-068-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

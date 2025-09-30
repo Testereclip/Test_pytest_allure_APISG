@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 477,
+    "codCalle_2": 1525,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101422.7579100334,
+    "coordenada_y": 100557.0858491368,
+    "direccion": "CHIRIMAY Y FALCON, RAMON L.,CNEL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CHIRIMAY",
+    "nombreCalle_2": "FALCON, RAMON L.,CNEL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "042-076A-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

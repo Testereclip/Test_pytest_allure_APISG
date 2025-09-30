@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 383,
+    "codCalle_2": 658,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103084.6641596318,
+    "coordenada_y": 98250.7420994835,
+    "direccion": "NATAL Y RIESTRA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NATAL",
+    "nombreCalle_2": "RIESTRA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-011A-001b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

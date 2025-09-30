@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAAVEDRA",
+    "barrioInf": null,
+    "codCalle_1": 2396,
+    "codCalle_2": 2632,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98640.7422860679,
+    "coordenada_y": 109738.3827230151,
+    "direccion": "ARGELIA Y CRAMER",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARGELIA",
+    "nombreCalle_2": "CRAMER",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "043-151-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 516,
+    "codCalle_2": 1289,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102131.6250973401,
+    "coordenada_y": 99223.3514743204,
+    "direccion": "SANTANDER Y MARTINEZ, VICTOR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANTANDER",
+    "nombreCalle_2": "MARTINEZ, VICTOR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-137A-001f",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

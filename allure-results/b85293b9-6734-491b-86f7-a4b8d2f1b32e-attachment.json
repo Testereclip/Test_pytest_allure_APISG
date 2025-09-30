@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN NICOLAS",
+    "barrioInf": null,
+    "codCalle_1": 2212,
+    "codCalle_2": 2417,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 106915.937596869,
+    "coordenada_y": 102789.3124117774,
+    "direccion": "CORRIENTES AV. Y PARANA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CORRIENTES AV.",
+    "nombreCalle_2": "PARANA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "005-030-005f",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

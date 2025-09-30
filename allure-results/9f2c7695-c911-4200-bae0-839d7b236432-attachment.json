@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1482,
+    "codCalle_2": 1853,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101660.8907226016,
+    "coordenada_y": 102078.9374114996,
+    "direccion": "DEMARIA, ISIDORO Y PLANES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DEMARIA, ISIDORO",
+    "nombreCalle_2": "PLANES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-037A-004",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

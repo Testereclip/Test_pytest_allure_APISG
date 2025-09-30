@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 800,
+    "codCalle_2": 1967,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94228.7657233953,
+    "coordenada_y": 97378.2655364758,
+    "direccion": "LEGUIZAMON, ONESIMO Y SUAREZ, JOSE LEON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LEGUIZAMON, ONESIMO",
+    "nombreCalle_2": "SUAREZ, JOSE LEON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-021-024a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

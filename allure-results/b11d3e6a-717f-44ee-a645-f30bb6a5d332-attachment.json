@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "AGRONOMIA",
+    "barrioInf": null,
+    "codCalle_1": 991,
+    "codCalle_2": 2307,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 96739.5235359724,
+    "coordenada_y": 104110.8592859597,
+    "direccion": "ARGERICH Y NUEVA YORK",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARGERICH",
+    "nombreCalle_2": "NUEVA YORK",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "071-032-027a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

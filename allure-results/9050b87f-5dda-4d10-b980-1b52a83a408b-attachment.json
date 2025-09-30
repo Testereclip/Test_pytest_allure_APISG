@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "AGRONOMIA",
+    "barrioInf": null,
+    "codCalle_1": 797,
+    "codCalle_2": 2285,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 97226.6016609175,
+    "coordenada_y": 104356.7030359675,
+    "direccion": "ASUNCION Y ESTADO PLURINACIONAL DE BOLIVIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ASUNCION",
+    "nombreCalle_2": "ESTADO PLURINACIONAL DE BOLIVIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "071-084-029",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

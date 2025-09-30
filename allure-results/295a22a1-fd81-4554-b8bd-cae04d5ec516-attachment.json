@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 1328,
+    "codCalle_2": 2296,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 97306.2188477828,
+    "coordenada_y": 95125.9608494109,
+    "direccion": "ARGENTINA AV. Y PIEDRA BUENA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARGENTINA AV.",
+    "nombreCalle_2": "PIEDRA BUENA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "078-056-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

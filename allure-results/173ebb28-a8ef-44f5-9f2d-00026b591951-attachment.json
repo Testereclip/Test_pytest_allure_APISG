@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 2207,
+    "codCalle_2": 2498,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98352.2188482667,
+    "coordenada_y": 104648.5389735134,
+    "direccion": "MOSCU Y BARZANA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MOSCU",
+    "nombreCalle_2": "BARZANA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-072-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

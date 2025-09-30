@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 155,
+    "codCalle_2": 1814,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103924.8516598437,
+    "coordenada_y": 103243.4842865295,
+    "direccion": "RAUCH Y MEDRANO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RAUCH",
+    "nombreCalle_2": "MEDRANO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "017-083-041",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

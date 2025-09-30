@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 1806,
+    "codCalle_2": 2254,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 96592.4532233858,
+    "coordenada_y": 102494.8983486136,
+    "direccion": "MELINCUE Y SAN NICOLAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MELINCUE",
+    "nombreCalle_2": "SAN NICOLAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-086-032",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

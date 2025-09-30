@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": null,
+    "codCalle_1": 1300,
+    "codCalle_2": 2308,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107229.4967972517,
+    "coordenada_y": 104698.6906647375,
+    "direccion": "DEL LIBERTADOR AV. Y QUIROGA JUAN FACUNDO BRIG. GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DEL LIBERTADOR AV.",
+    "nombreCalle_2": "QUIROGA JUAN FACUNDO BRIG. GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "003-066B-001q",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

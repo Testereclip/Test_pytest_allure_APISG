@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 2110,
+    "codCalle_2": 2673,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 105124.515722258,
+    "coordenada_y": 104661.14834897,
+    "direccion": "BILLINGHURST Y JUNCAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BILLINGHURST",
+    "nombreCalle_2": "JUNCAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-027-001c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

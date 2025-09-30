@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PUERTO MADERO",
+    "barrioInf": "Barrio Rodrigo Bueno",
+    "codCalle_1": 858,
+    "codCalle_2": 2182,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 110139.6071412367,
+    "coordenada_y": 101330.9877474192,
+    "direccion": "WALSH, MARIA ELENA Y PARRA, VIOLETA",
+    "manzanaInf": "2",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "WALSH, MARIA ELENA",
+    "nombreCalle_2": "PARRA, VIOLETA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "098-063A-001",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

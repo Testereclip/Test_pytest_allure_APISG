@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 82,
+    "codCalle_2": 188,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106338.7344715888,
+    "coordenada_y": 97341.3983497921,
+    "direccion": "DAMIANOVICH, ELEODORO, DR. Y MADERA, JUAN, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DAMIANOVICH, ELEODORO, DR.",
+    "nombreCalle_2": "MADERA, JUAN, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "026-021F-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

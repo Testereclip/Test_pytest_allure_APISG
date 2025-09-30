@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 516,
+    "codCalle_2": 1185,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98842.7657226195,
+    "coordenada_y": 96092.1405369191,
+    "direccion": "SANTANDER Y SORIA EZEQUIEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANTANDER",
+    "nombreCalle_2": "SORIA EZEQUIEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "064-057-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

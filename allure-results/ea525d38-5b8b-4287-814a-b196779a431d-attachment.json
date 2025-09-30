@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 373,
+    "codCalle_2": 1620,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99929.3204104588,
+    "coordenada_y": 103570.3670987302,
+    "direccion": "RODRIGUEZ, MANUEL A., GENERAL Y GARCIA, JUAN AGUSTIN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RODRIGUEZ, MANUEL A., GENERAL",
+    "nombreCalle_2": "GARCIA, JUAN AGUSTIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-107-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 388,
+    "codCalle_2": 405,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 95993.275985012,
+    "coordenada_y": 97997.5315336723,
+    "direccion": "LARRAZABAL AV. Y ACONCAGUA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LARRAZABAL AV.",
+    "nombreCalle_2": "ACONCAGUA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "060-006B-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

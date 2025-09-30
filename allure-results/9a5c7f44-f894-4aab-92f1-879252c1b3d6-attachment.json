@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 1862,
+    "codCalle_2": 2485,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97714.1875979627,
+    "coordenada_y": 98702.5624115764,
+    "direccion": "CARRERAS, SANTIAGO DE LAS Y ZELADA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARRERAS, SANTIAGO DE LAS",
+    "nombreCalle_2": "ZELADA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-082B-019b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

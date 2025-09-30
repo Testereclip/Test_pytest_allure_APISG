@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA RIACHUELO",
+    "barrioInf": null,
+    "codCalle_1": 379,
+    "codCalle_2": 1329,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99588.5782222756,
+    "coordenada_y": 92617.0389748199,
+    "direccion": "ROCA, CNEL. AV. Y MONTIEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ROCA, CNEL. AV.",
+    "nombreCalle_2": "MONTIEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "084-015-000D",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

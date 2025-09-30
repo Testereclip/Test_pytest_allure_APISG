@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 426,
+    "codCalle_2": 756,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99305.2735356677,
+    "coordenada_y": 105290.8983485116,
+    "direccion": "ROSETI Y DONADO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ROSETI",
+    "nombreCalle_2": "DONADO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-043-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

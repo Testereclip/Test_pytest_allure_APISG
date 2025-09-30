@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 1627,
+    "codCalle_2": 2541,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 99299.2032232475,
+    "coordenada_y": 106446.554598395,
+    "direccion": "MARTIRES PALOTINOS Y ESTOMBA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MARTIRES PALOTINOS",
+    "nombreCalle_2": "ESTOMBA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-130-009c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

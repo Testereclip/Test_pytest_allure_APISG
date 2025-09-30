@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LOS+PIRINEOS+Y+GALICIA&v2=true

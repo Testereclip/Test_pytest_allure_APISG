@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COGHLAN",
+    "barrioInf": null,
+    "codCalle_1": 782,
+    "codCalle_2": 2600,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 99114.000098362,
+    "coordenada_y": 107742.0936607522,
+    "direccion": "BALBIN, RICARDO, DR. AV. Y QUESADA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BALBIN, RICARDO, DR. AV.",
+    "nombreCalle_2": "QUESADA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "041-050-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

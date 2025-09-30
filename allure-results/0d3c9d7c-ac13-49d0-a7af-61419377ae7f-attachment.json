@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 1219,
+    "codCalle_2": 2534,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 109059.2813463329,
+    "coordenada_y": 99529.3436622522,
+    "direccion": "VILLAFA\u00d1E, WENCESLAO Y ZOLEZZI, ANTONIO L.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VILLAFA\u00d1E, WENCESLAO",
+    "nombreCalle_2": "ZOLEZZI, ANTONIO L.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "006-006H-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

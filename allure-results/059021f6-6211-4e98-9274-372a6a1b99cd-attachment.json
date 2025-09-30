@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA REAL",
+    "barrioInf": null,
+    "codCalle_1": 14,
+    "codCalle_2": 2443,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 94133.703223676,
+    "coordenada_y": 101330.9061610686,
+    "direccion": "LISTA, RAMON, CORONEL Y HUGO, VICTOR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LISTA, RAMON, CORONEL",
+    "nombreCalle_2": "HUGO, VICTOR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "093-163B-022b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

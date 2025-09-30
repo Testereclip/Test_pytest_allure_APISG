@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 411,
+    "codCalle_2": 589,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99345.5782230026,
+    "coordenada_y": 102921.1327237578,
+    "direccion": "12 DE OCTUBRE Y TERRERO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "12 DE OCTUBRE",
+    "nombreCalle_2": "TERRERO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-029-027",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

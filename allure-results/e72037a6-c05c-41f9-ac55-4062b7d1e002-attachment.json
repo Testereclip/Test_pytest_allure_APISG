@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 230,
+    "codCalle_2": 239,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 103079.3829097314,
+    "coordenada_y": 99697.1092868343,
+    "direccion": "VIEL Y ASAMBLEA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VIEL",
+    "nombreCalle_2": "ASAMBLEA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-105-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

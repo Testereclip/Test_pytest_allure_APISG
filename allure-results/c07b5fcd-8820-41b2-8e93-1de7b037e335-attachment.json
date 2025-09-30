@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 2473,
+    "codCalle_2": 2610,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102173.0000972892,
+    "coordenada_y": 98575.8670993901,
+    "direccion": "HORTIGUERA Y ZELARRAYAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HORTIGUERA",
+    "nombreCalle_2": "ZELARRAYAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-121-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

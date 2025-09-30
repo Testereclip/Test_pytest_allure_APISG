@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 894,
+    "codCalle_2": 2718,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100046.3672852546,
+    "coordenada_y": 100782.9217865229,
+    "direccion": "ARANGUREN, JUAN F., DR. Y GAVILAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARANGUREN, JUAN F., DR.",
+    "nombreCalle_2": "GAVILAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "065-104-014a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

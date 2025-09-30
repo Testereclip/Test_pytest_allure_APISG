@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 1712,
+    "codCalle_2": 2718,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99957.2969727825,
+    "coordenada_y": 101005.5545989944,
+    "direccion": "VALLESE, FELIPE Y GAVILAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VALLESE, FELIPE",
+    "nombreCalle_2": "GAVILAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "065-106-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

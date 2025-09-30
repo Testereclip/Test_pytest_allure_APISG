@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 76,
+    "codCalle_2": 380,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95966.4922859655,
+    "coordenada_y": 102293.9139735916,
+    "direccion": "LOZANO, PEDRO Y GUALEGUAYCHU",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LOZANO, PEDRO",
+    "nombreCalle_2": "GUALEGUAYCHU",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-022-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

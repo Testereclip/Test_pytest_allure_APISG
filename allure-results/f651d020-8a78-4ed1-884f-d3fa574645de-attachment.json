@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA REAL",
+    "barrioInf": null,
+    "codCalle_1": 375,
+    "codCalle_2": 76,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 94722.5079110793,
+    "coordenada_y": 101195.6561611223,
+    "direccion": "ESQUINA Y LOZANO, PEDRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ESQUINA",
+    "nombreCalle_2": "LOZANO, PEDRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "093-191B-003",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

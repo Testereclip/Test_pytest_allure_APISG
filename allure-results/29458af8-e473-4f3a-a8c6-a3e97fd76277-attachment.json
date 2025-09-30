@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 445,
+    "codCalle_2": 1460,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97740.8672856301,
+    "coordenada_y": 101245.3436613207,
+    "direccion": "LAMARCA, EMILIO Y MAGARI\u00d1OS CERVANTES, A.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAMARCA, EMILIO",
+    "nombreCalle_2": "MAGARI\u00d1OS CERVANTES, A.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-107-022d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

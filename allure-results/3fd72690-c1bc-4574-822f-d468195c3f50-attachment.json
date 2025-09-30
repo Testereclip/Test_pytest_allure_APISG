@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 123,
+    "codCalle_2": 998,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 102093.6485354391,
+    "coordenada_y": 108048.4374109215,
+    "direccion": "ROMERO, D. Y LA PAMPA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ROMERO, D.",
+    "nombreCalle_2": "LA PAMPA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-132-000Q",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

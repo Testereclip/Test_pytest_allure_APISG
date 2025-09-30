@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=JURAMENTO+Y+MI%C3%91ONES&v2=true

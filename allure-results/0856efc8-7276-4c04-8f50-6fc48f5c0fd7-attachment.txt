@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=METAN+Y+JANTIN%2C+JUAN+BAUTISTA&v2=true

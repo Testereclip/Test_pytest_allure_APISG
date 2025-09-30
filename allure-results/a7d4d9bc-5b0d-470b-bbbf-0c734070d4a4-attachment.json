@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 899,
+    "codCalle_2": 1321,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107176.2110340151,
+    "coordenada_y": 98103.640537271,
+    "direccion": "SANTA ELENA Y AUSTRALIA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANTA ELENA",
+    "nombreCalle_2": "AUSTRALIA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-011A-000B",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

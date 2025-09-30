@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 878,
+    "codCalle_2": 1126,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102166.6016598552,
+    "coordenada_y": 99552.6170992902,
+    "direccion": "DE LAS CIENCIAS Y ESTRADA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LAS CIENCIAS",
+    "nombreCalle_2": "ESTRADA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-003C-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

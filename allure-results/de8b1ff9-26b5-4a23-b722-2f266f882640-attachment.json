@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 371,
+    "codCalle_2": 1650,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 98988.7422854111,
+    "coordenada_y": 100761.3592864514,
+    "direccion": "ROBLA, JUAN F., DE LA Y PAEZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ROBLA, JUAN F., DE LA",
+    "nombreCalle_2": "PAEZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "065-028-002b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

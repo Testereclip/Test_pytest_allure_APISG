@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 248,
+    "codCalle_2": 373,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100807.6407227991,
+    "coordenada_y": 103138.5936613335,
+    "direccion": "BATALLA DEL PARI Y RODRIGUEZ, MANUEL A., GENERAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BATALLA DEL PARI",
+    "nombreCalle_2": "RODRIGUEZ, MANUEL A., GENERAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-010-027",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

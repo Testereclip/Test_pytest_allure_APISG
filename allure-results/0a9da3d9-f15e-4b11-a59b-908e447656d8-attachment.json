@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 799,
+    "codCalle_2": 2159,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96215.812598394,
+    "coordenada_y": 101784.6405361629,
+    "direccion": "SANABRIA Y SASTRE, MARCOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANABRIA",
+    "nombreCalle_2": "SASTRE, MARCOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-004B-006",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

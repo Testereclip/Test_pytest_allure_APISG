@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 1178,
+    "codCalle_2": 1538,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101083.2266603243,
+    "coordenada_y": 104100.9842862531,
+    "direccion": "ARENAL, CONCEPCION Y RODNEY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARENAL, CONCEPCION",
+    "nombreCalle_2": "RODNEY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-144-007a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

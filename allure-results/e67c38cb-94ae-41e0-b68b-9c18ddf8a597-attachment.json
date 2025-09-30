@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 820,
+    "codCalle_2": 1470,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94361.9375984529,
+    "coordenada_y": 98528.3045988667,
+    "direccion": "CARHUE Y EL CARDENAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARHUE",
+    "nombreCalle_2": "EL CARDENAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-055A-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

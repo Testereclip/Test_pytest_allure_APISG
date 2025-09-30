@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 1232,
+    "codCalle_2": 2533,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 103131.5079099677,
+    "coordenada_y": 103361.9842864672,
+    "direccion": "ESTADO DE ISRAEL AV. Y ROCAMORA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ESTADO DE ISRAEL AV.",
+    "nombreCalle_2": "ROCAMORA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-072-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

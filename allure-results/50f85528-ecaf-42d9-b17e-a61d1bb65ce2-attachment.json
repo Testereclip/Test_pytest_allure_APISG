@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1177,
+    "codCalle_2": 1283,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107777.8907213817,
+    "coordenada_y": 97416.4530373806,
+    "direccion": "JORGE Y GONCALVES DIAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JORGE",
+    "nombreCalle_2": "GONCALVES DIAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-086-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

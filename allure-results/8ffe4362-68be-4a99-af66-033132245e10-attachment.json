@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA GRAL. MITRE",
+    "barrioInf": null,
+    "codCalle_1": 589,
+    "codCalle_2": 625,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 100131.5938477962,
+    "coordenada_y": 101605.5780364446,
+    "direccion": "TERRERO Y GAONA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TERRERO",
+    "nombreCalle_2": "GAONA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-016-026a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

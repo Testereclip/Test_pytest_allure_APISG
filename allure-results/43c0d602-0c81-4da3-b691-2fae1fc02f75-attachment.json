@@ -1,0 +1,32 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 47,
+    "codCalle_2": 1463,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": [
+      105070.2153599244,
+      106854.7943319044
+    ],
+    "coordenada_y": [
+      105087.4766599131,
+      106876.7108487391
+    ],
+    "direccion": "LUGONES, LEOPOLDO AV. Y SARMIENTO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LUGONES, LEOPOLDO AV.",
+    "nombreCalle_2": "SARMIENTO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-148C-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 587,
+    "codCalle_2": 1594,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98133.0625980729,
+    "coordenada_y": 101287.7420988406,
+    "direccion": "ANDALUCIA Y CAMPANA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ANDALUCIA",
+    "nombreCalle_2": "CAMPANA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-138-018d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

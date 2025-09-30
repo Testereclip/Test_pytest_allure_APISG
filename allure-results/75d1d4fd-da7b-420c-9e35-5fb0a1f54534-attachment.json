@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 2068,
+    "codCalle_2": 2267,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96695.6094732364,
+    "coordenada_y": 100517.2811613246,
+    "direccion": "BERNALDES Y CAMARONES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BERNALDES",
+    "nombreCalle_2": "CAMARONES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-058A-027",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 1699,
+    "codCalle_2": 2614,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99867.0079101593,
+    "coordenada_y": 98975.0545991928,
+    "direccion": "BILBAO, FRANCISCO AV. Y LAFUENTE AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BILBAO, FRANCISCO AV.",
+    "nombreCalle_2": "LAFUENTE AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-058B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

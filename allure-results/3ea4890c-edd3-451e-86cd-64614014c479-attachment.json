@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 554,
+    "codCalle_2": 1609,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97604.156348102,
+    "coordenada_y": 100518.8827238846,
+    "direccion": "BELAUSTEGUI, LUIS, DR. Y PEHUAJO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BELAUSTEGUI, LUIS, DR.",
+    "nombreCalle_2": "PEHUAJO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-027A-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

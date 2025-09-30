@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 1262,
+    "codCalle_2": 1456,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98434.6797852672,
+    "coordenada_y": 97384.4842867596,
+    "direccion": "PADRE MONTES CARBALLO Y WHITE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PADRE MONTES CARBALLO",
+    "nombreCalle_2": "WHITE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-033C-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 461,
+    "codCalle_2": 2030,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 102992.9922849371,
+    "coordenada_y": 102587.4686615364,
+    "direccion": "LAMBARE Y RIO DE JANEIRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAMBARE",
+    "nombreCalle_2": "RIO DE JANEIRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "017-008-022",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

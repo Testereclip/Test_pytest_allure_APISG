@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1736,
+    "codCalle_2": 2224,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102280.1016602858,
+    "coordenada_y": 106200.882723621,
+    "direccion": "CABILDO AV. Y DUMONT, SANTOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CABILDO AV.",
+    "nombreCalle_2": "DUMONT, SANTOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "035-106-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

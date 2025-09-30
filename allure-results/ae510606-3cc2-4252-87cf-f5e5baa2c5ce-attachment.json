@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 2141,
+    "codCalle_2": 2672,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 103423.9297844601,
+    "coordenada_y": 96433.9608496887,
+    "direccion": "FERRE Y O'GORMAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FERRE",
+    "nombreCalle_2": "O'GORMAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "046-059-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

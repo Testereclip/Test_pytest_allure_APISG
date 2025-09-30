@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 820,
+    "codCalle_2": 1103,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 95746.1485356059,
+    "coordenada_y": 96455.7420991731,
+    "direccion": "CARHUE Y TAPALQUE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARHUE",
+    "nombreCalle_2": "TAPALQUE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "076-069-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

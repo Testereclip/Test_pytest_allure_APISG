@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 10,
+    "codCalle_2": 1444,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98850.3672857772,
+    "coordenada_y": 105904.9217859181,
+    "direccion": "SUCRE, ANTONIO JOSE DE, MCAL. Y MILLER",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SUCRE, ANTONIO JOSE DE, MCAL.",
+    "nombreCalle_2": "MILLER",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-073B-007",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

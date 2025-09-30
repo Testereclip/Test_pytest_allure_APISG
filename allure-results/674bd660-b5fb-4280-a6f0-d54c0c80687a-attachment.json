@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 254,
+    "codCalle_2": 2054,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98170.8594734135,
+    "coordenada_y": 106405.4374108224,
+    "direccion": "ROOSEVELT FRANKLIN D. Y ALVAREZ THOMAS AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ROOSEVELT FRANKLIN D.",
+    "nombreCalle_2": "ALVAREZ THOMAS AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "053-028-007",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

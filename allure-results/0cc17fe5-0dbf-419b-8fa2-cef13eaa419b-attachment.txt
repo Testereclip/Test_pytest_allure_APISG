@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GARCIA+GRANDE+DE+ZEQUEIRA%2C+SEVERO+Y+POLA&v2=true

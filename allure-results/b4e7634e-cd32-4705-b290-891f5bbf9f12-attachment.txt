@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SUCRE%2C+ANTONIO+JOSE+DE%2C+MCAL.+Y+LUGONES&v2=true

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 1517,
+    "codCalle_2": 2597,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96807.8594735454,
+    "coordenada_y": 105347.9374108407,
+    "direccion": "GRIVEO Y ZAMUDIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GRIVEO",
+    "nombreCalle_2": "ZAMUDIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-096-013a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

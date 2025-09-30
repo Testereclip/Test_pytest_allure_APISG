@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 748,
+    "codCalle_2": 2422,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102739.9688475861,
+    "coordenada_y": 104262.6092863487,
+    "direccion": "SERRANO Y VEGA, NICETO, CNEL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SERRANO",
+    "nombreCalle_2": "VEGA, NICETO, CNEL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-109-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

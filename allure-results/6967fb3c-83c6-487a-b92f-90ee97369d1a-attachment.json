@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 1386,
+    "codCalle_2": 2632,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101293.2344729366,
+    "coordenada_y": 106273.6717860478,
+    "direccion": "PALPA Y CRAMER",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PALPA",
+    "nombreCalle_2": "CRAMER",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "037-115-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

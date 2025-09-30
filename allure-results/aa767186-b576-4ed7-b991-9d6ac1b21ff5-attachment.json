@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1005,
+    "codCalle_2": 1219,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108272.0079089392,
+    "coordenada_y": 99363.8749122178,
+    "direccion": "JOVELLANOS, GASPAR M. DE Y VILLAFA\u00d1E, WENCESLAO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JOVELLANOS, GASPAR M. DE",
+    "nombreCalle_2": "VILLAFA\u00d1E, WENCESLAO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "008-017-007",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

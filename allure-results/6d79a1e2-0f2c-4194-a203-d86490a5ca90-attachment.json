@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 307,
+    "codCalle_2": 1362,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98048.4922858109,
+    "coordenada_y": 104619.4452234975,
+    "direccion": "BUDAPEST Y HAMBURGO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BUDAPEST",
+    "nombreCalle_2": "HAMBURGO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-126-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

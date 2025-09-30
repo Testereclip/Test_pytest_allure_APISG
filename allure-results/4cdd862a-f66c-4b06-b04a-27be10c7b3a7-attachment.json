@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 649,
+    "codCalle_2": 1186,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 102069.9454096632,
+    "coordenada_y": 96456.8592870966,
+    "direccion": "RIVERA, FRUCTUOSO, GENERAL Y LAFUENTE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIVERA, FRUCTUOSO, GENERAL",
+    "nombreCalle_2": "LAFUENTE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "052-040-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

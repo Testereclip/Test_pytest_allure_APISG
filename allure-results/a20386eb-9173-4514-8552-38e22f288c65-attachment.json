@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 71,
+    "codCalle_2": 698,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 107011.5625968896,
+    "coordenada_y": 103322.8592867308,
+    "direccion": "CORDOBA AV. Y URUGUAY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CORDOBA AV.",
+    "nombreCalle_2": "URUGUAY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "007-032-020a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

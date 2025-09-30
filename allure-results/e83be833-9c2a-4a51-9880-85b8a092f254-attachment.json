@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 58,
+    "codCalle_2": 614,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108495.6719713878,
+    "coordenada_y": 99086.9686622602,
+    "direccion": "RUY DIAZ DE GUZMAN Y BRANDSEN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RUY DIAZ DE GUZMAN",
+    "nombreCalle_2": "BRANDSEN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-048-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

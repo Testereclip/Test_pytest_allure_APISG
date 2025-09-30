@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PUERTO MADERO",
+    "barrioInf": null,
+    "codCalle_1": 1210,
+    "codCalle_2": 2175,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108872.6888855547,
+    "coordenada_y": 101370.6490108121,
+    "direccion": "HUERGO, ING. AV. Y EZCURRA, ENCARNACION",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HUERGO, ING. AV.",
+    "nombreCalle_2": "EZCURRA, ENCARNACION",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "098-064-003",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=NEUQUEN+Y+MENDEZ+DE+ANDES&v2=true

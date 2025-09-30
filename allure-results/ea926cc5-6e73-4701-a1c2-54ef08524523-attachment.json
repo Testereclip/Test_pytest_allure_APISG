@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 634,
+    "codCalle_2": 762,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96518.6875981186,
+    "coordenada_y": 98361.7420990308,
+    "direccion": "ARAUJO Y CATANIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARAUJO",
+    "nombreCalle_2": "CATANIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "060-082B-007",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

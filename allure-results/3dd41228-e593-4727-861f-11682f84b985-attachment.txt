@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SUAREZ+Y+POLIZA%2C+PRACTICO&v2=true

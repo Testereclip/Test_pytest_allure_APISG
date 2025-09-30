@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 706,
+    "codCalle_2": 2279,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 105955.4922846491,
+    "coordenada_y": 104836.2342865106,
+    "direccion": "COPERNICO Y GALILEO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "COPERNICO",
+    "nombreCalle_2": "GALILEO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-148-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

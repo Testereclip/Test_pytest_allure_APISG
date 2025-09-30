@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 1186,
+    "codCalle_2": 1275,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 102129.0938471509,
+    "coordenada_y": 96400.0702246068,
+    "direccion": "LAFUENTE Y CORREA MORALES, LUCIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAFUENTE",
+    "nombreCalle_2": "CORREA MORALES, LUCIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "052-050B-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

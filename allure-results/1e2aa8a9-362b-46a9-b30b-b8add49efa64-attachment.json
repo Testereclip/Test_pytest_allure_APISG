@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 138,
+    "codCalle_2": 1413,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103224.10166004,
+    "coordenada_y": 104643.8827238405,
+    "direccion": "COSTA RICA Y BORGES, JORGE LUIS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "COSTA RICA",
+    "nombreCalle_2": "BORGES, JORGE LUIS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-085-015g",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

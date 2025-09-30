@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 1002,
+    "codCalle_2": 1844,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98778.1797851475,
+    "coordenada_y": 96366.0077243874,
+    "direccion": "CASCO, HORACIO, DR. Y BASUALDO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CASCO, HORACIO, DR.",
+    "nombreCalle_2": "BASUALDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "064-077A-026",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

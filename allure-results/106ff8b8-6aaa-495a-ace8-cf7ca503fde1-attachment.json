@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 528,
+    "codCalle_2": 1510,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 105932.523534629,
+    "coordenada_y": 104522.9842865369,
+    "direccion": "BARRIENTOS Y PACHECO DE MELO, JOSE ANDRES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BARRIENTOS",
+    "nombreCalle_2": "PACHECO DE MELO, JOSE ANDRES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "011-010-004",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

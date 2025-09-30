@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 867,
+    "codCalle_2": 2490,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95220.5469736844,
+    "coordenada_y": 103867.4374108831,
+    "direccion": "BAHIA BLANCA Y MOSCONI GENERAL AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BAHIA BLANCA",
+    "nombreCalle_2": "MOSCONI GENERAL AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-089-014b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

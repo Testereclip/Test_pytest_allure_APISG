@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 1841,
+    "codCalle_2": 2166,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99952.4532226315,
+    "coordenada_y": 98742.023349224,
+    "direccion": "SAN PEDRITO Y BUSTILLO, JOSE M., GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN PEDRITO",
+    "nombreCalle_2": "BUSTILLO, JOSE M., GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-027-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 1425,
+    "codCalle_2": 1961,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105338.1875967828,
+    "coordenada_y": 98022.9842871578,
+    "direccion": "MASANTONIO, HERMINIO Y IGUAZU",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MASANTONIO, HERMINIO",
+    "nombreCalle_2": "IGUAZU",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "034-098B-013h",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

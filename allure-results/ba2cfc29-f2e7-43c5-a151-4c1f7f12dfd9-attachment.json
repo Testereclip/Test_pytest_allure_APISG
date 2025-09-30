@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 2138,
+    "codCalle_2": 2606,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101688.7500975226,
+    "coordenada_y": 100968.4374116167,
+    "direccion": "YERBAL Y GARCIA LORCA, FEDERICO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "YERBAL",
+    "nombreCalle_2": "GARCIA LORCA, FEDERICO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-005B-002c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

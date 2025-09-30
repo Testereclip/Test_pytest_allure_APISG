@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 1896,
+    "codCalle_2": 2619,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98270.632910805,
+    "coordenada_y": 105019.7186609701,
+    "direccion": "GANDARA Y COPENHAGUE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GANDARA",
+    "nombreCalle_2": "COPENHAGUE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-165-016",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

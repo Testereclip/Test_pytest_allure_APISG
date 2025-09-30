@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 807,
+    "codCalle_2": 1353,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101450.531347515,
+    "coordenada_y": 100320.6639741623,
+    "direccion": "PUAN Y VALLE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PUAN",
+    "nombreCalle_2": "VALLE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "042-074-008b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

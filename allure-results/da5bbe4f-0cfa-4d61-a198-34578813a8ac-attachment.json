@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 50,
+    "codCalle_2": 366,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95254.304786106,
+    "coordenada_y": 102763.1952234971,
+    "direccion": "SEGUROLA AV. Y MORAN, PEDRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SEGUROLA AV.",
+    "nombreCalle_2": "MORAN, PEDRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "089-091-022a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

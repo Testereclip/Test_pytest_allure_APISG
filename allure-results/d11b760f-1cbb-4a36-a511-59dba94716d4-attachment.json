@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 902,
+    "codCalle_2": 2350,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100440.4688474926,
+    "coordenada_y": 97742.226474358,
+    "direccion": "VELAZQUEZ Y PORTELA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VELAZQUEZ",
+    "nombreCalle_2": "PORTELA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "050-046-029a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

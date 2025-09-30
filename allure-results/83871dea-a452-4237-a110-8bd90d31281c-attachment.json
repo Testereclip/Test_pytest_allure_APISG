@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 385,
+    "codCalle_2": 1540,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 104082.5860347545,
+    "coordenada_y": 102298.984286638,
+    "direccion": "BULNES Y DIAZ VELEZ AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BULNES",
+    "nombreCalle_2": "DIAZ VELEZ AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "017-100B-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

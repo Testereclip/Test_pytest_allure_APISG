@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1785,
+    "codCalle_2": 2094,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101712.9922850467,
+    "coordenada_y": 101369.9999115732,
+    "direccion": "REPETTO, NICOLAS, DR. Y AVELLANEDA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "REPETTO, NICOLAS, DR.",
+    "nombreCalle_2": "AVELLANEDA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-017-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

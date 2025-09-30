@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 551,
+    "codCalle_2": 1291,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 102706.7500975814,
+    "coordenada_y": 104102.9217863639,
+    "direccion": "GURRUCHAGA Y LERMA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GURRUCHAGA",
+    "nombreCalle_2": "LERMA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-079-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

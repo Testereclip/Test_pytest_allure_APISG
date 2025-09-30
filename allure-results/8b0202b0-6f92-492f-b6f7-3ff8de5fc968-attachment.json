@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 813,
+    "codCalle_2": 963,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96002.0704108724,
+    "coordenada_y": 100989.4764737282,
+    "direccion": "DESAGUADERO Y ALVAREZ JONTE AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DESAGUADERO",
+    "nombreCalle_2": "ALVAREZ JONTE AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-042-010b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

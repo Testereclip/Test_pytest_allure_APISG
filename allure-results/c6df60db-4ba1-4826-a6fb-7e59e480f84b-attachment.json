@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 1667,
+    "codCalle_2": 1713,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97422.1329110332,
+    "coordenada_y": 106528.5858482588,
+    "direccion": "TRIUNVIRATO AV. Y BAUNESS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TRIUNVIRATO AV.",
+    "nombreCalle_2": "BAUNESS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-106A-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

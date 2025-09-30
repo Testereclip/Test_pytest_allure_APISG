@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 175,
+    "codCalle_2": 2692,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97900.593848197,
+    "coordenada_y": 102609.3124111923,
+    "direccion": "ARREGUI Y NAZCA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARREGUI",
+    "nombreCalle_2": "NAZCA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "069-025-031c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

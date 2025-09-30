@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 475,
+    "codCalle_2": 2517,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102376.4912526688,
+    "coordenada_y": 107184.2311029298,
+    "direccion": "MIGUELETES Y OLLEROS AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MIGUELETES",
+    "nombreCalle_2": "OLLEROS AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-111-007",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 429,
+    "codCalle_2": 2669,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100995.1719728072,
+    "coordenada_y": 103660.0389737934,
+    "direccion": "MARTINEZ ROSAS Y SUSINI, ANTONIO, CNEL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MARTINEZ ROSAS",
+    "nombreCalle_2": "SUSINI, ANTONIO, CNEL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-103A-008b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 597,
+    "codCalle_2": 2724,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105481.8829095643,
+    "coordenada_y": 102538.1405367104,
+    "direccion": "PASO Y SARMIENTO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PASO",
+    "nombreCalle_2": "SARMIENTO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "009-018-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

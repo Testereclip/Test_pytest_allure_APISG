@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 306,
+    "codCalle_2": 825,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103480.9766595069,
+    "coordenada_y": 97270.343662109,
+    "direccion": "VEDIA, AGUSTIN DE Y CONDOR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VEDIA, AGUSTIN DE",
+    "nombreCalle_2": "CONDOR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "046-149-024b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

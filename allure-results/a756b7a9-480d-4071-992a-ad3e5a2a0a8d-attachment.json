@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 554,
+    "codCalle_2": 2058,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101175.1452809433,
+    "coordenada_y": 103055.4660607661,
+    "direccion": "BELAUSTEGUI, LUIS, DR. Y PUEYRREDON, HONORIO, DR. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BELAUSTEGUI, LUIS, DR.",
+    "nombreCalle_2": "PUEYRREDON, HONORIO, DR. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-049-008d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

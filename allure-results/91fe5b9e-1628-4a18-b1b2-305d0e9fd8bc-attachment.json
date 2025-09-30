@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 2235,
+    "codCalle_2": 2302,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95612.2188486754,
+    "coordenada_y": 104599.5624108349,
+    "direccion": "LLAVALLOL Y LADINES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LLAVALLOL",
+    "nombreCalle_2": "LADINES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-226-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

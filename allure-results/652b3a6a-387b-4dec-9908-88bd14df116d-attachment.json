@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 1814,
+    "codCalle_2": 1976,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103841.9454098004,
+    "coordenada_y": 102440.0077241092,
+    "direccion": "MEDRANO AV. Y POTOSI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MEDRANO AV.",
+    "nombreCalle_2": "POTOSI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "017-078-032",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

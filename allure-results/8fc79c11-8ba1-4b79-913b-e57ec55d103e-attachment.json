@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 959,
+    "codCalle_2": 2614,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100071.5782225997,
+    "coordenada_y": 98549.9139742503,
+    "direccion": "PRIMERA JUNTA Y LAFUENTE AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PRIMERA JUNTA",
+    "nombreCalle_2": "LAFUENTE AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-038-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

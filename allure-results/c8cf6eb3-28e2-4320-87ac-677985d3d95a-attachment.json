@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 2246,
+    "codCalle_2": 2327,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98433.8829105318,
+    "coordenada_y": 101329.4452238578,
+    "direccion": "HELGUERA Y EL TROVADOR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HELGUERA",
+    "nombreCalle_2": "EL TROVADOR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "067-006A-006",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

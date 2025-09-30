@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": 1784,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1697,
+    "codCalle_2": null,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102855.0923242854,
+    "coordenada_y": 106586.5456842714,
+    "direccion": "ORTEGA Y GASSET 1784",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "nombreCalle_2": null,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-090-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_altura"
+  },
+  "status_code": 200
+}

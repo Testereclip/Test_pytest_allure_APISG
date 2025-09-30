@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NU\u00d1EZ",
+    "barrioInf": null,
+    "codCalle_1": 1658,
+    "codCalle_2": 1792,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99320.4297859763,
+    "coordenada_y": 109906.6795980436,
+    "direccion": "DEHEZA Y ARCOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DEHEZA",
+    "nombreCalle_2": "ARCOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "029-036-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

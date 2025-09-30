@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1950,
+    "codCalle_2": 2367,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108019.9844714005,
+    "coordenada_y": 98223.9686623173,
+    "direccion": "HERRERA Y ALVARADO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HERRERA",
+    "nombreCalle_2": "ALVARADO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-133-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

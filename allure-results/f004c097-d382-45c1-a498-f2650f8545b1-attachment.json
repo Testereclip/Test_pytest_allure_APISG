@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 389,
+    "codCalle_2": 2243,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105418.6797845214,
+    "coordenada_y": 101759.3592867818,
+    "direccion": "MISIONES Y MORENO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MISIONES",
+    "nombreCalle_2": "MORENO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "020-004-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

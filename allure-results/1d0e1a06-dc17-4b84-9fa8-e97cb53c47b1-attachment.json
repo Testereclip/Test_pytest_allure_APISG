@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 711,
+    "codCalle_2": 1050,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101156.5547851547,
+    "coordenada_y": 101773.8827239963,
+    "direccion": "ESPINOSA Y OSAKA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ESPINOSA",
+    "nombreCalle_2": "OSAKA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "057-107-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

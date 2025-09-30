@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 22,
+    "codCalle_2": 998,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 102268.49228542,
+    "coordenada_y": 108174.6561609188,
+    "direccion": "DRAGONES Y LA PAMPA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DRAGONES",
+    "nombreCalle_2": "LA PAMPA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-132-000B",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

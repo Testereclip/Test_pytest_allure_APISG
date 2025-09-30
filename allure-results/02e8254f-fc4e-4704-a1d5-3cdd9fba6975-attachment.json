@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 490,
+    "codCalle_2": 1914,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99443.1875973824,
+    "coordenada_y": 93900.2577246779,
+    "direccion": "CAFAYATE Y FRAGATA 25 DE MAYO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CAFAYATE",
+    "nombreCalle_2": "FRAGATA 25 DE MAYO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "082-127-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

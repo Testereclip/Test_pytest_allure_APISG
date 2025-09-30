@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA REAL",
+    "barrioInf": null,
+    "codCalle_1": 1466,
+    "codCalle_2": 2441,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 94017.562598657,
+    "coordenada_y": 100778.5545986178,
+    "direccion": "PORCEL DE PERALTA, MANUEL Y SIMBRON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PORCEL DE PERALTA, MANUEL",
+    "nombreCalle_2": "SIMBRON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "093-071-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

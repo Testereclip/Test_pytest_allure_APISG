@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 2594,
+    "codCalle_2": 2679,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99486.640723086,
+    "coordenada_y": 104468.8514736084,
+    "direccion": "PUNTA ARENAS Y DEL CAMPO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PUNTA ARENAS",
+    "nombreCalle_2": "DEL CAMPO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-029-010b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

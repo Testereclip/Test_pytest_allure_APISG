@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAAVEDRA",
+    "barrioInf": null,
+    "codCalle_1": 1520,
+    "codCalle_2": 1658,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97157.3907237213,
+    "coordenada_y": 108719.6327230186,
+    "direccion": "ACHA, MARIANO, GRAL. Y DEHEZA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACHA, MARIANO, GRAL.",
+    "nombreCalle_2": "DEHEZA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "055-173-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

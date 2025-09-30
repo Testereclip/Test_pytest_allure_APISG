@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=KORN%2C+ALEJANDRO%2C+DR.+Y+MERCEDES&v2=true

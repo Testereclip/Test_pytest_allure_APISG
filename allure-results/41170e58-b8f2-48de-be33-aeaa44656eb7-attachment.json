@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 175,
+    "codCalle_2": 776,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96311.1875983623,
+    "coordenada_y": 101516.734286196,
+    "direccion": "ARREGUI Y WILDE EDUARDO PJE.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARREGUI",
+    "nombreCalle_2": "WILDE EDUARDO PJE.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-003A-030",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

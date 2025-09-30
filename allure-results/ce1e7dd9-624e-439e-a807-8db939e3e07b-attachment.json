@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 73,
+    "codCalle_2": 2492,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 101251.8516599998,
+    "coordenada_y": 99660.8749117176,
+    "direccion": "LAFERRERE, GREGORIO DE Y THORNE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAFERRERE, GREGORIO DE",
+    "nombreCalle_2": "THORNE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "042-028A-008a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

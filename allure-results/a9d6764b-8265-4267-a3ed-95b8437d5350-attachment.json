@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 708,
+    "codCalle_2": 2030,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102998.757909928,
+    "coordenada_y": 102464.80459905,
+    "direccion": "ESTIVAO Y RIO DE JANEIRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ESTIVAO",
+    "nombreCalle_2": "RIO DE JANEIRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-153-030b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

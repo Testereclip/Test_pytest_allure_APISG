@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio 20",
+    "codCalle_1": 1619,
+    "codCalle_2": 2406,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99582.5126689277,
+    "coordenada_y": 94741.5382941895,
+    "direccion": "PASAJE DE LOS SUE\u00d1OS Y FONROUGE",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PASAJE DE LOS SUE\u00d1OS",
+    "nombreCalle_2": "FONROUGE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "066-129-017",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

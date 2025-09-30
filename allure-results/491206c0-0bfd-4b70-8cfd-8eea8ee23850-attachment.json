@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 750,
+    "codCalle_2": 1848,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 95031.4532232364,
+    "coordenada_y": 96785.2030365895,
+    "direccion": "PIZARRO Y MOLINA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PIZARRO",
+    "nombreCalle_2": "MOLINA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "074-018B-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

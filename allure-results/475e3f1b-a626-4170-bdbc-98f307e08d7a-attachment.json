@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 54,
+    "codCalle_2": 910,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 101740.2735348596,
+    "coordenada_y": 98675.7420993481,
+    "direccion": "PUMACAHUA Y SARAZA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PUMACAHUA",
+    "nombreCalle_2": "SARAZA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-085-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

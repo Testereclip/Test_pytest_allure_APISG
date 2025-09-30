@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 654,
+    "codCalle_2": 1142,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 109993.7103831293,
+    "coordenada_y": 99753.997049233,
+    "direccion": "PINZON Y DON PEDRO DE MENDOZA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PINZON",
+    "nombreCalle_2": "DON PEDRO DE MENDOZA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "006-129-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

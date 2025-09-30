@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 729,
+    "codCalle_2": 1081,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106607.3891942261,
+    "coordenada_y": 105035.4263621354,
+    "direccion": "FIGUEROA ALCORTA, PRES. AV. Y PUENTE PEATONAL CARLOS SANCHEZ VIAMONTE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FIGUEROA ALCORTA, PRES. AV.",
+    "nombreCalle_2": "PUENTE PEATONAL CARLOS SANCHEZ VIAMONTE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-175B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

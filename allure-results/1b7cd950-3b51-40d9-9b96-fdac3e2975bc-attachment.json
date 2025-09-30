@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 529,
+    "codCalle_2": 2246,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97993.3907231422,
+    "coordenada_y": 101998.6249112608,
+    "direccion": "LOS ANDES Y HELGUERA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LOS ANDES",
+    "nombreCalle_2": "HELGUERA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "067-024B-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

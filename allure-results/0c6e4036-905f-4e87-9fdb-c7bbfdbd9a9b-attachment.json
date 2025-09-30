@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 911,
+    "codCalle_2": 2441,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94732.4844736013,
+    "coordenada_y": 101560.1327235858,
+    "direccion": "CALDERON DE LA BARCA, PEDRO Y SIMBRON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CALDERON DE LA BARCA, PEDRO",
+    "nombreCalle_2": "SIMBRON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-012A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

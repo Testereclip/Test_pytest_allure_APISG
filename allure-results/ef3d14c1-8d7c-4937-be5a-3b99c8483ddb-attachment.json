@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 230,
+    "codCalle_2": 910,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 103210.7579096695,
+    "coordenada_y": 99089.2577244066,
+    "direccion": "VIEL Y SARAZA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VIEL",
+    "nombreCalle_2": "SARAZA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-102-016a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

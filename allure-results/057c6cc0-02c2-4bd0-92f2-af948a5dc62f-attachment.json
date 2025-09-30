@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 228,
+    "codCalle_2": 243,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104584.0782224007,
+    "coordenada_y": 105593.5936613388,
+    "direccion": "LAFINUR Y CERVI\u00d1O AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAFINUR",
+    "nombreCalle_2": "CERVI\u00d1O AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-065-005",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

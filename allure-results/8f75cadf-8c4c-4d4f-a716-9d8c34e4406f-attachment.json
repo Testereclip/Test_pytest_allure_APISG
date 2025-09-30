@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": null,
+    "codCalle_1": 2007,
+    "codCalle_2": 2440,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107258.4688468709,
+    "coordenada_y": 103587.8514742195,
+    "direccion": "ALVEAR, MARCELO T. DE Y LIBERTAD",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALVEAR, MARCELO T. DE",
+    "nombreCalle_2": "LIBERTAD",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "007-045-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

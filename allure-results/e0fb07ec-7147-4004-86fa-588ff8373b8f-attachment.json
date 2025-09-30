@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 1049,
+    "codCalle_2": 910,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98569.0625976161,
+    "coordenada_y": 95443.3124119656,
+    "direccion": "VILLA DE MASNOU Y SARAZA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VILLA DE MASNOU",
+    "nombreCalle_2": "SARAZA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "064-001B-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

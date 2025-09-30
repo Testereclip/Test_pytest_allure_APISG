@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 842,
+    "codCalle_2": 1018,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101808.148535487,
+    "coordenada_y": 108163.5155358908,
+    "direccion": "ECHEVERRIA Y ARTILLEROS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ECHEVERRIA",
+    "nombreCalle_2": "ARTILLEROS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "025-089-007d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

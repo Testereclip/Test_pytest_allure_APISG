@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 1342,
+    "codCalle_2": 2688,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97420.6954109146,
+    "coordenada_y": 104747.4139734428,
+    "direccion": "CARACAS Y CARRIL, SALVADOR MARIA DEL AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARACAS",
+    "nombreCalle_2": "CARRIL, SALVADOR MARIA DEL AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "073-065A-015b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

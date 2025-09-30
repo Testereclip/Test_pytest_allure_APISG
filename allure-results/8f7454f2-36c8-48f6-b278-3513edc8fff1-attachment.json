@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 1806,
+    "codCalle_2": 1815,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97934.0313482517,
+    "coordenada_y": 103469.9139736065,
+    "direccion": "MELINCUE Y ARTIGAS, JOSE GERVASIO, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MELINCUE",
+    "nombreCalle_2": "ARTIGAS, JOSE GERVASIO, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "071-087-022",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

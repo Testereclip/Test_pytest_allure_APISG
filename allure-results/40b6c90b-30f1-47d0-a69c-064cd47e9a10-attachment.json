@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN CRISTOBAL",
+    "barrioInf": null,
+    "codCalle_1": 1437,
+    "codCalle_2": 447,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105459.8516594093,
+    "coordenada_y": 100165.7186619499,
+    "direccion": "LUCA, ESTEBAN DE Y PAVON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LUCA, ESTEBAN DE",
+    "nombreCalle_2": "PAVON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "030-080-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

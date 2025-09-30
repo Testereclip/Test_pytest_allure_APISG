@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COGHLAN",
+    "barrioInf": null,
+    "codCalle_1": 1402,
+    "codCalle_2": 1696,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 99183.6329108245,
+    "coordenada_y": 107347.867098297,
+    "direccion": "PEREZ, ROQUE Y RIVERA, PEDRO I., DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PEREZ, ROQUE",
+    "nombreCalle_2": "RIVERA, PEDRO I., DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "041-036-026",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

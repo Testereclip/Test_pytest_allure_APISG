@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 2287,
+    "codCalle_2": 2630,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102787.4125802882,
+    "coordenada_y": 106318.0070171199,
+    "direccion": "CHENAUT, INDALESIO, GRAL. AV. Y HUERGO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CHENAUT, INDALESIO, GRAL. AV.",
+    "nombreCalle_2": "HUERGO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-073-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

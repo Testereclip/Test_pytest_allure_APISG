@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 876,
+    "codCalle_2": 2083,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96511.6954107408,
+    "coordenada_y": 100156.3124113469,
+    "direccion": "CERVANTES Y RUBENS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CERVANTES",
+    "nombreCalle_2": "RUBENS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-018-001c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

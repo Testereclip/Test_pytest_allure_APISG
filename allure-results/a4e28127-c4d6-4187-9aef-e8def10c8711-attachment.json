@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 907,
+    "codCalle_2": 1616,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103400.664160059,
+    "coordenada_y": 105314.4999112839,
+    "direccion": "FRAY JUSTO SANTAMARIA DE ORO Y CHARCAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FRAY JUSTO SANTAMARIA DE ORO",
+    "nombreCalle_2": "CHARCAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-159-019a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

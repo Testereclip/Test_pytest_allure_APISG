@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 48,
+    "codCalle_2": 1326,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100760.9375978689,
+    "coordenada_y": 104061.7030362337,
+    "direccion": "NEWBERY, JORGE AV. Y ITURRI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NEWBERY, JORGE AV.",
+    "nombreCalle_2": "ITURRI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-127-010a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

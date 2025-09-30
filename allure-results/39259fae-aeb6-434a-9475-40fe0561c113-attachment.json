@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 1525,
+    "codCalle_2": 1830,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 98488.2813478943,
+    "coordenada_y": 99390.6405365584,
+    "direccion": "FALCON, RAMON L.,CNEL. Y CANDELARIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FALCON, RAMON L.,CNEL.",
+    "nombreCalle_2": "CANDELARIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-153-035",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

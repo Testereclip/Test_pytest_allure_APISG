@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 1896,
+    "codCalle_2": 2498,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98157.7266608158,
+    "coordenada_y": 104935.6561609732,
+    "direccion": "GANDARA Y BARZANA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GANDARA",
+    "nombreCalle_2": "BARZANA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-159-022b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

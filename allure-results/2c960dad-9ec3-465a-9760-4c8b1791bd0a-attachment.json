@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": null,
+    "codCalle_1": 132,
+    "codCalle_2": 169,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108168.4219717325,
+    "coordenada_y": 103529.0936617902,
+    "direccion": "PARAGUAY Y SAN MARTIN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PARAGUAY",
+    "nombreCalle_2": "SAN MARTIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "003-053-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 369,
+    "codCalle_2": 1900,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106653.4922845282,
+    "coordenada_y": 104607.2342865768,
+    "direccion": "ORTIZ, ROBERTO M., PRES. Y QUINTANA, MANUEL, PRES. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ORTIZ, ROBERTO M., PRES.",
+    "nombreCalle_2": "QUINTANA, MANUEL, PRES. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "011-062-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

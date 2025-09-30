@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 2680,
+    "codCalle_2": 510,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99629.9375979658,
+    "coordenada_y": 102997.4686612687,
+    "direccion": "TRELLES, MANUEL R. Y SAN MARTIN AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TRELLES, MANUEL R.",
+    "nombreCalle_2": "SAN MARTIN AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-057-032",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

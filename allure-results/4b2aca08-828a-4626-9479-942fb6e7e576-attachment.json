@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 1823,
+    "codCalle_2": 2518,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100854.1875974921,
+    "coordenada_y": 98668.8592867911,
+    "direccion": "ZUVIRIA Y CARRIEGO, EVARISTO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ZUVIRIA",
+    "nombreCalle_2": "CARRIEGO, EVARISTO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-029B-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

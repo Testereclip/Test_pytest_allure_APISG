@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio INTA (ex Villa 19)",
+    "codCalle_1": 36,
+    "codCalle_2": 2065,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 97874.8665865787,
+    "coordenada_y": 93914.5882640085,
+    "direccion": "LOS ALAMOS Y LOS ROBLES",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LOS ALAMOS",
+    "nombreCalle_2": "LOS ROBLES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "080-004G-012",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

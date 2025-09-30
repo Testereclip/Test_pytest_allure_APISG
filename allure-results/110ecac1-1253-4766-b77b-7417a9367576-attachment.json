@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 1786,
+    "codCalle_2": 1888,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 97098.9375979559,
+    "coordenada_y": 97241.4920991825,
+    "direccion": "DIRECTORIO AV. Y POLA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DIRECTORIO AV.",
+    "nombreCalle_2": "POLA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "062-049-016a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

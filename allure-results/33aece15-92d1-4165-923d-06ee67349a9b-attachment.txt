@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RIVERA%2C+FRUCTUOSO%2C+GENERAL+Y+GUAMINI&v2=true

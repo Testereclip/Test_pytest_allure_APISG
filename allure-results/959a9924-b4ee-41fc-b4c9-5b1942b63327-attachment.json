@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 1765,
+    "codCalle_2": 2625,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105776.5938469774,
+    "coordenada_y": 101904.820224292,
+    "direccion": "ALSINA, ADOLFO Y MATHEU",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALSINA, ADOLFO",
+    "nombreCalle_2": "MATHEU",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "020-028-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 1002,
+    "codCalle_2": 2322,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98919.3750976343,
+    "coordenada_y": 96504.554599381,
+    "direccion": "CASCO, HORACIO, DR. Y ESCALADA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CASCO, HORACIO, DR.",
+    "nombreCalle_2": "ESCALADA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "064-094B-005f",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

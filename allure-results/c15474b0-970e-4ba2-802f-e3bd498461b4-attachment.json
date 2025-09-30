@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 2254,
+    "codCalle_2": 2267,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97573.9454106572,
+    "coordenada_y": 101269.8045988064,
+    "direccion": "SAN NICOLAS Y CAMARONES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN NICOLAS",
+    "nombreCalle_2": "CAMARONES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-081-015c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

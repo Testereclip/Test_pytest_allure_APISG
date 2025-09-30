@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN CRISTOBAL",
+    "barrioInf": null,
+    "codCalle_1": 1292,
+    "codCalle_2": 2185,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105008.3282219866,
+    "coordenada_y": 100319.2889744003,
+    "direccion": "ORURO Y URQUIZA, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ORURO",
+    "nombreCalle_2": "URQUIZA, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "030-047-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

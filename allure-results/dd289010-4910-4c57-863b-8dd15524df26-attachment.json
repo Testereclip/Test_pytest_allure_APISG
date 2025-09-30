@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1080,
+    "codCalle_2": 2367,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107071.9532215178,
+    "coordenada_y": 97907.1170997854,
+    "direccion": "PERDRIEL Y ALVARADO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PERDRIEL",
+    "nombreCalle_2": "ALVARADO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-023A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

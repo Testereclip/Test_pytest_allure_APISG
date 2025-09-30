@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 1805,
+    "codCalle_2": 2229,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94416.3204109283,
+    "coordenada_y": 98291.0233488927,
+    "direccion": "LOS RECUERDOS Y TUYUTI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LOS RECUERDOS",
+    "nombreCalle_2": "TUYUTI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-068D-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

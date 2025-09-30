@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1144,
+    "codCalle_2": 2463,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108219.2188463831,
+    "coordenada_y": 98401.8358498097,
+    "direccion": "QUINQUELA MARTIN, BENITO Y MONTES DE OCA, MANUEL AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "QUINQUELA MARTIN, BENITO",
+    "nombreCalle_2": "MONTES DE OCA, MANUEL AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-140-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

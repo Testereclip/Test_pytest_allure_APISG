@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 1786,
+    "codCalle_2": 2311,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99985.5860351721,
+    "coordenada_y": 99439.8592866563,
+    "direccion": "DIRECTORIO AV. Y VARELA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DIRECTORIO AV.",
+    "nombreCalle_2": "VARELA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-095-007d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 162,
+    "codCalle_2": 1092,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102808.4728960119,
+    "coordenada_y": 102534.8307709429,
+    "direccion": "CANGALLO Y PATRICIAS ARGENTINAS AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CANGALLO",
+    "nombreCalle_2": "PATRICIAS ARGENTINAS AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-155-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

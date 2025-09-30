@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 1873,
+    "codCalle_2": 2627,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100682.9317496175,
+    "coordenada_y": 104803.485207355,
+    "direccion": "GARCIA, TEODORO Y MERCEDES SOSA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GARCIA, TEODORO",
+    "nombreCalle_2": "MERCEDES SOSA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-158F-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

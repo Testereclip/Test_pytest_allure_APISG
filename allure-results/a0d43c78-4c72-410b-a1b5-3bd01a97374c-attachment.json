@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 750,
+    "codCalle_2": 1967,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94964.8204107393,
+    "coordenada_y": 96711.0702240942,
+    "direccion": "PIZARRO Y SUAREZ, JOSE LEON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PIZARRO",
+    "nombreCalle_2": "SUAREZ, JOSE LEON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "074-010A-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

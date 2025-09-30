@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 230,
+    "codCalle_2": 1711,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 103106.031347219,
+    "coordenada_y": 99583.1249118485,
+    "direccion": "VIEL Y VERNET AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VIEL",
+    "nombreCalle_2": "VERNET AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-105-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

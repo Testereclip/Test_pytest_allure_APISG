@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 760,
+    "codCalle_2": 2081,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98376.8594731128,
+    "coordenada_y": 102417.5545987443,
+    "direccion": "CONDARCO Y BIARRITZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CONDARCO",
+    "nombreCalle_2": "BIARRITZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "069-029-007",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

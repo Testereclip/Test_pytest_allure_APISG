@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": "Barrio Gral. San Martin",
+    "codCalle_1": 2464,
+    "codCalle_2": 2732,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 95736.4967961268,
+    "coordenada_y": 106140.7024121888,
+    "direccion": "EL GAUCHO Y PARRAVICINI, FLORENCIO",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "EL GAUCHO",
+    "nombreCalle_2": "PARRAVICINI, FLORENCIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "075-019G-000",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1283,
+    "codCalle_2": 2367,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107622.9922839452,
+    "coordenada_y": 98045.4530373058,
+    "direccion": "GONCALVES DIAS Y ALVARADO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GONCALVES DIAS",
+    "nombreCalle_2": "ALVARADO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-091-023a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

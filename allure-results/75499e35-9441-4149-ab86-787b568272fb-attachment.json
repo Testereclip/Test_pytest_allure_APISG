@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 80,
+    "codCalle_2": 429,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101341.2500977287,
+    "coordenada_y": 103284.1170988553,
+    "direccion": "THAMES Y MARTINEZ ROSAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "THAMES",
+    "nombreCalle_2": "MARTINEZ ROSAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-079-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

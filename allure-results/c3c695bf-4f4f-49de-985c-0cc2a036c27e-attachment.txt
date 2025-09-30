@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SOLDADO+DE+LA+FRONTERA+AV.+Y+RAMIREZ%2C+CEFERINO%2C+COMODORO&v2=true

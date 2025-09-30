@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 71,
+    "codCalle_2": 1422,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103957.0625973541,
+    "coordenada_y": 103494.3436615085,
+    "direccion": "CORDOBA AV. Y MEDRANO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CORDOBA AV.",
+    "nombreCalle_2": "MEDRANO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-003-030b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

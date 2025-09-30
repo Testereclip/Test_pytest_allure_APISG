@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DE+LA+TECNICA+Y+ANDONAEGUI&v2=true

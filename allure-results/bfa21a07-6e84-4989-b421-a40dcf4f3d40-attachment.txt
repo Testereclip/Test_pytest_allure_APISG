@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VINTTER%2C+LORENZO%2C+GENERAL+Y+BIEDMA%2C+JOSE+JUAN&v2=true

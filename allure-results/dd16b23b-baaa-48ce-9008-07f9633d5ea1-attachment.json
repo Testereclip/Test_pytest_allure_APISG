@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 1522,
+    "codCalle_2": 2603,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 104998.7657220969,
+    "coordenada_y": 101973.2499117321,
+    "direccion": "YRIGOYEN, HIPOLITO Y LA RIOJA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "YRIGOYEN, HIPOLITO",
+    "nombreCalle_2": "LA RIOJA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "028-061-007a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

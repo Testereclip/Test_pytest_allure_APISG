@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ENCINA%2C+CARLOS+Y+CAAGUAZU&v2=true

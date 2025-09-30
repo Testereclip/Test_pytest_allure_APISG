@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 907,
+    "codCalle_2": 2012,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103483.3985350552,
+    "coordenada_y": 105425.929598783,
+    "direccion": "FRAY JUSTO SANTAMARIA DE ORO Y GUEMES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FRAY JUSTO SANTAMARIA DE ORO",
+    "nombreCalle_2": "GUEMES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-175-015e",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

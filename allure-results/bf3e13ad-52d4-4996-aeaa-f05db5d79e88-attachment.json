@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CONSTITUCION",
+    "barrioInf": null,
+    "codCalle_1": 2273,
+    "codCalle_2": 2136,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107366.9063466758,
+    "coordenada_y": 100914.2499119986,
+    "direccion": "HUMBERTO 1\u00b0 Y SALTA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HUMBERTO 1\u00b0",
+    "nombreCalle_2": "SALTA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "014-055-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

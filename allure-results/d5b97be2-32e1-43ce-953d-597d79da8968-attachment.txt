@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MEDRANO+Y+EL+SALVADOR&v2=true

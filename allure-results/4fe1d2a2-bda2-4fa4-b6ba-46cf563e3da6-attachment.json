@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": "Barrio Padre Mugica",
+    "codCalle_1": 1817,
+    "codCalle_2": 2124,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107281.0237705439,
+    "coordenada_y": 105552.1557831529,
+    "direccion": "ISLA DE PASCUA Y PERETTE, CARLOS H.",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ISLA DE PASCUA",
+    "nombreCalle_2": "PERETTE, CARLOS H.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "YPF - Vivienda Nueva",
+    "smp": "003-066B-001r",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

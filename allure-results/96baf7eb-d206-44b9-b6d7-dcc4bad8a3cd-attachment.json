@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA GRAL. MITRE",
+    "barrioInf": null,
+    "codCalle_1": 1342,
+    "codCalle_2": 1512,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 99021.8282230175,
+    "coordenada_y": 102418.2108487859,
+    "direccion": "CARACAS Y SAN BLAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARACAS",
+    "nombreCalle_2": "SAN BLAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "067-114-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

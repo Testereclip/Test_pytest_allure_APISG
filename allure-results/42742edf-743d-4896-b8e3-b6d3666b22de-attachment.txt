@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ESTADO+PLURINACIONAL+DE+BOLIVIA+Y+FRANCO&v2=true

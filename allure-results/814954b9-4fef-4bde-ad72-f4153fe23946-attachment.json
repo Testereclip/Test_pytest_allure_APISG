@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 264,
+    "codCalle_2": 1352,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 110069.3427402538,
+    "coordenada_y": 99447.4604817396,
+    "direccion": "AUTOPISTA BUENOS AIRES - LA PLATA Y OLAVARRIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AUTOPISTA BUENOS AIRES - LA PLATA",
+    "nombreCalle_2": "OLAVARRIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "006-084-015b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

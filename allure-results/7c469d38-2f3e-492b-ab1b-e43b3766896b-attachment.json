@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 1110,
+    "codCalle_2": 1594,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 96747.7110359173,
+    "coordenada_y": 103317.8280360427,
+    "direccion": "VARELA, JOSE PEDRO Y CAMPANA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VARELA, JOSE PEDRO",
+    "nombreCalle_2": "CAMPANA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-170-012b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

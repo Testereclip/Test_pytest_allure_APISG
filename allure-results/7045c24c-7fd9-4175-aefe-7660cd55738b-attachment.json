@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": 4525,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 2076,
+    "codCalle_2": null,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96963.4884661841,
+    "coordenada_y": 100430.4634301498,
+    "direccion": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA 4525",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "nombreCalle_1": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "nombreCalle_2": null,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-082B-025",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_altura"
+  },
+  "status_code": 200
+}

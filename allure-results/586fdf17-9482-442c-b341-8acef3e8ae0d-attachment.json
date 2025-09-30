@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 1763,
+    "codCalle_2": 1844,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 97967.6875978194,
+    "coordenada_y": 97130.8827242544,
+    "direccion": "BILBAO, FRANCISCO Y BASUALDO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BILBAO, FRANCISCO",
+    "nombreCalle_2": "BASUALDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "062-115-022",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

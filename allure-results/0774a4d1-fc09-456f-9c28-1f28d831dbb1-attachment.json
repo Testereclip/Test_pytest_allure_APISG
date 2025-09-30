@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1774,
+    "codCalle_2": 2628,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104444.0157223404,
+    "coordenada_y": 104349.8592864558,
+    "direccion": "VIDT Y REPUBLICA DOMINICANA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VIDT",
+    "nombreCalle_2": "REPUBLICA DOMINICANA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-179-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

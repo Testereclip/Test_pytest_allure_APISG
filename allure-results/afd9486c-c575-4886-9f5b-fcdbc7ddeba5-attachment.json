@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 867,
+    "codCalle_2": 1712,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 98122.7813480137,
+    "coordenada_y": 100364.9061614357,
+    "direccion": "BAHIA BLANCA Y VALLESE, FELIPE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BAHIA BLANCA",
+    "nombreCalle_2": "VALLESE, FELIPE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "077-104-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

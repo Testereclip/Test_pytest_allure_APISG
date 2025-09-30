@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 673,
+    "codCalle_2": 1245,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101630.9610354742,
+    "coordenada_y": 107557.6014734379,
+    "direccion": "HERNANDEZ, JOSE Y CAMPOS, LUIS M. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HERNANDEZ, JOSE",
+    "nombreCalle_2": "CAMPOS, LUIS M. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-060-001m",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

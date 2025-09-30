@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 551,
+    "codCalle_2": 1140,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103031.9454100487,
+    "coordenada_y": 104355.3983488585,
+    "direccion": "GURRUCHAGA Y GORRITI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GURRUCHAGA",
+    "nombreCalle_2": "GORRITI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-016-012b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

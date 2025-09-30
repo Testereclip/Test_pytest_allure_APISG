@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 558,
+    "codCalle_2": 1273,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103101.2344721434,
+    "coordenada_y": 98461.9061619625,
+    "direccion": "ECHAGUE, CARLOS, ING. Y LANZA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ECHAGUE, CARLOS, ING.",
+    "nombreCalle_2": "LANZA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-044B-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

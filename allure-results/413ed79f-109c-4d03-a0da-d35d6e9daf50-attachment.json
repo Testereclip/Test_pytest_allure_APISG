@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 1700,
+    "codCalle_2": 2037,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103288.8438473261,
+    "coordenada_y": 101585.2186616582,
+    "direccion": "YRIGOYEN, HIPOLITO AV. Y MU\u00d1IZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "YRIGOYEN, HIPOLITO AV.",
+    "nombreCalle_2": "MU\u00d1IZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "036-031-013a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

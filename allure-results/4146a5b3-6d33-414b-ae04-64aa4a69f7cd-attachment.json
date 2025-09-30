@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 277,
+    "codCalle_2": 1325,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 109161.9262004596,
+    "coordenada_y": 98145.8389579549,
+    "direccion": "VESPUCIO Y CERRI, DANIEL, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VESPUCIO",
+    "nombreCalle_2": "CERRI, DANIEL, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-086-004",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

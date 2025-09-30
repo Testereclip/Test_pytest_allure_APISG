@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 559,
+    "codCalle_2": 2468,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108998.2969712972,
+    "coordenada_y": 98856.1639748186,
+    "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. Y MELO, CARLOS F.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARAOZ DE LAMADRID, GREGORIO, GRAL.",
+    "nombreCalle_2": "MELO, CARLOS F.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-095-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

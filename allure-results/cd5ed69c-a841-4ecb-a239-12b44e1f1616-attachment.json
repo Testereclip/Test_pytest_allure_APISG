@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio INTA (ex Villa 19)",
+    "codCalle_1": 949,
+    "codCalle_2": 2358,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 97927.2969009425,
+    "coordenada_y": 93977.8272001817,
+    "direccion": "LOS EUCALIPTOS Y LOS TILOS",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LOS EUCALIPTOS",
+    "nombreCalle_2": "LOS TILOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "080-004I-009",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

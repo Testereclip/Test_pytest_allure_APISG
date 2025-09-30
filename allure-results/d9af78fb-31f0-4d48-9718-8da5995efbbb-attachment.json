@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BOEDO",
+    "barrioInf": null,
+    "codCalle_1": 1922,
+    "codCalle_2": 1929,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 104802.0079094363,
+    "coordenada_y": 99136.4764745083,
+    "direccion": "RONDEAU Y SANCHEZ DE LORIA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RONDEAU",
+    "nombreCalle_2": "SANCHEZ DE LORIA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "032-044-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

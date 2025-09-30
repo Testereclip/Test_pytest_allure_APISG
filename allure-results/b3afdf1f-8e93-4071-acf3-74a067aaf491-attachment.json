@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 969,
+    "codCalle_2": 661,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102265.242284855,
+    "coordenada_y": 99766.6405367761,
+    "direccion": "DE LA INDUSTRIA Y TEJEDOR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LA INDUSTRIA",
+    "nombreCalle_2": "TEJEDOR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-010A-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

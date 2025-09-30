@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 80,
+    "codCalle_2": 132,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103497.6016600246,
+    "coordenada_y": 105027.374911322,
+    "direccion": "THAMES Y PARAGUAY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "THAMES",
+    "nombreCalle_2": "PARAGUAY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-120-006",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

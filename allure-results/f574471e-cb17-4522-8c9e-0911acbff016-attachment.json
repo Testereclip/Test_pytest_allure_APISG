@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 132,
+    "codCalle_2": 198,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103239.1329100801,
+    "coordenada_y": 105266.8827237799,
+    "direccion": "PARAGUAY Y GODOY CRUZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PARAGUAY",
+    "nombreCalle_2": "GODOY CRUZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-097H-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

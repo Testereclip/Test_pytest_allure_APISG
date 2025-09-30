@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CRUZ%2C+JUANA+INES+DE+LA%2C+SOR+Y+GALICIA&v2=true

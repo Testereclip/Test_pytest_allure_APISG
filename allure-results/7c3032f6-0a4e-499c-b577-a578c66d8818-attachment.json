@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": null,
+    "codCalle_1": 930,
+    "codCalle_2": 1147,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108120.0231997393,
+    "coordenada_y": 105086.1384904704,
+    "direccion": "GENDARMERIA NACIONAL AV. Y WALSH, RODOLFO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GENDARMERIA NACIONAL AV.",
+    "nombreCalle_2": "WALSH, RODOLFO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "003-080-000A",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

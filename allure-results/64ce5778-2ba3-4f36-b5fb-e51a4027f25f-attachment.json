@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 751,
+    "codCalle_2": 2410,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101270.4922852985,
+    "coordenada_y": 104146.4452237632,
+    "direccion": "LEIVA Y GUZMAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LEIVA",
+    "nombreCalle_2": "GUZMAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-182-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

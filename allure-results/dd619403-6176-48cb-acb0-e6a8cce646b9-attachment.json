@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1274,
+    "codCalle_2": 2363,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102862.4219725938,
+    "coordenada_y": 104636.3280363194,
+    "direccion": "URIARTE Y HONDURAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "URIARTE",
+    "nombreCalle_2": "HONDURAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-036B-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 10,
+    "codCalle_2": 2034,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 99149.4844732483,
+    "coordenada_y": 106116.5077234179,
+    "direccion": "SUCRE, ANTONIO JOSE DE, MCAL. Y HOLMBERG",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SUCRE, ANTONIO JOSE DE, MCAL.",
+    "nombreCalle_2": "HOLMBERG",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-101-019c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

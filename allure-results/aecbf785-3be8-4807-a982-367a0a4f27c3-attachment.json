@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 588,
+    "codCalle_2": 2299,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 101312.9922847827,
+    "coordenada_y": 96567.2655370365,
+    "direccion": "PLUMERILLO Y ACOSTA, MARIANO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PLUMERILLO",
+    "nombreCalle_2": "ACOSTA, MARIANO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "050-002B-000F",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

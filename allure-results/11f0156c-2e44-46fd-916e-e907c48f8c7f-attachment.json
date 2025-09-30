@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 38,
+    "codCalle_2": 1182,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102344.8985349044,
+    "coordenada_y": 100673.1795991882,
+    "direccion": "SAN JOSE DE CALASANZ Y ALBERDI, JUAN BAUTISTA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN JOSE DE CALASANZ",
+    "nombreCalle_2": "ALBERDI, JUAN BAUTISTA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-052-006a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

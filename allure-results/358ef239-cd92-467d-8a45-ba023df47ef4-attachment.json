@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 979,
+    "codCalle_2": 2359,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102044.4922848983,
+    "coordenada_y": 99901.6170992448,
+    "direccion": "PERON, EVA AV. Y CACHIMAYO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PERON, EVA AV.",
+    "nombreCalle_2": "CACHIMAYO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-006-032",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

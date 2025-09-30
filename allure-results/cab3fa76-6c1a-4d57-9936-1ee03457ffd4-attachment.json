@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 1365,
+    "codCalle_2": 2697,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100773.3503465179,
+    "coordenada_y": 95074.8597888718,
+    "direccion": "23 DE JUNIO Y SELVETTI, HUMBERTO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "23 DE JUNIO",
+    "nombreCalle_2": "SELVETTI, HUMBERTO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "068-124A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

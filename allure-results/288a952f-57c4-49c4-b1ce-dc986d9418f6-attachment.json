@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 1510,
+    "codCalle_2": 2169,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106367.3985345416,
+    "coordenada_y": 104154.867099103,
+    "direccion": "PACHECO DE MELO, JOSE ANDRES Y AYACUCHO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PACHECO DE MELO, JOSE ANDRES",
+    "nombreCalle_2": "AYACUCHO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "011-080-020b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

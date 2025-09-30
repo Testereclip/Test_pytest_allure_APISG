@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA GRAL. MITRE",
+    "barrioInf": null,
+    "codCalle_1": 1309,
+    "codCalle_2": 1516,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 99700.8829103916,
+    "coordenada_y": 102069.2811613696,
+    "direccion": "JUSTO, JUAN B. AV. Y LAMAS, ANDRES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JUSTO, JUAN B. AV.",
+    "nombreCalle_2": "LAMAS, ANDRES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-005-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

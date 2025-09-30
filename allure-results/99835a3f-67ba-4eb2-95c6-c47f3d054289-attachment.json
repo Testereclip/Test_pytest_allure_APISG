@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 388,
+    "codCalle_2": 1885,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99837.9532223496,
+    "coordenada_y": 94291.7264746638,
+    "direccion": "LARRAZABAL AV. Y AUBRUN, EMILIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LARRAZABAL AV.",
+    "nombreCalle_2": "AUBRUN, EMILIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "068-111-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

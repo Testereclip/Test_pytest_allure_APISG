@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1372,
+    "codCalle_2": 2648,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102561.7188478793,
+    "coordenada_y": 108209.0858484335,
+    "direccion": "BELLO, ANDRES Y TORNQUIST, ERNESTO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BELLO, ANDRES",
+    "nombreCalle_2": "TORNQUIST, ERNESTO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-159-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 384,
+    "codCalle_2": 1527,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99324.2500977652,
+    "coordenada_y": 99331.0545991227,
+    "direccion": "MARTI, JOSE Y BONIFACIO, JOSE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MARTI, JOSE",
+    "nombreCalle_2": "BONIFACIO, JOSE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-010-025",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

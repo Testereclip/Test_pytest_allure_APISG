@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 825,
+    "codCalle_2": 2672,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 103099.7813470338,
+    "coordenada_y": 96827.6092871269,
+    "direccion": "CONDOR Y O'GORMAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CONDOR",
+    "nombreCalle_2": "O'GORMAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "046-063-007b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

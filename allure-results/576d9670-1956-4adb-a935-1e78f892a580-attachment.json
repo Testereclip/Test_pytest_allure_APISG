@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 991,
+    "codCalle_2": 1517,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96171.0079111104,
+    "coordenada_y": 104870.5233483446,
+    "direccion": "ARGERICH Y GRIVEO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARGERICH",
+    "nombreCalle_2": "GRIVEO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-020A-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

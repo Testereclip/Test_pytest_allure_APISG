@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CANTILO%2C+JOSE+LUIS+Y+FERNANDEZ+DE+ENCISO&v2=true

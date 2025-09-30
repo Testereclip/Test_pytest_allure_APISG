@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 906,
+    "codCalle_2": 2696,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96859.3672861171,
+    "coordenada_y": 106496.4217857238,
+    "direccion": "BURELA Y IBERA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BURELA",
+    "nombreCalle_2": "IBERA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-070-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

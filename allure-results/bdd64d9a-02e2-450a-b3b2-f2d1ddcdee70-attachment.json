@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAAVEDRA",
+    "barrioInf": null,
+    "codCalle_1": 517,
+    "codCalle_2": 782,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97988.4972918384,
+    "coordenada_y": 108263.0328513391,
+    "direccion": "TRONADOR Y BALBIN, RICARDO, DR. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TRONADOR",
+    "nombreCalle_2": "BALBIN, RICARDO, DR. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "055-240-006e",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

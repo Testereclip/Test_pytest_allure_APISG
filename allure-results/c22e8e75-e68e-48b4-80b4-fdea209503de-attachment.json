@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 1022,
+    "codCalle_2": 1090,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100003.1797854305,
+    "coordenada_y": 103305.0702237638,
+    "direccion": "DICKMAN, ADOLFO, DR. Y MATURIN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DICKMAN, ADOLFO, DR.",
+    "nombreCalle_2": "MATURIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-102-022b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

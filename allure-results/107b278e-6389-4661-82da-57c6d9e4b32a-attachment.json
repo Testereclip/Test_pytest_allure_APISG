@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 367,
+    "codCalle_2": 2110,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 105438.1875972412,
+    "coordenada_y": 105082.2264739461,
+    "direccion": "LAS HERAS GENERAL AV. Y BILLINGHURST",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAS HERAS GENERAL AV.",
+    "nombreCalle_2": "BILLINGHURST",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-032-009a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

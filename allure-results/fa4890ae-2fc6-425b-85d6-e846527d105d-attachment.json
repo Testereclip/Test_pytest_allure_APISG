@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": "Barrio Illia",
+    "codCalle_1": 84,
+    "codCalle_2": 790,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102660.7132025731,
+    "coordenada_y": 97958.1148252375,
+    "direccion": "AZUL, PASAJE Y GIACCHINO, PEDRO E., CAPITAN DE FRAGATA",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AZUL, PASAJE",
+    "nombreCalle_2": "GIACCHINO, PEDRO E., CAPITAN DE FRAGATA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "044-205-001",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

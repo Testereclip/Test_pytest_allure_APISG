@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 577,
+    "codCalle_2": 1934,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102067.8594723382,
+    "coordenada_y": 99073.1717868297,
+    "direccion": "FARADAY Y DIAZ, AVELINO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FARADAY",
+    "nombreCalle_2": "DIAZ, AVELINO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-136B-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

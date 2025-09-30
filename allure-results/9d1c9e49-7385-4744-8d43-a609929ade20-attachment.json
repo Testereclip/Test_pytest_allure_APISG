@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 340,
+    "codCalle_2": 1520,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99187.4375982047,
+    "coordenada_y": 105563.9374109756,
+    "direccion": "OHM Y ACHA, MARIANO, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OHM",
+    "nombreCalle_2": "ACHA, MARIANO, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-058-022",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

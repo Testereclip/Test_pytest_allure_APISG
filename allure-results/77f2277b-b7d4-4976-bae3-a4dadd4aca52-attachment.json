@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 1940,
+    "codCalle_2": 2238,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99188.336034979,
+    "coordenada_y": 94770.195224574,
+    "direccion": "CALOU, JUAN P. Y LARRAZABAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CALOU, JUAN P.",
+    "nombreCalle_2": "LARRAZABAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "080-118-036a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

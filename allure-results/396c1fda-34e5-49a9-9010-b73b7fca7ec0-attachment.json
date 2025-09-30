@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 513,
+    "codCalle_2": 1525,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97489.328223022,
+    "coordenada_y": 99101.1639740216,
+    "direccion": "MORETO Y FALCON, RAMON L.,CNEL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MORETO",
+    "nombreCalle_2": "FALCON, RAMON L.,CNEL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-050A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NU\u00d1EZ",
+    "barrioInf": null,
+    "codCalle_1": 296,
+    "codCalle_2": 1792,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99672.8594733867,
+    "coordenada_y": 109330.3749106254,
+    "direccion": "PAROISSIEN Y ARCOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PAROISSIEN",
+    "nombreCalle_2": "ARCOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "029-042-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

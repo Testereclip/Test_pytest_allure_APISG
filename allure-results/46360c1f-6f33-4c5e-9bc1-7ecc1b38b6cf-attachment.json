@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 710,
+    "codCalle_2": 1767,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 104796.3594720891,
+    "coordenada_y": 101401.2889742791,
+    "direccion": "24 DE NOVIEMBRE Y REPUBLICA BOLIVARIANA DE VENEZUELA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "24 DE NOVIEMBRE",
+    "nombreCalle_2": "REPUBLICA BOLIVARIANA DE VENEZUELA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "028-029-037",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

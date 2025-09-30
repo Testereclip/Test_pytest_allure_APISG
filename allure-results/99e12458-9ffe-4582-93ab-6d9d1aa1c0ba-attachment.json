@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": 204,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 63,
+    "codCalle_2": null,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103567.260595679,
+    "coordenada_y": 101465.5734100195,
+    "direccion": "TREINTA Y TRES ORIENTALES 204",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": null,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "036-061-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_altura"
+  },
+  "status_code": 200
+}

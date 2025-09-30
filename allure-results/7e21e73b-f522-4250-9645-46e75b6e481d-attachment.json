@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 1841,
+    "codCalle_2": 2091,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 102715.2344720236,
+    "coordenada_y": 95797.9842872056,
+    "direccion": "SAN PEDRITO Y TROXLER, JULIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN PEDRITO",
+    "nombreCalle_2": "TROXLER, JULIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "052-103-015a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

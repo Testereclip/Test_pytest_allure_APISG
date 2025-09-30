@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 385,
+    "codCalle_2": 2120,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104300.7579098299,
+    "coordenada_y": 103902.1249114911,
+    "direccion": "BULNES Y HONDURAS AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BULNES",
+    "nombreCalle_2": "HONDURAS AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-003-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

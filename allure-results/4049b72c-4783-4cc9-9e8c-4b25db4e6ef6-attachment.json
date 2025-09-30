@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COGHLAN",
+    "barrioInf": null,
+    "codCalle_1": 517,
+    "codCalle_2": 1696,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98726.4375983723,
+    "coordenada_y": 107022.2342857964,
+    "direccion": "TRONADOR Y RIVERA, PEDRO I., DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TRONADOR",
+    "nombreCalle_2": "RIVERA, PEDRO I., DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "053-121-016",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

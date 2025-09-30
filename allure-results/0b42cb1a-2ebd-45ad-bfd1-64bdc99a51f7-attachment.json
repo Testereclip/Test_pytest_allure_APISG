@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 1285,
+    "codCalle_2": 1639,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106567.3360345628,
+    "coordenada_y": 104935.7186615357,
+    "direccion": "SENDERO PEATONAL PUEYRREDON Y PUEYRREDON AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SENDERO PEATONAL PUEYRREDON",
+    "nombreCalle_2": "PUEYRREDON AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "011-041-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

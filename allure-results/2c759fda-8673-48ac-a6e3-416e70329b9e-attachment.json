@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 433,
+    "codCalle_2": 2559,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106337.4610344781,
+    "coordenada_y": 103148.1639742032,
+    "direccion": "RIOBAMBA Y VIAMONTE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIOBAMBA",
+    "nombreCalle_2": "VIAMONTE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "009-072-001d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

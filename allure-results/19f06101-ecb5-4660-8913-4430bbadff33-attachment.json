@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 437,
+    "codCalle_2": 899,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107453.968846411,
+    "coordenada_y": 97146.7264748863,
+    "direccion": "VILLARINO Y SANTA ELENA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VILLARINO",
+    "nombreCalle_2": "SANTA ELENA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-047-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

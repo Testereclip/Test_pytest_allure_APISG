@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 772,
+    "codCalle_2": 1207,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102253.7266600425,
+    "coordenada_y": 102527.0858489938,
+    "direccion": "MACHADO, ANTONIO Y AMBROSETTI, JUAN B.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MACHADO, ANTONIO",
+    "nombreCalle_2": "AMBROSETTI, JUAN B.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-089-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

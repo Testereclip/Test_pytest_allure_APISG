@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 175,
+    "codCalle_2": 638,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97210.5860357688,
+    "coordenada_y": 102140.0467861937,
+    "direccion": "ARREGUI Y MARTIN PESCADOR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARREGUI",
+    "nombreCalle_2": "MARTIN PESCADOR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-122C-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

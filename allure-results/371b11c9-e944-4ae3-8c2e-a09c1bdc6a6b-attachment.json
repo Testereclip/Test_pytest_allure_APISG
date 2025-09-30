@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 2123,
+    "codCalle_2": 2292,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102213.9532224351,
+    "coordenada_y": 100836.8358491604,
+    "direccion": "GUAYAQUIL Y BERTRES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUAYAQUIL",
+    "nombreCalle_2": "BERTRES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-041-037",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 242,
+    "codCalle_2": 2141,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104189.500096888,
+    "coordenada_y": 97045.7264746763,
+    "direccion": "BARCO CENTENERA DEL Y FERRE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BARCO CENTENERA DEL",
+    "nombreCalle_2": "FERRE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "046-172-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

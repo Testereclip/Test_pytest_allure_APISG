@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 73,
+    "codCalle_2": 319,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100533.4532225866,
+    "coordenada_y": 99363.0155367,
+    "direccion": "LAFERRERE, GREGORIO DE Y ORTIZ, CARLOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAFERRERE, GREGORIO DE",
+    "nombreCalle_2": "ORTIZ, CARLOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-113B-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 945,
+    "codCalle_2": 1767,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 104502.7500971283,
+    "coordenada_y": 101343.484286766,
+    "direccion": "LINIERS VIRREY Y REPUBLICA BOLIVARIANA DE VENEZUELA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LINIERS VIRREY",
+    "nombreCalle_2": "REPUBLICA BOLIVARIANA DE VENEZUELA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "028-020-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

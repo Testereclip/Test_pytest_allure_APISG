@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1007,
+    "codCalle_2": 2174,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104005.5235345261,
+    "coordenada_y": 98693.4920995007,
+    "direccion": "TROLE Y POMAR, GREGORIO TTE. CNEL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TROLE",
+    "nombreCalle_2": "POMAR, GREGORIO TTE. CNEL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-188-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

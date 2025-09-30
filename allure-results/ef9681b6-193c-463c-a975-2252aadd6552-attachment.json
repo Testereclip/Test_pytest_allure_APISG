@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 208,
+    "codCalle_2": 2688,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96902.1954109672,
+    "coordenada_y": 104355.8827234468,
+    "direccion": "TERRADA Y CARRIL, SALVADOR MARIA DEL AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TERRADA",
+    "nombreCalle_2": "CARRIL, SALVADOR MARIA DEL AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "073-033A-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

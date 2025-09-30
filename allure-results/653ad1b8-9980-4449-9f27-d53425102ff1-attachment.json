@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 242,
+    "codCalle_2": 2221,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102082.0938474143,
+    "coordenada_y": 100231.9999117154,
+    "direccion": "BARCO CENTENERA DEL Y LA NAVE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BARCO CENTENERA DEL",
+    "nombreCalle_2": "LA NAVE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-032-015f",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

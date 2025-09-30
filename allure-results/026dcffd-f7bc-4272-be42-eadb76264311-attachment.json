@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 855,
+    "codCalle_2": 2696,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98340.7891609549,
+    "coordenada_y": 107407.1092857317,
+    "direccion": "PLAZA Y IBERA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PLAZA",
+    "nombreCalle_2": "IBERA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "053-107-024",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

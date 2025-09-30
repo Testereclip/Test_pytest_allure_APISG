@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 105,
+    "codCalle_2": 954,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 103406.4854520741,
+    "coordenada_y": 96226.8118824277,
+    "direccion": "27 DE FEBRERO AV. Y BERG, CARLOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "27 DE FEBRERO AV.",
+    "nombreCalle_2": "BERG, CARLOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "046-003C-000G",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

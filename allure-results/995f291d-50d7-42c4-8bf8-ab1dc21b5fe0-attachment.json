@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN CRISTOBAL",
+    "barrioInf": null,
+    "codCalle_1": 2273,
+    "codCalle_2": 977,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105970.7657218755,
+    "coordenada_y": 100816.3514744155,
+    "direccion": "HUMBERTO 1\u00b0 Y PICHINCHA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HUMBERTO 1\u00b0",
+    "nombreCalle_2": "PICHINCHA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "022-035-022a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

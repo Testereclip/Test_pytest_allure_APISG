@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PUERTO MADERO",
+    "barrioInf": null,
+    "codCalle_1": 839,
+    "codCalle_2": 2690,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 109391.2735339028,
+    "coordenada_y": 101310.0936620956,
+    "direccion": "PAINE, AIME Y VERA PE\u00d1ALOZA,  ROSARIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PAINE, AIME",
+    "nombreCalle_2": "VERA PE\u00d1ALOZA,  ROSARIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "098-001R-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

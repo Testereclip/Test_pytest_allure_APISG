@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 82,
+    "codCalle_2": 2665,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106235.3125966055,
+    "coordenada_y": 97334.9217872867,
+    "direccion": "DAMIANOVICH, ELEODORO, DR. Y LUNA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DAMIANOVICH, ELEODORO, DR.",
+    "nombreCalle_2": "LUNA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "026-001C-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,46 @@
+[ 
+  {
+    "calle": "20 DE SETIEMBRE",
+    "cod_calle": 100
+  },
+  {
+    "calle": "PASAJE BARRIO FÁTIMA (NO OFICIAL)",
+    "cod_calle": 1973
+  },
+  {
+    "calle": "SENDERO ESTADO PLURINACIONAL DE BOLIVIA (NO OFICIAL)",
+    "cod_calle": 886
+  },
+  {
+    "calle": "BOLIVIA",
+    "cod_calle": 758
+  },
+  {
+    "calle": "DIAGONAL109 - CEMENTERIO CHACARITA",
+    "cod_calle": 2657
+  },
+  {
+    "calle": "COMPLEJO PARQUE DE LOS NIÑOS (SIN NOMBRE OFICIAL)",
+    "cod_calle": 1184
+  },
+  {
+    "calle": "LOS ÁLAMOS",
+    "cod_calle": 2756
+  },
+  {
+    "calle": "AUTOPISTA PRESIDENTE HÉCTOR J. CÁMPORA",
+    "cod_calle": 2753
+  },
+  {
+    "calle": "GIACCHINO, PEDRO E., CAPITÁN DE FRAGATA",
+    "cod_calle": 2754
+  },
+  {
+    "calle": "PUENTE LACARRA - OLÍMPICO RIBERA SUR",
+    "cod_calle": 2755
+  },
+  {
+    "calle": "DÁRSENA FIGUEROA ALCORTA, PRES. AV.",
+    "cod_calle": 2757
+  }
+] 

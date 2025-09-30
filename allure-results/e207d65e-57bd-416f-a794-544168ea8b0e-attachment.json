@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1227,
+    "codCalle_2": 2418,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102383.254832933,
+    "coordenada_y": 102532.2286395489,
+    "direccion": "LILLO AV. Y BURMEISTER, GERMAN AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LILLO AV.",
+    "nombreCalle_2": "BURMEISTER, GERMAN AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-108A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

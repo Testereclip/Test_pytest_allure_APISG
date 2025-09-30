@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 601,
+    "codCalle_2": 665,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99661.6016602055,
+    "coordenada_y": 99180.4530366587,
+    "direccion": "TANDIL Y SAN PEDRITO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TANDIL",
+    "nombreCalle_2": "SAN PEDRITO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-049-021",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 1351,
+    "codCalle_2": 2392,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96153.8438486308,
+    "coordenada_y": 105139.1639733163,
+    "direccion": "CABEZON, JOSE LEON Y NAZCA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CABEZON, JOSE LEON",
+    "nombreCalle_2": "NAZCA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-022-035",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 842,
+    "codCalle_2": 2034,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 99080.0782232654,
+    "coordenada_y": 106215.6092859045,
+    "direccion": "ECHEVERRIA Y HOLMBERG",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ECHEVERRIA",
+    "nombreCalle_2": "HOLMBERG",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-102-024p",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

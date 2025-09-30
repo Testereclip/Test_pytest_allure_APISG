@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1358,
+    "codCalle_2": 1463,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104426.9536790632,
+    "coordenada_y": 106066.9196418057,
+    "direccion": "IRAOLA AV. Y SARMIENTO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "IRAOLA AV.",
+    "nombreCalle_2": "SARMIENTO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-132-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

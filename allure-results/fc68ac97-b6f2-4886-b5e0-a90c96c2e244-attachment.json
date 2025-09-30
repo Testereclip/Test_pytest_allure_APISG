@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 589,
+    "codCalle_2": 2081,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98987.7344730628,
+    "coordenada_y": 103010.6952237246,
+    "direccion": "TERRERO Y BIARRITZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TERRERO",
+    "nombreCalle_2": "BIARRITZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "069-104-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

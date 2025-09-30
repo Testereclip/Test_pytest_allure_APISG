@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 30,
+    "codCalle_2": 1517,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95559.3829111706,
+    "coordenada_y": 104413.2420983476,
+    "direccion": "CONCORDIA Y GRIVEO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CONCORDIA",
+    "nombreCalle_2": "GRIVEO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-201B-005a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 132,
+    "codCalle_2": 1309,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103146.0938476006,
+    "coordenada_y": 105359.2967862652,
+    "direccion": "PARAGUAY Y JUSTO, JUAN B. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PARAGUAY",
+    "nombreCalle_2": "JUSTO, JUAN B. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-161-001d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

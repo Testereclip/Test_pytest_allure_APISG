@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 2549,
+    "codCalle_2": 2703,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 105445.2579097733,
+    "coordenada_y": 105577.9217863975,
+    "direccion": "DIAZ, CNEL. AV. Y CASTEX",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DIAZ, CNEL. AV.",
+    "nombreCalle_2": "CASTEX",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-101-015a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1330,
+    "codCalle_2": 1831,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103305.5469720881,
+    "coordenada_y": 98067.4217870152,
+    "direccion": "SEGUIN, MARCOS Y FERNANDEZ DE LA CRUZ, F., GRAL. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SEGUIN, MARCOS",
+    "nombreCalle_2": "FERNANDEZ DE LA CRUZ, F., GRAL. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-041B-021",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

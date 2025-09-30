@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA RIACHUELO",
+    "barrioInf": null,
+    "codCalle_1": 1826,
+    "codCalle_2": 2589,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98879.6407223961,
+    "coordenada_y": 92852.8592872495,
+    "direccion": "PAZ, GRAL. AV. Y CORRALES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PAZ, GRAL. AV.",
+    "nombreCalle_2": "CORRALES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "082-004-021",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

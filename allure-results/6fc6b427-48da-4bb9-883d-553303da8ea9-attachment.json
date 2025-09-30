@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 879,
+    "codCalle_2": 2073,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97534.1485359755,
+    "coordenada_y": 105916.9608483294,
+    "direccion": "CIVIT, EMILIO Y ANDONAEGUI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CIVIT, EMILIO",
+    "nombreCalle_2": "ANDONAEGUI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-088B-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

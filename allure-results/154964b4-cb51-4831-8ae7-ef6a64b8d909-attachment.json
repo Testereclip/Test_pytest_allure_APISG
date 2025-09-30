@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 1550,
+    "codCalle_2": 2585,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99627.8910956059,
+    "coordenada_y": 104226.6332357104,
+    "direccion": "BALBOA Y PJE.PARTICULAR (ALT. BALBOA 458)",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BALBOA",
+    "nombreCalle_2": "PJE.PARTICULAR (ALT. BALBOA 458)",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-024A-001c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

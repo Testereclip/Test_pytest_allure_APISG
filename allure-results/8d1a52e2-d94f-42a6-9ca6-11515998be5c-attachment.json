@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 2019,
+    "codCalle_2": 2213,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100314.9532230624,
+    "coordenada_y": 105948.5545985136,
+    "direccion": "MARTINEZ, ENRIQUE, GRAL. Y ELCANO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MARTINEZ, ENRIQUE, GRAL.",
+    "nombreCalle_2": "ELCANO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "037-042-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

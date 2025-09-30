@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 940,
+    "codCalle_2": 1904,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 109698.7735337519,
+    "coordenada_y": 99726.531162275,
+    "direccion": "VALLE, ARISTOBULO DEL Y BRIN, MINISTRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VALLE, ARISTOBULO DEL",
+    "nombreCalle_2": "BRIN, MINISTRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "006-071-016b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

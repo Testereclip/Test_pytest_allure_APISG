@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN NICOLAS",
+    "barrioInf": null,
+    "codCalle_1": 295,
+    "codCalle_2": 2193,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107189.5235343017,
+    "coordenada_y": 102409.1405368363,
+    "direccion": "TALCAHUANO Y MITRE, BARTOLOME",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TALCAHUANO",
+    "nombreCalle_2": "MITRE, BARTOLOME",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "005-043-021a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

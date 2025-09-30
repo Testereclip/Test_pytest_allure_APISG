@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NU\u00d1EZ",
+    "barrioInf": null,
+    "codCalle_1": 826,
+    "codCalle_2": 1792,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99475.6875984368,
+    "coordenada_y": 109652.79678558,
+    "direccion": "CORREA Y ARCOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CORREA",
+    "nombreCalle_2": "ARCOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "029-047-015a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

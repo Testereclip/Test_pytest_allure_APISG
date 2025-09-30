@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 201,
+    "codCalle_2": 1552,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100647.9297853469,
+    "coordenada_y": 103514.3514737847,
+    "direccion": "PAYSANDU Y WARNES AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PAYSANDU",
+    "nombreCalle_2": "WARNES AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-040A-008e",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

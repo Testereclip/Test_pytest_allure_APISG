@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 1012,
+    "codCalle_2": 2057,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94570.0860358466,
+    "coordenada_y": 97423.9686614953,
+    "direccion": "GUAMINI Y GARCIA DE COSSIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUAMINI",
+    "nombreCalle_2": "GARCIA DE COSSIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-046-032b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

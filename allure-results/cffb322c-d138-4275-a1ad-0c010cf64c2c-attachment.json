@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 22,
+    "codCalle_2": 1079,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101745.9532230475,
+    "coordenada_y": 108903.351473307,
+    "direccion": "DRAGONES Y BAVIO, ERNESTO A.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DRAGONES",
+    "nombreCalle_2": "BAVIO, ERNESTO A.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "027-131-016a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

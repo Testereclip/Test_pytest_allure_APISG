@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 4,
+    "codCalle_2": 537,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 95929.2813480766,
+    "coordenada_y": 96417.976474187,
+    "direccion": "RODO, JOSE E. Y ANDALGALA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RODO, JOSE E.",
+    "nombreCalle_2": "ANDALGALA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "076-082-030c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

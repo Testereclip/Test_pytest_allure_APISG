@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ARTIGAS%2C+JOSE+GERVASIO%2C+GRAL.+Y+MISTRAL%2C+GABRIELA&v2=true

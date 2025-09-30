@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 1504,
+    "codCalle_2": 1922,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105720.2735343147,
+    "coordenada_y": 99358.7499120499,
+    "direccion": "CATAMARCA Y RONDEAU",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CATAMARCA",
+    "nombreCalle_2": "RONDEAU",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "024-053-023a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 1786,
+    "codCalle_2": 1891,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99861.9610351893,
+    "coordenada_y": 99394.835849149,
+    "direccion": "DIRECTORIO AV. Y CULPINA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DIRECTORIO AV.",
+    "nombreCalle_2": "CULPINA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-062-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

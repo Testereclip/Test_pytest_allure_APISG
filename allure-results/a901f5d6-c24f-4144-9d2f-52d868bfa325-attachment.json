@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 351,
+    "codCalle_2": 2670,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98678.3282232595,
+    "coordenada_y": 105261.8124109736,
+    "direccion": "LONDRES Y GAMARRA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LONDRES",
+    "nombreCalle_2": "GAMARRA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-092-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

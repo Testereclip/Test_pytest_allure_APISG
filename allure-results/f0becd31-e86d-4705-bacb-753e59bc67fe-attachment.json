@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 252,
+    "codCalle_2": 825,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 102525.7344720905,
+    "coordenada_y": 96408.4764746318,
+    "direccion": "CASTA\u00d1ON Y CONDOR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CASTA\u00d1ON",
+    "nombreCalle_2": "CONDOR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "052-073-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

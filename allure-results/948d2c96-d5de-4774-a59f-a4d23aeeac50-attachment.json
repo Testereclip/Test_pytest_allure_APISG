@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 191,
+    "codCalle_2": 724,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98094.8672852137,
+    "coordenada_y": 95873.3202243891,
+    "direccion": "KRAUSE, JULIO, ING. Y HICKEN, CRISTOBAL M.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "KRAUSE, JULIO, ING.",
+    "nombreCalle_2": "HICKEN, CRISTOBAL M.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "064-006B-005",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=KAHLO%2C+FRIDA+Y+MARTINEZ%2C+RAMONA&v2=true

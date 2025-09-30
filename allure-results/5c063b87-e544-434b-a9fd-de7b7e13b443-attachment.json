@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1379,
+    "codCalle_2": 2378,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105074.328221781,
+    "coordenada_y": 97421.1561621998,
+    "direccion": "ALCORTA, AMANCIO AV. Y SERVET",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALCORTA, AMANCIO AV.",
+    "nombreCalle_2": "SERVET",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "034-068-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

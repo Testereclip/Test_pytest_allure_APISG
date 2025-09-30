@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "AGRONOMIA",
+    "barrioInf": null,
+    "codCalle_1": 563,
+    "codCalle_2": 2597,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98079.72666074,
+    "coordenada_y": 103646.546786099,
+    "direccion": "CORTAZAR, JULIO Y ZAMUDIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CORTAZAR, JULIO",
+    "nombreCalle_2": "ZAMUDIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-010B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

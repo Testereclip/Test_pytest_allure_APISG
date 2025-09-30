@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VIDAL+Y+OLAGUER+Y+FELIU%2C+VIRREY&v2=true

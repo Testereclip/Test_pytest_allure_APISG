@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CURAPALIGUE+Y+BILBAO%2C+FRANCISCO&v2=true

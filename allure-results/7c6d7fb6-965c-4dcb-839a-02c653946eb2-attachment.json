@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": "Barrio Estacion Buenos Aires",
+    "codCalle_1": 285,
+    "codCalle_2": 1040,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106314.3949076112,
+    "coordenada_y": 98351.9185854092,
+    "direccion": "GARCIA, MANUEL Y PIAZZOLLA, ASTOR",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GARCIA, MANUEL",
+    "nombreCalle_2": "PIAZZOLLA, ASTOR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "026-012S-001a",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

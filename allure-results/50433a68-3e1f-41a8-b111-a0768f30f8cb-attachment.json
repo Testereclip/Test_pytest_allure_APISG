@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 902,
+    "codCalle_2": 1820,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100360.1875974963,
+    "coordenada_y": 97659.1249118607,
+    "direccion": "VELAZQUEZ Y MORENO, PERITO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VELAZQUEZ",
+    "nombreCalle_2": "MORENO, PERITO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "050-028B-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

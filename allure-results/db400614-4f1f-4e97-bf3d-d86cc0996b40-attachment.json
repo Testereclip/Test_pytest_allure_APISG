@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 1180,
+    "codCalle_2": 2607,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97999.6563480565,
+    "coordenada_y": 100725.0233488905,
+    "direccion": "TRES ARROYOS Y GONZALEZ, JOAQUIN V.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TRES ARROYOS",
+    "nombreCalle_2": "GONZALEZ, JOAQUIN V.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-077-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

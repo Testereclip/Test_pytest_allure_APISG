@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 350,
+    "codCalle_2": 2449,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99219.9766605149,
+    "coordenada_y": 102809.7342862608,
+    "direccion": "ALVAREZ JONTE Y MIGUEL ANGEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALVAREZ JONTE",
+    "nombreCalle_2": "MIGUEL ANGEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-013-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

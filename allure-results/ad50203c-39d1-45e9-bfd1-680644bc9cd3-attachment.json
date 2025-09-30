@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BOEDO",
+    "barrioInf": null,
+    "codCalle_1": 731,
+    "codCalle_2": 1447,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103928.1485346146,
+    "coordenada_y": 99840.578036878,
+    "direccion": "PAVON AV. Y BOCAYUVA, QUINTINO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PAVON AV.",
+    "nombreCalle_2": "BOCAYUVA, QUINTINO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "036-065-009b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

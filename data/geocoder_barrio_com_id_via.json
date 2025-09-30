@@ -1,0 +1,394 @@
+[
+  {
+    "id_via_usig": "2010",
+    "codCalle_1": "116",
+    "direccion": "BAIGORRIA 5400",
+    "barrio": "MONTE CASTRO",
+    "comuna": "Comuna 10"
+  },
+  {
+    "id_via_usig": "2010",
+    "codCalle_1": "116",
+    "direccion": "BAIGORRIA  5352",
+    "barrio": "MONTE CASTRO",
+    "comuna": "Comuna 10"
+  },
+  {
+    "id_via_usig": "2010",
+    "codCalle_1": "116",
+    "direccion": "BAIGORRIA 5351",
+    "barrio": "VILLA REAL",
+    "comuna": "Comuna 10"
+  },
+  {
+    "id_via_usig": "2010",
+    "codCalle_1": "116",
+    "direccion": "BAIGORRIA 5399",
+    "barrio": "VILLA REAL",
+    "comuna": "Comuna 10"
+  },
+  {
+    "id_via_usig": "2010",
+    "codCalle_1": "116",
+    "direccion": "BAIGORRIA 3002",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": "Comuna 11"
+  },
+  {
+    "id_via_usig": "2010",
+    "codCalle_1": "116",
+    "direccion": "BAIGORRIA 4772",
+    "barrio": "MONTE CASTRO",
+    "comuna": "Comuna 10"
+  },
+  {
+    "id_via_usig": "2010",
+    "codCalle_1": "116",
+    "direccion": "BAIGORRIA 4771",
+    "barrio": "VILLA DEVOTO",
+    "comuna": "Comuna 11"
+  },
+  {
+    "id_via_usig": "2010",
+    "codCalle_1": "116",
+    "direccion": "BAIGORRIA 4772",
+    "barrio": "MONTE CASTRO",
+    "comuna": "Comuna 10"
+  },
+  {
+    "id_via_usig": "2147",
+    "codCalle_1": "2085",
+    "direccion": "BALANDRA, CARMEN 6100",
+    "barrio": "VILLA LUGANO",
+    "comuna": "Comuna 8"
+  },
+  {
+    "id_via_usig": "2147",
+    "codCalle_1": "2085",
+    "direccion": "BALANDRA, CARMEN 6002",
+    "barrio": "VILLA LUGANO",
+    "comuna": "Comuna 8"
+  },
+  {
+    "id_via_usig": "2029",
+    "codCalle_1": "2255",
+    "direccion": "BARROS PAZOS, JOSE 4602",
+    "barrio": "VILLA LUGANO",
+    "comuna": "Comuna 8"
+  },
+  {
+    "id_via_usig": "2029",
+    "codCalle_1": "2255",
+    "direccion": "BARROS PAZOS, JOSE 3502",
+    "barrio": "VILLA SOLDATI",
+    "comuna": "Comuna 8"
+  },
+  {
+    "id_via_usig": "12138",
+    "codCalle_1": "1833",
+    "direccion": "BEADE 548",
+    "barrio": "CABALLITO",
+    "comuna": "Comuna 6"
+  },
+  {
+    "id_via_usig": "2039",
+    "codCalle_1": "919",
+    "direccion": "BEAUCHEF 700",
+    "barrio": "CABALLITO",
+    "comuna": "Comuna 6"
+  },
+  {
+    "id_via_usig": "2039",
+    "codCalle_1": "919",
+    "direccion": "BEAUCHEF 1851",
+    "barrio": "PARQUE CHACABUCO",
+    "comuna": "Comuna 7"
+  },
+  {
+    "id_via_usig": "2039",
+    "codCalle_1": "919",
+    "direccion": "BEAUCHEF 500",
+    "barrio": "CABALLITO",
+    "comuna": "Comuna 6"
+  },
+  {
+    "id_via_usig": "2051",
+    "codCalle_1": "2362",
+    "direccion": "BELGRANO 4000",
+    "barrio": "ALMAGRO",
+    "comuna": "Comuna 5"
+  },
+  {
+    "id_via_usig": "2051",
+    "codCalle_1": "92",
+    "direccion": "BELGRANO AV. 3601",
+    "barrio": "ALMAGRO",
+    "comuna": "Comuna 5"
+  },
+  {
+    "id_via_usig": "2051",
+    "codCalle_1": "92",
+    "direccion": "BELGRANO AV. 3702",
+    "barrio": "ALMAGRO",
+    "comuna": "Comuna 5"
+  },
+  {
+    "id_via_usig": "2051",
+    "codCalle_1": "92",
+    "direccion": "BELGRANO AV. 1702",
+    "barrio": "MONSERRAT",
+    "comuna": "Comuna 1"
+  },
+  {
+    "id_via_usig": "2052",
+    "codCalle_1": "413",
+    "direccion": "BELL VILLE 1300",
+    "barrio": "PARQUE CHACABUCO",
+    "comuna": "Comuna 7"
+  },
+  {
+    "id_via_usig": "2053",
+    "codCalle_1": "908",
+    "direccion": "BELLA VISTA 1200",
+    "barrio": "PATERNAL",
+    "comuna": "Comuna 15"
+  },
+  {
+    "id_via_usig": "99956",
+    "codCalle_1": "2216",
+    "direccion": "BELTRAN, NELLY 4252",
+    "barrio": "VILLA LUGANO",
+    "comuna": "Comuna 8"
+  },
+  {
+    "id_via_usig": "99955",
+    "codCalle_1": "51",
+    "direccion": "BEMBERG, MARIA LUISA 350",
+    "barrio": "PUERTO MADERO",
+    "comuna": "Comuna 1"
+  },
+  {
+    "id_via_usig": "12031",
+    "codCalle_1": "784",
+    "direccion": "BENEDETTI, OSVALDO E., DIP.NAC. 100",
+    "barrio": "VELEZ SARSFIELD",
+    "comuna": "Comuna 10"
+  },
+  {
+    "id_via_usig": "12031",
+    "codCalle_1": "784",
+    "direccion": "BENEDETTI, OSVALDO E., DIP.NAC. 152",
+    "barrio": "VELEZ SARSFIELD",
+    "comuna": "Comuna 10"
+  },
+  {
+    "id_via_usig": "2055",
+    "codCalle_1": "929",
+    "direccion": "BENIELLI, CARLOS J. 7052",
+    "barrio": "MATADEROS",
+    "comuna": "Comuna 9"
+  },
+  {
+    "id_via_usig": "99954",
+    "codCalle_1": "1260",
+    "direccion": "BENITEZ, JULIO OMAR, CABO 1º 4350",
+    "barrio": "VILLA LUGANO",
+    "comuna": "Comuna 8"
+  },
+  {
+    "id_via_usig": "2056",
+    "codCalle_1": "954",
+    "direccion": "BERG, CARLOS 2900",
+    "barrio": "VILLA SOLDATI",
+    "comuna": "Comuna 8"
+  },
+  {
+    "id_via_usig": "2056",
+    "codCalle_1": "954",
+    "direccion": "BERG, CARLOS 3200",
+    "barrio": "VILLA SOLDATI",
+    "comuna": "Comuna 8"
+  },
+  {
+    "id_via_usig": "2056",
+    "codCalle_1": "954",
+    "direccion": "BERG, CARLOS 3102",
+    "barrio": "VILLA SOLDATI",
+    "comuna": "Comuna 8"
+  },
+  {
+    "id_via_usig": "2099",
+    "codCalle_1": "395",
+    "direccion": "BONORINO, ESTEBAN, CNEL. AV. 2802",
+    "barrio": "NUEVA POMPEYA",
+    "comuna": "Comuna 4"
+  },
+  {
+    "id_via_usig": "2099",
+    "codCalle_1": "395",
+    "direccion": "BONORINO, ESTEBAN, CNEL. AV. 2801",
+    "barrio": "VILLA SOLDATI",
+    "comuna": "Comuna 8"
+  },
+  {
+    "id_via_usig": "2099",
+    "codCalle_1": "395",
+    "direccion": "BONORINO, ESTEBAN, CNEL. AV. 1952",
+    "barrio": "FLORES",
+    "comuna": "Comuna 7"
+  },
+  {
+    "id_via_usig": "2099",
+    "codCalle_1": "395",
+    "direccion": "BONORINO, ESTEBAN, CNEL. AV. 200",
+    "barrio": "FLORES",
+    "comuna": "Comuna 7"
+  },
+  {
+    "id_via_usig": "2156",
+    "codCalle_1": "406",
+    "direccion": "BORCHES, JOSE 1032",
+    "barrio": "BELGRANO",
+    "comuna": "Comuna 13"
+  },
+  {
+    "id_via_usig": "2156",
+    "codCalle_1": "406",
+    "direccion": "BORCHES, JOSE 1001",
+    "barrio": "BELGRANO",
+    "comuna": "Comuna 13"
+  },
+  {
+    "id_via_usig": "2157",
+    "codCalle_1": "2104",
+    "direccion": "BORDABEHERE, ENZO 2802",
+    "barrio": "VILLA DEL PARQUE",
+    "comuna": "Comuna 11"
+  },
+  {
+    "id_via_usig": "2111",
+    "codCalle_1": "2361",
+    "direccion": "BRASIL AV. 39",
+    "barrio": "SAN TELMO",
+    "comuna": "Comuna 1"
+  },
+  {
+    "id_via_usig": "2111",
+    "codCalle_1": "2361",
+    "direccion": "BRASIL AV. 2",
+    "barrio": "LA BOCA",
+    "comuna": "Comuna 4"
+  },
+  {
+    "id_via_usig": "4039",
+    "codCalle_1": "2688",
+    "direccion": "CARRIL, SALVADOR MARIA DEL AV. 2152",
+    "barrio": "AGRONOMIA",
+    "comuna": "Comuna 15"
+  },
+  {
+    "id_via_usig": "4039",
+    "codCalle_1": "2688",
+    "direccion": "CARRIL, SALVADOR MARIA DEL AV. 2151",
+    "barrio": "VILLA PUEYRREDON",
+    "comuna": "Comuna 12"
+  },
+  {
+    "id_via_usig": "3200",
+    "codCalle_1": "1361",
+    "direccion": "CUENCA 900",
+    "barrio": "FLORESTA",
+    "comuna": "Comuna 10"
+  },
+  {
+    "id_via_usig": "21019",
+    "codCalle_1": "777",
+    "direccion": "DE LA TORRE, LISANDRO 4952",
+    "barrio": "VILLA LUGANO",
+    "comuna": "Comuna 8"
+  },
+  {
+    "id_via_usig": "21019",
+    "codCalle_1": "777",
+    "direccion": "DE LA TORRE, LISANDRO 4995",
+    "barrio": "VILLA RIACHUELO",
+    "comuna": "Comuna 8"
+  },
+  {
+    "id_via_usig": "21019",
+    "codCalle_1": "777",
+    "direccion": "DE LA TORRE, LISANDRO 4949",
+    "barrio": "VILLA RIACHUELO",
+    "comuna": "Comuna 8"
+  },
+  {
+    "id_via_usig": "21019",
+    "codCalle_1": "777",
+    "direccion": "DE LA TORRE, LISANDRO 5252",
+    "barrio": "VILLA LUGANO",
+    "comuna": "Comuna 8"
+  },
+  {
+    "id_via_usig": "21019",
+    "codCalle_1": "777",
+    "direccion": "DE LA TORRE, LISANDRO 5299",
+    "barrio": "VILLA RIACHUELO",
+    "comuna": "Comuna 8"
+  },
+  {
+    "id_via_usig": "20088",
+    "codCalle_1": "50",
+    "direccion": "SEGUROLA AV. 495",
+    "barrio": "FLORESTA",
+    "comuna": "Comuna 10"
+  },
+  {
+    "id_via_usig": "20088",
+    "codCalle_1": "50",
+    "direccion": "SEGUROLA AV. 502",
+    "barrio": "VELEZ SARSFIELD",
+    "comuna": "Comuna 10"
+  },
+  {
+    "id_via_usig": "200000",
+    "codCalle_1": "3000",
+    "direccion": "SIN NOMBRE OFICIAL 1299",
+    "barrio": "NUÑEZ",
+    "comuna": "Comuna 13"
+  },
+  {
+    "id_via_usig": "200000",
+    "codCalle_1": "3000",
+    "direccion": "SIN NOMBRE OFICIAL 1100",
+    "barrio": "NUÑEZ",
+    "comuna": "Comuna 13"
+  },
+  {
+    "id_via_usig": "21006",
+    "codCalle_1": "134",
+    "direccion": "TAGLE 2702",
+    "barrio": "PALERMO",
+    "comuna": "Comuna 14"
+  },
+  {
+    "id_via_usig": "21006",
+    "codCalle_1": "134",
+    "direccion": "TAGLE 2701",
+    "barrio": "RECOLETA",
+    "comuna": "Comuna 2"
+  },
+  {
+    "id_via_usig": "22015",
+    "codCalle_1": "698",
+    "direccion": "URUGUAY 904",
+    "barrio": "RECOLETA",
+    "comuna": "Comuna 2"
+  },
+  {
+    "id_via_usig": "22015",
+    "codCalle_1": "698",
+    "direccion": "URUGUAY 997",
+    "barrio": "RETIRO",
+    "comuna": "Comuna 1"
+  }
+]

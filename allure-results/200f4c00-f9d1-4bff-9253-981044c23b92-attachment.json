@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NU\u00d1EZ",
+    "barrioInf": null,
+    "codCalle_1": 556,
+    "codCalle_2": 2696,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99567.2969733242,
+    "coordenada_y": 108190.3045982345,
+    "direccion": "VIDAL Y IBERA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VIDAL",
+    "nombreCalle_2": "IBERA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "041-113-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

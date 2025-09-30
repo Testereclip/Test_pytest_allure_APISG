@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 1351,
+    "codCalle_2": 1354,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 95973.843848646,
+    "coordenada_y": 105004.0858483177,
+    "direccion": "CABEZON, JOSE LEON Y ALVAREZ, AGUSTIN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CABEZON, JOSE LEON",
+    "nombreCalle_2": "ALVAREZ, AGUSTIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-012A-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

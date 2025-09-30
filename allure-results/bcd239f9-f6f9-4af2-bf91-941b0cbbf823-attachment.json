@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 1030,
+    "codCalle_2": 1289,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102322.3594722657,
+    "coordenada_y": 98553.9842868999,
+    "direccion": "ZAPALA Y MARTINEZ, VICTOR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ZAPALA",
+    "nombreCalle_2": "MARTINEZ, VICTOR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-131-035",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

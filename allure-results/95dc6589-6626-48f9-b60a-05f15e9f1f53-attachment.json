@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio Papa Francisco",
+    "codCalle_1": 634,
+    "codCalle_2": 805,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100131.3060866003,
+    "coordenada_y": 95056.8350351189,
+    "direccion": "ARAUJO Y MORO, JUANA",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARAUJO",
+    "nombreCalle_2": "MORO, JUANA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "066-120-002",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

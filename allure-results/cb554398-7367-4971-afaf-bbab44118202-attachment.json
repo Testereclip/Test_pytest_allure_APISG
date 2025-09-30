@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 178,
+    "codCalle_2": 799,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94814.6329112262,
+    "coordenada_y": 103593.4061608847,
+    "direccion": "GUTENBERG Y SANABRIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUTENBERG",
+    "nombreCalle_2": "SANABRIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-018-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

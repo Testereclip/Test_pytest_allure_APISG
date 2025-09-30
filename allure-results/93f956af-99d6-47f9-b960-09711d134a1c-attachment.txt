@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PEREZ%2C+GREGORIA+Y+CHARLONE&v2=true

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 73,
+    "codCalle_2": 1559,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 101883.6407224225,
+    "coordenada_y": 99906.0311617348,
+    "direccion": "LAFERRERE, GREGORIO DE Y MITRE, EMILIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAFERRERE, GREGORIO DE",
+    "nombreCalle_2": "MITRE, EMILIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "042-081-033",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

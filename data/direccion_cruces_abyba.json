@@ -1,0 +1,1780 @@
+[
+  {
+    "direccion": "CONSTITUCION Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "CONSTITUCION",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "CHAVEZ, JORGE Y PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "nombreCalle_1": "CHAVEZ, JORGE",
+    "nombreCalle_2": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "RUY DIAZ DE GUZMAN Y PI Y MARGALL",
+    "nombreCalle_1": "RUY DIAZ DE GUZMAN",
+    "nombreCalle_2": "PI Y MARGALL",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y CALVO, CARLOS AV.",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "CALVO, CARLOS AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y RIVADAVIA AV.",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "RIVADAVIA AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y BIDEGAIN, PEDRO",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "BIDEGAIN, PEDRO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y ANGACO",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "ANGACO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y GIBSON",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "GIBSON",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y GARAY, JUAN DE AV.",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "GARAY, JUAN DE AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y PAVON AV.",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "PAVON AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y SAN JUAN AV.",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "SAN JUAN AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y DON BOSCO",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "DON BOSCO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y AUTOPISTA 25 DE MAYO",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "AUTOPISTA 25 DE MAYO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y LAS CASAS",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "LAS CASAS",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y RAWSON",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "RAWSON",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y TROLE",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "TROLE",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y INCLAN",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "INCLAN",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y METAN",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "METAN",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y CASEROS AV.",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "CASEROS AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y SALCEDO",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "SALCEDO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y QUITO",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "QUITO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y YRIGOYEN, HIPOLITO AV.",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "YRIGOYEN, HIPOLITO AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y REPUBLICA BOLIVARIANA DE VENEZUELA",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "REPUBLICA BOLIVARIANA DE VENEZUELA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y LOPEZ ANAUT, PEDRO, DR.",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "LOPEZ ANAUT, PEDRO, DR.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y RONDEAU",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "RONDEAU",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y AGRELO",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "AGRELO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y ESTADOS UNIDOS",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "ESTADOS UNIDOS",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y TARIJA",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "TARIJA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y BELGRANO",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "BELGRANO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y MEXICO",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "MEXICO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y INDEPENDENCIA AV.",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "INDEPENDENCIA AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y COCHABAMBA",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "COCHABAMBA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PASAJE LA ESPERANZA Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "PASAJE LA ESPERANZA",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "IRALA Y PI Y MARGALL",
+    "nombreCalle_1": "IRALA",
+    "nombreCalle_2": "PI Y MARGALL",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "ALBARIÑO Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "ALBARIÑO",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "RUCCI, JOSE IGNACIO Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "RUCCI, JOSE IGNACIO",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "MARTINEZ DE HOZ Y PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "nombreCalle_1": "MARTINEZ DE HOZ",
+    "nombreCalle_2": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "ASAMBLEA AV. Y RAMON Y CAJAL",
+    "nombreCalle_1": "ASAMBLEA AV.",
+    "nombreCalle_2": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "MOLDES Y OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_1": "MOLDES",
+    "nombreCalle_2": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "D'ESPOSITO, ARNALDO Y PI Y MARGALL",
+    "nombreCalle_1": "D'ESPOSITO, ARNALDO",
+    "nombreCalle_2": "PI Y MARGALL",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "ABDALA, GERMAN Y PI Y MARGALL",
+    "nombreCalle_1": "ABDALA, GERMAN",
+    "nombreCalle_2": "PI Y MARGALL",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "LAS HERAS GENERAL AV. Y GELLY Y OBES, GRAL. AV.",
+    "nombreCalle_1": "LAS HERAS GENERAL AV.",
+    "nombreCalle_2": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. Y COPERNICO",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "nombreCalle_2": "COPERNICO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. Y AGOTE, LUIS DR.",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "nombreCalle_2": "AGOTE, LUIS DR.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. Y GUIDO",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "nombreCalle_2": "GUIDO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. Y REPUBLICA DEL LIBANO",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "nombreCalle_2": "REPUBLICA DEL LIBANO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. Y ARJONILLA",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "nombreCalle_2": "ARJONILLA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. Y NEWTON",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "nombreCalle_2": "NEWTON",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. Y GALILEO",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "nombreCalle_2": "GALILEO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "RAMON Y CAJAL Y ZUVIRIA",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "nombreCalle_2": "ZUVIRIA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "MIGUELETES Y ORTEGA Y GASSET",
+    "nombreCalle_1": "MIGUELETES",
+    "nombreCalle_2": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "CAFAYATE Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "CAFAYATE",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "SOLDADO DE LA INDEPENDENCIA Y ORTEGA Y GASSET",
+    "nombreCalle_1": "SOLDADO DE LA INDEPENDENCIA",
+    "nombreCalle_2": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PASAJE PADRE BERNAZA Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "PASAJE PADRE BERNAZA",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "OCEANIA Y TORRES Y TENORIO, PRES.",
+    "nombreCalle_1": "OCEANIA",
+    "nombreCalle_2": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE Y ESTERO BELLACO",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "nombreCalle_2": "ESTERO BELLACO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE Y BOQUERON",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "nombreCalle_2": "BOQUERON",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE Y HUMAITA",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "nombreCalle_2": "HUMAITA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE Y PERIBEBUY",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "nombreCalle_2": "PERIBEBUY",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY Y VIDAL",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_2": "VIDAL",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY Y CIUDAD DE LA PAZ",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_2": "CIUDAD DE LA PAZ",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY Y CONESA",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_2": "CONESA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY Y FREIRE, RAMON, CAP. GRAL.",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_2": "FREIRE, RAMON, CAP. GRAL.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY Y CABILDO AV.",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_2": "CABILDO AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY Y SUPERI",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_2": "SUPERI",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY Y AMENABAR",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_2": "AMENABAR",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY Y DELGADO",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_2": "DELGADO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY Y MARTINEZ, ENRIQUE, GRAL.",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_2": "MARTINEZ, ENRIQUE, GRAL.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY Y CONDE",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_2": "CONDE",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY Y ZAPIOLA",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_2": "ZAPIOLA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY Y CRAMER",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_2": "CRAMER",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "CORTAZAR, JULIO Y CEPEDA Y AHUMADA, RODRIGO DE",
+    "nombreCalle_1": "CORTAZAR, JULIO",
+    "nombreCalle_2": "CEPEDA Y AHUMADA, RODRIGO DE",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "CEPEDA Y AHUMADA, RODRIGO DE Y RAMIREZ, EUGENIO",
+    "nombreCalle_1": "CEPEDA Y AHUMADA, RODRIGO DE",
+    "nombreCalle_2": "RAMIREZ, EUGENIO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "NECOCHEA Y PI Y MARGALL",
+    "nombreCalle_1": "NECOCHEA",
+    "nombreCalle_2": "PI Y MARGALL",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "GAONA AV. Y GUIDO Y SPANO, CARLOS",
+    "nombreCalle_1": "GAONA AV.",
+    "nombreCalle_2": "GUIDO Y SPANO, CARLOS",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "MIRALLA Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "MIRALLA",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "RIESTRA AV. Y TORRES Y TENORIO, PRES.",
+    "nombreCalle_1": "RIESTRA AV.",
+    "nombreCalle_2": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "COBO AV. Y TORRES Y TENORIO, PRES.",
+    "nombreCalle_1": "COBO AV.",
+    "nombreCalle_2": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "DE LA TORRE, LISANDRO Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "DE LA TORRE, LISANDRO",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "HUDSON Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "HUDSON",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "GIACCHINO, PEDRO E., CAPITAN DE FRAGATA Y TORRES Y TENORIO, PRES.",
+    "nombreCalle_1": "GIACCHINO, PEDRO E., CAPITAN DE FRAGATA",
+    "nombreCalle_2": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "LARRAYA Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "LARRAYA",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "ARANGUREN, JUAN F., DR. Y MENENDEZ Y PELAYO",
+    "nombreCalle_1": "ARANGUREN, JUAN F., DR.",
+    "nombreCalle_2": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. Y CURAPALIGUE",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "nombreCalle_2": "CURAPALIGUE",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. Y SOMELLERA",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "nombreCalle_2": "SOMELLERA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. Y MORENO, PERITO AV.",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "nombreCalle_2": "MORENO, PERITO AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. Y COREA AV.",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "nombreCalle_2": "COREA AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. Y BARROS PAZOS, JOSE",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "nombreCalle_2": "BARROS PAZOS, JOSE",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. Y SALVIGNY",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "nombreCalle_2": "SALVIGNY",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. Y MIRAFLORES",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "nombreCalle_2": "MIRAFLORES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. Y JANER, ANA MARIA",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "nombreCalle_2": "JANER, ANA MARIA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "FIGUEROA, D. APOLINARIO, CORONEL Y GUIDO Y SPANO, CARLOS",
+    "nombreCalle_1": "FIGUEROA, D. APOLINARIO, CORONEL",
+    "nombreCalle_2": "GUIDO Y SPANO, CARLOS",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "OLIDEN Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "OLIDEN",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PI Y MARGALL Y HERNANDARIAS",
+    "nombreCalle_1": "PI Y MARGALL",
+    "nombreCalle_2": "HERNANDARIAS",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PI Y MARGALL Y PILCOMAYO",
+    "nombreCalle_1": "PI Y MARGALL",
+    "nombreCalle_2": "PILCOMAYO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PI Y MARGALL Y BROWN, ALTE. AV.",
+    "nombreCalle_1": "PI Y MARGALL",
+    "nombreCalle_2": "BROWN, ALTE. AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PI Y MARGALL Y REGIMIENTO DE PATRICIOS AV.",
+    "nombreCalle_1": "PI Y MARGALL",
+    "nombreCalle_2": "REGIMIENTO DE PATRICIOS AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "GUAMINI Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "GUAMINI",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO Y SARACHAGA",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "nombreCalle_2": "SARACHAGA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "LACARRA AV. Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "LACARRA AV.",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "CAMPOS, LUIS M. AV. Y ORTEGA Y GASSET",
+    "nombreCalle_1": "CAMPOS, LUIS M. AV.",
+    "nombreCalle_2": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y CORVALAN",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "CORVALAN",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y CAÑADA DE GOMEZ",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "CAÑADA DE GOMEZ",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y GORDILLO, TIMOTEO",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "GORDILLO, TIMOTEO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y ARGENTINA AV.",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "ARGENTINA AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y MONTIEL",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "MONTIEL",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y COSQUIN",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "COSQUIN",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y LEGUIZAMON, MARTINIANO",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "LEGUIZAMON, MARTINIANO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y MARTINEZ CASTRO",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "MARTINEZ CASTRO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y PAZ, GRAL. AV.",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "PAZ, GRAL. AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y POLA",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "POLA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y SUAREZ, JOSE LEON",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "SUAREZ, JOSE LEON",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y MURGUIONDO",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "MURGUIONDO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y LARRAZABAL",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "LARRAZABAL",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y PIEDRA BUENA AV.",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "PIEDRA BUENA AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y ACOSTA, MARIANO",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "ACOSTA, MARIANO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y ESCALADA AV.",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "ESCALADA AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y EL SENDERO",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "EL SENDERO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y FONROUGE",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "FONROUGE",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y SENDERO MUJERES VICTORIOSAS",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "SENDERO MUJERES VICTORIOSAS",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y SENDERO 14 DE MAYO",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "SENDERO 14 DE MAYO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y LAGUNA",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "LAGUNA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "DEL LIBERTADOR AV. Y ORTEGA Y GASSET",
+    "nombreCalle_1": "DEL LIBERTADOR AV.",
+    "nombreCalle_2": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "MOCTEZUMA Y PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "nombreCalle_1": "MOCTEZUMA",
+    "nombreCalle_2": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BAEZ Y ORTEGA Y GASSET",
+    "nombreCalle_1": "BAEZ",
+    "nombreCalle_2": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET Y ARCE",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "nombreCalle_2": "ARCE",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "ATAHUALPA Y PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "nombreCalle_1": "ATAHUALPA",
+    "nombreCalle_2": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES Y CONSTITUCION",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "CONSTITUCION",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE Y CHAVEZ, JORGE",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "nombreCalle_2": "CHAVEZ, JORGE",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PI Y MARGALL Y RUY DIAZ DE GUZMAN",
+    "nombreCalle_1": "PI Y MARGALL",
+    "nombreCalle_2": "RUY DIAZ DE GUZMAN",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "CALVO, CARLOS AV. Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "CALVO, CARLOS AV.",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "RIVADAVIA AV. Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "RIVADAVIA AV.",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BIDEGAIN, PEDRO Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "BIDEGAIN, PEDRO",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "ANGACO Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "ANGACO",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "GIBSON Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "GIBSON",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "GARAY, JUAN DE AV. Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "GARAY, JUAN DE AV.",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PAVON AV. Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "PAVON AV.",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "SAN JUAN AV. Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "SAN JUAN AV.",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "DON BOSCO Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "DON BOSCO",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "AUTOPISTA 25 DE MAYO Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "AUTOPISTA 25 DE MAYO",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "LAS CASAS Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "LAS CASAS",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "RAWSON Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "RAWSON",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TROLE Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "TROLE",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "INCLAN Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "INCLAN",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "METAN Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "METAN",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "CASEROS AV. Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "CASEROS AV.",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "SALCEDO Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "SALCEDO",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "QUITO Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "QUITO",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "YRIGOYEN, HIPOLITO AV. Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "YRIGOYEN, HIPOLITO AV.",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "REPUBLICA BOLIVARIANA DE VENEZUELA Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "REPUBLICA BOLIVARIANA DE VENEZUELA",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "LOPEZ ANAUT, PEDRO, DR. Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "LOPEZ ANAUT, PEDRO, DR.",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "RONDEAU Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "RONDEAU",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "AGRELO Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "AGRELO",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "ESTADOS UNIDOS Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "ESTADOS UNIDOS",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TARIJA Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "TARIJA",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BELGRANO Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "BELGRANO",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "MEXICO Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "MEXICO",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "INDEPENDENCIA AV. Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "INDEPENDENCIA AV.",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "COCHABAMBA Y TREINTA Y TRES ORIENTALES",
+    "nombreCalle_1": "COCHABAMBA",
+    "nombreCalle_2": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y PASAJE LA ESPERANZA",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "PASAJE LA ESPERANZA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PI Y MARGALL Y IRALA",
+    "nombreCalle_1": "PI Y MARGALL",
+    "nombreCalle_2": "IRALA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y ALBARIÑO",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "ALBARIÑO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y RUCCI, JOSE IGNACIO",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "RUCCI, JOSE IGNACIO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE Y MARTINEZ DE HOZ",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "nombreCalle_2": "MARTINEZ DE HOZ",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "RAMON Y CAJAL Y ASAMBLEA AV.",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "nombreCalle_2": "ASAMBLEA AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY Y MOLDES",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_2": "MOLDES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PI Y MARGALL Y D'ESPOSITO, ARNALDO",
+    "nombreCalle_1": "PI Y MARGALL",
+    "nombreCalle_2": "D'ESPOSITO, ARNALDO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PI Y MARGALL Y ABDALA, GERMAN",
+    "nombreCalle_1": "PI Y MARGALL",
+    "nombreCalle_2": "ABDALA, GERMAN",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. Y LAS HERAS GENERAL AV.",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "nombreCalle_2": "LAS HERAS GENERAL AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "COPERNICO Y GELLY Y OBES, GRAL. AV.",
+    "nombreCalle_1": "COPERNICO",
+    "nombreCalle_2": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "AGOTE, LUIS DR. Y GELLY Y OBES, GRAL. AV.",
+    "nombreCalle_1": "AGOTE, LUIS DR.",
+    "nombreCalle_2": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "GUIDO Y GELLY Y OBES, GRAL. AV.",
+    "nombreCalle_1": "GUIDO",
+    "nombreCalle_2": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "REPUBLICA DEL LIBANO Y GELLY Y OBES, GRAL. AV.",
+    "nombreCalle_1": "REPUBLICA DEL LIBANO",
+    "nombreCalle_2": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "ARJONILLA Y GELLY Y OBES, GRAL. AV.",
+    "nombreCalle_1": "ARJONILLA",
+    "nombreCalle_2": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "NEWTON Y GELLY Y OBES, GRAL. AV.",
+    "nombreCalle_1": "NEWTON",
+    "nombreCalle_2": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "GALILEO Y GELLY Y OBES, GRAL. AV.",
+    "nombreCalle_1": "GALILEO",
+    "nombreCalle_2": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "ZUVIRIA Y RAMON Y CAJAL",
+    "nombreCalle_1": "ZUVIRIA",
+    "nombreCalle_2": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET Y MIGUELETES",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "nombreCalle_2": "MIGUELETES",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y CAFAYATE",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "CAFAYATE",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET Y SOLDADO DE LA INDEPENDENCIA",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "nombreCalle_2": "SOLDADO DE LA INDEPENDENCIA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y PASAJE PADRE BERNAZA",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "PASAJE PADRE BERNAZA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. Y OCEANIA",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "nombreCalle_2": "OCEANIA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "ESTERO BELLACO Y PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "nombreCalle_1": "ESTERO BELLACO",
+    "nombreCalle_2": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BOQUERON Y PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "nombreCalle_1": "BOQUERON",
+    "nombreCalle_2": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "HUMAITA Y PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "nombreCalle_1": "HUMAITA",
+    "nombreCalle_2": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PERIBEBUY Y PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "nombreCalle_1": "PERIBEBUY",
+    "nombreCalle_2": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "VIDAL Y OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_1": "VIDAL",
+    "nombreCalle_2": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "CIUDAD DE LA PAZ Y OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_1": "CIUDAD DE LA PAZ",
+    "nombreCalle_2": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "CONESA Y OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_1": "CONESA",
+    "nombreCalle_2": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "FREIRE, RAMON, CAP. GRAL. Y OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_1": "FREIRE, RAMON, CAP. GRAL.",
+    "nombreCalle_2": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "CABILDO AV. Y OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_1": "CABILDO AV.",
+    "nombreCalle_2": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "SUPERI Y OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_1": "SUPERI",
+    "nombreCalle_2": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "AMENABAR Y OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_1": "AMENABAR",
+    "nombreCalle_2": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "DELGADO Y OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_1": "DELGADO",
+    "nombreCalle_2": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "MARTINEZ, ENRIQUE, GRAL. Y OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_1": "MARTINEZ, ENRIQUE, GRAL.",
+    "nombreCalle_2": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "CONDE Y OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_1": "CONDE",
+    "nombreCalle_2": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "ZAPIOLA Y OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_1": "ZAPIOLA",
+    "nombreCalle_2": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "CRAMER Y OLAGUER Y FELIU, VIRREY",
+    "nombreCalle_1": "CRAMER",
+    "nombreCalle_2": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "CEPEDA Y AHUMADA, RODRIGO DE Y CORTAZAR, JULIO",
+    "nombreCalle_1": "CEPEDA Y AHUMADA, RODRIGO DE",
+    "nombreCalle_2": "CORTAZAR, JULIO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "RAMIREZ, EUGENIO Y CEPEDA Y AHUMADA, RODRIGO DE",
+    "nombreCalle_1": "RAMIREZ, EUGENIO",
+    "nombreCalle_2": "CEPEDA Y AHUMADA, RODRIGO DE",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PI Y MARGALL Y NECOCHEA",
+    "nombreCalle_1": "PI Y MARGALL",
+    "nombreCalle_2": "NECOCHEA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "GUIDO Y SPANO, CARLOS Y GAONA AV.",
+    "nombreCalle_1": "GUIDO Y SPANO, CARLOS",
+    "nombreCalle_2": "GAONA AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y MIRALLA",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "MIRALLA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. Y RIESTRA AV.",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "nombreCalle_2": "RIESTRA AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. Y COBO AV.",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "nombreCalle_2": "COBO AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y DE LA TORRE, LISANDRO",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "DE LA TORRE, LISANDRO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y HUDSON",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "HUDSON",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. Y GIACCHINO, PEDRO E., CAPITAN DE FRAGATA",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "nombreCalle_2": "GIACCHINO, PEDRO E., CAPITAN DE FRAGATA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y LARRAYA",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "LARRAYA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO Y ARANGUREN, JUAN F., DR.",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "nombreCalle_2": "ARANGUREN, JUAN F., DR.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "CURAPALIGUE Y TORRES Y TENORIO, PRES.",
+    "nombreCalle_1": "CURAPALIGUE",
+    "nombreCalle_2": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "SOMELLERA Y TORRES Y TENORIO, PRES.",
+    "nombreCalle_1": "SOMELLERA",
+    "nombreCalle_2": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "MORENO, PERITO AV. Y TORRES Y TENORIO, PRES.",
+    "nombreCalle_1": "MORENO, PERITO AV.",
+    "nombreCalle_2": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "COREA AV. Y TORRES Y TENORIO, PRES.",
+    "nombreCalle_1": "COREA AV.",
+    "nombreCalle_2": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BARROS PAZOS, JOSE Y TORRES Y TENORIO, PRES.",
+    "nombreCalle_1": "BARROS PAZOS, JOSE",
+    "nombreCalle_2": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "SALVIGNY Y TORRES Y TENORIO, PRES.",
+    "nombreCalle_1": "SALVIGNY",
+    "nombreCalle_2": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "MIRAFLORES Y TORRES Y TENORIO, PRES.",
+    "nombreCalle_1": "MIRAFLORES",
+    "nombreCalle_2": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "JANER, ANA MARIA Y TORRES Y TENORIO, PRES.",
+    "nombreCalle_1": "JANER, ANA MARIA",
+    "nombreCalle_2": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "GUIDO Y SPANO, CARLOS Y FIGUEROA, D. APOLINARIO, CORONEL",
+    "nombreCalle_1": "GUIDO Y SPANO, CARLOS",
+    "nombreCalle_2": "FIGUEROA, D. APOLINARIO, CORONEL",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y OLIDEN",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "OLIDEN",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "HERNANDARIAS Y PI Y MARGALL",
+    "nombreCalle_1": "HERNANDARIAS",
+    "nombreCalle_2": "PI Y MARGALL",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PILCOMAYO Y PI Y MARGALL",
+    "nombreCalle_1": "PILCOMAYO",
+    "nombreCalle_2": "PI Y MARGALL",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BROWN, ALTE. AV. Y PI Y MARGALL",
+    "nombreCalle_1": "BROWN, ALTE. AV.",
+    "nombreCalle_2": "PI Y MARGALL",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "REGIMIENTO DE PATRICIOS AV. Y PI Y MARGALL",
+    "nombreCalle_1": "REGIMIENTO DE PATRICIOS AV.",
+    "nombreCalle_2": "PI Y MARGALL",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y GUAMINI",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "GUAMINI",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "SARACHAGA Y MENENDEZ Y PELAYO",
+    "nombreCalle_1": "SARACHAGA",
+    "nombreCalle_2": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. Y LACARRA AV.",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_2": "LACARRA AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET Y CAMPOS, LUIS M. AV.",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "nombreCalle_2": "CAMPOS, LUIS M. AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "CORVALAN Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "CORVALAN",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "CAÑADA DE GOMEZ Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "CAÑADA DE GOMEZ",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "GORDILLO, TIMOTEO Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "GORDILLO, TIMOTEO",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "ARGENTINA AV. Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "ARGENTINA AV.",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "MONTIEL Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "MONTIEL",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "COSQUIN Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "COSQUIN",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "LEGUIZAMON, MARTINIANO Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "LEGUIZAMON, MARTINIANO",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "MARTINEZ CASTRO Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "MARTINEZ CASTRO",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PAZ, GRAL. AV. Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "PAZ, GRAL. AV.",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "POLA Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "POLA",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "SUAREZ, JOSE LEON Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "SUAREZ, JOSE LEON",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "MURGUIONDO Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "MURGUIONDO",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "LARRAZABAL Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "LARRAZABAL",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PIEDRA BUENA AV. Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "PIEDRA BUENA AV.",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "ACOSTA, MARIANO Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "ACOSTA, MARIANO",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "ESCALADA AV. Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "ESCALADA AV.",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "EL SENDERO Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "EL SENDERO",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "FONROUGE Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "FONROUGE",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "SENDERO MUJERES VICTORIOSAS Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "SENDERO MUJERES VICTORIOSAS",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "SENDERO 14 DE MAYO Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "SENDERO 14 DE MAYO",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "LAGUNA Y BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "nombreCalle_1": "LAGUNA",
+    "nombreCalle_2": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET Y DEL LIBERTADOR AV.",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "nombreCalle_2": "DEL LIBERTADOR AV.",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA Y MOCTEZUMA",
+    "nombreCalle_1": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "nombreCalle_2": "MOCTEZUMA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET Y BAEZ",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "nombreCalle_2": "BAEZ",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "ARCE Y ORTEGA Y GASSET",
+    "nombreCalle_1": "ARCE",
+    "nombreCalle_2": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  },
+  {
+    "direccion": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA Y ATAHUALPA",
+    "nombreCalle_1": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "nombreCalle_2": "ATAHUALPA",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "tipoDireccion": "calle_calle"
+  }
+]

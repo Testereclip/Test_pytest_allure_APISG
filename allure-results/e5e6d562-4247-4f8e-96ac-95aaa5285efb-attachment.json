@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 48,
+    "codCalle_2": 151,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101363.8592993974,
+    "coordenada_y": 105302.8297253156,
+    "direccion": "NEWBERY, JORGE AV. Y NEWBERY, JORGE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NEWBERY, JORGE AV.",
+    "nombreCalle_2": "NEWBERY, JORGE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "033-075-011a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

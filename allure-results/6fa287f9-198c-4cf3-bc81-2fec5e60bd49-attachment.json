@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 256,
+    "codCalle_2": 990,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96143.6407235742,
+    "coordenada_y": 104285.8983484013,
+    "direccion": "QUINTANA, JOSE DE LA Y VALLEJOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "QUINTANA, JOSE DE LA",
+    "nombreCalle_2": "VALLEJOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-248-030",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 117,
+    "codCalle_2": 1789,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97849.195410957,
+    "coordenada_y": 106324.8436608107,
+    "direccion": "DIAZ COLODRERO Y CULLEN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DIAZ COLODRERO",
+    "nombreCalle_2": "CULLEN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-125-001d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

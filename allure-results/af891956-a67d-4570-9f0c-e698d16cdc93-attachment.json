@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 2216,
+    "codCalle_2": 2693,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99984.1846580146,
+    "coordenada_y": 94959.1345506014,
+    "direccion": "BELTRAN, NELLY Y GANDARILLAS, MANUELA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BELTRAN, NELLY",
+    "nombreCalle_2": "GANDARILLAS, MANUELA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "066-030E-006",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

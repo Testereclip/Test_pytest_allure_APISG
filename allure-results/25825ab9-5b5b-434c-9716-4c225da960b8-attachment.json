@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 1733,
+    "codCalle_2": 2390,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100738.1039786724,
+    "coordenada_y": 96205.3046116825,
+    "direccion": "DICIEMBRE 1986 Y EL SENDERO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DICIEMBRE 1986",
+    "nombreCalle_2": "EL SENDERO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "056-055I-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 554,
+    "codCalle_2": 2453,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97359.42197312,
+    "coordenada_y": 100238.1717863954,
+    "direccion": "BELAUSTEGUI, LUIS, DR. Y GOYA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BELAUSTEGUI, LUIS, DR.",
+    "nombreCalle_2": "GOYA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-097-020e",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

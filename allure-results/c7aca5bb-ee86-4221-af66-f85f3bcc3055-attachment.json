@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 820,
+    "codCalle_2": 830,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94411.9454109004,
+    "coordenada_y": 97847.4764739408,
+    "direccion": "CARHUE Y ESTERO BELLACO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARHUE",
+    "nombreCalle_2": "ESTERO BELLACO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-064-034a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

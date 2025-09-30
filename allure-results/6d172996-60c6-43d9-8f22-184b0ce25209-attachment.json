@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 1716,
+    "codCalle_2": 2434,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 104845.6016596467,
+    "coordenada_y": 102365.4217866836,
+    "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL Y JAURES, JEAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PERON, JUAN DOMINGO, TTE. GENERAL",
+    "nombreCalle_2": "JAURES, JEAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "013-067-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

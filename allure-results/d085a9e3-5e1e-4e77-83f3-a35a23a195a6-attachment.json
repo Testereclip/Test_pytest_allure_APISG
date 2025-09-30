@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 2340,
+    "codCalle_2": 2696,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96758.7657236266,
+    "coordenada_y": 106432.2186607236,
+    "direccion": "CERETTI Y IBERA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CERETTI",
+    "nombreCalle_2": "IBERA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-057-021",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

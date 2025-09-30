@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 1846,
+    "codCalle_2": 2169,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106226.2422844774,
+    "coordenada_y": 102883.2108492244,
+    "direccion": "LAVALLE Y AYACUCHO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAVALLE",
+    "nombreCalle_2": "AYACUCHO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "009-071-017a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 2463,
+    "codCalle_2": 2520,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108197.664158895,
+    "coordenada_y": 98541.1874122967,
+    "direccion": "MONTES DE OCA, MANUEL AV. Y ROCHA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MONTES DE OCA, MANUEL AV.",
+    "nombreCalle_2": "ROCHA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-010-006",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

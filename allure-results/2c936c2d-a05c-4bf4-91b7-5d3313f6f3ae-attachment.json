@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 1522,
+    "codCalle_2": 1894,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106037.5938469486,
+    "coordenada_y": 102059.9920992939,
+    "direccion": "YRIGOYEN, HIPOLITO Y PASCO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "YRIGOYEN, HIPOLITO",
+    "nombreCalle_2": "PASCO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "020-042-031a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

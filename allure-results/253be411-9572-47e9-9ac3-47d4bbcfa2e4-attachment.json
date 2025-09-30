@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 719,
+    "codCalle_2": 799,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 96038.7110359368,
+    "coordenada_y": 102022.3983486253,
+    "direccion": "MONACO Y SANABRIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MONACO",
+    "nombreCalle_2": "SANABRIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-020-015d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

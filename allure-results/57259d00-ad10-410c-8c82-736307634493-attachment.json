@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 597,
+    "codCalle_2": 933,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105505.4532221076,
+    "coordenada_y": 103246.0780366387,
+    "direccion": "PASO Y SAN LUIS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PASO",
+    "nombreCalle_2": "SAN LUIS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "009-023-006",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

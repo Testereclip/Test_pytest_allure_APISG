@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 263,
+    "codCalle_2": 601,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98117.4626589643,
+    "coordenada_y": 98092.1765390818,
+    "direccion": "AUTOPISTA PERITO MORENO Y TANDIL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AUTOPISTA PERITO MORENO",
+    "nombreCalle_2": "TANDIL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-058B-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

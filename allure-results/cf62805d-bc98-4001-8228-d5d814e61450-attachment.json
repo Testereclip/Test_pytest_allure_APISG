@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 263,
+    "codCalle_2": 500,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97503.6513645219,
+    "coordenada_y": 98529.0937487991,
+    "direccion": "AUTOPISTA PERITO MORENO Y CASTRO, EMILIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AUTOPISTA PERITO MORENO",
+    "nombreCalle_2": "CASTRO, EMILIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-045B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

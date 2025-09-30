@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 979,
+    "codCalle_2": 1872,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98636.1485352034,
+    "coordenada_y": 96886.6639743223,
+    "direccion": "PERON, EVA AV. Y SARAVIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PERON, EVA AV.",
+    "nombreCalle_2": "SARAVIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "062-139B-025",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

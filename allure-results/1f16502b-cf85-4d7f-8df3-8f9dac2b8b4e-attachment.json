@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 607,
+    "codCalle_2": 1888,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 96685.9532230446,
+    "coordenada_y": 97628.4061616154,
+    "direccion": "BRAGADO Y POLA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BRAGADO",
+    "nombreCalle_2": "POLA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "062-038-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

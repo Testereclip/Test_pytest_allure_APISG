@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 953,
+    "codCalle_2": 1594,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97368.3672857632,
+    "coordenada_y": 102397.1483486777,
+    "direccion": "SANTO TOME Y CAMPANA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANTO TOME",
+    "nombreCalle_2": "CAMPANA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-161-028",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

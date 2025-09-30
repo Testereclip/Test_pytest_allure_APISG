@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 1204,
+    "codCalle_2": 1761,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100357.6172855643,
+    "coordenada_y": 106085.1795985024,
+    "direccion": "AVILES, VIRREY Y SUPERI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AVILES, VIRREY",
+    "nombreCalle_2": "SUPERI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "037-061-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

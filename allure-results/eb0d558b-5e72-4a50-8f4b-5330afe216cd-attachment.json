@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 165,
+    "codCalle_2": 673,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101495.5938479874,
+    "coordenada_y": 107461.218660939,
+    "direccion": "ARRIBE\u00d1OS Y HERNANDEZ, JOSE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARRIBE\u00d1OS",
+    "nombreCalle_2": "HERNANDEZ, JOSE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-067-034",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

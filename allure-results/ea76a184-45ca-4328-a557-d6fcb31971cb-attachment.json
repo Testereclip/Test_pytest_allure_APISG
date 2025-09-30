@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PUERTO MADERO",
+    "barrioInf": null,
+    "codCalle_1": 650,
+    "codCalle_2": 754,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108786.0762103181,
+    "coordenada_y": 103231.3454666298,
+    "direccion": "PACINI DE ALVEAR REGINA Y MOREAU DE JUSTO, ALICIA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PACINI DE ALVEAR REGINA",
+    "nombreCalle_2": "MOREAU DE JUSTO, ALICIA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "097-001F-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

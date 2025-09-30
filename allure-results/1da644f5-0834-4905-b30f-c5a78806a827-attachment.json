@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 247,
+    "codCalle_2": 1667,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97235.8907235823,
+    "coordenada_y": 106819.5389732172,
+    "direccion": "DE LA TECNICA Y TRIUNVIRATO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LA TECNICA",
+    "nombreCalle_2": "TRIUNVIRATO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-120-013a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

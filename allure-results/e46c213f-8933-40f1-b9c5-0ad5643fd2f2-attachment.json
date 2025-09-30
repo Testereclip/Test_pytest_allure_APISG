@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 1284,
+    "codCalle_2": 2350,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99989.3125975864,
+    "coordenada_y": 98152.9374117853,
+    "direccion": "ECHEANDIA Y PORTELA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ECHEANDIA",
+    "nombreCalle_2": "PORTELA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "050-050-024a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

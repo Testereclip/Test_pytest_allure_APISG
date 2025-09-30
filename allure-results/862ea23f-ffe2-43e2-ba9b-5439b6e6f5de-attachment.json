@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA REAL",
+    "barrioInf": null,
+    "codCalle_1": 2203,
+    "codCalle_2": 2595,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 94438.5704110896,
+    "coordenada_y": 100734.7733486484,
+    "direccion": "IRIGOYEN Y NAZARRE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "IRIGOYEN",
+    "nombreCalle_2": "NAZARRE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "093-125-018c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

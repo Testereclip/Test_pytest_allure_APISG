@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 201,
+    "codCalle_2": 554,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 100542.1875978014,
+    "coordenada_y": 102580.9295988721,
+    "direccion": "PAYSANDU Y BELAUSTEGUI, LUIS, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PAYSANDU",
+    "nombreCalle_2": "BELAUSTEGUI, LUIS, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-144-035b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

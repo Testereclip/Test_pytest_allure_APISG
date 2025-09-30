@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 456,
+    "codCalle_2": 720,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108263.1016589806,
+    "coordenada_y": 99974.8592871556,
+    "direccion": "ITUZAINGO Y PERU",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ITUZAINGO",
+    "nombreCalle_2": "PERU",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "008-041-006b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

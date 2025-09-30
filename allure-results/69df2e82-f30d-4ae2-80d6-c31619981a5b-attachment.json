@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 2387,
+    "codCalle_2": 2733,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102794.9688477028,
+    "coordenada_y": 106101.593661165,
+    "direccion": "DORREGO AV. Y MARCHI, MARIA CATALINA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DORREGO AV.",
+    "nombreCalle_2": "MARCHI, MARIA CATALINA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-006-001i",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

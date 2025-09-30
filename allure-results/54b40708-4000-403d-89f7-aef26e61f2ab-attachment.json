@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 281,
+    "codCalle_2": 2632,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102143.421972767,
+    "coordenada_y": 105626.6483486694,
+    "direccion": "DORREGO Y CRAMER",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DORREGO",
+    "nombreCalle_2": "CRAMER",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "035-049-016a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

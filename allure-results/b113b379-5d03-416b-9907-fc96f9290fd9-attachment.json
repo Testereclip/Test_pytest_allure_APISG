@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 1767,
+    "codCalle_2": 1964,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103920.6719722103,
+    "coordenada_y": 101289.8124117306,
+    "direccion": "REPUBLICA BOLIVARIANA DE VENEZUELA Y CASTRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "REPUBLICA BOLIVARIANA DE VENEZUELA",
+    "nombreCalle_2": "CASTRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "036-098-025b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN CRISTOBAL",
+    "barrioInf": null,
+    "codCalle_1": 791,
+    "codCalle_2": 1894,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106178.1767298185,
+    "coordenada_y": 100531.4084883488,
+    "direccion": "AUTOPISTA 25 DE MAYO Y PASCO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AUTOPISTA 25 DE MAYO",
+    "nombreCalle_2": "PASCO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "022-032-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

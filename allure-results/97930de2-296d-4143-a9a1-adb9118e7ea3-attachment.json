@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 1300,
+    "codCalle_2": 2600,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100851.4375981761,
+    "coordenada_y": 108847.0311607555,
+    "direccion": "DEL LIBERTADOR AV. Y QUESADA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DEL LIBERTADOR AV.",
+    "nombreCalle_2": "QUESADA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "027-120-011a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

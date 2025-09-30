@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": "Villa Piletones",
+    "codCalle_1": 1449,
+    "codCalle_2": 2700,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100843.6602265112,
+    "coordenada_y": 96195.6963013081,
+    "direccion": "NUESTRA SE\u00d1ORA DE CAACUPE Y JANER, ANA MARIA",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NUESTRA SE\u00d1ORA DE CAACUPE",
+    "nombreCalle_2": "JANER, ANA MARIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "056-055L-003",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

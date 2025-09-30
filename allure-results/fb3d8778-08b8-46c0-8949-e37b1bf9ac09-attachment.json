@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 714,
+    "codCalle_2": 1861,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104728.6563468513,
+    "coordenada_y": 97687.6405371493,
+    "direccion": "VENTANA Y CACHI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VENTANA",
+    "nombreCalle_2": "CACHI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "034-048-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

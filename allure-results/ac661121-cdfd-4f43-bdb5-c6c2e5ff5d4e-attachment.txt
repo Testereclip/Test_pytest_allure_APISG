@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=TAJY+Y+SAN+ROQUE+GONZALEZ+DE+SANTA+CRUZ&v2=true

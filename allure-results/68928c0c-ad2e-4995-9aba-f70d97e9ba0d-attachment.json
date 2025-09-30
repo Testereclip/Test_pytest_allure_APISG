@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 1310,
+    "codCalle_2": 2439,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100830.1875978066,
+    "coordenada_y": 103295.9139738216,
+    "direccion": "SUNCHALES Y ROJAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SUNCHALES",
+    "nombreCalle_2": "ROJAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-035B-010a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

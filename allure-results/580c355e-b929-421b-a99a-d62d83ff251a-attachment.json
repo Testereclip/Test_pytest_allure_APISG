@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 321,
+    "codCalle_2": 1311,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94602.8672859232,
+    "coordenada_y": 98623.4530363756,
+    "direccion": "LA HUERTA Y GORDILLO, TIMOTEO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LA HUERTA",
+    "nombreCalle_2": "GORDILLO, TIMOTEO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-097C-003",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 1300,
+    "codCalle_2": 1980,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106234.2032221206,
+    "coordenada_y": 105065.1327240023,
+    "direccion": "DEL LIBERTADOR AV. Y REPUBLICA DEL LIBANO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DEL LIBERTADOR AV.",
+    "nombreCalle_2": "REPUBLICA DEL LIBANO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-156A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

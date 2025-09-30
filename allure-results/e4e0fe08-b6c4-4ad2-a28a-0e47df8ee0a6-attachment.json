@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 1620,
+    "codCalle_2": 2710,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98218.250098115,
+    "coordenada_y": 102062.7811612697,
+    "direccion": "GARCIA, JUAN AGUSTIN Y LA CALANDRIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GARCIA, JUAN AGUSTIN",
+    "nombreCalle_2": "LA CALANDRIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "067-035B-003",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 1525,
+    "codCalle_2": 1824,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97463.7110355262,
+    "coordenada_y": 99092.9999115209,
+    "direccion": "FALCON, RAMON L.,CNEL. Y LOBERIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FALCON, RAMON L.,CNEL.",
+    "nombreCalle_2": "LOBERIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-049-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

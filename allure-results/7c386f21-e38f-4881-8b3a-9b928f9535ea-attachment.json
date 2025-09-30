@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 183,
+    "codCalle_2": 2065,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98042.1320120868,
+    "coordenada_y": 93894.112668828,
+    "direccion": "LOS OLMOS Y LOS ROBLES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LOS OLMOS",
+    "nombreCalle_2": "LOS ROBLES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "080-004C-000H",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 270,
+    "codCalle_2": 2094,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101929.1875975204,
+    "coordenada_y": 101477.8045990797,
+    "direccion": "NEUQUEN Y AVELLANEDA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NEUQUEN",
+    "nombreCalle_2": "AVELLANEDA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-033A-045",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

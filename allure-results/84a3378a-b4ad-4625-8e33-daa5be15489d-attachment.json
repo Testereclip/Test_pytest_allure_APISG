@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 1571,
+    "codCalle_2": 1667,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98722.5079107716,
+    "coordenada_y": 105517.3983484512,
+    "direccion": "BERNA Y TRIUNVIRATO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BERNA",
+    "nombreCalle_2": "TRIUNVIRATO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-048A-018d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

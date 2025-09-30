@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NU\u00d1EZ",
+    "barrioInf": null,
+    "codCalle_1": 814,
+    "codCalle_2": 961,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99637.3360358384,
+    "coordenada_y": 108542.7264732035,
+    "direccion": "PEDRAZA, MANUELA Y CIUDAD DE LA PAZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PEDRAZA, MANUELA",
+    "nombreCalle_2": "CIUDAD DE LA PAZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "041-158A-008b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

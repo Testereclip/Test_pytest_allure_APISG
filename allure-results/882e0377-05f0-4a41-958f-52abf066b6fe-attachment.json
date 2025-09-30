@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 434,
+    "codCalle_2": 961,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100864.7735355437,
+    "coordenada_y": 106907.4530359529,
+    "direccion": "PINO, VIRREY DEL Y CIUDAD DE LA PAZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PINO, VIRREY DEL",
+    "nombreCalle_2": "CIUDAD DE LA PAZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "037-158-023a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

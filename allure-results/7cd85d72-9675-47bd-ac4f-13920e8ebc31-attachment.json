@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 285,
+    "codCalle_2": 2457,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106132.4922842294,
+    "coordenada_y": 98990.4842871104,
+    "direccion": "GARCIA, MANUEL Y MUTUALISMO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GARCIA, MANUEL",
+    "nombreCalle_2": "MUTUALISMO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "024-072-022",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

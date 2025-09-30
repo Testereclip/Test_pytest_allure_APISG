@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 519,
+    "codCalle_2": 1264,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96290.6719731864,
+    "coordenada_y": 98862.9452239641,
+    "direccion": "ACASSUSO Y GUARDIA NACIONAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACASSUSO",
+    "nombreCalle_2": "GUARDIA NACIONAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "060-096-022",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

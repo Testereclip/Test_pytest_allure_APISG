@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1774,
+    "codCalle_2": 2590,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104399.4063473411,
+    "coordenada_y": 104295.5780364565,
+    "direccion": "VIDT Y MANSILLA, LUCIO NORBERTO, GENERAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VIDT",
+    "nombreCalle_2": "MANSILLA, LUCIO NORBERTO, GENERAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-131-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 217,
+    "codCalle_2": 1803,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101850.500098037,
+    "coordenada_y": 108978.2186608099,
+    "direccion": "RAMSAY Y MONROE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RAMSAY",
+    "nombreCalle_2": "MONROE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "027-143-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

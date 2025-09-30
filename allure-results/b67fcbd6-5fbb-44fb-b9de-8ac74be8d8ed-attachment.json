@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 385,
+    "codCalle_2": 1716,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 104098.6485347658,
+    "coordenada_y": 102494.0545991202,
+    "direccion": "BULNES Y PERON, JUAN DOMINGO, TTE. GENERAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BULNES",
+    "nombreCalle_2": "PERON, JUAN DOMINGO, TTE. GENERAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "017-102-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

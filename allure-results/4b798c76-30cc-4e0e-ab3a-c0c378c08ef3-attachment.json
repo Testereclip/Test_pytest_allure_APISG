@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 797,
+    "codCalle_2": 2364,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95546.3125985828,
+    "coordenada_y": 103099.9374109818,
+    "direccion": "ASUNCION Y MERCEDES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ASUNCION",
+    "nombreCalle_2": "MERCEDES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-066-014a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

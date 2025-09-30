@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 270,
+    "codCalle_2": 960,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101967.0235350144,
+    "coordenada_y": 101476.9686615798,
+    "direccion": "NEUQUEN Y COLPAYO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NEUQUEN",
+    "nombreCalle_2": "COLPAYO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-045A-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

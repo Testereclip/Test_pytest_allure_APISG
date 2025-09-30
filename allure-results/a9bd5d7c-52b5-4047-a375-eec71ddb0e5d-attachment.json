@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 966,
+    "codCalle_2": 2665,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105795.5391592871,
+    "coordenada_y": 99107.9452245791,
+    "direccion": "PATAGONES Y LUNA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PATAGONES",
+    "nombreCalle_2": "LUNA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "024-051-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

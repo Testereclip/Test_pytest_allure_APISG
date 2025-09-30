@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 635,
+    "codCalle_2": 1229,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 102276.1563476006,
+    "coordenada_y": 103448.5702238997,
+    "direccion": "VERA Y MALABIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VERA",
+    "nombreCalle_2": "MALABIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-016-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

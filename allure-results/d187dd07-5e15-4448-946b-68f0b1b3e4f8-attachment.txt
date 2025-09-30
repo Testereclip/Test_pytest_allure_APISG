@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=FIGUEROA%2C+D.+APOLINARIO%2C+CORONEL+Y+FRAGATA+PRES.+SARMIENTO&v2=true

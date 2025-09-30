@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 1284,
+    "codCalle_2": 1872,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98794.9375976688,
+    "coordenada_y": 96735.6170993479,
+    "direccion": "ECHEANDIA Y SARAVIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ECHEANDIA",
+    "nombreCalle_2": "SARAVIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "064-096B-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

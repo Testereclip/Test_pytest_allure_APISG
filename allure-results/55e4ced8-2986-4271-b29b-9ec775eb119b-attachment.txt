@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MANSO+JUANA+Y+EYLE%2C+PETRONA&v2=true

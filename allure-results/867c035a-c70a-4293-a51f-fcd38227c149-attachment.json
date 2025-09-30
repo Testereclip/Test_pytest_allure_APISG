@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 1815,
+    "codCalle_2": 2158,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98198.1329106929,
+    "coordenada_y": 103194.710848651,
+    "direccion": "ARTIGAS, JOSE GERVASIO, GRAL. Y GUTIERREZ, RICARDO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARTIGAS, JOSE GERVASIO, GRAL.",
+    "nombreCalle_2": "GUTIERREZ, RICARDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "069-074-005",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

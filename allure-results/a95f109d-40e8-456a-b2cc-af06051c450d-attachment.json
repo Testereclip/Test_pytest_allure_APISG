@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 237,
+    "codCalle_2": 661,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102585.8907223131,
+    "coordenada_y": 99842.7342867882,
+    "direccion": "RIGLOS Y TEJEDOR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIGLOS",
+    "nombreCalle_2": "TEJEDOR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-062-015b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

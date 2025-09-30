@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 894,
+    "codCalle_2": 1698,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 100709.9219726739,
+    "coordenada_y": 101067.9217865391,
+    "direccion": "ARANGUREN, JUAN F., DR. Y MORELOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARANGUREN, JUAN F., DR.",
+    "nombreCalle_2": "MORELOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "057-042-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

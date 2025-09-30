@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 601,
+    "codCalle_2": 1311,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 96414.5547855007,
+    "coordenada_y": 96372.6874117267,
+    "direccion": "TANDIL Y GORDILLO, TIMOTEO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TANDIL",
+    "nombreCalle_2": "GORDILLO, TIMOTEO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "076-119-031f",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

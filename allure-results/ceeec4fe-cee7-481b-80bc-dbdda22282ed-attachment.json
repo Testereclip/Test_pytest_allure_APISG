@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 583,
+    "codCalle_2": 1029,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102872.4688474186,
+    "coordenada_y": 102044.4295990835,
+    "direccion": "ACEVEDO, EDUARDO Y ESCRIBANO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACEVEDO, EDUARDO",
+    "nombreCalle_2": "ESCRIBANO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-145-013a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

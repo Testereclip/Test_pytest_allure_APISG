@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 196,
+    "codCalle_2": 1298,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98978.1250974723,
+    "coordenada_y": 94217.3670996169,
+    "direccion": "RUCCI, JOSE IGNACIO Y UNANUE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RUCCI, JOSE IGNACIO",
+    "nombreCalle_2": "UNANUE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "080-073-019a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 1843,
+    "codCalle_2": 1844,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 96713.6329105855,
+    "coordenada_y": 98315.593661549,
+    "direccion": "GARCIA GRANDE DE ZEQUEIRA, SEVERO Y BASUALDO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GARCIA GRANDE DE ZEQUEIRA, SEVERO",
+    "nombreCalle_2": "BASUALDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "060-090-010a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

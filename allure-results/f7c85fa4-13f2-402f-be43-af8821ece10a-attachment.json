@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": "Conjunto Habitacional Ribera Iguazu",
+    "codCalle_1": 46,
+    "codCalle_2": 399,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105577.8567553801,
+    "coordenada_y": 96870.8509391046,
+    "direccion": "TAJY Y SAN ROQUE GONZALEZ DE SANTA CRUZ",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TAJY",
+    "nombreCalle_2": "SAN ROQUE GONZALEZ DE SANTA CRUZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "034-084B-000",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

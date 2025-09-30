@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 1639,
+    "codCalle_2": 1846,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105333.3204096074,
+    "coordenada_y": 102874.6717866638,
+    "direccion": "PUEYRREDON AV. Y LAVALLE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PUEYRREDON AV.",
+    "nombreCalle_2": "LAVALLE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "013-099-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

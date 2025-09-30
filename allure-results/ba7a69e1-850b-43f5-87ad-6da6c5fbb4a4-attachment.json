@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 625,
+    "codCalle_2": 2395,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101132.2735351837,
+    "coordenada_y": 102141.6561614553,
+    "direccion": "GAONA AV. Y PUJOL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GAONA AV.",
+    "nombreCalle_2": "PUJOL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-169-025a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

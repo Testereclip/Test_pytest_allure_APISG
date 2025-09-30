@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 180,
+    "codCalle_2": 2089,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106722.6797844769,
+    "coordenada_y": 103995.2186616422,
+    "direccion": "LAS HERAS, GENERAL Y MONTEVIDEO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAS HERAS, GENERAL",
+    "nombreCalle_2": "MONTEVIDEO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "007-020-001c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

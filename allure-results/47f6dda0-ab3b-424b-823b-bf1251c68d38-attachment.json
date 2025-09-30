@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 71,
+    "codCalle_2": 1027,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103230.0547849784,
+    "coordenada_y": 103744.0155364356,
+    "direccion": "CORDOBA AV. Y ALVAREZ, JULIAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CORDOBA AV.",
+    "nombreCalle_2": "ALVAREZ, JULIAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-100-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

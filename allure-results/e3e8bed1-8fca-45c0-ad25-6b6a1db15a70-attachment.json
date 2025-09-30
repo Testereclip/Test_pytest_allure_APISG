@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1107,
+    "codCalle_2": 1118,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106861.2969714743,
+    "coordenada_y": 96789.1170998824,
+    "direccion": "VELEZ SARSFIELD AV. Y ZEPITA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VELEZ SARSFIELD AV.",
+    "nombreCalle_2": "ZEPITA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "026-028A-001b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 1573,
+    "codCalle_2": 1792,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100791.3282231115,
+    "coordenada_y": 107749.6405358627,
+    "direccion": "MENDOZA Y ARCOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MENDOZA",
+    "nombreCalle_2": "ARCOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "025-026-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

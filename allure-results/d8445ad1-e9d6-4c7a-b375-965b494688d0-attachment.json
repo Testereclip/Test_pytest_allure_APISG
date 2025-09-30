@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 579,
+    "codCalle_2": 1647,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104559.5235348913,
+    "coordenada_y": 105374.2733488561,
+    "direccion": "GUTIERREZ, JUAN MARIA Y REPUBLICA ARABE SIRIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUTIERREZ, JUAN MARIA",
+    "nombreCalle_2": "REPUBLICA ARABE SIRIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-049-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

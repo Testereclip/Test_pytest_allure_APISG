@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 470,
+    "codCalle_2": 2607,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95942.6719735269,
+    "coordenada_y": 103149.5233485045,
+    "direccion": "SOLANO LOPEZ, F., MARISCAL Y GONZALEZ, JOAQUIN V.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SOLANO LOPEZ, F., MARISCAL",
+    "nombreCalle_2": "GONZALEZ, JOAQUIN V.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-119-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

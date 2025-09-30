@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 2234,
+    "codCalle_2": 2498,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98213.8516608023,
+    "coordenada_y": 104852.3124109843,
+    "direccion": "NAPOLES Y BARZANA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NAPOLES",
+    "nombreCalle_2": "BARZANA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-112-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

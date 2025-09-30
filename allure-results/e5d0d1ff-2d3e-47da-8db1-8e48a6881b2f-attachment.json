@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 116,
+    "codCalle_2": 991,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97550.8985357688,
+    "coordenada_y": 102895.5467861391,
+    "direccion": "BAIGORRIA Y ARGERICH",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BAIGORRIA",
+    "nombreCalle_2": "ARGERICH",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "069-020-011b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

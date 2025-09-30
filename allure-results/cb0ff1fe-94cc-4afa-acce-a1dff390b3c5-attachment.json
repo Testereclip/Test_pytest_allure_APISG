@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 733,
+    "codCalle_2": 1712,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 100935.5860351668,
+    "coordenada_y": 101469.6483490123,
+    "direccion": "ORO\u00d1O, NICASIO Y VALLESE, FELIPE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ORO\u00d1O, NICASIO",
+    "nombreCalle_2": "VALLESE, FELIPE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "057-078-011a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

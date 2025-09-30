@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 1326,
+    "codCalle_2": 2387,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101063.6797853046,
+    "coordenada_y": 103778.3983487848,
+    "direccion": "ITURRI Y DORREGO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ITURRI",
+    "nombreCalle_2": "DORREGO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-104A-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

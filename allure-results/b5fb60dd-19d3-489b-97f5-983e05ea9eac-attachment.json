@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio 15 (Ciudad Oculta)",
+    "codCalle_1": 2204,
+    "codCalle_2": 2244,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 97575.6098376549,
+    "coordenada_y": 95510.0094219307,
+    "direccion": "HERRERA, LUIS A., DE Y EL ELECTRICISTA, BUSTAMANTE, NICASIO FEDERICO",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HERRERA, LUIS A., DE",
+    "nombreCalle_2": "EL ELECTRICISTA, BUSTAMANTE, NICASIO FEDERICO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "078-075V-000",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

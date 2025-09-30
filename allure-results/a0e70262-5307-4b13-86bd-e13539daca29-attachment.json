@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 864,
+    "codCalle_2": 1745,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99105.9063481724,
+    "coordenada_y": 104905.578036039,
+    "direccion": "CAMPILLO Y TORRENT",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CAMPILLO",
+    "nombreCalle_2": "TORRENT",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-031-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

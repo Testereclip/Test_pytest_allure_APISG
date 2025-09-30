@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 4,
+    "codCalle_2": 1357,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98048.8282229016,
+    "coordenada_y": 98526.6874116165,
+    "direccion": "RODO, JOSE E. Y VUCETICH, JUAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RODO, JOSE E.",
+    "nombreCalle_2": "VUCETICH, JUAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-208-000B",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CORTEJARENA%2C+JOSE+A.+Y+TABORDA%2C+DIOGENES&v2=true

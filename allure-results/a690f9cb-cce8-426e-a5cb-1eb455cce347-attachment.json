@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 1280,
+    "codCalle_2": 1762,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105090.2891593704,
+    "coordenada_y": 98776.3436620659,
+    "direccion": "ATUEL Y USPALLATA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ATUEL",
+    "nombreCalle_2": "USPALLATA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "032-057J-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

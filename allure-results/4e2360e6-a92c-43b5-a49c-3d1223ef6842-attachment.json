@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 72,
+    "codCalle_2": 1289,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102205.5313473118,
+    "coordenada_y": 98964.0702243494,
+    "direccion": "BALBASTRO Y MARTINEZ, VICTOR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BALBASTRO",
+    "nombreCalle_2": "MARTINEZ, VICTOR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-136A-023a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

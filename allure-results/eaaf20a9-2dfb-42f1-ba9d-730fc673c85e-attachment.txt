@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PEDRAZA%2C+MANUELA+Y+CIUDAD+DE+LA+PAZ&v2=true

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PUERTO MADERO",
+    "barrioInf": null,
+    "codCalle_1": 1838,
+    "codCalle_2": 2611,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 109526.246584521,
+    "coordenada_y": 102064.0265570715,
+    "direccion": "DE LOS ITALIANOS AV. Y LYNCH MARTA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LOS ITALIANOS AV.",
+    "nombreCalle_2": "LYNCH MARTA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "098-062-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

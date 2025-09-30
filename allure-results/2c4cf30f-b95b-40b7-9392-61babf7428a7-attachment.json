@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio 20",
+    "codCalle_1": 1168,
+    "codCalle_2": 2406,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99533.40849822,
+    "coordenada_y": 94792.4755171338,
+    "direccion": "PASAJE LATINOAMERICANO Y FONROUGE",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PASAJE LATINOAMERICANO",
+    "nombreCalle_2": "FONROUGE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "066-128-001",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

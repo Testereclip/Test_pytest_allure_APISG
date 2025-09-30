@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 434,
+    "codCalle_2": 1483,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100215.5313481151,
+    "coordenada_y": 106507.0389734512,
+    "direccion": "PINO, VIRREY DEL Y FREIRE, RAMON, CAP. GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PINO, VIRREY DEL",
+    "nombreCalle_2": "FREIRE, RAMON, CAP. GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "037-081-005a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

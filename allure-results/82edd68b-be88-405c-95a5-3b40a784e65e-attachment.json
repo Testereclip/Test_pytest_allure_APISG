@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 496,
+    "codCalle_2": 1873,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102083.2032228864,
+    "coordenada_y": 107251.4920984991,
+    "direccion": "SOLDADO DE LA INDEPENDENCIA Y GARCIA, TEODORO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SOLDADO DE LA INDEPENDENCIA",
+    "nombreCalle_2": "GARCIA, TEODORO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-114-017a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

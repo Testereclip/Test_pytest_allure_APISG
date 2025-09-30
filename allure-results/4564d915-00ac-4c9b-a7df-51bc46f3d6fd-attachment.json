@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 72,
+    "codCalle_2": 1953,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102546.6954097687,
+    "coordenada_y": 99091.4139743615,
+    "direccion": "BALBASTRO Y MONTE DINERO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BALBASTRO",
+    "nombreCalle_2": "MONTE DINERO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-172-007",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

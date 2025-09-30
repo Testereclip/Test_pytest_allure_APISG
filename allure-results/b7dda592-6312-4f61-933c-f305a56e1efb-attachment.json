@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 456,
+    "codCalle_2": 2636,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108157.9375964901,
+    "coordenada_y": 99870.6249121577,
+    "direccion": "ITUZAINGO Y TACUARI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ITUZAINGO",
+    "nombreCalle_2": "TACUARI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "008-029-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

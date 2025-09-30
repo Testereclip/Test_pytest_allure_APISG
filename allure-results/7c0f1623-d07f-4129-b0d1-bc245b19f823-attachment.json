@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 76,
+    "codCalle_2": 2364,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 96085.3282234548,
+    "coordenada_y": 102379.7967860923,
+    "direccion": "LOZANO, PEDRO Y MERCEDES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LOZANO, PEDRO",
+    "nombreCalle_2": "MERCEDES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-035-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

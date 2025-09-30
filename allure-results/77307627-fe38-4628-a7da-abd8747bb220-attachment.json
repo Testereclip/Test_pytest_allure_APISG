@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VERSALLES",
+    "barrioInf": null,
+    "codCalle_1": 1755,
+    "codCalle_2": 1776,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 94038.8125985648,
+    "coordenada_y": 99461.7186612525,
+    "direccion": "MADRID Y CUZCO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MADRID",
+    "nombreCalle_2": "CUZCO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "093-001B-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

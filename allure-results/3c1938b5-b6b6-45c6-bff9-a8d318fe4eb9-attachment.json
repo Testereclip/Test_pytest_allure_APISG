@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 537,
+    "codCalle_2": 1856,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 96393.3810078441,
+    "coordenada_y": 95950.3223950743,
+    "direccion": "ANDALGALA Y CARDENAS, CNEL. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ANDALGALA",
+    "nombreCalle_2": "CARDENAS, CNEL. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "076-078A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

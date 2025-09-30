@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 180,
+    "codCalle_2": 367,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106550.9688470144,
+    "coordenada_y": 104158.3592866124,
+    "direccion": "LAS HERAS, GENERAL Y LAS HERAS GENERAL AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAS HERAS, GENERAL",
+    "nombreCalle_2": "LAS HERAS GENERAL AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "007-006-007d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

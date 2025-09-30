@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 725,
+    "codCalle_2": 766,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 101640.4610354279,
+    "coordenada_y": 106901.9530360076,
+    "direccion": "AGUILAR Y 3 DE FEBRERO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AGUILAR",
+    "nombreCalle_2": "3 DE FEBRERO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-030-006",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

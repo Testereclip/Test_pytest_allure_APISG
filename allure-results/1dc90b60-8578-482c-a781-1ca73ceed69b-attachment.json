@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "AGRONOMIA",
+    "barrioInf": null,
+    "codCalle_1": 510,
+    "codCalle_2": 797,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 96468.7969734902,
+    "coordenada_y": 103789.8124109774,
+    "direccion": "SAN MARTIN AV. Y ASUNCION",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN MARTIN AV.",
+    "nombreCalle_2": "ASUNCION",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-241-003",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

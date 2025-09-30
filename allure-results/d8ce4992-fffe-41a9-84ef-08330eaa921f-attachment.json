@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 1041,
+    "codCalle_2": 1462,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106121.5000967987,
+    "coordenada_y": 100006.1952245093,
+    "direccion": "INCLAN Y PICHINCHA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "INCLAN",
+    "nombreCalle_2": "PICHINCHA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "024-097B-000B",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

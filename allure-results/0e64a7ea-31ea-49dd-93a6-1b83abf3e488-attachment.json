@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 958,
+    "codCalle_2": 2720,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 95801.0249589193,
+    "coordenada_y": 106287.6255235455,
+    "direccion": "SEMIZA, BENIMIANO Y ALVAREZ PRADO, MANUEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SEMIZA, BENIMIANO",
+    "nombreCalle_2": "ALVAREZ PRADO, MANUEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-019D-000R",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

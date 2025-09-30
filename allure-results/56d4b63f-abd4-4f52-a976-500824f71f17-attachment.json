@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 882,
+    "codCalle_2": 2570,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102194.4922849217,
+    "coordenada_y": 100614.906161685,
+    "direccion": "THOMPSON Y HUALFIN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "THOMPSON",
+    "nombreCalle_2": "HUALFIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-037A-006a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

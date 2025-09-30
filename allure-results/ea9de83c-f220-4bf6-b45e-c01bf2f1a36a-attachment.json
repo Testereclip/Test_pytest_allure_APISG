@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1254,
+    "codCalle_2": 1712,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101608.4922850881,
+    "coordenada_y": 101778.4920990263,
+    "direccion": "BERNAL Y VALLESE, FELIPE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BERNAL",
+    "nombreCalle_2": "VALLESE, FELIPE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-024-025",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

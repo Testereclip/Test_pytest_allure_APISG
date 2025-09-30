@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 596,
+    "codCalle_2": 1893,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104080.7813475067,
+    "coordenada_y": 106052.4920987581,
+    "direccion": "KENNEDY, JOHN FITZGERALD Y SEGUI, JUAN FRANCISCO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "KENNEDY, JOHN FITZGERALD",
+    "nombreCalle_2": "SEGUI, JUAN FRANCISCO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-093-004d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

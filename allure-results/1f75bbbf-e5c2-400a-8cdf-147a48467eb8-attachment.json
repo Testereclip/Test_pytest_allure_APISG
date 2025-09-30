@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 1573,
+    "codCalle_2": 2028,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99721.4297857213,
+    "coordenada_y": 106985.2186608699,
+    "direccion": "MENDOZA Y CONDE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MENDOZA",
+    "nombreCalle_2": "CONDE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "039-042-006a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

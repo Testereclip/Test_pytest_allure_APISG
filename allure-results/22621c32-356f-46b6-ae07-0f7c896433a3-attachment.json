@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1387,
+    "codCalle_2": 1762,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103948.1954095236,
+    "coordenada_y": 98548.9842870107,
+    "direccion": "PIROVANO Y USPALLATA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PIROVANO",
+    "nombreCalle_2": "USPALLATA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-168-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

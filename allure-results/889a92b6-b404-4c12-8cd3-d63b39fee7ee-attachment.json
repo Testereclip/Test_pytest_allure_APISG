@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 324,
+    "codCalle_2": 855,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98476.5391609206,
+    "coordenada_y": 107199.2030357618,
+    "direccion": "CONGRESO AV. Y PLAZA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CONGRESO AV.",
+    "nombreCalle_2": "PLAZA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "053-104-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 1922,
+    "codCalle_2": 2725,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106672.867284193,
+    "coordenada_y": 99620.8827245825,
+    "direccion": "RONDEAU Y ENTRE RIOS AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RONDEAU",
+    "nombreCalle_2": "ENTRE RIOS AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "024-099-013d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

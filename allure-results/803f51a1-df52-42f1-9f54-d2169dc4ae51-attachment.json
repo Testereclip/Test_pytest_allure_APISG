@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 1027,
+    "codCalle_2": 1491,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 102582.3438475425,
+    "coordenada_y": 103242.9374114425,
+    "direccion": "ALVAREZ, JULIAN Y RAMIREZ DE VELASCO, JUAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALVAREZ, JULIAN",
+    "nombreCalle_2": "RAMIREZ DE VELASCO, JUAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-025-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

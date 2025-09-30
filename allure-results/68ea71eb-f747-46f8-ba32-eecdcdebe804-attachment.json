@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 1352,
+    "codCalle_2": 2060,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 109619.1875962315,
+    "coordenada_y": 99232.1639748203,
+    "direccion": "OLAVARRIA Y BROWN, ALTE. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OLAVARRIA",
+    "nombreCalle_2": "BROWN, ALTE. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "006-034A-004c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

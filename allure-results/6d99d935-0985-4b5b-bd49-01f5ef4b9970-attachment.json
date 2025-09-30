@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1656,
+    "codCalle_2": 1751,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105171.851659226,
+    "coordenada_y": 96828.476474765,
+    "direccion": "TABORDA, DIOGENES Y CRUZ, OSVALDO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TABORDA, DIOGENES",
+    "nombreCalle_2": "CRUZ, OSVALDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "034-013A-001b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 1594,
+    "codCalle_2": 2548,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97664.0704106912,
+    "coordenada_y": 102001.7655362367,
+    "direccion": "CAMPANA Y DANTAS, JULIO S.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CAMPANA",
+    "nombreCalle_2": "DANTAS, JULIO S.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-134B-021",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

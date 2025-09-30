@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA REAL",
+    "barrioInf": null,
+    "codCalle_1": 67,
+    "codCalle_2": 116,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95035.6875985152,
+    "coordenada_y": 100955.3749111682,
+    "direccion": "MARTINEZ, JUAN ESTEBAN Y BAIGORRIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MARTINEZ, JUAN ESTEBAN",
+    "nombreCalle_2": "BAIGORRIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "093-188A-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

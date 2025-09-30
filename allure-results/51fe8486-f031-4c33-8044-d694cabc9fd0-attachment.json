@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": 385,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 1101,
+    "codCalle_2": null,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97219.1324491088,
+    "coordenada_y": 99674.9805818832,
+    "direccion": "MENENDEZ Y PELAYO 385",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "nombreCalle_2": null,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "077-032A-005",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_altura"
+  },
+  "status_code": 200
+}

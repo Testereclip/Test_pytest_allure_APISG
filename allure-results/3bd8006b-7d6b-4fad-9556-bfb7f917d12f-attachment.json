@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 395,
+    "codCalle_2": 1820,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102240.9827363696,
+    "coordenada_y": 97620.6984050488,
+    "direccion": "BONORINO, ESTEBAN, CNEL. AV. Y MORENO, PERITO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BONORINO, ESTEBAN, CNEL. AV.",
+    "nombreCalle_2": "MORENO, PERITO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-002F-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

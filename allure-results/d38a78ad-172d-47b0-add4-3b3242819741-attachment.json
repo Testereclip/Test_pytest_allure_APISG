@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 797,
+    "codCalle_2": 2607,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95824.2813485563,
+    "coordenada_y": 103307.6952234815,
+    "direccion": "ASUNCION Y GONZALEZ, JOAQUIN V.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ASUNCION",
+    "nombreCalle_2": "GONZALEZ, JOAQUIN V.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-099-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

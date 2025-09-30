@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 854,
+    "codCalle_2": 1999,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96540.4219736887,
+    "coordenada_y": 106859.9061606664,
+    "direccion": "PESTALOZZI Y NU\u00d1EZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PESTALOZZI",
+    "nombreCalle_2": "NU\u00d1EZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-061A-020b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

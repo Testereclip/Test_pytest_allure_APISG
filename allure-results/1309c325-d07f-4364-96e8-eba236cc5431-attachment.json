@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 777,
+    "codCalle_2": 2255,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98962.5625974642,
+    "coordenada_y": 94034.2108496355,
+    "direccion": "DE LA TORRE, LISANDRO Y BARROS PAZOS, JOSE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LA TORRE, LISANDRO",
+    "nombreCalle_2": "BARROS PAZOS, JOSE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "082-080-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

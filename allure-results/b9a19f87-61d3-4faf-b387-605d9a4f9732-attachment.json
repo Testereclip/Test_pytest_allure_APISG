@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 2441,
+    "codCalle_2": 2692,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97297.6172858517,
+    "coordenada_y": 103547.4920985534,
+    "direccion": "SIMBRON Y NAZCA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SIMBRON",
+    "nombreCalle_2": "NAZCA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "071-053-010f",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 1831,
+    "codCalle_2": 2238,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99660.656347382,
+    "coordenada_y": 94378.8436621453,
+    "direccion": "FERNANDEZ DE LA CRUZ, F., GRAL. AV. Y LARRAZABAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FERNANDEZ DE LA CRUZ, F., GRAL. AV.",
+    "nombreCalle_2": "LARRAZABAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "066-011B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

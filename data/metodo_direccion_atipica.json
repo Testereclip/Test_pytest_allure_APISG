@@ -1,0 +1,795 @@
+[
+    {
+        "direccion": "ASENTAMIENTO RODRIGO BUENO MANZANA: 4 PARCELA: 82",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: PE - PLAYÓN ESTE MANZANA: 99A PARCELA: 33",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 17 PARCELA: 19",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 18 PARCELA: 55",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 22 PARCELA: 181",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 22 PARCELA: 190",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 30 PARCELA: 246",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 22 PARCELA: 129",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 22 PARCELA: 306",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: SM - SAN MARTÍN MANZANA: 116 PARCELA: 31",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: SM - SAN MARTÍN MANZANA: 115 PARCELA: 106",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: PE - PLAYÓN ESTE MANZANA: 99B PARCELA: 18",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 30 PARCELA: 319",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO RIVADAVIA II PARCELA: EDIFICIO 018",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "ASENTAMIENTO RODRIGO BUENO MANZANA: 4 PARCELA: 34",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PLAYON CHACARITA MANZANA: 1 PARCELA: 29",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 20 PARCELA: 58",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 1 PARCELA: 29",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: PO - PLAYÓN OESTE MANZANA: G1 PARCELA: 35",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: CO - CRISTO OBRERO MANZANA: 11A PARCELA: 1",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: CO - CRISTO OBRERO MANZANA: 14B PARCELA: 5",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 11 PARCELA: 19",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: PE - PLAYÓN ESTE MANZANA: 99A PARCELA: 4",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "ASENTAMIENTO RODRIGO BUENO MANZANA: 2 PARCELA: 56",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 3 PARCELA: 125",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 27 PARCELA: 145",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: SM - SAN MARTÍN MANZANA: 108 PARCELA: 91",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: SM - SAN MARTÍN MANZANA: 109 PARCELA: 93",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: GU - GUEMES MANZANA: 7 PARCELA: 52",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: SM - SAN MARTÍN MANZANA: 116 PARCELA: 19",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "ASENTAMIENTO RODRIGO BUENO MANZANA: 2 PARCELA: 33",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: PE - PLAYÓN ESTE MANZANA: 102 PARCELA: 48",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: SM - SAN MARTÍN MANZANA: 115 PARCELA: 39",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: PO - PLAYÓN OESTE MANZANA: 3A PARCELA: 22",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: SM - SAN MARTÍN MANZANA: 110 PARCELA: 23",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PLAYON CHACARITA MANZANA: 9 PARCELA: 36",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: PO - PLAYÓN OESTE MANZANA: G2 PARCELA: 5",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: YP - YPF MANZANA: 22 PARCELA: 18",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: PO - PLAYÓN OESTE MANZANA: 100A PARCELA: 15",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 8 PARCELA: 94",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: CO - CRISTO OBRERO MANZANA: 104B PARCELA: 12",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 1 PARCELA: 11",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 30 PARCELA: 34",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "ASENTAMIENTO RODRIGO BUENO MANZANA: 4 PARCELA: 47",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: GU - GUEMES MANZANA: 18 PARCELA: 34",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 29 PARCELA: 187",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: CO - CRISTO OBRERO MANZANA: 104A PARCELA: 24",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 19 PARCELA: 36",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: CO - CRISTO OBRERO MANZANA: 12 PARCELA: 36",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 30 PARCELA: 67",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 22 PARCELA: 82",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: SM - SAN MARTÍN MANZANA: 118 PARCELA: 39",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 21 PARCELA: 22",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "ASENTAMIENTO RODRIGO BUENO MANZANA: 3 PARCELA: 92",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: CO - CRISTO OBRERO MANZANA: 13",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO ESPORA PARCELA: EDIFICIO 009",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 7 PARCELA: 59",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 20 PARCELA: 54",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: PO - PLAYÓN OESTE MANZANA: 3B PARCELA: 002",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 20 PARCELA: 119",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 3 PARCELA: 2",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: FE - FERROVIARIO MANZANA: 6 PARCELA: 6",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 26 PARCELA: 51",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 2 PARCELA: 138",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 21 PARCELA: 102",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 2 PARCELA: 114",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 5 PARCELA: 7",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: PO - PLAYÓN OESTE MANZANA: 99C PARCELA: 43",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 14 PARCELA: 87",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: FE - FERROVIARIO MANZANA: 100A PARCELA: 23",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 7 PARCELA: 70",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 30 PARCELA: 194",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: CO - CRISTO OBRERO MANZANA: 104 PARCELA: 106",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 30 PARCELA: 311",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 26 PARCELA: 69",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 22 PARCELA: 14",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 8 PARCELA: 30",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: CM - COMUNICACIONES MANZANA: 28 PARCELA: 14",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 22 PARCELA: 258",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: FE - FERROVIARIO MANZANA: 100A PARCELA: 8",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 12 PARCELA: 10",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: PO - PLAYÓN OESTE MANZANA: 4 PARCELA: 34",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "ASENTAMIENTO RODRIGO BUENO MANZANA: 4 PARCELA: 84",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 16 PARCELA: 41",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO INTA (EX VILLA 19) MANZANA: 5",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: GU - GUEMES MANZANA: 12 PARCELA: 29",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PLAYON CHACARITA MANZANA: 2 PARCELA: 37",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 30 PARCELA: 210",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: CO - CRISTO OBRERO MANZANA: 104 PARCELA: 82",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "ASENTAMIENTO RODRIGO BUENO MANZANA: 1 PARCELA: 45",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: FE - FERROVIARIO MANZANA: 100A PARCELA: 17",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 21 PARCELA: 66",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 23 PARCELA: 46",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 16 PARCELA: 63",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PLAYON CHACARITA MANZANA: 7 PARCELA: 24",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 22 PARCELA: 216",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "ASENTAMIENTO RODRIGO BUENO MANZANA: 4 PARCELA: 50",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: SM - SAN MARTÍN MANZANA: 115 PARCELA: 33",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 26 PARCELA: 153",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: CO - CRISTO OBRERO MANZANA: 104A PARCELA: 41",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 5 PARCELA: 51",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: YP - YPF MANZANA: 24",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: CO - CRISTO OBRERO MANZANA: 104 PARCELA: 79",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: FE - FERROVIARIO MANZANA: 100 PARCELA: 10",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "ASENTAMIENTO MARIA AUXILIADORA MANZANA: 2",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: CO - CRISTO OBRERO MANZANA: 104B PARCELA: 71",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: PO - PLAYÓN OESTE MANZANA: 4 PARCELA: 69",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO JUAN XXIII PARCELA: EDIFICIO 001",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: FE - FERROVIARIO MANZANA: 100 PARCELA: 26",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: FE - FERROVIARIO MANZANA: 7 PARCELA: 29",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 2 PARCELA: 137",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 30 PARCELA: 229",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PLAYON CHACARITA MANZANA: 8 PARCELA: 25",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "ASENTAMIENTO RODRIGO BUENO MANZANA: 1 PARCELA: 84",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 16 PARCELA: 35",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: CO - CRISTO OBRERO MANZANA: 104 PARCELA: 1",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: SM - SAN MARTÍN MANZANA: 109 PARCELA: 92",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "ASENTAMIENTO RODRIGO BUENO MANZANA: 3 PARCELA: 114",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 21-24 SECTOR: ALEGRE PAVIMENTO MANZANA: ALEGRE PAVIMENTO 3",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 30 PARCELA: 417",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: CO - CRISTO OBRERO MANZANA: 104 PARCELA: 100",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 17 PARCELA: 38",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 24 PARCELA: 37",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 8 PARCELA: 99",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 21-24 SECTOR: LOMA ALEGRE MANZANA: LOMA ALEGRE 8",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO JUAN XXIII PARCELA: EDIFICIO 008",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: SM - SAN MARTÍN MANZANA: 112 PARCELA: 59",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: IN - INMIGRANTES MANZANA: 21 PARCELA: 76",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 30 PARCELA: 414",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: PO - PLAYÓN OESTE MANZANA: 4 PARCELA: 13",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: SM - SAN MARTÍN MANZANA: 117 PARCELA: 9",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 8 PARCELA: 8",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 14 PARCELA: 3",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: CM - COMUNICACIONES MANZANA: 28 PARCELA: 40",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 26 PARCELA: 36",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: YP - YPF MANZANA: 22 PARCELA: 53",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: IN - INMIGRANTES MANZANA: 21 PARCELA: 123",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: YP - YPF MANZANA: 32A PARCELA: 52",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PLAYON CHACARITA MANZANA: 3 PARCELA: 2",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "ASENTAMIENTO RODRIGO BUENO MANZANA: 1 PARCELA: 17",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 7 PARCELA: 66",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 21-24 SECTOR: SAN BLAS MANZANA: SAN BLAS 2",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 8 PARCELA: 24",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: YP - YPF MANZANA: 33A PARCELA: 1",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: SM - SAN MARTÍN MANZANA: 111 PARCELA: 22",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: GU - GUEMES MANZANA: 18 PARCELA: 19",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 12 PARCELA: 7",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 14 PARCELA: 2",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 8 PARCELA: 44",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: PE - PLAYÓN ESTE MANZANA: 1 PARCELA: 6",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 3",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: SM - SAN MARTÍN MANZANA: 109 PARCELA: 29",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "ASENTAMIENTO RODRIGO BUENO MANZANA: 1 PARCELA: 8",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 23 PARCELA: 195",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: PE - PLAYÓN ESTE MANZANA: 1A",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: PO - PLAYÓN OESTE MANZANA: 3B PARCELA: 9",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: CM - COMUNICACIONES MANZANA: 28 PARCELA: 9",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 17 PARCELA: 78",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 5 PARCELA: 94",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: GU - GUEMES MANZANA: 10 PARCELA: 7",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: SM - SAN MARTÍN MANZANA: 115 PARCELA: 41",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: PO - PLAYÓN OESTE MANZANA: 100A PARCELA: 2",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 30 PARCELA: 162",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "ASENTAMIENTO RODRIGO BUENO MANZANA: 1 PARCELA: 55",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: PO - PLAYÓN OESTE MANZANA: 4 PARCELA: 5",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO ESPORA PARCELA: EDIFICIO I33",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: CO - CRISTO OBRERO MANZANA: 12A PARCELA: 14",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "ASENTAMIENTO RODRIGO BUENO MANZANA: 3 PARCELA: 12",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO ESPORA PARCELA: EDIFICIO 008",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "ASENTAMIENTO RODRIGO BUENO MANZANA: 4 PARCELA: 97",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "ASENTAMIENTO RODRIGO BUENO MANZANA: 1 PARCELA: 100",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 13 PARCELA: 1",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 2 PARCELA: 40",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 8 PARCELA: 102",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: FE - FERROVIARIO MANZANA: 7 PARCELA: 66B",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 15 (CIUDAD OCULTA) MANZANA: 11",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: CO - CRISTO OBRERO MANZANA: 12C PARCELA: 31",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: SM - SAN MARTÍN MANZANA: 113 PARCELA: 34",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: IN - INMIGRANTES MANZANA: 21 PARCELA: 96",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 30 PARCELA: 452",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 29 PARCELA: 194",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 29 PARCELA: 122",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: PE - PLAYÓN ESTE MANZANA: 99A PARCELA: 18",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 5 PARCELA: 119",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: PE - PLAYÓN ESTE MANZANA: 105C PARCELA: 23",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: GU - GUEMES MANZANA: 15B PARCELA: 11",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: GU - GUEMES MANZANA: 5 PARCELA: 12",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: CO - CRISTO OBRERO MANZANA: 12 PARCELA: 43",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "ASENTAMIENTO RODRIGO BUENO MANZANA: 1 PARCELA: 101",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: CO - CRISTO OBRERO MANZANA: 11 PARCELA: 14",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 21 PARCELA: 48",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 21-24 SECTOR: CAACUPÉ LUNA (EX VILLA 21) MANZANA: 13",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 1 PARCELA: 147",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 20 PARCELA: 44",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 30 PARCELA: 375",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 27 PARCELA: 44",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO 20 MANZANA: 4 PARCELA: 1",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    },
+    {
+        "direccion": "BARRIO PADRE MUGICA SECTOR: FE - FERROVIARIO MANZANA: 6 PARCELA: 7",
+        "metodo_geocodificacion": "Geocodificación Directa"
+    }
+
+]

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 134,
+    "codCalle_2": 1181,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 105813.2110346839,
+    "coordenada_y": 105059.898348976,
+    "direccion": "TAGLE Y PAGANO, JOSE LEON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TAGLE",
+    "nombreCalle_2": "PAGANO, JOSE LEON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-075-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

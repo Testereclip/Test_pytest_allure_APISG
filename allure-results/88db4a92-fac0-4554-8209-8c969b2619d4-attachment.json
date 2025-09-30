@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 963,
+    "codCalle_2": 2210,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95866.0782233845,
+    "coordenada_y": 100872.1874112343,
+    "direccion": "ALVAREZ JONTE AV. Y RENQUE CURA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALVAREZ JONTE AV.",
+    "nombreCalle_2": "RENQUE CURA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-029-047a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

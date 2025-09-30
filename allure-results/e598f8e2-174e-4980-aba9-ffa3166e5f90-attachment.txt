@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=FIGUEREDO%2C+AMALIA+CELIA+Y+KAHLO%2C+FRIDA&v2=true

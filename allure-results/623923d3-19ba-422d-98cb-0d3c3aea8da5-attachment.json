@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 1639,
+    "codCalle_2": 1716,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105244.6329095882,
+    "coordenada_y": 102386.5233492082,
+    "direccion": "PUEYRREDON AV. Y PERON, JUAN DOMINGO, TTE. GENERAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PUEYRREDON AV.",
+    "nombreCalle_2": "PERON, JUAN DOMINGO, TTE. GENERAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "013-096-001f",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

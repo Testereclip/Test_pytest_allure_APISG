@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 236,
+    "codCalle_2": 2105,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 95176.1250983556,
+    "coordenada_y": 98897.8749113847,
+    "direccion": "RIVADAVIA AV. Y ESTEVES SAGUI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIVADAVIA AV.",
+    "nombreCalle_2": "ESTEVES SAGUI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "060-028-014c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 2001,
+    "codCalle_2": 2673,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104512.7500973824,
+    "coordenada_y": 105135.6561613779,
+    "direccion": "UGARTECHE Y JUNCAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "UGARTECHE",
+    "nombreCalle_2": "JUNCAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-025-007g",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

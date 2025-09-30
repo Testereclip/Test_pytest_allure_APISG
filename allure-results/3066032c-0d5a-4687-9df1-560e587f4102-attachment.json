@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 445,
+    "codCalle_2": 2013,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95647.617286131,
+    "coordenada_y": 104040.1952233949,
+    "direccion": "LAMARCA, EMILIO Y MISTRAL, GABRIELA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAMARCA, EMILIO",
+    "nombreCalle_2": "MISTRAL, GABRIELA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-151-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

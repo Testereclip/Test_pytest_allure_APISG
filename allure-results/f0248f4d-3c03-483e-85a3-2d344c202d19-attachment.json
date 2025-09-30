@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 223,
+    "codCalle_2": 1315,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 101924.5157227695,
+    "coordenada_y": 105175.4764737019,
+    "direccion": "CABRERA, JOSE A. Y AREVALO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CABRERA, JOSE A.",
+    "nombreCalle_2": "AREVALO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "033-084-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PUERTO MADERO",
+    "barrioInf": null,
+    "codCalle_1": 2569,
+    "codCalle_2": 2690,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108917.9930110378,
+    "coordenada_y": 101236.2591507016,
+    "direccion": "AUTOPISTA PRESIDENTE DR. RAUL RICARDO ALFONSIN Y VERA PE\u00d1ALOZA,  ROSARIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AUTOPISTA PRESIDENTE DR. RAUL RICARDO ALFONSIN",
+    "nombreCalle_2": "VERA PE\u00d1ALOZA,  ROSARIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "098-068-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

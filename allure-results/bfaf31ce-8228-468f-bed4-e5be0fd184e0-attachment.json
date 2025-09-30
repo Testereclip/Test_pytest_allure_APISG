@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 2125,
+    "codCalle_2": 2424,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104146.7110344297,
+    "coordenada_y": 97592.3514746219,
+    "direccion": "LAS PALMAS Y FOURNIER",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAS PALMAS",
+    "nombreCalle_2": "FOURNIER",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-085A-045",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

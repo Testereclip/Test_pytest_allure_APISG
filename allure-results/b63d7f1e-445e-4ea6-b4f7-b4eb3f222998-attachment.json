@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAAVEDRA",
+    "barrioInf": null,
+    "codCalle_1": 7,
+    "codCalle_2": 1622,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98032.71103608,
+    "coordenada_y": 108561.492098094,
+    "direccion": "VILELA Y NAON, ROMULO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VILELA",
+    "nombreCalle_2": "NAON, ROMULO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "043-006-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 2077,
+    "codCalle_2": 2678,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102291.2110351784,
+    "coordenada_y": 104641.6405362818,
+    "direccion": "HUMBOLDT Y VEGA, NICETO, CNEL. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HUMBOLDT",
+    "nombreCalle_2": "VEGA, NICETO, CNEL. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "033-066B-001c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

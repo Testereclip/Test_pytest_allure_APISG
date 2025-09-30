@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 2364,
+    "codCalle_2": 2441,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95933.6329109909,
+    "coordenada_y": 102582.7264735628,
+    "direccion": "MERCEDES Y SIMBRON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MERCEDES",
+    "nombreCalle_2": "SIMBRON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-037-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

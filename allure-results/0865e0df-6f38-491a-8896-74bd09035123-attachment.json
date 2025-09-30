@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 397,
+    "codCalle_2": 2279,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106115.5734890542,
+    "coordenada_y": 104882.1506146392,
+    "direccion": "GELLY Y OBES, GRAL. AV. Y GALILEO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "nombreCalle_2": "GALILEO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-148-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

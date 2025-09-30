@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 173,
+    "codCalle_2": 1320,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 102684.0079100736,
+    "coordenada_y": 103927.6874113786,
+    "direccion": "ACEVEDO Y JUFRE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACEVEDO",
+    "nombreCalle_2": "JUFRE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-065-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

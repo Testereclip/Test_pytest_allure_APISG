@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 2061,
+    "codCalle_2": 2476,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94618.4219736594,
+    "coordenada_y": 102146.6327235171,
+    "direccion": "BERMUDEZ Y CANTILO, JOSE LUIS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BERMUDEZ",
+    "nombreCalle_2": "CANTILO, JOSE LUIS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "089-051-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

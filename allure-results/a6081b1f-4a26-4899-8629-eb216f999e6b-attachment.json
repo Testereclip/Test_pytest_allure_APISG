@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 2055,
+    "codCalle_2": 2159,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95921.6407234237,
+    "coordenada_y": 101571.421786164,
+    "direccion": "BOSTON Y SASTRE, MARCOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BOSTON",
+    "nombreCalle_2": "SASTRE, MARCOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-088-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PUERTO MADERO",
+    "barrioInf": null,
+    "codCalle_1": 754,
+    "codCalle_2": 2690,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108949.547792113,
+    "coordenada_y": 101248.5163120772,
+    "direccion": "MOREAU DE JUSTO, ALICIA AV. Y VERA PE\u00d1ALOZA,  ROSARIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MOREAU DE JUSTO, ALICIA AV.",
+    "nombreCalle_2": "VERA PE\u00d1ALOZA,  ROSARIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "098-065-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

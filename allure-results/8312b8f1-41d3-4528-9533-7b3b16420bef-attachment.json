@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COGHLAN",
+    "barrioInf": null,
+    "codCalle_1": 2199,
+    "codCalle_2": 2541,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98491.6641609473,
+    "coordenada_y": 107635.0858482174,
+    "direccion": "TAMBORINI, JOSE PASCUAL Y ESTOMBA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TAMBORINI, JOSE PASCUAL",
+    "nombreCalle_2": "ESTOMBA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "053-132A-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SAN+LORENZO+Y+PASEO+COLON+AV.&v2=true

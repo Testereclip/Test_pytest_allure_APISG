@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": null,
+    "codCalle_1": 992,
+    "codCalle_2": 1116,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107919.145737699,
+    "coordenada_y": 103716.3536541885,
+    "direccion": "SANTA FE AV. Y MAIPU",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANTA FE AV.",
+    "nombreCalle_2": "MAIPU",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "003-045A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

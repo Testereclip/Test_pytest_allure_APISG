@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 116,
+    "codCalle_2": 1364,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95602.2813484677,
+    "coordenada_y": 101508.0233486472,
+    "direccion": "BAIGORRIA Y POSADAS, ALEJANDRO, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BAIGORRIA",
+    "nombreCalle_2": "POSADAS, ALEJANDRO, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-064A-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 755,
+    "codCalle_2": 944,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94707.0157235909,
+    "coordenada_y": 101347.4530361053,
+    "direccion": "LOPE DE VEGA AV. Y TINOGASTA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LOPE DE VEGA AV.",
+    "nombreCalle_2": "TINOGASTA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-010-026a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

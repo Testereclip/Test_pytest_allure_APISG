@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 131,
+    "codCalle_2": 1574,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94492.5469734362,
+    "coordenada_y": 98562.7264738744,
+    "direccion": "EL ZORZAL Y COSQUIN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "EL ZORZAL",
+    "nombreCalle_2": "COSQUIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-070D-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

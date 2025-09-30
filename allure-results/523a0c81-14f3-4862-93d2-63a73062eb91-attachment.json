@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 1429,
+    "codCalle_2": 1765,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106157.4063469228,
+    "coordenada_y": 101937.8045993145,
+    "direccion": "RINCON Y ALSINA, ADOLFO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RINCON",
+    "nombreCalle_2": "ALSINA, ADOLFO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "020-049-032a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 2254,
+    "codCalle_2": 2595,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 96538.9219733985,
+    "coordenada_y": 102576.3983486026,
+    "direccion": "SAN NICOLAS Y NAZARRE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN NICOLAS",
+    "nombreCalle_2": "NAZARRE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-100-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

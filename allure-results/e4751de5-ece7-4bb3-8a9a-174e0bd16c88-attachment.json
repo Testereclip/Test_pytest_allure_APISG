@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 573,
+    "codCalle_2": 2590,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 105084.8907222077,
+    "coordenada_y": 103801.4061615524,
+    "direccion": "LAPRIDA Y MANSILLA, LUCIO NORBERTO, GENERAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAPRIDA",
+    "nombreCalle_2": "MANSILLA, LUCIO NORBERTO, GENERAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-116-025",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

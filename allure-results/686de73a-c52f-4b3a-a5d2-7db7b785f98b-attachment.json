@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 1309,
+    "codCalle_2": 2524,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 102072.976660176,
+    "coordenada_y": 104104.6639738226,
+    "direccion": "JUSTO, JUAN B. AV. Y AGUIRRE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JUSTO, JUAN B. AV.",
+    "nombreCalle_2": "AGUIRRE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-034-032a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

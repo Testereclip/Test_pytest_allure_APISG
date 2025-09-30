@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 726,
+    "codCalle_2": 880,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94301.8907235096,
+    "coordenada_y": 99238.9139737908,
+    "direccion": "JACQUES, AMADEO Y MADERO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JACQUES, AMADEO",
+    "nombreCalle_2": "MADERO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "095-016-001d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NU\u00d1EZ",
+    "barrioInf": null,
+    "codCalle_1": 1548,
+    "codCalle_2": 2414,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99404.9297859296,
+    "coordenada_y": 109383.4374106012,
+    "direccion": "BESARES Y VUELTA DE OBLIGADO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BESARES",
+    "nombreCalle_2": "VUELTA DE OBLIGADO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "029-006-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

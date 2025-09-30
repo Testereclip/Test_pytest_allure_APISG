@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 270,
+    "codCalle_2": 2439,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101828.9532225343,
+    "coordenada_y": 101479.710849072,
+    "direccion": "NEUQUEN Y ROJAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NEUQUEN",
+    "nombreCalle_2": "ROJAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-018-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

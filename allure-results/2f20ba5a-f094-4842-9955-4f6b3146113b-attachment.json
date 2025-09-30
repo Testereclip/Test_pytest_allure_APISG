@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 115,
+    "codCalle_2": 1912,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102442.2110349835,
+    "coordenada_y": 102059.2030365523,
+    "direccion": "JAURETCHE, ARTURO Y LOBOS, ELEODORO, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JAURETCHE, ARTURO",
+    "nombreCalle_2": "LOBOS, ELEODORO, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-106-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

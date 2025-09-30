@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 288,
+    "codCalle_2": 1178,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102476.7032227554,
+    "coordenada_y": 106195.3592861344,
+    "direccion": "SAVIO, MANUEL N., GRAL. Y ARENAL, CONCEPCION",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAVIO, MANUEL N., GRAL.",
+    "nombreCalle_2": "ARENAL, CONCEPCION",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-008-000D",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

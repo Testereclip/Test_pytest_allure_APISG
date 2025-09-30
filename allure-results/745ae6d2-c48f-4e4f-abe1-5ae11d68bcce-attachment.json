@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 1300,
+    "codCalle_2": 1909,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101008.7657231406,
+    "coordenada_y": 108647.445223286,
+    "direccion": "DEL LIBERTADOR AV. Y UGARTE, MANUEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DEL LIBERTADOR AV.",
+    "nombreCalle_2": "UGARTE, MANUEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "027-091-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

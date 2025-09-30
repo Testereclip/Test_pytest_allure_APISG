@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 987,
+    "codCalle_2": 2071,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 95662.9844732198,
+    "coordenada_y": 97958.3045990154,
+    "direccion": "OLIDEN Y ERCILLA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OLIDEN",
+    "nombreCalle_2": "ERCILLA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "074-125A-014a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

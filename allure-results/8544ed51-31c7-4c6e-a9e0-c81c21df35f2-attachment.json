@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 313,
+    "codCalle_2": 1385,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101798.8985353315,
+    "coordenada_y": 105816.7733486268,
+    "direccion": "MATIENZO, BENJAMIN, TENIENTE Y CONESA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MATIENZO, BENJAMIN, TENIENTE",
+    "nombreCalle_2": "CONESA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "035-051A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

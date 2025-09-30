@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 1538,
+    "codCalle_2": 2224,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101002.9688478401,
+    "coordenada_y": 104172.6717862405,
+    "direccion": "RODNEY Y DUMONT, SANTOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RODNEY",
+    "nombreCalle_2": "DUMONT, SANTOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-165-000A",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

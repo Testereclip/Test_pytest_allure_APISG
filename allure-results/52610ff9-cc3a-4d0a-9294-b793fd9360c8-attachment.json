@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 931,
+    "codCalle_2": 1490,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108363.828221348,
+    "coordenada_y": 98202.6405373417,
+    "direccion": "SALVADORES, CNEL. Y ISABEL LA CATOLICA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SALVADORES, CNEL.",
+    "nombreCalle_2": "ISABEL LA CATOLICA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-008-020a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

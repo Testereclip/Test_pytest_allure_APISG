@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 741,
+    "codCalle_2": 1918,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 102121.4063471186,
+    "coordenada_y": 95921.0311621525,
+    "direccion": "RABANAL, FRANCISCO, INTENDENTE AV. Y PERGAMINO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RABANAL, FRANCISCO, INTENDENTE AV.",
+    "nombreCalle_2": "PERGAMINO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "052-005-030a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

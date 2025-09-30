@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 945,
+    "codCalle_2": 2243,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 104472.9141596546,
+    "coordenada_y": 101660.8280367302,
+    "direccion": "LINIERS VIRREY Y MORENO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LINIERS VIRREY",
+    "nombreCalle_2": "MORENO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "028-015-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

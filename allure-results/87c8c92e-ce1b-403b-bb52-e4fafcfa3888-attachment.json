@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 223,
+    "codCalle_2": 1274,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102690.1797851109,
+    "coordenada_y": 104498.2889738201,
+    "direccion": "CABRERA, JOSE A. Y URIARTE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CABRERA, JOSE A.",
+    "nombreCalle_2": "URIARTE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-020-027a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 2120,
+    "codCalle_2": 2549,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104486.468847303,
+    "coordenada_y": 103905.5702240021,
+    "direccion": "HONDURAS AV. Y DIAZ, CNEL. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HONDURAS AV.",
+    "nombreCalle_2": "DIAZ, CNEL. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-006-026",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

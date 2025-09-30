@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 1089,
+    "codCalle_2": 2203,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96203.6954107145,
+    "coordenada_y": 99088.1952239346,
+    "direccion": "CORTINA Y IRIGOYEN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CORTINA",
+    "nombreCalle_2": "IRIGOYEN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "095-051-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

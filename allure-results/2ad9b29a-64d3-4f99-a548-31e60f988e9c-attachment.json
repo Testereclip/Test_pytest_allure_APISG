@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 414,
+    "codCalle_2": 517,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99623.7813480928,
+    "coordenada_y": 104877.7577235739,
+    "direccion": "CALDAS Y TRONADOR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CALDAS",
+    "nombreCalle_2": "TRONADOR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-099-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

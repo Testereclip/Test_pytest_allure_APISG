@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 50,
+    "codCalle_2": 2280,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95711.8516609976,
+    "coordenada_y": 102183.8905360875,
+    "direccion": "SEGUROLA AV. Y COGHLAN, JUAN M.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SEGUROLA AV.",
+    "nombreCalle_2": "COGHLAN, JUAN M.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-010-017c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 678,
+    "codCalle_2": 2487,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 95091.1094733374,
+    "coordenada_y": 98429.8358489286,
+    "direccion": "PALMAR Y TONELERO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PALMAR",
+    "nombreCalle_2": "TONELERO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-129-004",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

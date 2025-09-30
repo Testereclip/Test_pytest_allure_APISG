@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 547,
+    "codCalle_2": 1272,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101327.9375981601,
+    "coordenada_y": 109671.9295982013,
+    "direccion": "CANTILO, INT. Y UDAONDO, GUILLERMO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CANTILO, INT.",
+    "nombreCalle_2": "UDAONDO, GUILLERMO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "027-147-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

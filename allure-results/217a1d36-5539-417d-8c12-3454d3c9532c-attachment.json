@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 514,
+    "codCalle_2": 1934,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102215.2188473192,
+    "coordenada_y": 99121.5155368371,
+    "direccion": "CABALLITO Y DIAZ, AVELINO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CABALLITO",
+    "nombreCalle_2": "DIAZ, AVELINO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-149A-006e",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

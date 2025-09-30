@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 963,
+    "codCalle_2": 1653,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95629.8594734045,
+    "coordenada_y": 100620.7342862408,
+    "direccion": "ALVAREZ JONTE AV. Y LA PINTA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALVAREZ JONTE AV.",
+    "nombreCalle_2": "LA PINTA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-001A-030",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

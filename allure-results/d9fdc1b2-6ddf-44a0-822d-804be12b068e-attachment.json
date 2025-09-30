@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": "Barrio Catalinas Sur",
+    "codCalle_1": 1102,
+    "codCalle_2": 2682,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 109352.3360338281,
+    "coordenada_y": 100092.4999122156,
+    "direccion": "BRAUN MENENDEZ, EDUARDO, DR. Y ZONZA BRIANO, PEDRO",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BRAUN MENENDEZ, EDUARDO, DR.",
+    "nombreCalle_2": "ZONZA BRIANO, PEDRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "006-120-000A",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

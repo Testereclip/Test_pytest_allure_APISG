@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN TELMO",
+    "barrioInf": null,
+    "codCalle_1": 712,
+    "codCalle_2": 1078,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108417.3282215324,
+    "coordenada_y": 101079.1717870529,
+    "direccion": "CALVO, CARLOS Y DEFENSA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CALVO, CARLOS",
+    "nombreCalle_2": "DEFENSA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "004-034-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

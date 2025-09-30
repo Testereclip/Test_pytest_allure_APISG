@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 2246,
+    "codCalle_2": 2613,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 95791.1563486826,
+    "coordenada_y": 105119.6639732928,
+    "direccion": "HELGUERA Y FRANCO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HELGUERA",
+    "nombreCalle_2": "FRANCO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-005-035",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

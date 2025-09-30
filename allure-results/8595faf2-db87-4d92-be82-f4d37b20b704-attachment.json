@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": 5866,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 1259,
+    "codCalle_2": null,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98963.5006699064,
+    "coordenada_y": 94396.8151683197,
+    "direccion": "BATLLE Y ORDO\u00d1EZ, JOSE P.T. 5866",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "nombreCalle_1": "BATLLE Y ORDO\u00d1EZ, JOSE P.T.",
+    "nombreCalle_2": null,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "080-088-005",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_altura"
+  },
+  "status_code": 200
+}

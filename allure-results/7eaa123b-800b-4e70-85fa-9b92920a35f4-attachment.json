@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 2549,
+    "codCalle_2": 2590,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104625.6172847956,
+    "coordenada_y": 104097.8983489914,
+    "direccion": "DIAZ, CNEL. AV. Y MANSILLA, LUCIO NORBERTO, GENERAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DIAZ, CNEL. AV.",
+    "nombreCalle_2": "MANSILLA, LUCIO NORBERTO, GENERAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-008-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

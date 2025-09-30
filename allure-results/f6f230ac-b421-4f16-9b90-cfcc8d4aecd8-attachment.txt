@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BUFANO%2C+ALFREDO+R.+Y+GALICIA&v2=true

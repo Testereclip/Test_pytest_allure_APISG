@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 4,
+    "codCalle_2": 2644,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 97727.7188479307,
+    "coordenada_y": 98253.7733491232,
+    "direccion": "RODO, JOSE E. Y MOZART",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RODO, JOSE E.",
+    "nombreCalle_2": "MOZART",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-042B-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

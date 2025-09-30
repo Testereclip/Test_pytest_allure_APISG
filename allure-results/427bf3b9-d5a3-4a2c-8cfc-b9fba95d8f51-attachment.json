@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 635,
+    "codCalle_2": 702,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 102565.0704100326,
+    "coordenada_y": 103080.6717864565,
+    "direccion": "VERA Y LAVALLEJA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VERA",
+    "nombreCalle_2": "LAVALLEJA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-190-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

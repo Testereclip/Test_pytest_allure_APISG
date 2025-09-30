@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1293,
+    "codCalle_2": 2387,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102848.7367283425,
+    "coordenada_y": 106096.1814384411,
+    "direccion": "CLAY Y DORREGO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CLAY",
+    "nombreCalle_2": "DORREGO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-004-002c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

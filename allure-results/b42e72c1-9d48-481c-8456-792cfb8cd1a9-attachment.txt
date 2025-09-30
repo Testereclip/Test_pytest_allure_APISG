@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SAN+MARTIN+AV.+Y+NAVARRO&v2=true

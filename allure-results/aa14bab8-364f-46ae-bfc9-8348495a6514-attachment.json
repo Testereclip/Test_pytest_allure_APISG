@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 2339,
+    "codCalle_2": 2466,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105129.6407217904,
+    "coordenada_y": 97676.2186621785,
+    "direccion": "TRAFUL Y MAGNAUD, JUEZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TRAFUL",
+    "nombreCalle_2": "MAGNAUD, JUEZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "034-081-004",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

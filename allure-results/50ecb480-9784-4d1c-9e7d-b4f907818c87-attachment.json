@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 1429,
+    "codCalle_2": 2243,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106158.7735344153,
+    "coordenada_y": 101805.4999118281,
+    "direccion": "RINCON Y MORENO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RINCON",
+    "nombreCalle_2": "MORENO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "020-048-025a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

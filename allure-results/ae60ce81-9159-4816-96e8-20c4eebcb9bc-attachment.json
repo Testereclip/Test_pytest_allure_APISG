@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 812,
+    "codCalle_2": 1716,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106129.7735344621,
+    "coordenada_y": 102451.515536761,
+    "direccion": "JUNIN Y PERON, JUAN DOMINGO, TTE. GENERAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JUNIN",
+    "nombreCalle_2": "PERON, JUAN DOMINGO, TTE. GENERAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "009-052-026a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

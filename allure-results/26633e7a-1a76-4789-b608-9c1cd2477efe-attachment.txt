@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MANZI%2C+HOMERO+Y+MORENO%2C+PERITO+AV.&v2=true

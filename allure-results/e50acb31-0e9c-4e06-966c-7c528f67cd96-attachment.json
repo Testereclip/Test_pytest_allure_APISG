@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 2092,
+    "codCalle_2": 2217,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 101747.1016598464,
+    "coordenada_y": 98498.1561618664,
+    "direccion": "CARABOBO AV. Y COREA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARABOBO AV.",
+    "nombreCalle_2": "COREA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-085-032",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

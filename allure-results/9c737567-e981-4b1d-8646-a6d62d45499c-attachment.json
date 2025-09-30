@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 842,
+    "codCalle_2": 1958,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101397.5547855299,
+    "coordenada_y": 107866.7733483909,
+    "direccion": "ECHEVERRIA Y MONTA\u00d1ESES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ECHEVERRIA",
+    "nombreCalle_2": "MONTA\u00d1ESES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "025-061-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

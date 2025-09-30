@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CRUZ%2C+OSVALDO+AV.+Y+SAN+ANTONIO&v2=true

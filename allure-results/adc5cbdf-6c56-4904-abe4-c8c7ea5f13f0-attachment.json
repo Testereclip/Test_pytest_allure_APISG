@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 894,
+    "codCalle_2": 1207,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102345.179784985,
+    "coordenada_y": 101863.0389740653,
+    "direccion": "ARANGUREN, JUAN F., DR. Y AMBROSETTI, JUAN B.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARANGUREN, JUAN F., DR.",
+    "nombreCalle_2": "AMBROSETTI, JUAN B.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-084-021a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

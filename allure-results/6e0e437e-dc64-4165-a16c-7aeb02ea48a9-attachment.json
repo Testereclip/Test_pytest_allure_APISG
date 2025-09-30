@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BOEDO",
+    "barrioInf": null,
+    "codCalle_1": 498,
+    "codCalle_2": 791,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 104219.3567341736,
+    "coordenada_y": 100171.0619523574,
+    "direccion": "COLOMBRES Y AUTOPISTA 25 DE MAYO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "COLOMBRES",
+    "nombreCalle_2": "AUTOPISTA 25 DE MAYO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "036-124-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1889,
+    "codCalle_2": 2667,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103313.5547850128,
+    "coordenada_y": 104426.367098872,
+    "direccion": "EL SALVADOR Y ARMENIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "EL SALVADOR",
+    "nombreCalle_2": "ARMENIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-066-027",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

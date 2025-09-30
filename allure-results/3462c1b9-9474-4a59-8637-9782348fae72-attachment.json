@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 2219,
+    "codCalle_2": 2255,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99253.7188474414,
+    "coordenada_y": 94342.2108496214,
+    "direccion": "MURGUIONDO Y BARROS PAZOS, JOSE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MURGUIONDO",
+    "nombreCalle_2": "BARROS PAZOS, JOSE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "080-097-025",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAAVEDRA",
+    "barrioInf": null,
+    "codCalle_1": 1231,
+    "codCalle_2": 1992,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 99307.140723411,
+    "coordenada_y": 108888.3749106453,
+    "direccion": "JARAMILLO Y AMENABAR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JARAMILLO",
+    "nombreCalle_2": "AMENABAR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "043-174-007a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

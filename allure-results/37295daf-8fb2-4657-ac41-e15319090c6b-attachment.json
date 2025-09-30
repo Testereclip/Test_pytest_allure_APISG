@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 517,
+    "codCalle_2": 2190,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 99353.3360357208,
+    "coordenada_y": 106189.8983484249,
+    "direccion": "TRONADOR Y PUENTE DEL INCA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TRONADOR",
+    "nombreCalle_2": "PUENTE DEL INCA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-121-010b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

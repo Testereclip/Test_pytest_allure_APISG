@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COGHLAN",
+    "barrioInf": null,
+    "codCalle_1": 1402,
+    "codCalle_2": 1772,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98711.8672859432,
+    "coordenada_y": 108048.9920981918,
+    "direccion": "PEREZ, ROQUE Y AZURDUY JUANA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PEREZ, ROQUE",
+    "nombreCalle_2": "AZURDUY JUANA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "041-032-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

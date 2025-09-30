@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 1390,
+    "codCalle_2": 1555,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103486.6250974055,
+    "coordenada_y": 103220.1249115053,
+    "direccion": "ESTADO DE PALESTINA Y GUARDIA VIEJA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ESTADO DE PALESTINA",
+    "nombreCalle_2": "GUARDIA VIEJA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "017-061-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

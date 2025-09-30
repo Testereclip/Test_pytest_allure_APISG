@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 458,
+    "codCalle_2": 1380,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104577.8360348593,
+    "coordenada_y": 104947.8592864025,
+    "direccion": "ARAOZ Y BERUTI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARAOZ",
+    "nombreCalle_2": "BERUTI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-024-016",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

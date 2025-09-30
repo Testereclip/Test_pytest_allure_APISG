@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BOEDO",
+    "barrioInf": null,
+    "codCalle_1": 535,
+    "codCalle_2": 2037,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103474.7735347036,
+    "coordenada_y": 100195.8280368135,
+    "direccion": "ANGACO Y MU\u00d1IZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ANGACO",
+    "nombreCalle_2": "MU\u00d1IZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "036-005-025",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 45,
+    "codCalle_2": 2532,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104326.6485344611,
+    "coordenada_y": 98445.476474546,
+    "direccion": "PAGOLA, CNEL. Y AGACES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PAGOLA, CNEL.",
+    "nombreCalle_2": "AGACES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-193-036",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

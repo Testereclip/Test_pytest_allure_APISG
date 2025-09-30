@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 1380,
+    "codCalle_2": 2313,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 105504.3438471694,
+    "coordenada_y": 104161.3670990443,
+    "direccion": "BERUTI Y ANCHORENA, TOMAS MANUEL DE, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BERUTI",
+    "nombreCalle_2": "ANCHORENA, TOMAS MANUEL DE, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-120-024a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

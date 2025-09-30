@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 656,
+    "codCalle_2": 2230,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98360.5469732486,
+    "coordenada_y": 104392.9217860413,
+    "direccion": "ALTOLAGUIRRE Y VICTORICA, BENJAMIN, GENERAL, AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALTOLAGUIRRE",
+    "nombreCalle_2": "VICTORICA, BENJAMIN, GENERAL, AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-058-016",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

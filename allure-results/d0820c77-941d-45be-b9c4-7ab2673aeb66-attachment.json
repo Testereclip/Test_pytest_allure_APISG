@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 2299,
+    "codCalle_2": 2512,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 101643.492284711,
+    "coordenada_y": 96230.3670995903,
+    "direccion": "ACOSTA, MARIANO Y ITAQUI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACOSTA, MARIANO",
+    "nombreCalle_2": "ITAQUI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "058-053O-016",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

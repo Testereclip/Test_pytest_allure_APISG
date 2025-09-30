@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 625,
+    "codCalle_2": 2666,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101227.1407226726,
+    "coordenada_y": 102203.7889739565,
+    "direccion": "GAONA AV. Y CUCHA CUCHA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GAONA AV.",
+    "nombreCalle_2": "CUCHA CUCHA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "057-120-009a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 242,
+    "codCalle_2": 1831,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103197.0782220945,
+    "coordenada_y": 97940.7108495211,
+    "direccion": "BARCO CENTENERA DEL Y FERNANDEZ DE LA CRUZ, F., GRAL. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BARCO CENTENERA DEL",
+    "nombreCalle_2": "FERNANDEZ DE LA CRUZ, F., GRAL. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-010B-012a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

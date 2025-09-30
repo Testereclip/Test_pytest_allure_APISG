@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 559,
+    "codCalle_2": 619,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 109781.3750962055,
+    "coordenada_y": 99198.976474833,
+    "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. Y NECOCHEA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARAOZ DE LAMADRID, GREGORIO, GRAL.",
+    "nombreCalle_2": "NECOCHEA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "006-050-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

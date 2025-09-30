@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 910,
+    "codCalle_2": 1279,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 97905.4454101712,
+    "coordenada_y": 94763.1170994897,
+    "direccion": "SARAZA Y CA\u00d1ADA DE GOMEZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SARAZA",
+    "nombreCalle_2": "CA\u00d1ADA DE GOMEZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "078-064G-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 1667,
+    "codCalle_2": 2621,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97504.2266610163,
+    "coordenada_y": 106455.773348273,
+    "direccion": "TRIUNVIRATO AV. Y LE BRETON, TOMAS A.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TRIUNVIRATO AV.",
+    "nombreCalle_2": "LE BRETON, TOMAS A.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-136-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 71,
+    "codCalle_2": 220,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103049.3282225156,
+    "coordenada_y": 103878.6014739098,
+    "direccion": "CORDOBA AV. Y SCALABRINI ORTIZ, RAUL AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CORDOBA AV.",
+    "nombreCalle_2": "SCALABRINI ORTIZ, RAUL AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-103-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

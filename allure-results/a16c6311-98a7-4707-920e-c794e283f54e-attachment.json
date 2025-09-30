@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 669,
+    "codCalle_2": 1324,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105830.8516592508,
+    "coordenada_y": 98648.9764746257,
+    "direccion": "MONTESQUIEU Y CHUTRO, PEDRO, PROF., DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MONTESQUIEU",
+    "nombreCalle_2": "CHUTRO, PEDRO, PROF., DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "024-035B-003",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

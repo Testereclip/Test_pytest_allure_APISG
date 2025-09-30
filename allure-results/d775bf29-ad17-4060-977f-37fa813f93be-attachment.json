@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 519,
+    "codCalle_2": 522,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94606.1094733115,
+    "coordenada_y": 96963.1249115447,
+    "direccion": "ACASSUSO Y FRAGATA TRINIDAD",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACASSUSO",
+    "nombreCalle_2": "FRAGATA TRINIDAD",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "074-012B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

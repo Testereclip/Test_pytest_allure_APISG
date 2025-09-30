@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 1754,
+    "codCalle_2": 2615,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95583.4766611581,
+    "coordenada_y": 104283.2499108654,
+    "direccion": "LOPEZ, CARLOS ANTONIO Y BACON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LOPEZ, CARLOS ANTONIO",
+    "nombreCalle_2": "BACON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-177-005",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

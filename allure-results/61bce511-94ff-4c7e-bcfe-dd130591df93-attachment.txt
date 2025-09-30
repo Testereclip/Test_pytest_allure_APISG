@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CUENCA+Y+GARCIA%2C+JUAN+AGUSTIN&v2=true

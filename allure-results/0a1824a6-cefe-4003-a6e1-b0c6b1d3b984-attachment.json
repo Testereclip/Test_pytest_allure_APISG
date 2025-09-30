@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 961,
+    "codCalle_2": 2446,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101214.9610354753,
+    "coordenada_y": 106664.4061610006,
+    "direccion": "CIUDAD DE LA PAZ Y ZABALA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CIUDAD DE LA PAZ",
+    "nombreCalle_2": "ZABALA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "037-153-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

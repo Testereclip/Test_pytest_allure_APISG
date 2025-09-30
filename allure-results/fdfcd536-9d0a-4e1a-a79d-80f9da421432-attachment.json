@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 1460,
+    "codCalle_2": 2364,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97348.5938481614,
+    "coordenada_y": 100842.8905363342,
+    "direccion": "MAGARI\u00d1OS CERVANTES, A. Y MERCEDES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MAGARI\u00d1OS CERVANTES, A.",
+    "nombreCalle_2": "MERCEDES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-029A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 1520,
+    "codCalle_2": 2199,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97973.3047860073,
+    "coordenada_y": 107343.0311607141,
+    "direccion": "ACHA, MARIANO, GRAL. Y TAMBORINI, JOSE PASCUAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACHA, MARIANO, GRAL.",
+    "nombreCalle_2": "TAMBORINI, JOSE PASCUAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "053-080A-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

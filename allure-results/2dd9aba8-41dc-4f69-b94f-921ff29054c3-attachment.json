@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 743,
+    "codCalle_2": 1170,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104408.351659376,
+    "coordenada_y": 97351.4999121628,
+    "direccion": "ROMERO Y LYNCH",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ROMERO",
+    "nombreCalle_2": "LYNCH",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "034-024-010b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

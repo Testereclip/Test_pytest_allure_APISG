@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1346,
+    "codCalle_2": 1786,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101382.5704099965,
+    "coordenada_y": 99903.0311617022,
+    "direccion": "ACHAVAL Y DIRECTORIO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACHAVAL",
+    "nombreCalle_2": "DIRECTORIO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "042-058-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

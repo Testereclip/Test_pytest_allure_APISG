@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 151,
+    "codCalle_2": 1385,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101704.0547853508,
+    "coordenada_y": 105895.1092861133,
+    "direccion": "NEWBERY, JORGE Y CONESA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NEWBERY, JORGE",
+    "nombreCalle_2": "CONESA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "035-054-014j",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

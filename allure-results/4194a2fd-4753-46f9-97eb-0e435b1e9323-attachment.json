@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA GRAL. MITRE",
+    "barrioInf": null,
+    "codCalle_1": 1309,
+    "codCalle_2": 2285,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 99102.9844729486,
+    "coordenada_y": 101570.9920988799,
+    "direccion": "JUSTO, JUAN B. AV. Y ESTADO PLURINACIONAL DE BOLIVIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JUSTO, JUAN B. AV.",
+    "nombreCalle_2": "ESTADO PLURINACIONAL DE BOLIVIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "067-076A-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

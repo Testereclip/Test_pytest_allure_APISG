@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 1815,
+    "codCalle_2": 2013,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96915.8282235047,
+    "coordenada_y": 104988.3983483817,
+    "direccion": "ARTIGAS, JOSE GERVASIO, GRAL. Y MISTRAL, GABRIELA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARTIGAS, JOSE GERVASIO, GRAL.",
+    "nombreCalle_2": "MISTRAL, GABRIELA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "073-054-031",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

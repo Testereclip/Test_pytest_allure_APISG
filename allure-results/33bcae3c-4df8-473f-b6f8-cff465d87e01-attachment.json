@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 2168,
+    "codCalle_2": 2233,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97534.382910558,
+    "coordenada_y": 99715.5545989592,
+    "direccion": "GOMEZ DE FONSECA Y SARACHAGA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GOMEZ DE FONSECA",
+    "nombreCalle_2": "SARACHAGA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "077-051-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

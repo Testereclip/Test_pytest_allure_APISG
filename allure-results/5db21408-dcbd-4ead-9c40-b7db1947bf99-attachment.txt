@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SCHMIDL%2C+ULRICO+Y+LEGUIZAMON%2C+MARTINIANO&v2=true

@@ -1,0 +1,1101 @@
+[
+     {
+    "calle": "belgrano 4500",
+    "error": "No se encontraron alturas válidas para belgrano 4500",
+    "status_code": 404
+  },
+   {
+    "calle": "corrientes 1403223",
+    "error": "No se encontraron alturas válidas para corrientes 1403223",
+    "status_code": 404
+  },   
+  {
+    "calle": null,
+    "error": "El campo 'calle' es obligatorio",
+    "status_code": 400
+  },  
+  {
+    "calle": "n/",
+    "error": "El campo 'calle' debe contener al menos 3 caracteres",
+    "status_code": 400
+
+  },  
+  {
+    "calle": "071B",
+    "error": "No se encontraron resultados para '071B'",
+    "status_code": 404
+  }, 
+  {
+    "calle": "$%&#$",
+    "error": "El campo 'calle' no puede contener caracteres especiales",
+    "status_code": 400
+  },
+  {
+    "calle": "TENIENTE 1º ROBERTO NESTOR ESTEVEZ",
+    "codPartido": "CABA",
+    "cod_calle": 1790,
+    "id_via_usig": 99850,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "ESTEVEZ, ROBERTO NESTOR, TENIENTE 1º"
+  },
+    {
+    "calle": "CABO 1º JULIO OMAR BENITEZ",
+    "codPartido": "CABA",
+    "cod_calle": 1260,
+    "id_via_usig": 99954,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "BENITEZ, JULIO OMAR, CABO 1º"
+  },
+    {
+    "calle": "INGENIERO CARLOS ECHAGÜE",
+    "codPartido": "CABA",
+    "cod_calle": 558,
+    "id_via_usig": 5002,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "ECHAGUE, CARLOS, ING."
+  },
+    {
+    "calle": "BOULEVAR MACACHA GÜEMES",
+    "codPartido": "CABA",
+    "cod_calle": 2164,
+    "id_via_usig": 7115,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "GUEMES, MACACHA"
+  },
+  {
+    "calle": "CABO 2º JORGE EDUARDO LOPEZ",
+    "codPartido": "CABA",
+    "cod_calle": 1563,
+    "id_via_usig": 99810,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "LOPEZ, JORGE EDUARDO, CABO 2º"
+  },
+  {
+    "calle": "AGÜERO",
+    "codPartido": "CABA",
+    "cod_calle": 135,
+    "id_via_usig": 1022,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "AGUERO"
+  },
+  {
+    "calle": "GÜEMES",
+    "codPartido": "CABA",
+    "cod_calle": 2012,
+    "id_via_usig": 7098,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "GUEMES"
+  },
+  {
+    "calle": "COLIGÜE",
+    "codPartido": "CABA",
+    "cod_calle": 1936,
+    "id_via_usig": 3138,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "COLIGUE"
+  },
+  {
+    "calle": "ALBARIÑO A CEDER",
+    "codPartido": "CABA",
+    "cod_calle": 114,
+    "id_via_usig": 1030,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "ALBARIÑO"
+  },
+    {
+    "calle": "LÜCHTER (SUR)",
+    "codPartido": "CABA",
+    "cod_calle": 1864,
+    "id_via_usig": 12149,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "LUCHTER (SUR)"
+  },  
+  
+  {
+    "calle": "REPUBLICA ARABE-SIRIA",
+    "codPartido": "CABA",
+    "cod_calle": 1647,
+    "id_via_usig": 13016,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "REPUBLICA ARABE SIRIA"
+  },
+  {
+    "calle": "LEZICA",
+    "codPartido": "CABA",
+    "cod_calle": 2617,
+    "id_via_usig": 12105,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "LEZICA"
+
+  },
+  {
+    "calle": "ZORRILLA, ALBERTO",
+    "codPartido": "CABA",
+    "cod_calle": 2661,
+    "id_via_usig": 99604,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "ZORRILLA, ALBERTO"
+
+  },
+  {
+    "calle": "PEREZ, PASCUAL",
+    "codPartido": "CABA",
+    "cod_calle": 909,
+    "id_via_usig": 31409,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "PEREZ, PASCUAL"
+  },
+  {
+    "calle": "MONROE",
+    "codPartido": "CABA",
+    "cod_calle": 1803,
+    "id_via_usig": 4111,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "MONROE"
+  },
+  {
+    "calle": "CHILE AV.",
+    "codPartido": "CABA",
+    "cod_calle": 302,
+    "id_via_usig": 3230,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "CHILE AV."
+  },
+  {
+    "calle": "LA FACULTAD",
+    "codPartido": "CABA",
+    "cod_calle": 209,
+    "id_via_usig": 12016,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "LA FACULTAD"
+  },
+  {
+    "calle": "FRAGATA HALCON",
+    "codPartido": "CABA",
+    "cod_calle": 1645,
+    "id_via_usig": 6046,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "FRAGATA HALCON"
+  },
+  {
+    "calle": "POLA",
+    "codPartido": "CABA",
+    "cod_calle": 1888,
+    "id_via_usig": 17105,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "POLA"
+
+  },
+  {
+    "calle": "GRANADA, NICOLAS",
+    "codPartido": "CABA",
+    "cod_calle": 233,
+    "id_via_usig": 7075,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "GRANADA, NICOLAS"
+  },
+  {
+    "calle": "CABOTO",
+    "codPartido": "CABA",
+    "cod_calle": 2480,
+    "id_via_usig": 3242,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "CABOTO"
+  },
+  {
+    "calle": "BOERI JUAN A",
+    "codPartido": "CABA",
+    "cod_calle": 2465,
+    "id_via_usig": 2088,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "BOERI, JUAN A."
+  },
+  {
+    "calle": "PORCEL DE PERALTA MANUEL",
+    "codPartido": "CABA",
+    "cod_calle": 1466,
+    "id_via_usig": 17110,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "PORCEL DE PERALTA, MANUEL"
+  },
+  {
+    "calle": "CAMPOS GASPAR",
+    "codPartido": "CABA",
+    "cod_calle": 2163,
+    "id_via_usig": 3042,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "CAMPOS, GASPAR"
+  },
+  {
+    "calle": "CASTELLANOS JOAQUIN",
+    "codPartido": "CABA",
+    "cod_calle": 2557,
+    "id_via_usig": 3090,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "CASTELLANOS, JOAQUIN"
+  },
+  {
+    "calle": "AÑASCO",
+    "codPartido": "CABA",
+    "cod_calle": 2535,
+    "id_via_usig": 1091,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "AÑASCO"
+  },
+  {
+    "calle": "9 DE JULIO",
+    "codPartido": "CABA",
+    "cod_calle": 993,
+    "id_via_usig": 14029,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "9 DE JULIO AV."
+  },
+  {
+    "calle": "OLLEROS",
+    "codPartido": "CABA",
+    "cod_calle": 2497,
+    "id_via_usig": 16022,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "OLLEROS"
+  },
+  {
+    "calle": "O GORMAN",
+    "codPartido": "CABA",
+    "cod_calle": 2672,
+    "id_via_usig": 16008,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "O'GORMAN"
+  },
+  {
+    "calle": "VALLE  GRAL DIV",
+    "codPartido": "CABA",
+    "cod_calle": 40,
+    "id_via_usig": 4035,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "VALLE, J.J., GRAL. DIV."
+  },
+  {
+    "calle": "MONTES DE OCA MANUEL",
+    "codPartido": "CABA",
+    "cod_calle": 2463,
+    "id_via_usig": 13115,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "MONTES DE OCA, MANUEL AV."
+  },
+  {
+    "calle": "PELLEGRINI CARLOS",
+    "codPartido": "CABA",
+    "cod_calle": 1530,
+    "id_via_usig": 17052,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "PELLEGRINI, CARLOS"
+  },
+  {
+    "calle": "27 DE FEBRERO",
+    "codPartido": "CABA",
+    "cod_calle": 105,
+    "id_via_usig": 23026,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "27 DE FEBRERO AV."
+  },
+  {
+    "calle": "15 DE NOVIEMBRE DE 1889",
+    "codPartido": "CABA",
+    "cod_calle": 2022,
+    "id_via_usig": 18009,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "15 DE NOVIEMBRE DE 1889"
+  },
+  {
+    "calle": "CERVIÑO",
+    "codPartido": "CABA",
+    "cod_calle": 243,
+    "id_via_usig": 3120,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "CERVIÑO AV."
+  },
+  {
+    "calle": "QUINTANA MANUEL PRES",
+    "codPartido": "CABA",
+    "cod_calle": 1966,
+    "id_via_usig": 18012,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "QUINTANA, MANUEL, PRES."
+  },
+  {
+    "calle": "LAVALLE",
+    "codPartido": "CABA",
+    "cod_calle": 1846,
+    "id_via_usig": 12089,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "LAVALLE"
+  },
+  {
+    "calle": "IBAÑEZ",
+    "codPartido": "CABA",
+    "cod_calle": 1268,
+    "id_via_usig": 9001,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "IBAÑEZ"
+  },
+  {
+    "calle": "ROUSSEAU",
+    "codPartido": "CABA",
+    "cod_calle": 2572,
+    "id_via_usig": 10010,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "ROUSSEAU, JUAN J."
+  },
+  {
+    "calle": "a'AMICIS eDMUNDO",
+        "codPartido": "CABA",
+    "cod_calle": 2499,
+    "id_via_usig": 4003,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "D'AMICIS, EDMUNDO"
+  },
+  {
+    "calle": "PUEYRREDON HONORIO",
+    "codPartido": "CABA",
+    "cod_calle": 2058,
+    "id_via_usig": 17133,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "PUEYRREDON, HONORIO, DR. AV."
+  },
+  {
+    "calle": "CASACUBERTA",
+    "codPartido": "CABA",
+    "cod_calle": 1270,
+    "id_via_usig": 3080,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "CASACUBERTA"
+  },
+  {
+    "calle": "directorio",
+    "codPartido": "CABA",
+    "cod_calle": 1786,
+    "id_via_usig": 4078,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "DIRECTORIO AV."
+  },
+  {
+    "calle": "SAbIO, MANUEL",
+    "codPartido": "CABA",
+    "cod_calle": 288,
+    "id_via_usig": 20129,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "SAVIO, MANUEL N., GRAL."
+  },
+  {
+    "calle": "MARTINEZ ENRIQUE",
+    "codPartido": "CABA",
+    "cod_calle": 2019,
+    "id_via_usig": 13038,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "MARTINEZ, ENRIQUE, GRAL."
+  },
+  {
+    "calle": "FORES",
+    "codPartido": "CABA",
+    "cod_calle": 1484,
+    "id_via_usig": 6040,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "FOREST AV."
+  },
+  {
+    "calle": "arribenos",
+    "codPartido": "CABA",
+    "cod_calle": 165,
+    "id_via_usig": 1121,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "ARRIBEÑOS"
+  },
+  {
+    "calle": "FERRARI ANTONINO",
+    "codPartido": "CABA",
+    "cod_calle": 197,
+    "id_via_usig": 6021,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "FERRARI, ANTONINO M."
+  },
+  {
+    "calle": "MIRANDA",
+    "codPartido": "CABA",
+    "cod_calle": 727,
+    "id_via_usig": 13088,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "MIRANDA"
+  },
+  {
+    "calle": "ravana francisco",
+    "codPartido": "CABA",
+    "cod_calle": 741,
+    "id_via_usig": 19057,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "RABANAL, FRANCISCO, INTENDENTE AV."
+  },
+  {
+    "calle": "HAMBURGO",
+    "codPartido": "CABA",
+    "cod_calle": 1362,
+    "id_via_usig": 8004,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "HAMBURGO"
+
+  },
+  {
+    "calle": "rodrigués pio",
+    "codPartido": "CABA",
+    "cod_calle": 1960,
+    "id_via_usig": 19072,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "RODRIGUEZ, PIO"
+  },
+  {
+    "calle": "LADINES",
+    "codPartido": "CABA",
+    "cod_calle": 2302,
+    "id_via_usig": 12014,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "LADINES"
+  },
+  {
+    "calle": "COLIGUé",
+    "codPartido": "CABA",
+    "cod_calle": 1936,
+    "id_via_usig": 3138,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "COLIGUE"
+  },
+  {
+    "calle": "CRáINQUéVILLE",
+    "codPartido": "CABA",
+    "cod_calle": 1028,
+    "id_via_usig": 3190,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "CRAINQUEVILLE"
+
+  },
+  {
+    "calle": "MALVINAS ARGENTINáS",
+    "codPartido": "CABA",
+    "cod_calle": 12,
+    "id_via_usig": 13020,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "MALVINAS ARGENTINAS"
+  },
+  {
+    "calle": "MARECHAL, LEOPOLDO",
+    "codPartido": "CABA",
+    "cod_calle": 783,
+    "id_via_usig": 3040,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "MARECHAL, LEOPOLDO"
+  },
+  {
+    "calle": "varela jose",
+    "codPartido": "CABA",
+    "cod_calle": 1110,
+    "id_via_usig": 23013,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "VARELA, JOSE PEDRO"
+    },
+  {
+    "calle": "CORTES, GERONIMO",
+    "codPartido": "CABA",
+    "cod_calle": 1366,
+    "id_via_usig": 3177,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "CORTES, GERONIMO"
+  },
+  {
+    "calle": "verdager jasinto",
+    "codPartido": "CABA",
+    "cod_calle": 2194,
+    "id_via_usig": 23038,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "VERDAGUER JACINTO"
+  },
+  {
+    "calle": "gonsales roque",
+    "codPartido": "CABA",
+    "cod_calle": 2206,
+    "id_via_usig": 7068,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "GONZALEZ, ROQUE"
+  },
+  {
+    "calle": "tapalqe",
+    "codPartido": "CABA",
+    "cod_calle": 1103,
+    "id_via_usig": 21012,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "TAPALQUE"
+  },
+  {
+    "calle": "OZANAM",
+    "codPartido": "CABA",
+    "cod_calle": 739,
+    "id_via_usig": 16044,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "OZANAM FEDERICO, BEATO"
+  },
+  {
+    "calle": "LA GLORIA",
+    "codPartido": "CABA",
+    "cod_calle": 1412,
+    "id_via_usig": 12027,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "LA GLORIA"
+  },
+  {
+    "calle": "ELCANO",
+    "codPartido": "CABA",
+    "cod_calle": 1793,
+    "id_via_usig": 5017,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "ELCANO"
+  },
+  {
+    "calle": "PATAGONES",
+        "codPartido": "CABA",
+    "cod_calle": 966,
+    "id_via_usig": 17032,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "PATAGONES"
+  },
+  {
+    "calle": "DINAMARCA",
+    "codPartido": "CABA",
+    "cod_calle": 2319,
+    "id_via_usig": 4077,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "DINAMARCA"
+  },
+  {
+    "calle": "LAURELES ARGENTINOS",
+    "codPartido": "CABA",
+    "cod_calle": 604,
+    "id_via_usig": 12084,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "LAURELES ARGENTINOS"
+  },
+  {
+    "calle": "tacuari",
+    "codPartido": "CABA",
+    "cod_calle": 2636,
+    "id_via_usig": 21004,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "TACUARI"
+  },
+  {
+    "calle": "ARTIGAS JOSE",
+    "codPartido": "CABA",
+    "cod_calle": 1815,
+    "id_via_usig": 1125,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "ARTIGAS, JOSE GERVASIO, GRAL."
+
+  },
+  {
+    "calle": "BORCHES, JOSE",
+    "codPartido": "CABA",
+    "cod_calle": 406,
+    "id_via_usig": 2156,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "BORCHES, JOSE"
+  },
+  {
+    "calle": "REPETTO, NICOLAS, DR.",
+    "codPartido": "CABA",
+    "cod_calle": 1785,
+    "id_via_usig": 1091,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "REPETTO, NICOLAS, DR."
+  },
+  {
+    "calle": "MEDINA",
+    "codPartido": "CABA",
+    "cod_calle": 2561,
+    "id_via_usig": 13060,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "MEDINA"
+  },
+  {
+    "calle": "PRIMOLI JUAN",
+    "codPartido": "CABA",
+    "cod_calle": 55,
+    "id_via_usig": 17122,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "PRIMOLI, JUAN B."
+  },
+  {
+    "calle": "PLUS ULTRA",
+    "codPartido": "CABA",
+    "cod_calle": 675,
+    "id_via_usig": 17101,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "PLUS ULTRA"
+  },
+  {
+    "calle": "COPAHUE",
+    "codPartido": "CABA",
+    "cod_calle": 1024,
+    "id_via_usig": 3162,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "COPAHUE"
+  },
+  {
+    "calle": "JUSTO JUAN",
+    "codPartido": "CABA",
+    "cod_calle": 1309,
+    "id_via_usig": 10018,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "JUSTO, JUAN B. AV."
+  },
+  {
+    "calle": "nuñezx",
+    "codPartido": "CABA",
+    "cod_calle": 1999,
+    "id_via_usig": 14031,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "NUÑEZ"
+  },
+  {
+    "calle": "DIAZ CESAR GRAL AV.",
+    "codPartido": "CABA",
+    "cod_calle": 2331,
+    "id_via_usig": 4072,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "DIAZ, CESAR, GRAL."
+  },
+  {
+    "calle": "GARCIA MANUEL",
+    "codPartido": "CABA",
+    "cod_calle": 285,
+    "id_via_usig": 7030,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "GARCIA, MANUEL"
+  },
+  {
+    "calle": "BOLAÑOS",
+    "codPartido": "CABA",
+    "cod_calle": 1487,
+    "id_via_usig": 2091,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "BOLAÑOS"
+  },
+  {
+    "calle": "9 De Julio Av. y Paraguay",
+    "codPartido": "CABA",
+    "cod_calle": 993,
+    "id_via_usig": 14029,
+    "intersecciones": [
+        {
+            "cod_calle": 132,
+            "nombre_oficial": "PARAGUAY"
+        }
+    ],
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "9 DE JULIO AV."
+    
+  },
+    {
+    "calle": "Lima y Ciudadela",
+    "codPartido": "CABA",
+    "cod_calle": 1804,
+    "id_via_usig": 12112,
+    "intersecciones": [
+        {
+            "cod_calle": 2301,
+            "nombre_oficial": "CIUDADELA"
+        }
+    ],
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "LIMA"
+  },
+    {
+    "calle": "Salta y O Brien",
+    "codPartido": "CABA",
+    "cod_calle": 2136,
+    "id_via_usig": 20017,
+    "intersecciones": [
+        {
+            "cod_calle": 795,
+            "nombre_oficial": "O'BRIEN"
+        }
+    ],
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "SALTA"
+
+  },
+    {
+    "calle": "Del Libertador Av. y Montevideo",
+    "codPartido": "CABA",
+    "cod_calle": 1300,
+    "id_via_usig": 12107,
+    "intersecciones": [
+        {
+            "cod_calle": 2089,
+            "nombre_oficial": "MONTEVIDEO"
+        }
+    ],
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "DEL LIBERTADOR AV."
+  },
+    {
+    "calle": "Santiago Del Estero y Constitucion",
+    "codPartido": "CABA",
+    "cod_calle": 735,
+    "id_via_usig": 20066,
+    "intersecciones": [
+        {
+            "cod_calle": 28,
+            "nombre_oficial": "CONSTITUCION"
+        }
+    ],
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "SANTIAGO DEL ESTERO"
+    
+  },
+    {
+    "calle": "Del Libertador Av. y Rodriguez Peña",
+    "codPartido": "CABA",
+    "cod_calle": 1300,
+    "id_via_usig": 12107,
+    "intersecciones": [
+        {
+            "cod_calle": 2626,
+            "nombre_oficial": "RODRIGUEZ PEÑA"
+        }
+    ],
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "DEL LIBERTADOR AV."
+
+  },
+    {
+    "calle": "Humberto 1° y San Jose",
+    "codPartido": "CABA",
+    "cod_calle": 2273,
+    "id_via_usig": 8035,
+    "intersecciones": [
+        {
+            "cod_calle": 2211,
+            "nombre_oficial": "SAN JOSE"
+        }
+    ],
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "HUMBERTO 1°"
+  },
+    {
+    "calle": "Caseros Av. y Saenz Peña, Luis, Pres.",
+    "codPartido": "CABA",
+    "cod_calle": 1217,
+    "id_via_usig": 3085,
+    "intersecciones": [
+        {
+            "cod_calle": 480,
+            "nombre_oficial": "SAENZ PEÑA, LUIS, PRES."
+        }
+    ],
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "CASEROS AV."
+  },
+    {
+    "calle": "Saenz Peña, Luis, Pres. y 15 De Noviembre De 1889",
+    "codPartido": "CABA",
+    "cod_calle": 480,
+    "id_via_usig": 20003,
+    "intersecciones": [
+        {
+            "cod_calle": 2022,
+            "nombre_oficial": "15 DE NOVIEMBRE DE 1889"
+        }
+    ],
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "SAENZ PEÑA, LUIS, PRES."
+  },
+    {
+    "calle": "Paraguay y Uruguay",
+    "codPartido": "CABA",
+    "cod_calle": 132,
+    "id_via_usig": 17017,
+    "intersecciones": [
+        {
+            "cod_calle": 698,
+            "nombre_oficial": "URUGUAY"
+        }
+    ],
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "PARAGUAY"
+  },
+    {
+    "calle": "ASENTAMIENTO RODRIGO BUENO MANZANA: 2 PARCELA: 56",
+    "barrio": 25,
+    "centroide": {
+        "coordinates": [
+            110021.08892854476,
+            101133.26865291377
+        ],
+        "type": "Point"
+    },
+    "codPartido": "CABA",
+    "manzana": 38,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_barrio": "PUERTO MADERO",
+    "nombre_calle": "ASENTAMIENTO RODRIGO BUENO MANZANA 2 PARCELA 56",
+    "nombre_comuna": "Comuna 1",
+    "parcela": 4882,
+    "sector": 0
+  },
+    {
+    "calle": "BARRIO 20 MANZANA: 20 PARCELA: 58",
+    "barrio": 33,
+    "centroide": {
+        "coordinates": [
+            100027.82319657474,
+            95203.08499719886
+        ],
+        "type": "Point"
+    },
+    "codPartido": "CABA",
+    "manzana": 34,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_barrio": "VILLA LUGANO",
+    "nombre_calle": "BARRIO 20 MANZANA 20 PARCELA 58",
+    "nombre_comuna": "Comuna 8",
+    "parcela": 4286,
+    "sector": 0
+  },
+    {
+    "calle": "BARRIO PADRE MUGICA SECTOR: GU - GUEMES MANZANA: 18 PARCELA: 34",
+    "barrio": 34,
+    "centroide": {
+        "coordinates": [
+            107695.99364106494,
+            105070.174111636
+        ],
+        "type": "Point"
+    },
+    "codPartido": "CABA",
+    "manzana": 144,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_barrio": "RETIRO",
+    "nombre_calle": "BARRIO PADRE MUGICA SECTOR GU - GUEMES MANZANA 18 PARCELA 34",
+    "nombre_comuna": "Comuna 1",
+    "parcela": 8854,
+    "sector": 7
+  },
+    {
+    "calle": "BARRIO PADRE MUGICA SECTOR: CO - CRISTO OBRERO MANZANA: 104 PARCELA: 106",
+    "barrio": 34,
+    "centroide": {
+        "coordinates": [
+            106891.35729254641,
+            105371.48616636488
+        ],
+        "type": "Point"
+    },
+    "codPartido": "CABA",
+    "manzana": 67,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_barrio": "RETIRO",
+    "nombre_calle": "BARRIO PADRE MUGICA SECTOR CO - CRISTO OBRERO MANZANA 104 PARCELA 106",
+    "nombre_comuna": "Comuna 1",
+    "parcela": 5280,
+    "sector": 2
+  },
+  {
+    "calle": "Parana 48",
+    "altura": 48,
+    "alturas_validas": [
+        {
+            "max": 1400,
+            "min": 1
+        }
+    ],
+    "codPartido": "CABA",
+    "cod_calle": 2417,
+    "id_via_usig": 17018,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "PARANA"
+  },
+  {
+    "calle": "Velez Sarsfield Av. 2050",
+    "altura": 2050,
+    "alturas_validas": [
+        {
+            "max": 2100,
+            "min": 1
+        }
+    ],
+    "codPartido": "CABA",
+    "cod_calle": 1107,
+    "id_via_usig": 23031,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "VELEZ SARSFIELD AV."
+  },
+    {
+    "calle": "Alberdi, Juan Bautista Av. 939",
+    "altura": 939,
+    "alturas_validas": [
+        {
+            "max": 7500,
+            "min": 1
+        }
+    ],
+    "codPartido": "CABA",
+    "cod_calle": 1182,
+    "id_via_usig": 1033,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "ALBERDI, JUAN BAUTISTA AV."
+  },
+    {
+    "calle": "Solis 1289",
+    "altura": 1289,
+    "alturas_validas": [
+        {
+            "max": 2200,
+            "min": 101
+        }
+    ],
+    "codPartido": "CABA",
+    "cod_calle": 2501,
+    "id_via_usig": 20106,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "SOLIS"
+  },
+    {
+    "calle": "Entre Rios Av. y 15 De Noviembre De 1889",
+    "codPartido": "CABA",
+    "cod_calle": 2725,
+    "id_via_usig": 5061,
+    "intersecciones": [
+        {
+            "cod_calle": 2022,
+            "nombre_oficial": "15 DE NOVIEMBRE DE 1889"
+        }
+    ],
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "ENTRE RIOS AV."
+
+  },
+    {
+    "calle": "Inclan 2366",
+    "altura": 2366,
+    "alturas_validas": [
+        {
+            "max": 4400,
+            "min": 2301
+        }
+    ],
+    "codPartido": "CABA",
+    "cod_calle": 1041,
+    "id_via_usig": 9009,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "nombre_calle": "INCLAN"
+
+  }
+
+]

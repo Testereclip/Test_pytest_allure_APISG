@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 1483,
+    "codCalle_2": 2213,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100412.8360355753,
+    "coordenada_y": 106352.2030359788,
+    "direccion": "FREIRE, RAMON, CAP. GRAL. Y ELCANO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FREIRE, RAMON, CAP. GRAL.",
+    "nombreCalle_2": "ELCANO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "037-091-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

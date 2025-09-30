@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 2558,
+    "codCalle_2": 2640,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103748.6329094676,
+    "coordenada_y": 97271.5624121283,
+    "direccion": "SANTA CATALINA Y MOM",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANTA CATALINA",
+    "nombreCalle_2": "MOM",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "046-147-007",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

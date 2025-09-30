@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "AGRONOMIA",
+    "barrioInf": null,
+    "codCalle_1": 1815,
+    "codCalle_2": 2236,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 97510.8516608641,
+    "coordenada_y": 104194.2108485037,
+    "direccion": "ARTIGAS, JOSE GERVASIO, GRAL. Y NAVARRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARTIGAS, JOSE GERVASIO, GRAL.",
+    "nombreCalle_2": "NAVARRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "071-103-002c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

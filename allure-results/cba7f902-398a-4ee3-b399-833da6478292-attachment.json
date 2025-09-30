@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": "Barrio Playon Chacarita",
+    "codCalle_1": 1386,
+    "codCalle_2": 2171,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100609.608920183,
+    "coordenada_y": 104938.0396182491,
+    "direccion": "PALPA Y GUEVARA",
+    "manzanaInf": "7",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PALPA",
+    "nombreCalle_2": "GUEVARA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "049-158B-003",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

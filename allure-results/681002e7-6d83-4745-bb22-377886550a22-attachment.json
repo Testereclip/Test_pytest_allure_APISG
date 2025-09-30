@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 867,
+    "codCalle_2": 995,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 98301.2891604557,
+    "coordenada_y": 99895.2811614944,
+    "direccion": "BAHIA BLANCA Y BOGOTA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BAHIA BLANCA",
+    "nombreCalle_2": "BOGOTA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "077-100-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

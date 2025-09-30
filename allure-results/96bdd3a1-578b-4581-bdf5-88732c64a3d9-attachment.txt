@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LAFOND%2C+GABRIEL+Y+NUEVA+YORK&v2=true

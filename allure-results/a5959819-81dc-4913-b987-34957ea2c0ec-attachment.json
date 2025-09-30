@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 257,
+    "codCalle_2": 2229,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94607.7579109012,
+    "coordenada_y": 98302.054598908,
+    "direccion": "LA CAUTIVA Y TUYUTI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LA CAUTIVA",
+    "nombreCalle_2": "TUYUTI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-082A-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

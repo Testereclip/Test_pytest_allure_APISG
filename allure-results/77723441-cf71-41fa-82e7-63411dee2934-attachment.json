@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA RIACHUELO",
+    "barrioInf": null,
+    "codCalle_1": 1831,
+    "codCalle_2": 1967,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98687.4844724548,
+    "coordenada_y": 93303.4374121897,
+    "direccion": "FERNANDEZ DE LA CRUZ, F., GRAL. AV. Y SUAREZ, JOSE LEON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FERNANDEZ DE LA CRUZ, F., GRAL. AV.",
+    "nombreCalle_2": "SUAREZ, JOSE LEON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "082-015-000B",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

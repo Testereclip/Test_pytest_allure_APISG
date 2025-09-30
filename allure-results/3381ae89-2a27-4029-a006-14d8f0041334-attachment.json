@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 812,
+    "codCalle_2": 2193,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106137.9610344519,
+    "coordenada_y": 102327.5780367727,
+    "direccion": "JUNIN Y MITRE, BARTOLOME",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JUNIN",
+    "nombreCalle_2": "MITRE, BARTOLOME",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "009-050-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

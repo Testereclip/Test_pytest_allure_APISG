@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 464,
+    "codCalle_2": 855,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 99178.49228575,
+    "coordenada_y": 106210.9374109104,
+    "direccion": "PADILLA, MANUEL Y PLAZA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PADILLA, MANUEL",
+    "nombreCalle_2": "PLAZA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-108-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

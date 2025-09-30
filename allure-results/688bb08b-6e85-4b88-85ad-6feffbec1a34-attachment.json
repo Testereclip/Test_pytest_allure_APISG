@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 2089,
+    "codCalle_2": 2417,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106815.6485344681,
+    "coordenada_y": 104078.2811616409,
+    "direccion": "MONTEVIDEO Y PARANA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MONTEVIDEO",
+    "nombreCalle_2": "PARANA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "007-022-025",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 616,
+    "codCalle_2": 1831,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100251.4428602452,
+    "coordenada_y": 94998.1531003429,
+    "direccion": "RODRIGUEZ, TERESA Y FERNANDEZ DE LA CRUZ, F., GRAL. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RODRIGUEZ, TERESA",
+    "nombreCalle_2": "FERNANDEZ DE LA CRUZ, F., GRAL. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "066-104-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

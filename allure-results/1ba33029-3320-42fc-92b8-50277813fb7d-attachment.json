@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 316,
+    "codCalle_2": 2581,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107525.6094715595,
+    "coordenada_y": 99511.624912152,
+    "direccion": "OLMOS, AMBROSIO Y PARACAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OLMOS, AMBROSIO",
+    "nombreCalle_2": "PARACAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "016-055C-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

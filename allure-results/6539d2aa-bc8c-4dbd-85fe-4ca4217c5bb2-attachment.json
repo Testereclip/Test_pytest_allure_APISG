@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 1841,
+    "codCalle_2": 2183,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 102620.4766595534,
+    "coordenada_y": 96036.2030371774,
+    "direccion": "SAN PEDRITO Y BERON DE ASTRADA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN PEDRITO",
+    "nombreCalle_2": "BERON DE ASTRADA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "052-056-007",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

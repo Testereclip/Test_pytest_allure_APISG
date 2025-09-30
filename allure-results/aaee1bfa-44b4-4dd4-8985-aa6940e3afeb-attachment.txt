@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=NORTE+PJE.+PARTICULAR+%28ALTURA+SILVIO+RUGGERI+2750%29+Y+RUGGIERI%2C+SILVIO+L.&v2=true

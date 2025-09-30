@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=ORO%C3%91O%2C+NICASIO+Y+FIGUEROA%2C+D.+APOLINARIO%2C+CORONEL&v2=true

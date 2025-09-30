@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 846,
+    "codCalle_2": 1677,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99701.117285169,
+    "coordenada_y": 98745.1327242069,
+    "direccion": "LANUS Y QUIRNO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LANUS",
+    "nombreCalle_2": "QUIRNO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-017-038b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

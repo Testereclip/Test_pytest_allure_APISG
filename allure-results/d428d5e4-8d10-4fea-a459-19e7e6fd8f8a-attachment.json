@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA GRAL. MITRE",
+    "barrioInf": null,
+    "codCalle_1": 589,
+    "codCalle_2": 2525,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 99963.1485353428,
+    "coordenada_y": 101911.2733489021,
+    "direccion": "TERRERO Y GALICIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TERRERO",
+    "nombreCalle_2": "GALICIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-035-008\u00f1",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

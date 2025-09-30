@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA REAL",
+    "barrioInf": null,
+    "codCalle_1": 2018,
+    "codCalle_2": 2443,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 94480.9610361024,
+    "coordenada_y": 101012.6639736234,
+    "direccion": "GUTIERREZ, EDUARDO Y HUGO, VICTOR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUTIERREZ, EDUARDO",
+    "nombreCalle_2": "HUGO, VICTOR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "093-156-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

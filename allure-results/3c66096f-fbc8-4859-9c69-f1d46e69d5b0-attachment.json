@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 775,
+    "codCalle_2": 1955,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102937.3997529845,
+    "coordenada_y": 104983.7063850278,
+    "direccion": "FERRARI, MARIA TERESA Y ATACALCO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FERRARI, MARIA TERESA",
+    "nombreCalle_2": "ATACALCO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-097B-003",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

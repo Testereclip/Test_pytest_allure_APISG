@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 37,
+    "codCalle_2": 2262,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103669.6954095025,
+    "coordenada_y": 97616.773349585,
+    "direccion": "MANZI, HOMERO Y TABARE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MANZI, HOMERO",
+    "nombreCalle_2": "TABARE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-036-006",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

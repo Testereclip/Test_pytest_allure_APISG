@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=CASTRO%2C+EMILIO+Y+ESCALADA+AV.&v2=true

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 418,
+    "codCalle_2": 1774,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104741.1719723193,
+    "coordenada_y": 104712.3514739384,
+    "direccion": "ARENALES Y VIDT",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARENALES",
+    "nombreCalle_2": "VIDT",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-011-021",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

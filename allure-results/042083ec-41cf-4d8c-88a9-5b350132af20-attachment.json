@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": 1242,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 443,
+    "codCalle_2": null,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100814.6996329292,
+    "coordenada_y": 98508.6521390205,
+    "direccion": "RAMON Y CAJAL 1242",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "nombreCalle_2": null,
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-013C-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_altura"
+  },
+  "status_code": 200
+}

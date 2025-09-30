@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 88,
+    "codCalle_2": 818,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 95607.7355723173,
+    "coordenada_y": 105804.7025695603,
+    "direccion": "EZEIZA Y PENELON, JOSE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "EZEIZA",
+    "nombreCalle_2": "PENELON, JOSE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-029-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 866,
+    "codCalle_2": 959,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98504.73447273,
+    "coordenada_y": 97011.8045993012,
+    "direccion": "OLIVERA AV. Y PRIMERA JUNTA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OLIVERA AV.",
+    "nombreCalle_2": "PRIMERA JUNTA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "062-139B-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

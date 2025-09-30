@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SOLDADO+DE+LA+FRONTERA+AV.+Y+URIBURU%2C+NAPOLEON%2C+GRAL.&v2=true

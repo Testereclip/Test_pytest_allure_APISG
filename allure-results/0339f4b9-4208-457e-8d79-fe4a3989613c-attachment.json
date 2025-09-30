@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 135,
+    "codCalle_2": 992,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 105152.3516597218,
+    "coordenada_y": 104169.3045990218,
+    "direccion": "AGUERO Y SANTA FE AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AGUERO",
+    "nombreCalle_2": "SANTA FE AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-105-019e",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

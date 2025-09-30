@@ -1,0 +1,5810 @@
+[
+  {
+    "direccion": "MENENDEZ Y PELAYO 336",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 332",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 339",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 375",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 333",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 315",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 320",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 344",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 342",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 340",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 394",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 385",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 325",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 346",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 347",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 360",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 312",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 384",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 388",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 351",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 326",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 380",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 378",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 376",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 379",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "MENENDEZ Y PELAYO 309",
+    "nombreCalle_1": "MENENDEZ Y PELAYO",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1797",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 527",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 849",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 882",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 822",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 950",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1427",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1425",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1489",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1487",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 983",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1023",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 420",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1109",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 245",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 243",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 2072",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 2070",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 2068",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 2216",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 869",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 867",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1426",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 148",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 572",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 570",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1471",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1469",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1467",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1054",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 713",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 204",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 519",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 515",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1386",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1384",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1378",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 15",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 9",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1853",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 2197",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1812",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1607",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1605",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1603",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 942",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 641",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 639",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 964",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 962",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 461",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1237",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1235",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 540",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1017",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1031",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1511",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1752",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1750",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1671",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1669",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1667",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 524",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 734",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1820",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 2226",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 2224",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 2222",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1172",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 679",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 879",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 877",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 875",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 636",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 634",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 632",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 80",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 78",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 233",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 231",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1423",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1421",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1419",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1363",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 75",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1330",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 2073",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1670",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1606",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1604",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1926",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 2132",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 2268",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 2264",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 2046",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 2040",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 611",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 980",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 978",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 878",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 876",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 762",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 760",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 848",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 846",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 844",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 843",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 841",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 198",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 190",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 776",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 774",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 772",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1375",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1011",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1007",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 449",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 447",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 445",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 441",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 723",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 721",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 783",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1119",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1117",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1145",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 65",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1778",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1931",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1927",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1592",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1761",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 2146",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 2241",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 2239",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 2208",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 188",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 39",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 354",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 724",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 157",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1234",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1232",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1230",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 749",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 747",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 745",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 468",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 464",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 462",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 505",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 41",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1827",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1825",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1835",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1748",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1746",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1744",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 2167",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 592",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1044",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1042",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1040",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 388",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 796",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 562",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 560",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1769",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1767",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 607",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 467",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 465",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 863",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1005",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1261",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1257",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1253",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1281",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1275",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 965",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 963",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 630",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 569",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 567",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 565",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1869",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1865",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1783",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1743",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1741",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 2194",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1645",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 716",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 720",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 718",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 359",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 361",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 890",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1249",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TREINTA Y TRES ORIENTALES 1247",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1268",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1242",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1240",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1246",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1296",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1220",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1260",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1215",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1205",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1279",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1295",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1212",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1210",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1285",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1234",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1255",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1211",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1223",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1221",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1261",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1272",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1225",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1292",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1228",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1224",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1278",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1293",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1241",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1216",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1235",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1229",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1253",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1256",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1247",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1284",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1250",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1267",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "RAMON Y CAJAL 1273",
+    "nombreCalle_1": "RAMON Y CAJAL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2224",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2220",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2263",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2383",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2285",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2243",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2221",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2215",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2213",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2219",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2217",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2233",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2207",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2264",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2262",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2258",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2295",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2293",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2256",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2254",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2250",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2279",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2275",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2289",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2287",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2294",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2292",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2247",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2240",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2238",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2230",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2206",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2286",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2284",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2282",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2246",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2398",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2390",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2352",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2320",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2318",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2316",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2314",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2308",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GELLY Y OBES, GRAL. AV. 2211",
+    "nombreCalle_1": "GELLY Y OBES, GRAL. AV.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 688",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 684",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1009",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 886",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 884",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1022",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 984",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 765",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 715",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 736",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 732",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 910",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1081",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 925",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 751",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 728",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 976",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1074",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1072",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 825",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 823",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 897",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 891",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 622",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 935",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1030",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 779",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 777",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 965",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 961",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 957",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 962",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 960",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1084",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1098",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1094",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 850",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 650",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 946",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 858",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 810",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 643",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 641",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 645",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 703",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 915",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 951",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 932",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 930",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1017",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 745",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 735",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1040",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 705",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 837",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 835",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 833",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 760",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 821",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 940",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 866",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 862",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1075",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 740",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 981",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 979",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 667",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 780",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1066",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 657",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 950",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 687",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 786",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 920",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 971",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1004",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 629",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 601",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1085",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1061",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 990",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 855",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 845",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 843",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 651",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1047",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 974",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 989",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 987",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 816",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 945",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 995",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 943",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 941",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 939",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 670",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1065",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 794",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 614",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1088",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 828",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 826",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1021",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 692",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1018",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1036",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1034",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 635",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1093",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 956",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1052",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1035",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 885",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 883",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 842",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 840",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 642",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 867",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 793",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 936",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 871",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 869",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1053",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 870",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAULA Y RODRIGUEZ ALVES, JOSE DE 1063",
+    "nombreCalle_1": "PAULA Y RODRIGUEZ ALVES, JOSE DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2969",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3291",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3074",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3090",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3412",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2912",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2959",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2955",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2991",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2987",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3115",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2595",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2589",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2585",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2583",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2494",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2492",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2490",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2488",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3141",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3139",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3137",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3135",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3133",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3131",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3016",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3006",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2556",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3265",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3263",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3283",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3281",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3030",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2817",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2815",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2807",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2805",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2444",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2442",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2440",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2496",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3306",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3475",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3415",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3413",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3411",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3405",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3168",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3071",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3274",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2649",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2647",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3160",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3083",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2725",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2678",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2676",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2674",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2672",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2670",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2936",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2934",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2945",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3110",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3443",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2634",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2632",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2630",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2628",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2626",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3045",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2747",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2745",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3173",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2607",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2605",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2603",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2921",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2917",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2913",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3245",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3179",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3177",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3480",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3053",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3051",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3049",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2460",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2458",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3340",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3338",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3336",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3183",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3181",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3268",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3152",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3150",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3446",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3444",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3442",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3440",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3136",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2859",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2857",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2855",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2461",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2457",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3352",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3350",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2900",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3310",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3248",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3240",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2406",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3470",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3468",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3144",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3142",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3490",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2430",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2428",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3067",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3065",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2977",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3212",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3037",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3089",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2468",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2466",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2545",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2543",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3218",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3414",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3457",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3455",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3437",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3435",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3433",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3431",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2690",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2535",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2447",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2445",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2885",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2840",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2838",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3225",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2942",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2765",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3192",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3190",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3188",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3180",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3178",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2954",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2952",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2453",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3124",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3120",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3410",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3400",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3416",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3063",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3059",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3055",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3075",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3163",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2431",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3423",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3215",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2580",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2570",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2550",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2540",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2520",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2516",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2521",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2519",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2511",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2411",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2407",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3202",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3084",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3080",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2420",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2414",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3464",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2485",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2625",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2623",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3313",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3485",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3066",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3418",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3166",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 3164",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2617",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2615",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2438",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "OLAGUER Y FELIU, VIRREY 2436",
+    "nombreCalle_1": "OLAGUER Y FELIU, VIRREY",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "CEPEDA Y AHUMADA, RODRIGO DE 2456",
+    "nombreCalle_1": "CEPEDA Y AHUMADA, RODRIGO DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "CEPEDA Y AHUMADA, RODRIGO DE 2471",
+    "nombreCalle_1": "CEPEDA Y AHUMADA, RODRIGO DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "CEPEDA Y AHUMADA, RODRIGO DE 2469",
+    "nombreCalle_1": "CEPEDA Y AHUMADA, RODRIGO DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "CEPEDA Y AHUMADA, RODRIGO DE 2440",
+    "nombreCalle_1": "CEPEDA Y AHUMADA, RODRIGO DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "CEPEDA Y AHUMADA, RODRIGO DE 2449",
+    "nombreCalle_1": "CEPEDA Y AHUMADA, RODRIGO DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "CEPEDA Y AHUMADA, RODRIGO DE 2455",
+    "nombreCalle_1": "CEPEDA Y AHUMADA, RODRIGO DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "CEPEDA Y AHUMADA, RODRIGO DE 2415",
+    "nombreCalle_1": "CEPEDA Y AHUMADA, RODRIGO DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "CEPEDA Y AHUMADA, RODRIGO DE 2485",
+    "nombreCalle_1": "CEPEDA Y AHUMADA, RODRIGO DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "CEPEDA Y AHUMADA, RODRIGO DE 2479",
+    "nombreCalle_1": "CEPEDA Y AHUMADA, RODRIGO DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "CEPEDA Y AHUMADA, RODRIGO DE 2450",
+    "nombreCalle_1": "CEPEDA Y AHUMADA, RODRIGO DE",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2046",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2058",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2056",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2298",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2292",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2290",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2506",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2534",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2532",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2526",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2524",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2516",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2514",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2508",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2574",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2572",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2566",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2546",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2544",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2596",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2594",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2588",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2582",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2578",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2042",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2086",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2084",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2082",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2142",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2062",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2272",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2232",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2032",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2030",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2226",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2168",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2176",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2162",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2160",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2208",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2202",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2152",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2150",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2066",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2064",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2282",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2072",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2070",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2024",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2022",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2020",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2396",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2390",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2384",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2378",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2360",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2354",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2348",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2342",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2336",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2330",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2324",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2094",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2092",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2090",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2198",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2296",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2294",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2188",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2216",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2222",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2220",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2218",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2076",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2122",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2262",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2130",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2050",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2136",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2078",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2016",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2308",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2306",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2304",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2302",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2490",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2480",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2470",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2464",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2460",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2454",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2450",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2444",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2440",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2434",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2430",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2426",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2422",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2418",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2414",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2410",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2406",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2242",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "TORRES Y TENORIO, PRES. 2250",
+    "nombreCalle_1": "TORRES Y TENORIO, PRES.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 717",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 715",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 711",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 701",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1192",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1190",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1100",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1094",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 739",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 737",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 735",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 733",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1144",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1142",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1010",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1147",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1145",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1194",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 745",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 743",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 741",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1058",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1112",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1110",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1106",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1102",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1097",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1090",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 785",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 783",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 781",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 771",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 769",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 767",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1052",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1008",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1002",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1020",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1248",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 671",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 685",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 683",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 681",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 679",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1275",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1255",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1045",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 699",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 695",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 791",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 787",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1292",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1246",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1240",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1124",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1122",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1017",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 775",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 773",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 777",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1033",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1134",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1280",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1260",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1300",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1025",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1284",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 751",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 749",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 747",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1173",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1185",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1181",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1199",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1197",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1214",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1208",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1226",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1220",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1234",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1023",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 725",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 721",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1050",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1048",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1152",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1009",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1003",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PI Y MARGALL 1160",
+    "nombreCalle_1": "PI Y MARGALL",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6049",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6047",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6045",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 5489",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 5868",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 5866",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6577",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6822",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6820",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6371",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 5831",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 5827",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6685",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6683",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 5410",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 5215",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6896",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6892",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 5257",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6124",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6122",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6511",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6507",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6501",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6552",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6550",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6343",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6341",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6339",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 5521",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 5519",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 5517",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 5496",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 5494",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6255",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6251",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6249",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 5991",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 5987",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 5004",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 5447",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6276",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 5779",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 5528",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 5526",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6880",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6026",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6062",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6060",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 6056",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 5210",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "BATLLE Y ORDOÑEZ, JOSE P.T. 3651",
+    "nombreCalle_1": "BATLLE Y ORDOÑEZ, JOSE P.T.",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1712",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1729",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1532",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1526",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1520",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1514",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1502",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1841",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1837",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1835",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1833",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1829",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1827",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1940",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1936",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1816",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1821",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1819",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1817",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1895",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1893",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1598",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1592",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1590",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1608",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1604",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1908",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1976",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1909",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1901",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1983",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1796",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1794",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1781",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1779",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1687",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1685",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1553",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1551",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1786",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1784",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1782",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "ORTEGA Y GASSET 1699",
+    "nombreCalle_1": "ORTEGA Y GASSET",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GUIDO Y SPANO, CARLOS 1122",
+    "nombreCalle_1": "GUIDO Y SPANO, CARLOS",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GUIDO Y SPANO, CARLOS 1120",
+    "nombreCalle_1": "GUIDO Y SPANO, CARLOS",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GUIDO Y SPANO, CARLOS 1168",
+    "nombreCalle_1": "GUIDO Y SPANO, CARLOS",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GUIDO Y SPANO, CARLOS 1145",
+    "nombreCalle_1": "GUIDO Y SPANO, CARLOS",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GUIDO Y SPANO, CARLOS 1152",
+    "nombreCalle_1": "GUIDO Y SPANO, CARLOS",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GUIDO Y SPANO, CARLOS 1158",
+    "nombreCalle_1": "GUIDO Y SPANO, CARLOS",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GUIDO Y SPANO, CARLOS 1156",
+    "nombreCalle_1": "GUIDO Y SPANO, CARLOS",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GUIDO Y SPANO, CARLOS 1126",
+    "nombreCalle_1": "GUIDO Y SPANO, CARLOS",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GUIDO Y SPANO, CARLOS 1139",
+    "nombreCalle_1": "GUIDO Y SPANO, CARLOS",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GUIDO Y SPANO, CARLOS 1134",
+    "nombreCalle_1": "GUIDO Y SPANO, CARLOS",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GUIDO Y SPANO, CARLOS 1173",
+    "nombreCalle_1": "GUIDO Y SPANO, CARLOS",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GUIDO Y SPANO, CARLOS 1164",
+    "nombreCalle_1": "GUIDO Y SPANO, CARLOS",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GUIDO Y SPANO, CARLOS 1115",
+    "nombreCalle_1": "GUIDO Y SPANO, CARLOS",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GUIDO Y SPANO, CARLOS 1111",
+    "nombreCalle_1": "GUIDO Y SPANO, CARLOS",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GUIDO Y SPANO, CARLOS 1107",
+    "nombreCalle_1": "GUIDO Y SPANO, CARLOS",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GUIDO Y SPANO, CARLOS 1178",
+    "nombreCalle_1": "GUIDO Y SPANO, CARLOS",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GUIDO Y SPANO, CARLOS 1176",
+    "nombreCalle_1": "GUIDO Y SPANO, CARLOS",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "GUIDO Y SPANO, CARLOS 1131",
+    "nombreCalle_1": "GUIDO Y SPANO, CARLOS",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA 4591",
+    "nombreCalle_1": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA 4533",
+    "nombreCalle_1": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA 4542",
+    "nombreCalle_1": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA 4540",
+    "nombreCalle_1": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA 4556",
+    "nombreCalle_1": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA 4564",
+    "nombreCalle_1": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA 4562",
+    "nombreCalle_1": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA 4585",
+    "nombreCalle_1": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA 4528",
+    "nombreCalle_1": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA 4525",
+    "nombreCalle_1": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA 4557",
+    "nombreCalle_1": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA 4576",
+    "nombreCalle_1": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA 4524",
+    "nombreCalle_1": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA 4520",
+    "nombreCalle_1": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA 4541",
+    "nombreCalle_1": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA 4571",
+    "nombreCalle_1": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA 4581",
+    "nombreCalle_1": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  },
+  {
+    "direccion": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA 4579",
+    "nombreCalle_1": "PAZ Y FIGUEROA, MARIA ANTONIA DE LA",
+    "metodo_geocodificacion": "Geocodificacion Directa",
+    "tipoDireccion": "calle_altura"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 791,
+    "codCalle_2": 919,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102874.1034268274,
+    "coordenada_y": 99981.7015897462,
+    "direccion": "AUTOPISTA 25 DE MAYO Y BEAUCHEF",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AUTOPISTA 25 DE MAYO",
+    "nombreCalle_2": "BEAUCHEF",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-093-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

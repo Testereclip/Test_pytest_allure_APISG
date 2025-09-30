@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 1337,
+    "codCalle_2": 1012,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 96969.6954103359,
+    "coordenada_y": 95151.4061618871,
+    "direccion": "DE LA ROSA, JOSE I., DR. Y GUAMINI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LA ROSA, JOSE I., DR.",
+    "nombreCalle_2": "GUAMINI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "078-059-000A",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

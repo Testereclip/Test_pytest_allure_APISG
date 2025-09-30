@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 236,
+    "codCalle_2": 1511,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97203.5235355711,
+    "coordenada_y": 99181.2342864926,
+    "direccion": "RIVADAVIA AV. Y CORRO, MIGUEL C. DEL, CANONIGO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIVADAVIA AV.",
+    "nombreCalle_2": "CORRO, MIGUEL C. DEL, CANONIGO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "077-023-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

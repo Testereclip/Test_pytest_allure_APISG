@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 2054,
+    "codCalle_2": 2213,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100254.32041055,
+    "coordenada_y": 105654.8670985402,
+    "direccion": "ALVAREZ THOMAS AV. Y ELCANO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALVAREZ THOMAS AV.",
+    "nombreCalle_2": "ELCANO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-152-016c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

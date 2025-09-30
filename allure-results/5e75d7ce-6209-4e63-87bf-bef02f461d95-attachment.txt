@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LEGUIZAMON%2C+ONESIMO+Y+SUAREZ%2C+JOSE+LEON&v2=true

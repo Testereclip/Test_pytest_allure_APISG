@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 946,
+    "codCalle_2": 1090,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100406.1329103628,
+    "coordenada_y": 103201.6795988018,
+    "direccion": "FRAGATA PRES. SARMIENTO Y MATURIN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FRAGATA PRES. SARMIENTO",
+    "nombreCalle_2": "MATURIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-135-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

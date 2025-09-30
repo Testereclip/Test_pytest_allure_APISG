@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 105,
+    "codCalle_2": 1816,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103943.2191348216,
+    "coordenada_y": 96589.1544683524,
+    "direccion": "27 DE FEBRERO AV. Y EREZCANO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "27 DE FEBRERO AV.",
+    "nombreCalle_2": "EREZCANO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "046-117A-020d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

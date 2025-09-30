@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BOEDO",
+    "barrioInf": null,
+    "codCalle_1": 731,
+    "codCalle_2": 1964,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 104049.4688470969,
+    "coordenada_y": 99858.2342868844,
+    "direccion": "PAVON AV. Y CASTRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PAVON AV.",
+    "nombreCalle_2": "CASTRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "036-086-007",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

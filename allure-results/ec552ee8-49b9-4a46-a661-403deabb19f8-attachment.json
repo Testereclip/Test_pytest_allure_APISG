@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 1754,
+    "codCalle_2": 1815,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96774.5235360401,
+    "coordenada_y": 105176.1092858531,
+    "direccion": "LOPEZ, CARLOS ANTONIO Y ARTIGAS, JOSE GERVASIO, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LOPEZ, CARLOS ANTONIO",
+    "nombreCalle_2": "ARTIGAS, JOSE GERVASIO, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "073-064-021",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

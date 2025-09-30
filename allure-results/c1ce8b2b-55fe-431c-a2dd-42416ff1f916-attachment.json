@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 1595,
+    "codCalle_2": 2591,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96708.9141611604,
+    "coordenada_y": 106830.5077231806,
+    "direccion": "PIRAN Y BEETHOVEN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PIRAN",
+    "nombreCalle_2": "BEETHOVEN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-072A-004",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

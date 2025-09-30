@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio 20",
+    "codCalle_1": 1294,
+    "codCalle_2": 2170,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99540.7507856426,
+    "coordenada_y": 94570.0125527092,
+    "direccion": "PASAJE ESPERANZA Y PASAJE PANAMERICANO",
+    "manzanaInf": "1",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PASAJE ESPERANZA",
+    "nombreCalle_2": "PASAJE PANAMERICANO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "066-011P-004",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

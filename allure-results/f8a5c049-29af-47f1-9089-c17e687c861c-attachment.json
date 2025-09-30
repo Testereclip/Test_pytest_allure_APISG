@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 1527,
+    "codCalle_2": 2097,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100188.2813476562,
+    "coordenada_y": 99652.2655366464,
+    "direccion": "BONIFACIO, JOSE Y RIVERA INDARTE AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BONIFACIO, JOSE",
+    "nombreCalle_2": "RIVERA INDARTE AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-116-014b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

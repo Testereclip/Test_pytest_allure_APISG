@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1540,
+    "codCalle_2": 1912,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102384.5872550716,
+    "coordenada_y": 102271.4836879944,
+    "direccion": "DIAZ VELEZ AV. Y LOBOS, ELEODORO, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DIAZ VELEZ AV.",
+    "nombreCalle_2": "LOBOS, ELEODORO, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-099-025a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

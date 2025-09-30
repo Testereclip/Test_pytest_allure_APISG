@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CONSTITUCION",
+    "barrioInf": null,
+    "codCalle_1": 791,
+    "codCalle_2": 2136,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107367.7932932014,
+    "coordenada_y": 100712.5921486565,
+    "direccion": "AUTOPISTA 25 DE MAYO Y SALTA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AUTOPISTA 25 DE MAYO",
+    "nombreCalle_2": "SALTA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "014-054-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

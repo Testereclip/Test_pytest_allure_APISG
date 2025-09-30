@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": "Barrio Olimpico",
+    "codCalle_1": 1350,
+    "codCalle_2": 1686,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100624.7848984404,
+    "coordenada_y": 95076.2371306592,
+    "direccion": "CABRERA, DELFO Y BOULEVARD OLIMPICO ZUBIAUR, JOSE BENJAMIN",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CABRERA, DELFO",
+    "nombreCalle_2": "BOULEVARD OLIMPICO ZUBIAUR, JOSE BENJAMIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "068-123I-003",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

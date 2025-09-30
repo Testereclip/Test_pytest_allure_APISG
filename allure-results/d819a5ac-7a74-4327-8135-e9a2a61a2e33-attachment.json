@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 1643,
+    "codCalle_2": 2308,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106176.0469721446,
+    "coordenada_y": 105277.7420989756,
+    "direccion": "AUSTRIA Y QUIROGA JUAN FACUNDO BRIG. GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AUSTRIA",
+    "nombreCalle_2": "QUIROGA JUAN FACUNDO BRIG. GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-178C-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

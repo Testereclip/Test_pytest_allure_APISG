@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 418,
+    "codCalle_2": 1647,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 104333.7657224014,
+    "coordenada_y": 105037.101473877,
+    "direccion": "ARENALES Y REPUBLICA ARABE SIRIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARENALES",
+    "nombreCalle_2": "REPUBLICA ARABE SIRIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-006-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

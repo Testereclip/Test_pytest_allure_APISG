@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 1883,
+    "codCalle_2": 2392,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96063.3282236511,
+    "coordenada_y": 105260.234285797,
+    "direccion": "MOLINA ARROTEA, CARLOS Y NAZCA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MOLINA ARROTEA, CARLOS",
+    "nombreCalle_2": "NAZCA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-023-037",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

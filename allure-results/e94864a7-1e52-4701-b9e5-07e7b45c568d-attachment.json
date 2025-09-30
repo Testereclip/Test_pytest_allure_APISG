@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 1107,
+    "codCalle_2": 1762,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106705.8204091582,
+    "coordenada_y": 99194.2577246323,
+    "direccion": "VELEZ SARSFIELD AV. Y USPALLATA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VELEZ SARSFIELD AV.",
+    "nombreCalle_2": "USPALLATA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "024-094-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

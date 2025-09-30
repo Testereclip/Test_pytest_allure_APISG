@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 1971,
+    "codCalle_2": 2654,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101591.6485352491,
+    "coordenada_y": 104153.4920987823,
+    "direccion": "FITZ ROY Y VILLARROEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FITZ ROY",
+    "nombreCalle_2": "VILLARROEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "033-002B-004",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

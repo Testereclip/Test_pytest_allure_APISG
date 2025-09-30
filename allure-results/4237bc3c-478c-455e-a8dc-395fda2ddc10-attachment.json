@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 658,
+    "codCalle_2": 1017,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103385.1719720878,
+    "coordenada_y": 98264.7030370023,
+    "direccion": "RIESTRA AV. Y TILCARA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIESTRA AV.",
+    "nombreCalle_2": "TILCARA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-060A-007",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

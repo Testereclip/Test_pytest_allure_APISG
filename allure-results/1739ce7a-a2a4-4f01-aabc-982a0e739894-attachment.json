@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 961,
+    "codCalle_2": 1561,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102344.0157227501,
+    "coordenada_y": 105821.8905361631,
+    "direccion": "CIUDAD DE LA PAZ Y SOLER",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CIUDAD DE LA PAZ",
+    "nombreCalle_2": "SOLER",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "035-090-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

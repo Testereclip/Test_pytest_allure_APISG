@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 207,
+    "codCalle_2": 1192,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101017.5000979058,
+    "coordenada_y": 105191.4842861373,
+    "direccion": "LACROZE, FEDERICO AV. Y CHARLONE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LACROZE, FEDERICO AV.",
+    "nombreCalle_2": "CHARLONE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "037-009-016",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

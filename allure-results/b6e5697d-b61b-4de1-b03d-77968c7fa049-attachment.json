@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 2209,
+    "codCalle_2": 2401,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103015.8047846263,
+    "coordenada_y": 97992.9686620042,
+    "direccion": "GOMEZ, INDALECIO Y CHILAVERT, MARTINIANO, CORONEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GOMEZ, INDALECIO",
+    "nombreCalle_2": "CHILAVERT, MARTINIANO, CORONEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "046-170B-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

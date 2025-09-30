@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 1527,
+    "codCalle_2": 1891,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99817.6485352032,
+    "coordenada_y": 99516.1639741353,
+    "direccion": "BONIFACIO, JOSE Y CULPINA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BONIFACIO, JOSE",
+    "nombreCalle_2": "CULPINA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-080-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

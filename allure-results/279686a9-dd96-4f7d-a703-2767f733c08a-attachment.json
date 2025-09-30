@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 1063,
+    "codCalle_2": 2224,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101328.6407228304,
+    "coordenada_y": 104760.0077237029,
+    "direccion": "FRAGA Y DUMONT, SANTOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FRAGA",
+    "nombreCalle_2": "DUMONT, SANTOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "033-037-018",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

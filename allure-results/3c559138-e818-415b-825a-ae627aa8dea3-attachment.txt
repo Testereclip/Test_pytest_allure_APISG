@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=BERMUDEZ%2C+ANTONIO+Y+PRIMERA+JUNTA&v2=true

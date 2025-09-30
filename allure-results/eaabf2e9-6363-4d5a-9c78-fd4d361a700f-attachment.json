@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COGHLAN",
+    "barrioInf": null,
+    "codCalle_1": 1183,
+    "codCalle_2": 1909,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98926.2657233618,
+    "coordenada_y": 107329.968660779,
+    "direccion": "WASHINGTON Y UGARTE, MANUEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "WASHINGTON",
+    "nombreCalle_2": "UGARTE, MANUEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "041-003-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

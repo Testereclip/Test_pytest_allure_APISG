@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 280,
+    "codCalle_2": 412,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 99238.1407227318,
+    "coordenada_y": 98632.9217866856,
+    "direccion": "AZUL Y SAN PEDRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AZUL",
+    "nombreCalle_2": "SAN PEDRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-186-007",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

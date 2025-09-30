@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 1574,
+    "codCalle_2": 1907,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94490.000098438,
+    "coordenada_y": 98589.8983488714,
+    "direccion": "COSQUIN Y EL CARPINTERO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "COSQUIN",
+    "nombreCalle_2": "EL CARPINTERO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-070C-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

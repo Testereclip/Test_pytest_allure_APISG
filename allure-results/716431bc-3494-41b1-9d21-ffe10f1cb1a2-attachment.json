@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 1391,
+    "codCalle_2": 1552,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99645.4688480081,
+    "coordenada_y": 103655.9061612023,
+    "direccion": "OSORIO Y WARNES AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OSORIO",
+    "nombreCalle_2": "WARNES AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-032-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

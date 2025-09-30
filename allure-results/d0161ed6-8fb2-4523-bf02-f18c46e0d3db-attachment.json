@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1005,
+    "codCalle_2": 1835,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108238.6641589572,
+    "coordenada_y": 99569.1874121925,
+    "direccion": "JOVELLANOS, GASPAR M. DE Y GUALEGUAY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JOVELLANOS, GASPAR M. DE",
+    "nombreCalle_2": "GUALEGUAY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "008-014-003",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

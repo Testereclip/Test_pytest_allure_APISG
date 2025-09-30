@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BOEDO",
+    "barrioInf": null,
+    "codCalle_1": 1189,
+    "codCalle_2": 1986,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 104080.3594720487,
+    "coordenada_y": 99222.1874119508,
+    "direccion": "METAN Y JANTIN, JUAN BAUTISTA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "METAN",
+    "nombreCalle_2": "JANTIN, JUAN BAUTISTA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-199B-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

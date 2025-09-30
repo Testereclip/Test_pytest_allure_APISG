@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 1329,
+    "codCalle_2": 2374,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94684.375098314,
+    "coordenada_y": 97178.7030365292,
+    "direccion": "MONTIEL Y CASTRO, EMILIO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MONTIEL",
+    "nombreCalle_2": "CASTRO, EMILIO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "074-030A-020d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

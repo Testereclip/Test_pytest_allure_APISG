@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 76,
+    "codCalle_2": 445,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 96583.0157234044,
+    "coordenada_y": 102745.8436610895,
+    "direccion": "LOZANO, PEDRO Y LAMARCA, EMILIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LOZANO, PEDRO",
+    "nombreCalle_2": "LAMARCA, EMILIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-102-026",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

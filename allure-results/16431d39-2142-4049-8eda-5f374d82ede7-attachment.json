@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONSERRAT",
+    "barrioInf": null,
+    "codCalle_1": 586,
+    "codCalle_2": 735,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107236.281346728,
+    "coordenada_y": 101398.2108494414,
+    "direccion": "CHILE Y SANTIAGO DEL ESTERO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CHILE",
+    "nombreCalle_2": "SANTIAGO DEL ESTERO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "012-041-011b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

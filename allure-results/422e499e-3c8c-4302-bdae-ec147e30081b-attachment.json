@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 551,
+    "codCalle_2": 1062,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 102408.8204101105,
+    "coordenada_y": 103875.5233488675,
+    "direccion": "GURRUCHAGA Y LOYOLA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GURRUCHAGA",
+    "nombreCalle_2": "LOYOLA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-043-021j",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

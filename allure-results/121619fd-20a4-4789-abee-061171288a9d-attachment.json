@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 799,
+    "codCalle_2": 2331,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97283.7032231548,
+    "coordenada_y": 100585.984286357,
+    "direccion": "SANABRIA Y DIAZ, CESAR, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANABRIA",
+    "nombreCalle_2": "DIAZ, CESAR, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-017D-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

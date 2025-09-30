@@ -1,0 +1,1756 @@
+[
+    {
+        "direccion": "COROICO 2002",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CAMPOS SALLES 1138",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+ 
+    {
+        "direccion": "COLONIA AV. 222",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "COLONIA AV. 302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "COLONIA AV. 102",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "COLONIA AV. 402",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "COLONIA AV. 2",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "COLONIA AV. 202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "COLONIA AV. 262",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MERCEDES SOSA 2352",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MERCEDES SOSA 2302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "DIAZ, ANA 5402",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "DIAZ, ANA 5602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "DIAZ, ANA 5702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CAÑONERA AMERICA 4902",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CAÑONERA AMERICA 4852",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CAÑONERA AMERICA 4942",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CEDRON 2202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CEDRON 2252",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GONZALEZ GASS, GABRIELA 2",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PLUMERILLO ROSADO 2802",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PLUMERILLO ROSADO 2832",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "SUMACA ITATI 5902",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "SUMACA ITATI 5940",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "SUMACA ITATI 6052",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "SUMACA ITATI 6026",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CYMES, JUAN 3212",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CYMES, JUAN 3102",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CYMES, JUAN 3142",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CYMES, JUAN 3182",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CYMES, JUAN 3202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CYMES, JUAN 3242",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CYMES, JUAN 3252",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CYMES, JUAN 3282",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CYMES, JUAN 3122",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CYMES, JUAN 3162",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CYMES, JUAN 3232",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GANDARILLAS, MANUELA 4602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GANDARILLAS, MANUELA 4842",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GANDARILLAS, MANUELA 4872",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GANDARILLAS, MANUELA 4632",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GANDARILLAS, MANUELA 4802",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GANDARILLAS, MANUELA 4702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GANDARILLAS, MANUELA 4732",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GANDARILLAS, MANUELA 4942",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GANDARILLAS, MANUELA 4902",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PJE.PARTICULAR (ALT. BENEDETTI 170) 3910",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "AGUAI 2002",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CINA CINA 2302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "RIVA, GASTON 2178",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "RIVA, GASTON 2152",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "RIVA, GASTON 2102",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "RIVA, GASTON 2132",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ARMAUER HANSEN, GERARDO, DR. 1702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "FELS, PABLO T.,CABO 302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "FELS, PABLO T.,CABO 202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "TOTORA 2702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "TOTORA 2602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "VINAL 2702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "VINAL 2732",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "VICARIO, LEONA 4302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "VICARIO, LEONA 4352",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "FIGUEREDO, AMALIA CELIA 4352",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GONZALEZ, JULIO VICTOR 2801",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "AUBRUN, EMILIO 4632",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PADRE DANIEL DE LA SIERRA PASEO 1602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "SIMONE DE BEAUVOIR 1702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "SIMONE DE BEAUVOIR 1752",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KOLLAS 2306",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KOLLAS 2202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KOLLAS 2102",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KOLLAS 2402",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KOLLAS 2452",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KOLLAS 2302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "JARILLA 2202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "JAZMIN DEL PARAGUAY 2872",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "JAZMIN DEL PARAGUAY 2852",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KAHLO, FRIDA 4862",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KAHLO, FRIDA 5102",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KAHLO, FRIDA 4762",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KAHLO, FRIDA 4902",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KAHLO, FRIDA 4942",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KAHLO, FRIDA 4972",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KAHLO, FRIDA 5002",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KAHLO, FRIDA 5022",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KAHLO, FRIDA 5032",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KAHLO, FRIDA 5062",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KAHLO, FRIDA 4632",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KAHLO, FRIDA 4602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KAHLO, FRIDA 4702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KAHLO, FRIDA 4732",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KAHLO, FRIDA 4802",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KAHLO, FRIDA 4832",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "KAHLO, FRIDA 4752",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ALPACA 402",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ALPACA 802",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ALPACA 882",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ALPACA 1442",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ALPACA 2102",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ALPACA 2202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ALPACA 2452",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ALPACA 1202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ALPACA 676",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ALPACA 1502",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ALPACA 2002",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ALPACA 2302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ALPACA 2402",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ALPACA 1950",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ALPACA 1832",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ALPACA 652",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ALPACA 1802",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 4222",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 6002",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 2012",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 2102",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 2502",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 3202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 3832",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 4402",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 4802",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 4902",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 5652",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 5802",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 5852",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 6202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 6352",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 1602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 1802",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 2302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 2702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 3102",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 4302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 4502",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 4702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 5002",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 5102",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 6102",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 6302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 1502",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 2902",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 3502",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 3702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 4602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 5502",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 5752",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 5902",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 5952",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 1702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 2202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 2802",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 3002",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 3302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 3402",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 3602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 3802",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 3902",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 4002",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 4952",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 5402",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 5602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 5702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 6052",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 2602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 4202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 4102",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 2402",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 5302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LARRALDE, CRISOLOGO AV. 5202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LA RABIDA (N) AV. 182",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LA RABIDA (N) AV. 42",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LA RABIDA (N) AV. 2",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LA RABIDA (N) AV. 142",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GUACAMAYO 602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "BIBILONI, JUAN A. 2801",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "WOOLF, VIRGINIA 852",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "SAN CARLOS 2",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GOLETA SARANDI 6052",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GOLETA SARANDI 5902",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GOLETA SARANDI 6002",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GOLETA SARANDI 5952",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PALCO 2502",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GUERRERO, FELICITAS 852",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "SISA, BARTOLINA 1802",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "SISA, BARTOLINA 1702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "SISA, BARTOLINA 1752",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "SISA, BARTOLINA 1852",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "AUSTRALIA 3202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PARADO DE BELLIDO, MARIA 1752",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PARADO DE BELLIDO, MARIA 1702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CIERVO DE LAS PAMPAS 2202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CIERVO DE LAS PAMPAS 2302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "BALANDRA, CARMEN 6002",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GUERRERO, SIMON 3202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GUERRERO, SIMON 3282",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GUERRERO, SIMON 3272",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GUERRERO, SIMON 3102",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GUERRERO, SIMON 3222",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GUERRERO, SIMON 3302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GUERRERO, SIMON 3362",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "8 DE DICIEMBRE 172",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "8 DE DICIEMBRE 92",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "8 DE DICIEMBRE 2",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "8 DE DICIEMBRE 112",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "8 DE DICIEMBRE 152",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "8 DE DICIEMBRE 82",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "8 DE DICIEMBRE 72",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "8 DE DICIEMBRE 192",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GRAMAJO GUTIERREZ, ALFREDO 3602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CASARES AV. 3702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CASARES AV. 4002",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CASARES AV. 3802",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CASARES AV. 3402",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CASARES AV. 3502",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CASARES AV. 3602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CASARES AV. 3552",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CASARES AV. 3902",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "AZUL, PASAJE 2402",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "AZUL, PASAJE 2432",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "1 DE AGOSTO DIA DE LA PACHAMAMA 3902",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GILARDI, GILARDO 1202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GOMEZ MIRANDA, FLORENTINA 4352",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LAMARQUE, LIBERTAD 652",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LAMARQUE, LIBERTAD 602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LAMARQUE, LIBERTAD 702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PASAJE LA JAULITA 3670",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PASILLO EVITA 2602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "HUEMUL 732",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "HUEMUL 802",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "HUEMUL 1002",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+
+    {
+        "direccion": "WICHI 1102",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "REYES BARBOSA, MIGUEL 6202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "FLOR DE IRUPE 2152",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "SLOTOPOLSKY DE EPELBAUM, RENEE 1202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "SAENZ VALIENTE, JUAN PABLO (PJE PART RIVER PLATE) 602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CAÑA 2402",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CAÑA 2502",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CAÑA 2302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CHILCA 2652",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CARQUEJA 2752",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CARQUEJA 2782",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "COUTURE, EDUARDO J. 2201",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "COUTURE, EDUARDO J. 2101",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "COUTURE, EDUARDO J. 2051",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LAREDO, PEDRO 120",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "DEGLIOUMINI, DELIA 1152",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "DEGLIOUMINI, DELIA 1232",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "DEGLIOUMINI, DELIA 802",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "DEGLIOUMINI, DELIA 912",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "DEGLIOUMINI, DELIA 1002",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "DEGLIOUMINI, DELIA 1052",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "DEGLIOUMINI, DELIA 1102",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "DEGLIOUMINI, DELIA 1202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "DEGLIOUMINI, DELIA 902",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "8 DE MARZO DE 1908 4352",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LAS CHOLAS 1702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LAS CHOLAS 1752",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "YMA SUMAC 1152",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "YMA SUMAC 802",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "YMA SUMAC 902",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "YMA SUMAC 1002",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "YMA SUMAC 1102",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "YMA SUMAC 1052",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "BARCA CABO DE HORNOS 6502",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "BARCA CABO DE HORNOS 6602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "BARCA CABO DE HORNOS 6702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "RODRIGUEZ, CANDELA SOL 3902",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "RODRIGUEZ, CANDELA SOL 4002",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "RODRIGUEZ, CANDELA SOL 3952",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MORO, JUANA 4902",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MORO, JUANA 5022",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MORO, JUANA 4942",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MORO, JUANA 4772",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MORO, JUANA 5062",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MORO, JUANA 4872",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MORO, JUANA 4802",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MORO, JUANA 4702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MORO, JUANA 5102",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MORO, JUANA 4632",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MORO, JUANA 5002",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MORO, JUANA 4602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PUMA 852",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PUMA 976",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PUMA 1102",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PUMA 952",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+
+    {
+        "direccion": "MAKA 2202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MAKA 2302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GILDA 1252",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "VICUÑA 1002",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "VICUÑA 1276",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "VICUÑA 752",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "VICUÑA 1502",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PASILLO EL AMANECER 2580",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "DELPINI JOSE L ING. 5202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "DELPINI JOSE L ING. 5152",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "DELPINI JOSE L ING. 5302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+
+    {
+        "direccion": "PALO SANTO 2302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PALO SANTO 2352",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LEYES DE CHAVES, CONCEPCION 4352",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PASAJE EL ENCUENTRO 5402",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PASAJE EL ENCUENTRO 5442",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PASAJE EL ENCUENTRO 5462",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "BUSTOS, CARLOS ARMANDO 6102",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "COLIBRI 1102",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "COLIBRI 752",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "COLIBRI 702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "COLIBRI 302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "COLIBRI 452",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "COLIBRI 2",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "COLIBRI 1602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MACHU PICCHU 2302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MACHU PICCHU 2602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MACHU PICCHU 2202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MACHU PICCHU 2702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MUJERES DE FRAGA 4102",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "AYMARA 652",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "AYMARA 302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "AYMARA 702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "EVITA 452",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "EVITA 552",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "EVITA 702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "EVITA 1152",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "EVITA 802",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "EVITA 1302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "EVITA 2202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "EVITA 1002",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "EVITA 602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "BERGANTIN CONGRESO NACIONAL 6052",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MAPUCHES 1276",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MAPUCHES 1302",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MAPUCHES 1602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MAPUCHES 1652",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MAPUCHES 1802",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LA CACHILA 8602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LA CACHILA 8502",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PONTEDERIA 2102",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MONTT, PEDRO, PRES. AV. 3502",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PASAJE SASTRE 1902",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "EDISON, TOMAS A. AV. 2",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "EDISON, TOMAS A. AV. 2902",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "EDISON, TOMAS A. AV. 1902",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "EDISON, TOMAS A. AV. 702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "EDISON, TOMAS A. AV. 452",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "EDISON, TOMAS A. AV. 2702",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "EDISON, TOMAS A. AV. 2202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "EDISON, TOMAS A. AV. 1402",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "EDISON, TOMAS A. AV. 902",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "EDISON, TOMAS A. AV. 52",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "EDISON, TOMAS A. AV. 1152",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "EDISON, TOMAS A. AV. 2502",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "TABEBUIA ROSEA 2202",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PAILEBOT DAVISON 3852",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PAILEBOT DAVISON 4002",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "20 DE SEPTIEMBRE 249",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "20 DE SEPTIEMBRE 299",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "20 DE SEPTIEMBRE 399",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "20 DE SEPTIEMBRE 499",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "20 DE SEPTIEMBRE 599",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "TABARE 1099",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LAS PALMAS 2893",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LAS PALMAS 2799",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "TABARE 999",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "RAMIREZ, CARLOS M. 999",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "20 DE JUNIO 3199",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "10 DE DICIEMBRE DE 1983 3199",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "FAVALORO, RENE DR. 3199",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LOS ALAMOS 4349",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "VILLANUEVA 1199",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LA PAMPA 2981",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ARREDONDO, VIRREY 2899",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ANDONAEGUI 3099",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ECHEVERRIA 3999",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CRAMER 1199",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PACHECO 2599",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "SINCLAIR 3299",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "DONADO 2099",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MARTINEZ, ENRIQUE, GRAL. 1499",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "BUCARELLI 2499",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "TUYUTI 6747",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ARREDONDO, VIRREY 3599",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "BURELA 2399",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ROBBIANI, ANGEL DR. 499",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+
+    {
+        "direccion": "MISTRAL, GABRIELA 2299",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GAMARRA 1199",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "FAVALORO, RENE DR. 3099",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "AUSTRIA 2299",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "EPECUEN 5199",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PRAGA 1399",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MISTRAL, GABRIELA 3099",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GORRITI 5199",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PAREJA 2799",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "VIDT 1899",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "HONDURAS 4599",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MALABIA 1499",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "MISTRAL, GABRIELA 3509",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GUISE 1799",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "GUTENBERG 3239",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ZABALA, JOAQUIN, DR. 2799",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "SUIPACHA 1149",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "LOS ALAMOS 4399",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "AGUERO 1299",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "SAN NICOLAS 4199",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "TERRADA 3399",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "PAREJA 3999",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "BRAVO, MARIO 999",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "CUBAS, JOSE 4299",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "VERA 499",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "HIDALGO 149",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+
+    {
+        "direccion": "3 DE DICIEMBRE DE 2009 451",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "3 DE DICIEMBRE DE 2009 499",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "3 DE DICIEMBRE DE 2009 500",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "3 DE DICIEMBRE DE 2009 501",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "3 DE DICIEMBRE DE 2009 599",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "3 DE DICIEMBRE DE 2009 600",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "3 DE DICIEMBRE DE 2009 640",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "3 DE DICIEMBRE DE 2009 650",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ACOSTA, DORA 2001",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ACOSTA, DORA 2002",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ACOSTA, DORA 2099",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ACOSTA, DORA 2100",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ACOSTA, DORA 2101",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ACOSTA, DORA 2102",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ACOSTA, DORA 2199",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ACOSTA, DORA 2200",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ACOSTA, DORA 2252",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "ACOSTA, DORA 2300",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "AGUAI 2001",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "AGUAI 2002",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "AGUAI 2049",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "AGUAI 2050",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "AGUARA GUAZU 1601",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "AGUARA GUAZU 1602",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "AGUARA GUAZU 1809",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "AGUARA GUAZU 1810",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "AGUARA GUAZU 1811",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "AGUARA GUAZU 1812",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "AGUARA GUAZU 1999",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    },
+    {
+        "direccion": "AGUARA GUAZU 2000",
+        "metodo_geocodificacion": "Interpolacion sobre Eje"
+    }
+]

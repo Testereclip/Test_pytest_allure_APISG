@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 2195,
+    "codCalle_2": 2730,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106562.828525013,
+    "coordenada_y": 97941.291942371,
+    "direccion": "CHUBUT Y 10 DE DICIEMBRE DE 1983",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CHUBUT",
+    "nombreCalle_2": "10 DE DICIEMBRE DE 1983",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "026-037B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1575,
+    "codCalle_2": 2395,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101196.1094726659,
+    "coordenada_y": 102000.8280364753,
+    "direccion": "FRANKLIN Y PUJOL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FRANKLIN",
+    "nombreCalle_2": "PUJOL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "057-109-022a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

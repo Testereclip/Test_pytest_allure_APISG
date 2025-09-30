@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 2538,
+    "codCalle_2": 2251,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108765.9219712534,
+    "coordenada_y": 97701.2030374216,
+    "direccion": "DE LAS MUJERES DEL BARRIO LA BOCA, PASEO PEATONAL COSTERO Y REGIMIENTO DE PATRICIOS AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LAS MUJERES DEL BARRIO LA BOCA, PASEO PEATONAL COSTERO",
+    "nombreCalle_2": "REGIMIENTO DE PATRICIOS AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-003A-037",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

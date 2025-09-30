@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": "Barrio Estacion Buenos Aires",
+    "codCalle_1": 1417,
+    "codCalle_2": 2645,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106406.1342340438,
+    "coordenada_y": 98271.2637650459,
+    "direccion": "FANGIO, JUAN MANUEL Y GUERRERO, FELICITAS",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FANGIO, JUAN MANUEL",
+    "nombreCalle_2": "GUERRERO, FELICITAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "026-012G-008",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 2073,
+    "codCalle_2": 2207,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98446.1797857595,
+    "coordenada_y": 104734.2499110126,
+    "direccion": "ANDONAEGUI Y MOSCU",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ANDONAEGUI",
+    "nombreCalle_2": "MOSCU",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-074-006",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

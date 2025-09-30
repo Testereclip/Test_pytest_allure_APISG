@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 237,
+    "codCalle_2": 1648,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102381.5547849243,
+    "coordenada_y": 101053.7030366515,
+    "direccion": "RIGLOS Y ROSARIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIGLOS",
+    "nombreCalle_2": "ROSARIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-075-024",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

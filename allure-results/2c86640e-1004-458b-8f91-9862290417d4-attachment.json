@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1482,
+    "codCalle_2": 1575,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101621.0235351159,
+    "coordenada_y": 102200.3749114824,
+    "direccion": "DEMARIA, ISIDORO Y FRANKLIN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DEMARIA, ISIDORO",
+    "nombreCalle_2": "FRANKLIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-039-009e",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

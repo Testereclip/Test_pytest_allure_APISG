@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 176,
+    "codCalle_2": 1391,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99715.1016605014,
+    "coordenada_y": 103713.7811612041,
+    "direccion": "BIELSA, RAFAEL, DR. Y OSORIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BIELSA, RAFAEL, DR.",
+    "nombreCalle_2": "OSORIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-012-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

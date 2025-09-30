@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 924,
+    "codCalle_2": 2666,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101129.5079101994,
+    "coordenada_y": 102357.4920989348,
+    "direccion": "FIGUEROA, D. APOLINARIO, CORONEL Y CUCHA CUCHA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FIGUEROA, D. APOLINARIO, CORONEL",
+    "nombreCalle_2": "CUCHA CUCHA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-178-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

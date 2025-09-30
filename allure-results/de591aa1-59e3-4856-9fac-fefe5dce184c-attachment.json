@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 114,
+    "codCalle_2": 565,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 96561.6329105902,
+    "coordenada_y": 98028.0077240679,
+    "direccion": "ALBARI\u00d1O Y MUZILLI, CAROLINA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALBARI\u00d1O",
+    "nombreCalle_2": "MUZILLI, CAROLINA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "060-056B-008b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

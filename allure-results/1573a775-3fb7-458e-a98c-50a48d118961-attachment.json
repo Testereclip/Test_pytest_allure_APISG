@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 105,
+    "codCalle_2": 2283,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104270.3263422506,
+    "coordenada_y": 96693.0643646958,
+    "direccion": "27 DE FEBRERO AV. Y PUENTE ALSINA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "27 DE FEBRERO AV.",
+    "nombreCalle_2": "PUENTE ALSINA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "046-141-004a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

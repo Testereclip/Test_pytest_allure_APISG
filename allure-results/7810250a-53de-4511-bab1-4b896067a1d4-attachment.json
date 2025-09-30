@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 205,
+    "codCalle_2": 799,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96176.5000984036,
+    "coordenada_y": 101837.6795986533,
+    "direccion": "MONNER SANS, RICARDO Y SANABRIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MONNER SANS, RICARDO",
+    "nombreCalle_2": "SANABRIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-018-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

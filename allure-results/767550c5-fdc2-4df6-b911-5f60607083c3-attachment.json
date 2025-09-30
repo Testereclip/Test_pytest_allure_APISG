@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 2668,
+    "codCalle_2": 1902,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96663.968848605,
+    "coordenada_y": 105898.0624107729,
+    "direccion": "DE LOS CONSTITUYENTES AV. Y BAZURCO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LOS CONSTITUYENTES AV.",
+    "nombreCalle_2": "BAZURCO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-006C-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

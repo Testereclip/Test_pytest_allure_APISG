@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1315,
+    "codCalle_2": 2630,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102880.1719726997,
+    "coordenada_y": 106252.6170986554,
+    "direccion": "AREVALO Y HUERGO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AREVALO",
+    "nombreCalle_2": "HUERGO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-073-023a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

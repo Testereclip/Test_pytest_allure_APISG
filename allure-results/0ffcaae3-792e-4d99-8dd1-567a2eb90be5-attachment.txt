@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=GUEVARA%2C+TRINIDAD+Y+CORRIENTES+AV.&v2=true

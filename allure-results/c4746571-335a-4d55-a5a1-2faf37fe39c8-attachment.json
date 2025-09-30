@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 434,
+    "codCalle_2": 556,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100617.0157230696,
+    "coordenada_y": 106732.2030359545,
+    "direccion": "PINO, VIRREY DEL Y VIDAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PINO, VIRREY DEL",
+    "nombreCalle_2": "VIDAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "037-123A-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

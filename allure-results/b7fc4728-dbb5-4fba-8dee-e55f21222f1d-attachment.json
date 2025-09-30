@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 1232,
+    "codCalle_2": 1901,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 103369.7735349396,
+    "coordenada_y": 103477.6405364727,
+    "direccion": "ESTADO DE ISRAEL AV. Y ARGA\u00d1ARAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ESTADO DE ISRAEL AV.",
+    "nombreCalle_2": "ARGA\u00d1ARAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-095-017b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 1021,
+    "codCalle_2": 2322,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 97994.8516603329,
+    "coordenada_y": 97385.5311617306,
+    "direccion": "SAN JUAN BAUTISTA DE LA SALLE AV. Y ESCALADA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN JUAN BAUTISTA DE LA SALLE AV.",
+    "nombreCalle_2": "ESCALADA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "062-146B-019a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

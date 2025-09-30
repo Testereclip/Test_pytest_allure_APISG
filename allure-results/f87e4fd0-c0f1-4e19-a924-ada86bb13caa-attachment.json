@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 1527,
+    "codCalle_2": 1584,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 101026.7344725544,
+    "coordenada_y": 99972.265536669,
+    "direccion": "BONIFACIO, JOSE Y CURAPALIGUE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BONIFACIO, JOSE",
+    "nombreCalle_2": "CURAPALIGUE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "042-018-015g",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

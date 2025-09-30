@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 1198,
+    "codCalle_2": 1394,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94975.3360361082,
+    "coordenada_y": 102166.2499110411,
+    "direccion": "BEIRO, FRANCISCO AV. Y LASTRA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BEIRO, FRANCISCO AV.",
+    "nombreCalle_2": "LASTRA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-071-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

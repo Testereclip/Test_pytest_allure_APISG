@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 173,
+    "codCalle_2": 2212,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 102073.7735351316,
+    "coordenada_y": 103456.1795988864,
+    "direccion": "ACEVEDO Y CORRIENTES AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACEVEDO",
+    "nombreCalle_2": "CORRIENTES AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-004-012a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

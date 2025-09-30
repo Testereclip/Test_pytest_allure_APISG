@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 2536,
+    "codCalle_2": 601,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 96484.1875979949,
+    "coordenada_y": 96442.1561617228,
+    "direccion": "DE LA TORRE, LISANDRO AV. Y TANDIL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LA TORRE, LISANDRO AV.",
+    "nombreCalle_2": "TANDIL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "076-137A-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

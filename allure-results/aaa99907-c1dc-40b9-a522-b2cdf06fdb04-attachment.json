@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 1135,
+    "codCalle_2": 1329,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94950.4844732574,
+    "coordenada_y": 96932.1561615705,
+    "direccion": "SCHMIDL, ULRICO Y MONTIEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SCHMIDL, ULRICO",
+    "nombreCalle_2": "MONTIEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "074-019A-021",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

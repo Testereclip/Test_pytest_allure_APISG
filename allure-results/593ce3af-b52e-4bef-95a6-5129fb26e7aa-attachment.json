@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 963,
+    "codCalle_2": 1528,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98041.3282231509,
+    "coordenada_y": 102229.8358487425,
+    "direccion": "ALVAREZ JONTE AV. Y CHIMBORAZO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALVAREZ JONTE AV.",
+    "nombreCalle_2": "CHIMBORAZO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "069-015-024",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

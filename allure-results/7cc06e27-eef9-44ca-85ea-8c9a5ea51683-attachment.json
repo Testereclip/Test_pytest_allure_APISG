@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 1440,
+    "codCalle_2": 2703,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 105024.2579098603,
+    "coordenada_y": 105954.9061613296,
+    "direccion": "CASARES AV. Y CASTEX",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CASARES AV.",
+    "nombreCalle_2": "CASTEX",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-149-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

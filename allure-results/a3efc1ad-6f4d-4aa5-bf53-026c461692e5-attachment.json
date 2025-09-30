@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": "Barrio Rodrigo Bueno",
+    "codCalle_1": 1069,
+    "codCalle_2": 1347,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 109852.836213794,
+    "coordenada_y": 101184.0163765094,
+    "direccion": "DEGLIOUMINI, DELIA Y ESPA\u00d1A AV.",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DEGLIOUMINI, DELIA",
+    "nombreCalle_2": "ESPA\u00d1A AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "096-016-000A",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

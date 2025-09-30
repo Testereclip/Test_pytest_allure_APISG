@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAAVEDRA",
+    "barrioInf": null,
+    "codCalle_1": 1761,
+    "codCalle_2": 1923,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98160.968848598,
+    "coordenada_y": 109116.4608480453,
+    "direccion": "SUPERI Y RAMALLO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SUPERI",
+    "nombreCalle_2": "RAMALLO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "043-051-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

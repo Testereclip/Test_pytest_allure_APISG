@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 601,
+    "codCalle_2": 1335,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100030.179785159,
+    "coordenada_y": 99314.9295991705,
+    "direccion": "TANDIL Y VARELA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TANDIL",
+    "nombreCalle_2": "VARELA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-077-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

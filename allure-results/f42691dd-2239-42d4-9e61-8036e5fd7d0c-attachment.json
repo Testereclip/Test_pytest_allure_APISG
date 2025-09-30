@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": "Barrio Gral. San Martin",
+    "codCalle_1": 760,
+    "codCalle_2": 2464,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 95715.5675389043,
+    "coordenada_y": 106087.9032745752,
+    "direccion": "CONDARCO Y EL GAUCHO",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CONDARCO",
+    "nombreCalle_2": "EL GAUCHO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "075-019G-000",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

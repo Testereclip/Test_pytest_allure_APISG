@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 437,
+    "codCalle_2": 2448,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107359.5000964228,
+    "coordenada_y": 97118.1717873839,
+    "direccion": "VILLARINO Y MELGAR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VILLARINO",
+    "nombreCalle_2": "MELGAR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-035-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

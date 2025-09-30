@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 2328,
+    "codCalle_2": 2519,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106430.6407218531,
+    "coordenada_y": 101493.0936618797,
+    "direccion": "COMBATE DE LOS POZOS Y MEXICO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "COMBATE DE LOS POZOS",
+    "nombreCalle_2": "MEXICO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "020-060-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

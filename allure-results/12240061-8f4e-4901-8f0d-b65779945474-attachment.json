@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 666,
+    "codCalle_2": 1876,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 103625.3360345965,
+    "coordenada_y": 98901.2264744549,
+    "direccion": "GIBSON Y BUTTELER",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GIBSON",
+    "nombreCalle_2": "BUTTELER",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-125-032b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

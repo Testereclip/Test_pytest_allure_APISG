@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 1367,
+    "codCalle_2": 2679,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99551.281348073,
+    "coordenada_y": 104407.2733486218,
+    "direccion": "HEREDIA Y DEL CAMPO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HEREDIA",
+    "nombreCalle_2": "DEL CAMPO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-028-007b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

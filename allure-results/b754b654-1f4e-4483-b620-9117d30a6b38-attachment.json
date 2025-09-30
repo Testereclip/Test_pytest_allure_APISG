@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 800,
+    "codCalle_2": 1012,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94402.9454108828,
+    "coordenada_y": 97576.9452239673,
+    "direccion": "LEGUIZAMON, ONESIMO Y GUAMINI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LEGUIZAMON, ONESIMO",
+    "nombreCalle_2": "GUAMINI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-043A-021",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

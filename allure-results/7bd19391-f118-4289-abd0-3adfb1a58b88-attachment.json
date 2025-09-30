@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA GRAL. MITRE",
+    "barrioInf": null,
+    "codCalle_1": 42,
+    "codCalle_2": 1815,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 99282.5391604209,
+    "coordenada_y": 101555.1561613908,
+    "direccion": "ARIEL Y ARTIGAS, JOSE GERVASIO, GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARIEL",
+    "nombreCalle_2": "ARTIGAS, JOSE GERVASIO, GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "067-086-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 252,
+    "codCalle_2": 2512,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 102184.8985346647,
+    "coordenada_y": 96736.9999120758,
+    "direccion": "CASTA\u00d1ON Y ITAQUI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CASTA\u00d1ON",
+    "nombreCalle_2": "ITAQUI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "052-063-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

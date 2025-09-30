@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CONSTITUCION",
+    "barrioInf": null,
+    "codCalle_1": 1494,
+    "codCalle_2": 2562,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 106910.1485341762,
+    "coordenada_y": 99903.4686620718,
+    "direccion": "ECHAGUE, PEDRO Y CEVALLOS, VIRREY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ECHAGUE, PEDRO",
+    "nombreCalle_2": "CEVALLOS, VIRREY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "016-029-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

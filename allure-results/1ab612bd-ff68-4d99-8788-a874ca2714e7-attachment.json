@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN NICOLAS",
+    "barrioInf": null,
+    "codCalle_1": 698,
+    "codCalle_2": 1716,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107055.6172843299,
+    "coordenada_y": 102530.3045993138,
+    "direccion": "URUGUAY Y PERON, JUAN DOMINGO, TTE. GENERAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "URUGUAY",
+    "nombreCalle_2": "PERON, JUAN DOMINGO, TTE. GENERAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "005-037-023b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

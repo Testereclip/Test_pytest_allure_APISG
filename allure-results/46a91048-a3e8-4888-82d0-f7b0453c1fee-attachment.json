@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CONSTITUCION",
+    "barrioInf": null,
+    "codCalle_1": 1217,
+    "codCalle_2": 480,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107040.2422841333,
+    "coordenada_y": 99567.9061621128,
+    "direccion": "CASEROS AV. Y SAENZ PE\u00d1A, LUIS, PRES.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CASEROS AV.",
+    "nombreCalle_2": "SAENZ PE\u00d1A, LUIS, PRES.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "016-032-025e",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

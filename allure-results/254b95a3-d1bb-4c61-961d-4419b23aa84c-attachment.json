@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1142,
+    "codCalle_2": 1758,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108168.8917771253,
+    "coordenada_y": 96977.5052449877,
+    "direccion": "DON PEDRO DE MENDOZA AV. Y VIEYTES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DON PEDRO DE MENDOZA AV.",
+    "nombreCalle_2": "VIEYTES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-095-014a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

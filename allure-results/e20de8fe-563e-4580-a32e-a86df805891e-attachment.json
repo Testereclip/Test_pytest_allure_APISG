@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": null,
+    "codCalle_1": 503,
+    "codCalle_2": 993,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107435.8609852324,
+    "coordenada_y": 104341.5180042964,
+    "direccion": "POSADAS Y 9 DE JULIO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "POSADAS",
+    "nombreCalle_2": "9 DE JULIO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "003-016A-000A",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

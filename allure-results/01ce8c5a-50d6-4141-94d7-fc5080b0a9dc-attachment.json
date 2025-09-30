@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 57,
+    "codCalle_2": 1967,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94136.3829109651,
+    "coordenada_y": 98195.2420988864,
+    "direccion": "CARRERAS, SEGUNDO I\u00d1IGO Y SUAREZ, JOSE LEON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARRERAS, SEGUNDO I\u00d1IGO",
+    "nombreCalle_2": "SUAREZ, JOSE LEON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-011B-003b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

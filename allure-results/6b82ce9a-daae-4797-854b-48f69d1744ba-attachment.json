@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 1650,
+    "codCalle_2": 2692,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99068.0782229004,
+    "coordenada_y": 100787.0311614579,
+    "direccion": "PAEZ Y NAZCA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PAEZ",
+    "nombreCalle_2": "NAZCA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "065-028-001\u00f1",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

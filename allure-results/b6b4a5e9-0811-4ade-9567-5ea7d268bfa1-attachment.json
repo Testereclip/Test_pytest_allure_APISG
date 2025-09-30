@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA GRAL. MITRE",
+    "barrioInf": null,
+    "codCalle_1": 733,
+    "codCalle_2": 1460,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 100194.1172853654,
+    "coordenada_y": 102745.6014738336,
+    "direccion": "ORO\u00d1O, NICASIO Y MAGARI\u00d1OS CERVANTES, A.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ORO\u00d1O, NICASIO",
+    "nombreCalle_2": "MAGARI\u00d1OS CERVANTES, A.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-118-026",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

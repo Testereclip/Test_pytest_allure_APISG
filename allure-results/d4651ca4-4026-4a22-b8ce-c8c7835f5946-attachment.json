@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": "Barrio Padre Mugica",
+    "codCalle_1": 2225,
+    "codCalle_2": 2493,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 106918.2693384354,
+    "coordenada_y": 105376.269309071,
+    "direccion": "ACOSTA, DORA Y AGUARA GUAZU",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACOSTA, DORA",
+    "nombreCalle_2": "AGUARA GUAZU",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "CO - Cristo Obrero",
+    "smp": "003-066B-001r",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 273,
+    "codCalle_2": 1300,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 105471.0313472513,
+    "coordenada_y": 105320.7030364242,
+    "direccion": "ORTIZ DE OCAMPO AV. Y DEL LIBERTADOR AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ORTIZ DE OCAMPO AV.",
+    "nombreCalle_2": "DEL LIBERTADOR AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-067-005a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

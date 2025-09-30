@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 1823,
+    "codCalle_2": 2602,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 103378.5625972129,
+    "coordenada_y": 100105.203036815,
+    "direccion": "ZUVIRIA Y COCHABAMBA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ZUVIRIA",
+    "nombreCalle_2": "COCHABAMBA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-138-025",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

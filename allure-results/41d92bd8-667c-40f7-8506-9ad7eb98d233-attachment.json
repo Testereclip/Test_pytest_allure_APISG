@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 391,
+    "codCalle_2": 782,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99962.6641607054,
+    "coordenada_y": 107310.7264733511,
+    "direccion": "OLAZABAL Y BALBIN, RICARDO, DR. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OLAZABAL",
+    "nombreCalle_2": "BALBIN, RICARDO, DR. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "039-064-006",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

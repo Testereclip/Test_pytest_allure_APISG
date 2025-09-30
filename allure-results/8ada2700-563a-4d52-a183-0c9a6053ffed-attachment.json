@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 388,
+    "codCalle_2": 1843,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 96226.2422856234,
+    "coordenada_y": 97755.859286573,
+    "direccion": "LARRAZABAL AV. Y GARCIA GRANDE DE ZEQUEIRA, SEVERO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LARRAZABAL AV.",
+    "nombreCalle_2": "GARCIA GRANDE DE ZEQUEIRA, SEVERO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "060-002A-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

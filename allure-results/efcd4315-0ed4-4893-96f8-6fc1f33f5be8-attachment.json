@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 73,
+    "codCalle_2": 252,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99994.7891601332,
+    "coordenada_y": 98870.890536714,
+    "direccion": "LAFERRERE, GREGORIO DE Y CASTA\u00d1ON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAFERRERE, GREGORIO DE",
+    "nombreCalle_2": "CASTA\u00d1ON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-042-013a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

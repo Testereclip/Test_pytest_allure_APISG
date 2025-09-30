@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 1484,
+    "codCalle_2": 1873,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100777.234472928,
+    "coordenada_y": 104996.3436611423,
+    "direccion": "FOREST AV. Y GARCIA, TEODORO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FOREST AV.",
+    "nombreCalle_2": "GARCIA, TEODORO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "037-001-003",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

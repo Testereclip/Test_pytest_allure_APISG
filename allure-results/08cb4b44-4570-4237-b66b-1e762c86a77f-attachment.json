@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 242,
+    "codCalle_2": 1114,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102052.0391599552,
+    "coordenada_y": 100787.0702241582,
+    "direccion": "BARCO CENTENERA DEL Y BURGOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BARCO CENTENERA DEL",
+    "nombreCalle_2": "BURGOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-038-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

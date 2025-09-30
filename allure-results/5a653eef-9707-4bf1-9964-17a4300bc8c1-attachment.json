@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1280,
+    "codCalle_2": 1379,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105324.2344717627,
+    "coordenada_y": 97704.8670996875,
+    "direccion": "ATUEL Y ALCORTA, AMANCIO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ATUEL",
+    "nombreCalle_2": "ALCORTA, AMANCIO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "034-093-023b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

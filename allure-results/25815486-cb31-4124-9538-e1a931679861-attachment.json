@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 1279,
+    "codCalle_2": 1318,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94698.3829108584,
+    "coordenada_y": 97872.4452239576,
+    "direccion": "CA\u00d1ADA DE GOMEZ Y ORTIZ, FRANCISCO J.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CA\u00d1ADA DE GOMEZ",
+    "nombreCalle_2": "ORTIZ, FRANCISCO J.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-079-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

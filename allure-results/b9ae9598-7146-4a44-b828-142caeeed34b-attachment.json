@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 959,
+    "codCalle_2": 1335,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100435.2891600672,
+    "coordenada_y": 98861.3905367438,
+    "direccion": "PRIMERA JUNTA Y VARELA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PRIMERA JUNTA",
+    "nombreCalle_2": "VARELA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-086-022",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

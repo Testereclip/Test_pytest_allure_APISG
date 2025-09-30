@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 1517,
+    "codCalle_2": 2607,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95198.6016612069,
+    "coordenada_y": 104143.7499108537,
+    "direccion": "GRIVEO Y GONZALEZ, JOAQUIN V.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GRIVEO",
+    "nombreCalle_2": "GONZALEZ, JOAQUIN V.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-133-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

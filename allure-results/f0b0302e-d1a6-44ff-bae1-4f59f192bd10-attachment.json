@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 1328,
+    "codCalle_2": 2114,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99536.2735349587,
+    "coordenada_y": 95243.0155370482,
+    "direccion": "ARGENTINA AV. Y SAYOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARGENTINA AV.",
+    "nombreCalle_2": "SAYOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "066-052-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

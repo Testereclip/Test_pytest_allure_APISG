@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 350,
+    "codCalle_2": 2666,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99556.546972998,
+    "coordenada_y": 103298.4530362321,
+    "direccion": "ALVAREZ JONTE Y CUCHA CUCHA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALVAREZ JONTE",
+    "nombreCalle_2": "CUCHA CUCHA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-059-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 92,
+    "codCalle_2": 2725,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 106565.8282218485,
+    "coordenada_y": 101711.0780368638,
+    "direccion": "BELGRANO AV. Y ENTRE RIOS AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BELGRANO AV.",
+    "nombreCalle_2": "ENTRE RIOS AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "020-071-034d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

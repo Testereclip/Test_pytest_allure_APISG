@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 2159,
+    "codCalle_2": 2416,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96492.3672858658,
+    "coordenada_y": 101983.1717861594,
+    "direccion": "SASTRE, MARCOS Y CHIVILCOY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SASTRE, MARCOS",
+    "nombreCalle_2": "CHIVILCOY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "081-043-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

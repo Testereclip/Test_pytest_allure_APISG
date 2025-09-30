@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=RIVADAVIA+AV.+Y+10+DE+DICIEMBRE+DE+1983+%28PLAZA+DE+LOS+CONGRESOS%29&v2=true

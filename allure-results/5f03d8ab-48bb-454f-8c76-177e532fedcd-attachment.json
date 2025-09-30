@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 304,
+    "codCalle_2": 2050,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95530.476661005,
+    "coordenada_y": 101907.5624111045,
+    "direccion": "GONZALEZ CATAN Y JUAREZ, BENITO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GONZALEZ CATAN",
+    "nombreCalle_2": "JUAREZ, BENITO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-093A-012b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

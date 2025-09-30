@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 814,
+    "codCalle_2": 2478,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 96142.3360362129,
+    "coordenada_y": 106336.2030356914,
+    "direccion": "PEDRAZA, MANUELA Y BARAGA\u00d1A",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PEDRAZA, MANUELA",
+    "nombreCalle_2": "BARAGA\u00d1A",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-011-016b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

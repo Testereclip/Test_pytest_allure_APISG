@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 608,
+    "codCalle_2": 1789,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97004.281348545,
+    "coordenada_y": 105764.3202233112,
+    "direccion": "AIZPURUA Y CULLEN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AIZPURUA",
+    "nombreCalle_2": "CULLEN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "063-030-001f",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

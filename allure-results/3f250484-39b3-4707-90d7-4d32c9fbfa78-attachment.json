@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 488,
+    "codCalle_2": 894,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101524.086035076,
+    "coordenada_y": 101405.7967865568,
+    "direccion": "GAINZA, MARTIN DE, GRAL. Y ARANGUREN, JUAN F., DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GAINZA, MARTIN DE, GRAL.",
+    "nombreCalle_2": "ARANGUREN, JUAN F., DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-004-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

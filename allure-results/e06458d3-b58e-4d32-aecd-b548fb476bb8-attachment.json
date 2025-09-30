@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": null,
+    "codCalle_1": 1009,
+    "codCalle_2": 1766,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107191.226659429,
+    "coordenada_y": 104303.5780366431,
+    "direccion": "PARERA Y ALVEAR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PARERA",
+    "nombreCalle_2": "ALVEAR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "007-053-001u",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

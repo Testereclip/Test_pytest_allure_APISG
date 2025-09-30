@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PUERTO MADERO",
+    "barrioInf": null,
+    "codCalle_1": 137,
+    "codCalle_2": 2303,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 110058.2406253997,
+    "coordenada_y": 101197.2773401794,
+    "direccion": "YMA SUMAC Y PARADO DE BELLIDO, MARIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "YMA SUMAC",
+    "nombreCalle_2": "PARADO DE BELLIDO, MARIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "098-063P-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

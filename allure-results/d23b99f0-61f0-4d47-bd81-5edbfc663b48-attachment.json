@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 516,
+    "codCalle_2": 1194,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 99494.7813475719,
+    "coordenada_y": 96832.9842868863,
+    "direccion": "SANTANDER Y AMEGHINO, FLORENTINO, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANTANDER",
+    "nombreCalle_2": "AMEGHINO, FLORENTINO, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "064-129A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

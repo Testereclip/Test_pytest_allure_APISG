@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SCALABRINI+ORTIZ%2C+RAUL+AV.+Y+FIGUEROA%2C+D.+APOLINARIO%2C+CORONEL&v2=true

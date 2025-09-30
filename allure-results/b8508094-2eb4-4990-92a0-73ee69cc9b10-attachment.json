@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 166,
+    "codCalle_2": 1540,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103965.8985347717,
+    "coordenada_y": 102298.4686616311,
+    "direccion": "SALGUERO, JERONIMO Y DIAZ VELEZ AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SALGUERO, JERONIMO",
+    "nombreCalle_2": "DIAZ VELEZ AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "017-088-034",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

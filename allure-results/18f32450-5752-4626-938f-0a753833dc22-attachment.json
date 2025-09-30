@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio 20",
+    "codCalle_1": 581,
+    "codCalle_2": 2170,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99595.9834103906,
+    "coordenada_y": 94519.3554116663,
+    "direccion": "PASAJE EL ENCUENTRO Y PASAJE PANAMERICANO",
+    "manzanaInf": "1",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PASAJE EL ENCUENTRO",
+    "nombreCalle_2": "PASAJE PANAMERICANO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "066-011\u00d1-003",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

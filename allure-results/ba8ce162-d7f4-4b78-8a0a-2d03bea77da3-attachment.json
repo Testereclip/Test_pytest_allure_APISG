@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1835,
+    "codCalle_2": 2571,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108328.7266589458,
+    "coordenada_y": 99584.6483496981,
+    "direccion": "GUALEGUAY Y AZARA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUALEGUAY",
+    "nombreCalle_2": "AZARA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "008-026-008c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

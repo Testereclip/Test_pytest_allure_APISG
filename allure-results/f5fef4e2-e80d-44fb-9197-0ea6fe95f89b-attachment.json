@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 359,
+    "codCalle_2": 2323,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97277.0547856017,
+    "coordenada_y": 99807.3436614348,
+    "direccion": "EL FUERTE Y CARRASCO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "EL FUERTE",
+    "nombreCalle_2": "CARRASCO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "077-054-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

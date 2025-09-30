@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=DEALESSI%2C+PIERINA+Y+VERA+PE%C3%91ALOZA%2C++ROSARIO&v2=true

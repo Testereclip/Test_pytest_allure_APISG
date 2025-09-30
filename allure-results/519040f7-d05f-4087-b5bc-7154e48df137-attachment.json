@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": "Barrio Estacion Buenos Aires",
+    "codCalle_1": 669,
+    "codCalle_2": 1534,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105938.8016162858,
+    "coordenada_y": 98240.5152434412,
+    "direccion": "MONTESQUIEU Y MIRAVE",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MONTESQUIEU",
+    "nombreCalle_2": "MIRAVE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "026-012K-001",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 1004,
+    "codCalle_2": 292,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108993.3672838924,
+    "coordenada_y": 100261.2420996738,
+    "direccion": "PI Y MARGALL Y D'ESPOSITO, ARNALDO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PI Y MARGALL",
+    "nombreCalle_2": "D'ESPOSITO, ARNALDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "006-064A-004",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

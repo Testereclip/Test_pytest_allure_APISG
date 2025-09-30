@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 378,
+    "codCalle_2": 1072,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102325.4219723293,
+    "coordenada_y": 99520.921786804,
+    "direccion": "SALAS Y DEL PROGRESO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SALAS",
+    "nombreCalle_2": "DEL PROGRESO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-008C-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

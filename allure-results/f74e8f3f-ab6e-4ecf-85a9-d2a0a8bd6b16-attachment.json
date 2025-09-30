@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 1175,
+    "codCalle_2": 2102,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108874.3438462562,
+    "coordenada_y": 97958.9686624018,
+    "direccion": "HERNANDARIAS Y RIO CUARTO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HERNANDARIAS",
+    "nombreCalle_2": "RIO CUARTO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-066-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

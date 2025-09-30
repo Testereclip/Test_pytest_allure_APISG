@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 559,
+    "codCalle_2": 1490,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108280.0782213978,
+    "coordenada_y": 98754.7655372793,
+    "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. Y ISABEL LA CATOLICA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARAOZ DE LAMADRID, GREGORIO, GRAL.",
+    "nombreCalle_2": "ISABEL LA CATOLICA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-011-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 444,
+    "codCalle_2": 1203,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98957.5157227832,
+    "coordenada_y": 98804.8670991496,
+    "direccion": "ACOSTA, MARIANO AV. Y REMEDIOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACOSTA, MARIANO AV.",
+    "nombreCalle_2": "REMEDIOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-166-024d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

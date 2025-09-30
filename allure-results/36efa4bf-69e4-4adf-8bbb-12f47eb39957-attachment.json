@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 1531,
+    "codCalle_2": 1754,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95682.562598648,
+    "coordenada_y": 104356.8358483644,
+    "direccion": "EPECUEN Y LOPEZ, CARLOS ANTONIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "EPECUEN",
+    "nombreCalle_2": "LOPEZ, CARLOS ANTONIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-201A-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 784,
+    "codCalle_2": 2522,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 98240.5547854191,
+    "coordenada_y": 99211.3436615594,
+    "direccion": "BENEDETTI, OSVALDO E., DIP.NAC. Y PJE.PARTICULAR (ALT. BENEDETTI 170)",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BENEDETTI, OSVALDO E., DIP.NAC.",
+    "nombreCalle_2": "PJE.PARTICULAR (ALT. BENEDETTI 170)",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-120-016",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

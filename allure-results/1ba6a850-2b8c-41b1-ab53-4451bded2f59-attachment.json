@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 2158,
+    "codCalle_2": 2491,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98298.4454106742,
+    "coordenada_y": 103158.718661162,
+    "direccion": "GUTIERREZ, RICARDO Y EMPEDRADO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUTIERREZ, RICARDO",
+    "nombreCalle_2": "EMPEDRADO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "069-071B-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

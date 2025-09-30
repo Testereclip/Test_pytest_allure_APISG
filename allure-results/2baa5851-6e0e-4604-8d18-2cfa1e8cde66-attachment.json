@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 1240,
+    "codCalle_2": 2644,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 99415.2344725748,
+    "coordenada_y": 96699.8358493952,
+    "direccion": "SANTIAGO DE COMPOSTELA AV. Y MOZART",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANTIAGO DE COMPOSTELA AV.",
+    "nombreCalle_2": "MOZART",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "064-129B-013c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

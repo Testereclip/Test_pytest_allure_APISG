@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 1534,
+    "codCalle_2": 2665,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106054.6284404533,
+    "coordenada_y": 98300.2324950798,
+    "direccion": "MIRAVE Y LUNA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MIRAVE",
+    "nombreCalle_2": "LUNA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "026-027-000B",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

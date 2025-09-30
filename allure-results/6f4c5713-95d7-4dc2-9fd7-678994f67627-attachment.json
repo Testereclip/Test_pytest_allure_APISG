@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 836,
+    "codCalle_2": 1212,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 102040.9688475854,
+    "coordenada_y": 102671.6874114656,
+    "direccion": "ACOYTE Y FERRARI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACOYTE",
+    "nombreCalle_2": "FERRARI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-089-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

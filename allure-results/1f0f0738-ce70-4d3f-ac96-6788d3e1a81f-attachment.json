@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA RIACHUELO",
+    "barrioInf": null,
+    "codCalle_1": 649,
+    "codCalle_2": 1574,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99186.9141598866,
+    "coordenada_y": 93406.4842872122,
+    "direccion": "RIVERA, FRUCTUOSO, GENERAL Y COSQUIN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIVERA, FRUCTUOSO, GENERAL",
+    "nombreCalle_2": "COSQUIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "082-044-032",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

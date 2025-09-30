@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 48,
+    "codCalle_2": 1538,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100921.8594728567,
+    "coordenada_y": 104245.1014737267,
+    "direccion": "NEWBERY, JORGE AV. Y RODNEY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NEWBERY, JORGE AV.",
+    "nombreCalle_2": "RODNEY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-165-000A",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

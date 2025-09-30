@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1415,
+    "codCalle_2": 2339,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104501.6985142494,
+    "coordenada_y": 97510.0869804792,
+    "direccion": "OCHOA, ENRIQUE Y TRAFUL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OCHOA, ENRIQUE",
+    "nombreCalle_2": "TRAFUL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "034-035-014b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

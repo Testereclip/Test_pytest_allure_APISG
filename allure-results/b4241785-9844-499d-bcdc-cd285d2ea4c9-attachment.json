@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA PUEYRREDON",
+    "barrioInf": null,
+    "codCalle_1": 1361,
+    "codCalle_2": 2302,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 95855.7188486505,
+    "coordenada_y": 104781.5311608312,
+    "direccion": "CUENCA Y LADINES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CUENCA",
+    "nombreCalle_2": "LADINES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "075-001B-007",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

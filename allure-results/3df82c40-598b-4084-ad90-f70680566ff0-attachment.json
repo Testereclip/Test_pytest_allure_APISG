@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CONSTITUCION",
+    "barrioInf": null,
+    "codCalle_1": 712,
+    "codCalle_2": 2636,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107759.000096627,
+    "coordenada_y": 101054.8358495117,
+    "direccion": "CALVO, CARLOS Y TACUARI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CALVO, CARLOS",
+    "nombreCalle_2": "TACUARI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "014-072-001c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

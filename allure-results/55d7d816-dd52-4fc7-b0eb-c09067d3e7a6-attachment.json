@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 595,
+    "codCalle_2": 1490,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108547.4922837797,
+    "coordenada_y": 97586.6483499143,
+    "direccion": "CRUZ, OSVALDO AV. Y ISABEL LA CATOLICA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CRUZ, OSVALDO AV.",
+    "nombreCalle_2": "ISABEL LA CATOLICA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-003A-032f",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

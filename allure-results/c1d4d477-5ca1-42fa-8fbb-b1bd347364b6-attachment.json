@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 556,
+    "codCalle_2": 842,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100345.5547856364,
+    "coordenada_y": 107114.1249108974,
+    "direccion": "VIDAL Y ECHEVERRIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VIDAL",
+    "nombreCalle_2": "ECHEVERRIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "039-075-007b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 619,
+    "codCalle_2": 2072,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 109339.1797838161,
+    "coordenada_y": 99901.2108497329,
+    "direccion": "NECOCHEA Y BLANES, JUAN MANUEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NECOCHEA",
+    "nombreCalle_2": "BLANES, JUAN MANUEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "006-042-027",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

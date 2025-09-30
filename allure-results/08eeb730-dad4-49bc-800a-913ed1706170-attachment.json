@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 637,
+    "codCalle_2": 2212,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 102250.5782225928,
+    "coordenada_y": 103260.70303642,
+    "direccion": "DRAGO, LUIS MARIA Y CORRIENTES AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DRAGO, LUIS MARIA",
+    "nombreCalle_2": "CORRIENTES AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-003-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

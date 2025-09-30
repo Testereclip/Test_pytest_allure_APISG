@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONTE CASTRO",
+    "barrioInf": null,
+    "codCalle_1": 175,
+    "codCalle_2": 1176,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95524.2813484383,
+    "coordenada_y": 100909.2577237056,
+    "direccion": "ARREGUI Y LOPEZ, VICENTE FIDEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ARREGUI",
+    "nombreCalle_2": "LOPEZ, VICENTE FIDEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "087-017A-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

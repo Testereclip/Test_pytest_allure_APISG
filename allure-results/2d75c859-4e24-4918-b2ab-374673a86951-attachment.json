@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 236,
+    "codCalle_2": 2069,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102974.3282223661,
+    "coordenada_y": 101491.4217866462,
+    "direccion": "RIVADAVIA AV. Y REPUBLICA DE INDONESIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIVADAVIA AV.",
+    "nombreCalle_2": "REPUBLICA DE INDONESIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-125-022",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

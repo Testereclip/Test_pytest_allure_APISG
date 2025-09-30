@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 827,
+    "codCalle_2": 1062,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101744.7266602593,
+    "coordenada_y": 104632.5467862441,
+    "direccion": "CARRANZA, ANGEL JUSTINIANO Y LOYOLA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARRANZA, ANGEL JUSTINIANO",
+    "nombreCalle_2": "LOYOLA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "033-046-025",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

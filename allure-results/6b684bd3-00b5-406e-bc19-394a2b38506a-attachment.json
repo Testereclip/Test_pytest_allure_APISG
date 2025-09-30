@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": "Asentamiento Los Arcos",
+    "codCalle_1": 595,
+    "codCalle_2": 1524,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107717.5235338857,
+    "coordenada_y": 97339.3670998858,
+    "direccion": "CRUZ, OSVALDO AV. Y SANTA MAGDALENA",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CRUZ, OSVALDO AV.",
+    "nombreCalle_2": "SANTA MAGDALENA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "018-059-001k",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

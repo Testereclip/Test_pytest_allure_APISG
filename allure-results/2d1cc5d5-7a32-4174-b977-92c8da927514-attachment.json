@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 2655,
+    "codCalle_2": 2034,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99481.2806639061,
+    "coordenada_y": 105645.6838024617,
+    "direccion": "DE LOS INCAS AV. Y HOLMBERG",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE LOS INCAS AV.",
+    "nombreCalle_2": "HOLMBERG",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-080B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

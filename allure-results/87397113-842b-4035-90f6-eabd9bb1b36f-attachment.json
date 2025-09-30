@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1152,
+    "codCalle_2": 2540,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 104526.5313469052,
+    "coordenada_y": 98040.2420996027,
+    "direccion": "FAMATINA Y EINSTEIN, ALBERTO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FAMATINA",
+    "nombreCalle_2": "EINSTEIN, ALBERTO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "032-003-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 659,
+    "codCalle_2": 783,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 102073.1094725908,
+    "coordenada_y": 102851.6717864484,
+    "direccion": "GANDHI, MAHATMA Y MARECHAL, LEOPOLDO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GANDHI, MAHATMA",
+    "nombreCalle_2": "MARECHAL, LEOPOLDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-129-003a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

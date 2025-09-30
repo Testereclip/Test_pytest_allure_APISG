@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 1527,
+    "codCalle_2": 2311,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99941.1875976879,
+    "coordenada_y": 99561.3983491399,
+    "direccion": "BONIFACIO, JOSE Y VARELA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BONIFACIO, JOSE",
+    "nombreCalle_2": "VARELA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "048-096-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

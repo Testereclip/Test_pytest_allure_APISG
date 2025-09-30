@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAAVEDRA",
+    "barrioInf": null,
+    "codCalle_1": 1231,
+    "codCalle_2": 2699,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97398.9688486176,
+    "coordenada_y": 107724.9374106347,
+    "direccion": "JARAMILLO Y VALDENEGRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "JARAMILLO",
+    "nombreCalle_2": "VALDENEGRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "055-120-000B",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

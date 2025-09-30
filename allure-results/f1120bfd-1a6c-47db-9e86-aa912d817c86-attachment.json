@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PUERTO MADERO",
+    "barrioInf": null,
+    "codCalle_1": 302,
+    "codCalle_2": 1998,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108859.4635660445,
+    "coordenada_y": 101509.7954027504,
+    "direccion": "CHILE AV. Y EYLE, PETRONA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CHILE AV.",
+    "nombreCalle_2": "EYLE, PETRONA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "098-064-003",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

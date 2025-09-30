@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=KAHLO%2C+FRIDA+Y+RODRIGUEZ%2C+CANDELA+SOL&v2=true

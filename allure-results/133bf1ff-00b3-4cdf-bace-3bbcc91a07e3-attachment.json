@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 445,
+    "codCalle_2": 470,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 96181.7969735038,
+    "coordenada_y": 103328.413973503,
+    "direccion": "LAMARCA, EMILIO Y SOLANO LOPEZ, F., MARISCAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAMARCA, EMILIO",
+    "nombreCalle_2": "SOLANO LOPEZ, F., MARISCAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-143-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

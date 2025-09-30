@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 306,
+    "codCalle_2": 2481,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102559.0469722101,
+    "coordenada_y": 98262.5311619478,
+    "direccion": "VEDIA, AGUSTIN DE Y SALVIGNY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VEDIA, AGUSTIN DE",
+    "nombreCalle_2": "SALVIGNY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-141B-000A",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

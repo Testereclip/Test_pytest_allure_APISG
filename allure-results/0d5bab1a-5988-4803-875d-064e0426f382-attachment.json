@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1078,
+    "codCalle_2": 2251,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108495.0313464451,
+    "coordenada_y": 99971.3280371689,
+    "direccion": "DEFENSA Y REGIMIENTO DE PATRICIOS AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DEFENSA",
+    "nombreCalle_2": "REGIMIENTO DE PATRICIOS AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "008-052-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

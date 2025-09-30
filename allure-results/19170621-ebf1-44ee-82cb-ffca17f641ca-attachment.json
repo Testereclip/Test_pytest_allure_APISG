@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BOEDO",
+    "barrioInf": null,
+    "codCalle_1": 63,
+    "codCalle_2": 28,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103762.4688471529,
+    "coordenada_y": 100046.0389743463,
+    "direccion": "TREINTA Y TRES ORIENTALES Y CONSTITUCION",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TREINTA Y TRES ORIENTALES",
+    "nombreCalle_2": "CONSTITUCION",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "036-034-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

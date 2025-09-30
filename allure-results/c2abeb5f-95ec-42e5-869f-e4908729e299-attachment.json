@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 1460,
+    "codCalle_2": 2068,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96741.4297857224,
+    "coordenada_y": 100391.8905363386,
+    "direccion": "MAGARI\u00d1OS CERVANTES, A. Y BERNALDES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MAGARI\u00d1OS CERVANTES, A.",
+    "nombreCalle_2": "BERNALDES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-068-010",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

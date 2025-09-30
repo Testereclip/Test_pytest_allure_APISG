@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "AGRONOMIA",
+    "barrioInf": null,
+    "codCalle_1": 366,
+    "codCalle_2": 2597,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 97492.0157233826,
+    "coordenada_y": 104436.1795984771,
+    "direccion": "MORAN, PEDRO Y ZAMUDIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MORAN, PEDRO",
+    "nombreCalle_2": "ZAMUDIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-140-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1501,
+    "codCalle_2": 1572,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 103164.6563473282,
+    "coordenada_y": 101339.8905366778,
+    "direccion": "QUITO Y CHACO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "QUITO",
+    "nombreCalle_2": "CHACO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-146-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

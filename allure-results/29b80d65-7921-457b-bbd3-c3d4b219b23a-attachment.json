@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 1039,
+    "codCalle_2": 2516,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 99483.0235350875,
+    "coordenada_y": 97033.9764743643,
+    "direccion": "ASTURIAS AV. Y ALVAREZ, CRISOSTOMO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ASTURIAS AV.",
+    "nombreCalle_2": "ALVAREZ, CRISOSTOMO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "056-066-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

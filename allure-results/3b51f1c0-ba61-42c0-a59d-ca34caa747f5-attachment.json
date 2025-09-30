@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 1186,
+    "codCalle_2": 1831,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 101881.8672847031,
+    "coordenada_y": 96637.429599565,
+    "direccion": "LAFUENTE Y FERNANDEZ DE LA CRUZ, F., GRAL. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LAFUENTE",
+    "nombreCalle_2": "FERNANDEZ DE LA CRUZ, F., GRAL. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "052-042-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

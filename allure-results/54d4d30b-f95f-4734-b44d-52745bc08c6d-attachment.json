@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 934,
+    "codCalle_2": 1203,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98174.2735353454,
+    "coordenada_y": 97980.781161683,
+    "direccion": "BRUIX AV. Y REMEDIOS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BRUIX AV.",
+    "nombreCalle_2": "REMEDIOS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-038A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

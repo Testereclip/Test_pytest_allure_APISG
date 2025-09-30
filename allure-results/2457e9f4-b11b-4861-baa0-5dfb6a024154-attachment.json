@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 924,
+    "codCalle_2": 2319,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 100987.8985352119,
+    "coordenada_y": 102240.9764739355,
+    "direccion": "FIGUEROA, D. APOLINARIO, CORONEL Y DINAMARCA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FIGUEROA, D. APOLINARIO, CORONEL",
+    "nombreCalle_2": "DINAMARCA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-164-031",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 814,
+    "codCalle_2": 1599,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97545.7188485642,
+    "coordenada_y": 107239.1092856959,
+    "direccion": "PEDRAZA, MANUELA Y GALVAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PEDRAZA, MANUELA",
+    "nombreCalle_2": "GALVAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "053-037A-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

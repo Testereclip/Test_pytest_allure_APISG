@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio 15 (Ciudad Oculta)",
+    "codCalle_1": 1026,
+    "codCalle_2": 2546,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 97458.3761131447,
+    "coordenada_y": 95504.4496157943,
+    "direccion": "CYMES, JUAN Y BUSTOS, CARLOS ARMANDO",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CYMES, JUAN",
+    "nombreCalle_2": "BUSTOS, CARLOS ARMANDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "078-075V-000",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

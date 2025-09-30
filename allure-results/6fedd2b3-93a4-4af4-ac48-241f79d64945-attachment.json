@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 1067,
+    "codCalle_2": 1460,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 97226.6407231716,
+    "coordenada_y": 100722.4139738383,
+    "direccion": "CARAPACHAY Y MAGARI\u00d1OS CERVANTES, A.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CARAPACHAY",
+    "nombreCalle_2": "MAGARI\u00d1OS CERVANTES, A.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-018B-014",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN NICOLAS",
+    "barrioInf": null,
+    "codCalle_1": 258,
+    "codCalle_2": 1505,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108069.3360342194,
+    "coordenada_y": 103127.1092868242,
+    "direccion": "FLORIDA Y TUCUMAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FLORIDA",
+    "nombreCalle_2": "TUCUMAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "001-023-029",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

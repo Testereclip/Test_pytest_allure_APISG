@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VERSALLES",
+    "barrioInf": null,
+    "codCalle_1": 552,
+    "codCalle_2": 1776,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 94020.17978608,
+    "coordenada_y": 99651.6092862308,
+    "direccion": "GAMBOA, MARCELO Y CUZCO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GAMBOA, MARCELO",
+    "nombreCalle_2": "CUZCO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "093-003A-020",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

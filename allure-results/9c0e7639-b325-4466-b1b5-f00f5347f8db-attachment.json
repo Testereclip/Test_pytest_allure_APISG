@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 490,
+    "codCalle_2": 2405,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99767.0157223141,
+    "coordenada_y": 93596.4764747346,
+    "direccion": "CAFAYATE Y GOLETA INVENCIBLE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CAFAYATE",
+    "nombreCalle_2": "GOLETA INVENCIBLE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "082-126-048",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

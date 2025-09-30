@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1853,
+    "codCalle_2": 2058,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101794.3790116293,
+    "coordenada_y": 102139.381146491,
+    "direccion": "PLANES Y PUEYRREDON, HONORIO, DR. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PLANES",
+    "nombreCalle_2": "PUEYRREDON, HONORIO, DR. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-048A-001c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

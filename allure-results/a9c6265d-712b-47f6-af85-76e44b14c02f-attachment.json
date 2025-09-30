@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 2073,
+    "codCalle_2": 2230,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98475.7188482531,
+    "coordenada_y": 104695.8983485181,
+    "direccion": "ANDONAEGUI Y VICTORICA, BENJAMIN, GENERAL, AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ANDONAEGUI",
+    "nombreCalle_2": "VICTORICA, BENJAMIN, GENERAL, AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-073-032",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

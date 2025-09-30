@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAAVEDRA",
+    "barrioInf": null,
+    "codCalle_1": 2032,
+    "codCalle_2": 2161,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98659.789161024,
+    "coordenada_y": 109161.570223075,
+    "direccion": "RUIZ HUIDOBRO Y ZAPIOLA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RUIZ HUIDOBRO",
+    "nombreCalle_2": "ZAPIOLA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "043-118-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

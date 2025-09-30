@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio Parque Almirante Brown",
+    "codCalle_1": 501,
+    "codCalle_2": 1646,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99761.2735348015,
+    "coordenada_y": 93389.6483497541,
+    "direccion": "GOLETA FORTUNA Y CORBETA BELFAST",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GOLETA FORTUNA",
+    "nombreCalle_2": "CORBETA BELFAST",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "082-125-020",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

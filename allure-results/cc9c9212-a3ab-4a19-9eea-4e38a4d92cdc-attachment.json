@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 474,
+    "codCalle_2": 1038,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101624.8438476451,
+    "coordenada_y": 102633.4920989391,
+    "direccion": "VIRASORO, VALENTIN Y ANTEZANA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VIRASORO, VALENTIN",
+    "nombreCalle_2": "ANTEZANA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-044-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

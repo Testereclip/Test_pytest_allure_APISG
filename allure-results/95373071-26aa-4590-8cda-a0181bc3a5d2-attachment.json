@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 998,
+    "codCalle_2": 2409,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 102061.4063479418,
+    "coordenada_y": 108025.234285919,
+    "direccion": "LA PAMPA Y CAZADORES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LA PAMPA",
+    "nombreCalle_2": "CAZADORES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-132-000Q",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

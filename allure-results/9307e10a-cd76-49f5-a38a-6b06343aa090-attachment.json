@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 285,
+    "codCalle_2": 1155,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106144.0391592251,
+    "coordenada_y": 98953.2030371162,
+    "direccion": "GARCIA, MANUEL Y COOPERACION",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GARCIA, MANUEL",
+    "nombreCalle_2": "COOPERACION",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "024-072-004c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

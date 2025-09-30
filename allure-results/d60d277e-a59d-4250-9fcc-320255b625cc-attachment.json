@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 748,
+    "codCalle_2": 1062,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 102338.2969726273,
+    "coordenada_y": 103966.5077238511,
+    "direccion": "SERRANO Y LOYOLA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SERRANO",
+    "nombreCalle_2": "LOYOLA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-055-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

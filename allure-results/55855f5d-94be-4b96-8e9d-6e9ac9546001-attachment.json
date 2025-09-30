@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CONSTITUCION",
+    "barrioInf": null,
+    "codCalle_1": 1217,
+    "codCalle_2": 2022,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107515.7579090819,
+    "coordenada_y": 99833.8358496178,
+    "direccion": "CASEROS AV. Y 15 DE NOVIEMBRE DE 1889",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CASEROS AV.",
+    "nombreCalle_2": "15 DE NOVIEMBRE DE 1889",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "016-067-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

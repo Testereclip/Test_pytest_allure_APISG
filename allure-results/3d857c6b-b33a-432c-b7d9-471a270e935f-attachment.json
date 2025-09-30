@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 1006,
+    "codCalle_2": 1512,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95888.3672858181,
+    "coordenada_y": 99920.2967863311,
+    "direccion": "MOLIERE Y SAN BLAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MOLIERE",
+    "nombreCalle_2": "SAN BLAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "091-089-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

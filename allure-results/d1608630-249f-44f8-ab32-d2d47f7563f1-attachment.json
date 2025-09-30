@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 1594,
+    "codCalle_2": 2138,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 98907.5625978606,
+    "coordenada_y": 99835.2967865432,
+    "direccion": "CAMPANA Y YERBAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CAMPANA",
+    "nombreCalle_2": "YERBAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "077-148A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN CRISTOBAL",
+    "barrioInf": null,
+    "codCalle_1": 28,
+    "codCalle_2": 1441,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105660.3360343888,
+    "coordenada_y": 100317.7733494456,
+    "direccion": "CONSTITUCION Y JUJUY AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CONSTITUCION",
+    "nombreCalle_2": "JUJUY AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "022-002-012e",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

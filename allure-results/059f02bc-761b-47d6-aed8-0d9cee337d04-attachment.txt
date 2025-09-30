@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MONASTERIO+Y+FANGIO%2C+JUAN+MANUEL&v2=true

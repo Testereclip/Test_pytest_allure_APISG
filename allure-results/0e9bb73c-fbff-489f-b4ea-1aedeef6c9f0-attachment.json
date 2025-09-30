@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 202,
+    "codCalle_2": 1965,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 100000.7579106023,
+    "coordenada_y": 105847.6405360038,
+    "direccion": "14 DE JULIO Y ZARRAGA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "14 DE JULIO",
+    "nombreCalle_2": "ZARRAGA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-140-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

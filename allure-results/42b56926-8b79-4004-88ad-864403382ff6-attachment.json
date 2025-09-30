@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 138,
+    "codCalle_2": 1027,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103747.0625974302,
+    "coordenada_y": 104178.132723923,
+    "direccion": "COSTA RICA Y ALVAREZ, JULIAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "COSTA RICA",
+    "nombreCalle_2": "ALVAREZ, JULIAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-060-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

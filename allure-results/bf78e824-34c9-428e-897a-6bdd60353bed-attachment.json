@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1540,
+    "codCalle_2": 2058,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101659.2533044143,
+    "coordenada_y": 102378.91592984,
+    "direccion": "DIAZ VELEZ AV. Y PUEYRREDON, HONORIO, DR. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DIAZ VELEZ AV.",
+    "nombreCalle_2": "PUEYRREDON, HONORIO, DR. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-060-011b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

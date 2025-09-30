@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 1616,
+    "codCalle_2": 2110,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 104741.6719722803,
+    "coordenada_y": 104110.265536501,
+    "direccion": "CHARCAS Y BILLINGHURST",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CHARCAS",
+    "nombreCalle_2": "BILLINGHURST",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-046-021a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

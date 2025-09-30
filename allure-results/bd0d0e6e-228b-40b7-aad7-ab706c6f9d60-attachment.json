@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": "Barrio Padre Mugica",
+    "codCalle_1": 1368,
+    "codCalle_2": 2087,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107325.8815328001,
+    "coordenada_y": 105086.3433910671,
+    "direccion": "AYMARA Y COLIBRI",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AYMARA",
+    "nombreCalle_2": "COLIBRI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "FE - Ferroviario",
+    "smp": "003-066B-001p",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

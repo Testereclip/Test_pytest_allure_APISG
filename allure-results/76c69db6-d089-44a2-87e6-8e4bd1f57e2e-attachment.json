@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA RIACHUELO",
+    "barrioInf": null,
+    "codCalle_1": 649,
+    "codCalle_2": 1012,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 99047.5782223974,
+    "coordenada_y": 93253.6249122203,
+    "direccion": "RIVERA, FRUCTUOSO, GENERAL Y GUAMINI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIVERA, FRUCTUOSO, GENERAL",
+    "nombreCalle_2": "GUAMINI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "082-028-033",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

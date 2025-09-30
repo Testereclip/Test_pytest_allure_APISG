@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LASCANO+Y+ARTIGAS%2C+JOSE+GERVASIO%2C+GRAL.&v2=true

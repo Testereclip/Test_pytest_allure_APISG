@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 1555,
+    "codCalle_2": 2503,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 104308.2500972747,
+    "coordenada_y": 103087.038974071,
+    "direccion": "GUARDIA VIEJA Y BRAVO, MARIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUARDIA VIEJA",
+    "nombreCalle_2": "BRAVO, MARIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "013-008-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

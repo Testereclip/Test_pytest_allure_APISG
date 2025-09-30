@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 1217,
+    "codCalle_2": 1894,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106367.6797842205,
+    "coordenada_y": 99371.8905370882,
+    "direccion": "CASEROS AV. Y PASCO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CASEROS AV.",
+    "nombreCalle_2": "PASCO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "024-089A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

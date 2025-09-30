@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 737,
+    "codCalle_2": 2131,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99060.5782231994,
+    "coordenada_y": 105212.8749110054,
+    "direccion": "COMBATIENTES DE MALVINAS AV. Y ARISMENDI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "COMBATIENTES DE MALVINAS AV.",
+    "nombreCalle_2": "ARISMENDI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-083-033",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

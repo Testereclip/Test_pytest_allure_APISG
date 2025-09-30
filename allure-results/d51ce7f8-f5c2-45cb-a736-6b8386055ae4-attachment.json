@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RETIRO",
+    "barrioInf": null,
+    "codCalle_1": 258,
+    "codCalle_2": 843,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108129.1719717557,
+    "coordenada_y": 103790.2108492592,
+    "direccion": "FLORIDA Y ROJAS, RICARDO, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FLORIDA",
+    "nombreCalle_2": "ROJAS, RICARDO, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "003-051-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

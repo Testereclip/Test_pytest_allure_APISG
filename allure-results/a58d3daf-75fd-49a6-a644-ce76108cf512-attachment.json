@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CONSTITUCION",
+    "barrioInf": null,
+    "codCalle_1": 1136,
+    "codCalle_2": 681,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 107729.5860340854,
+    "coordenada_y": 100350.1874120819,
+    "direccion": "IRIGOYEN, BERNARDO DE Y GARAY, JUAN DE AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "IRIGOYEN, BERNARDO DE",
+    "nombreCalle_2": "GARAY, JUAN DE AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "008-010-007b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

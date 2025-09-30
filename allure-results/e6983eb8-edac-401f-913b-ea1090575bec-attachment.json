@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 995,
+    "codCalle_2": 2030,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 103032.7969723872,
+    "coordenada_y": 101926.7342866067,
+    "direccion": "BOGOTA Y RIO DE JANEIRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BOGOTA",
+    "nombreCalle_2": "RIO DE JANEIRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-144-026",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 748,
+    "codCalle_2": 1990,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 102439.6250976163,
+    "coordenada_y": 104039.7889738525,
+    "direccion": "SERRANO Y CASTILLO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SERRANO",
+    "nombreCalle_2": "CASTILLO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-055-007a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

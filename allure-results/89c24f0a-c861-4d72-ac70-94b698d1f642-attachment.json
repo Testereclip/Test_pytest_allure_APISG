@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CHACARITA",
+    "barrioInf": null,
+    "codCalle_1": 2082,
+    "codCalle_2": 2497,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101155.500097889,
+    "coordenada_y": 105235.601473644,
+    "direccion": "CORDOBA Y OLLEROS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CORDOBA",
+    "nombreCalle_2": "OLLEROS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "033-065-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

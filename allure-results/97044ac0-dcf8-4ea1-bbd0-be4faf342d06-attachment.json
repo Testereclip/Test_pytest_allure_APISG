@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 234,
+    "codCalle_2": 1296,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 105206.945409294,
+    "coordenada_y": 97913.76553716,
+    "direccion": "IRIGOYEN, SANTOS Y ANCASTE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "IRIGOYEN, SANTOS",
+    "nombreCalle_2": "ANCASTE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "034-083C-000B",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

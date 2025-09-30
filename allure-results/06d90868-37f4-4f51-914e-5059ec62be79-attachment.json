@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 1232,
+    "codCalle_2": 2107,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 103381.2813474401,
+    "coordenada_y": 103479.429598973,
+    "direccion": "ESTADO DE ISRAEL AV. Y PRINGLES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ESTADO DE ISRAEL AV.",
+    "nombreCalle_2": "PRINGLES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "031-095-017b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA ORTUZAR",
+    "barrioInf": null,
+    "codCalle_1": 855,
+    "codCalle_2": 1011,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99485.7188481757,
+    "coordenada_y": 105817.6561609728,
+    "direccion": "PLAZA Y CARBAJAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PLAZA",
+    "nombreCalle_2": "CARBAJAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-082-019",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

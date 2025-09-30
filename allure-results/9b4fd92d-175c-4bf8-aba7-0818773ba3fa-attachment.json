@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": "Barrio Cilda\u00f1ez (Villa  6)",
+    "codCalle_1": 822,
+    "codCalle_2": 1002,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 99066.6783299376,
+    "coordenada_y": 96657.2022187895,
+    "direccion": "PASAJE EL PORVENIR Y CASCO, HORACIO, DR.",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PASAJE EL PORVENIR",
+    "nombreCalle_2": "CASCO, HORACIO, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "064-102I-013",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

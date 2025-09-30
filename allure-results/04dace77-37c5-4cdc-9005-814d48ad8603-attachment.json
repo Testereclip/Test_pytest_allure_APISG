@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1273,
+    "codCalle_2": 1831,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103285.359472087,
+    "coordenada_y": 98008.2186620217,
+    "direccion": "LANZA Y FERNANDEZ DE LA CRUZ, F., GRAL. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LANZA",
+    "nombreCalle_2": "FERNANDEZ DE LA CRUZ, F., GRAL. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-009B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

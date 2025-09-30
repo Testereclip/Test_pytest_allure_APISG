@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 1044,
+    "codCalle_2": 2519,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103409.6954097657,
+    "coordenada_y": 100970.5077242312,
+    "direccion": "SPEGAZZINI CARLOS Y MEXICO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SPEGAZZINI CARLOS",
+    "nombreCalle_2": "MEXICO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "036-025-002a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

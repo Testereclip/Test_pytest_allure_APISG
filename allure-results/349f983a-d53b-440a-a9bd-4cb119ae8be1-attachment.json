@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": "Barrio Papa Francisco",
+    "codCalle_1": 1952,
+    "codCalle_2": 2427,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100296.7288506995,
+    "coordenada_y": 95152.242804224,
+    "direccion": "KAHLO, FRIDA Y RODRIGUEZ, CANDELA SOL",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "KAHLO, FRIDA",
+    "nombreCalle_2": "RODRIGUEZ, CANDELA SOL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "066-115-000",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

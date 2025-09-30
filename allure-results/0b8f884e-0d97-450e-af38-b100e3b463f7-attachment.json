@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 284,
+    "codCalle_2": 842,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100427.5860356281,
+    "coordenada_y": 107172.3749108969,
+    "direccion": "MOLDES Y ECHEVERRIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MOLDES",
+    "nombreCalle_2": "ECHEVERRIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "039-075-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

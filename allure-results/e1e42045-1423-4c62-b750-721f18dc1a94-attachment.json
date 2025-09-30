@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 38,
+    "codCalle_2": 1353,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102346.6719723938,
+    "coordenada_y": 100506.0936617061,
+    "direccion": "SAN JOSE DE CALASANZ Y VALLE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN JOSE DE CALASANZ",
+    "nombreCalle_2": "VALLE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-037C-024b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

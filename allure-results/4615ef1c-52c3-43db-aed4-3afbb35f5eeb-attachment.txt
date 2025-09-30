@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=MORA+FERNANDEZ%2C+JUAN+Y+TEDIN%2C+JUEZ&v2=true

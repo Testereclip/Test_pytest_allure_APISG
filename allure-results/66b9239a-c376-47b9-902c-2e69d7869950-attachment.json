@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 201,
+    "codCalle_2": 1853,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 101011.7500976763,
+    "coordenada_y": 101771.8202239872,
+    "direccion": "PAYSANDU Y PLANES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PAYSANDU",
+    "nombreCalle_2": "PLANES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "057-098-018a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

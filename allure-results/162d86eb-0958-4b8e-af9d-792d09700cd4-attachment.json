@@ -1,0 +1,32 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 263,
+    "codCalle_2": 726,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": [
+      94430.3360359925,
+      99253.4061612984
+    ],
+    "coordenada_y": [
+      94390.295264674,
+      99248.0062951277
+    ],
+    "direccion": "AUTOPISTA PERITO MORENO Y JACQUES, AMADEO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AUTOPISTA PERITO MORENO",
+    "nombreCalle_2": "JACQUES, AMADEO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "095-019-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

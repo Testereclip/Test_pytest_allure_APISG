@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 1361,
+    "codCalle_2": 2595,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97125.1641608393,
+    "coordenada_y": 102998.4295986004,
+    "direccion": "CUENCA Y NAZARRE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CUENCA",
+    "nombreCalle_2": "NAZARRE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "071-002-006a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

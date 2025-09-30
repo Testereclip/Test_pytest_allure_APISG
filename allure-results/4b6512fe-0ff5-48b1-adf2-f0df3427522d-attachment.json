@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1749,
+    "codCalle_2": 2251,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108497.4766589437,
+    "coordenada_y": 99945.1952246735,
+    "direccion": "PILCOMAYO Y REGIMIENTO DE PATRICIOS AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PILCOMAYO",
+    "nombreCalle_2": "REGIMIENTO DE PATRICIOS AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "008-051-000A",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

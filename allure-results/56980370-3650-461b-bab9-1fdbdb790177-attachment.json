@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 208,
+    "codCalle_2": 554,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98819.7266604854,
+    "coordenada_y": 101496.2967863665,
+    "direccion": "TERRADA Y BELAUSTEGUI, LUIS, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TERRADA",
+    "nombreCalle_2": "BELAUSTEGUI, LUIS, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "067-053-013",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

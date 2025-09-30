@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAAVEDRA",
+    "barrioInf": null,
+    "codCalle_1": 556,
+    "codCalle_2": 1231,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 99147.6797859281,
+    "coordenada_y": 108787.7733481449,
+    "direccion": "VIDAL Y JARAMILLO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VIDAL",
+    "nombreCalle_2": "JARAMILLO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "043-153-007b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

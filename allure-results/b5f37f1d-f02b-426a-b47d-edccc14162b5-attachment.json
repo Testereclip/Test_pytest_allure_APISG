@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1160,
+    "codCalle_2": 2205,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 100347.2969727911,
+    "coordenada_y": 102002.609286417,
+    "direccion": "VIALE, LUIS Y CRUZ, JUANA INES DE LA, SOR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VIALE, LUIS",
+    "nombreCalle_2": "CRUZ, JUANA INES DE LA, SOR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-077-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

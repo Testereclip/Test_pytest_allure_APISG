@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 1180,
+    "codCalle_2": 1931,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101435.9532227002,
+    "coordenada_y": 103059.7811613846,
+    "direccion": "TRES ARROYOS Y OLAYA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TRES ARROYOS",
+    "nombreCalle_2": "OLAYA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-076-010c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

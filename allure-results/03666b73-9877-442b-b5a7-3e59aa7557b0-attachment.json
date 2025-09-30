@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 698,
+    "codCalle_2": 992,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106985.0000969206,
+    "coordenada_y": 103718.3124116903,
+    "direccion": "URUGUAY Y SANTA FE AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "URUGUAY",
+    "nombreCalle_2": "SANTA FE AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "007-034-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

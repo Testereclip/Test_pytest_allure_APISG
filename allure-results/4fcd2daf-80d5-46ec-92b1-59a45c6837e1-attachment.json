@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 164,
+    "codCalle_2": 208,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 99362.5391603296,
+    "coordenada_y": 100367.3670990171,
+    "direccion": "AVELLANEDA AV. Y TERRADA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AVELLANEDA AV.",
+    "nombreCalle_2": "TERRADA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "065-045-023b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

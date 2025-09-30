@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 1155,
+    "codCalle_2": 2265,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106016.6641592425,
+    "coordenada_y": 98919.4608496108,
+    "direccion": "COOPERACION Y COLONIA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "COOPERACION",
+    "nombreCalle_2": "COLONIA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "024-061C-012b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

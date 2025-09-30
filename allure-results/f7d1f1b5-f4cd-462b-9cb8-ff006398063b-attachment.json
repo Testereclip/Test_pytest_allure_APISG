@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 959,
+    "codCalle_2": 1021,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98661.5938477217,
+    "coordenada_y": 97210.1874117907,
+    "direccion": "PRIMERA JUNTA Y SAN JUAN BAUTISTA DE LA SALLE AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PRIMERA JUNTA",
+    "nombreCalle_2": "SAN JUAN BAUTISTA DE LA SALLE AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-002B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

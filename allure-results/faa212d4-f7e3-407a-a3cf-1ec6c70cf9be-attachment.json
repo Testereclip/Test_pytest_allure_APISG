@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 911,
+    "codCalle_2": 1878,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96939.5533584103,
+    "coordenada_y": 99204.8354280626,
+    "direccion": "CALDERON DE LA BARCA, PEDRO Y AMIGOS DE LAS ARTES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CALDERON DE LA BARCA, PEDRO",
+    "nombreCalle_2": "AMIGOS DE LAS ARTES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "077-006A-029",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

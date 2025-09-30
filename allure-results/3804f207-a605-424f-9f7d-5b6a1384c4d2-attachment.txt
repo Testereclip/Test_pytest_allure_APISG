@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=SCALABRINI+ORTIZ%2C+RAUL+AV.+Y+SOLER&v2=true

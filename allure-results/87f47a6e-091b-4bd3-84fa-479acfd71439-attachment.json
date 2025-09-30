@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PUERTO MADERO",
+    "barrioInf": null,
+    "codCalle_1": 858,
+    "codCalle_2": 1855,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 110312.5754670286,
+    "coordenada_y": 101385.1506433468,
+    "direccion": "WALSH, MARIA ELENA Y 8 DE MARZO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "WALSH, MARIA ELENA",
+    "nombreCalle_2": "8 DE MARZO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "098-063A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

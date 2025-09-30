@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 38,
+    "codCalle_2": 1660,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102326.4610349126,
+    "coordenada_y": 100740.9139741794,
+    "direccion": "SAN JOSE DE CALASANZ Y FORMOSA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAN JOSE DE CALASANZ",
+    "nombreCalle_2": "FORMOSA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-040-026c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

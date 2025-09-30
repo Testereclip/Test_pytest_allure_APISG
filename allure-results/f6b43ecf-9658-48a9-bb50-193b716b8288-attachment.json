@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 1297,
+    "codCalle_2": 2381,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 109380.101658707,
+    "coordenada_y": 98357.6327248903,
+    "direccion": "CALIFORNIA Y GARIBALDI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CALIFORNIA",
+    "nombreCalle_2": "GARIBALDI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-103-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

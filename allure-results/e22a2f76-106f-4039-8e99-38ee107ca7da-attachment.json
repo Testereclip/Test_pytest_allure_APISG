@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 769,
+    "codCalle_2": 1617,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 105976.5625972006,
+    "coordenada_y": 105674.9139739219,
+    "direccion": "SEVILLA Y TEDIN, JUEZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SEVILLA",
+    "nombreCalle_2": "TEDIN, JUEZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-162B-044a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

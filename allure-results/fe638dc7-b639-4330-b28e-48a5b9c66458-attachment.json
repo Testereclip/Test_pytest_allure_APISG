@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "AGRONOMIA",
+    "barrioInf": null,
+    "codCalle_1": 944,
+    "codCalle_2": 1349,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 97697.328223299,
+    "coordenada_y": 103669.4452235693,
+    "direccion": "TINOGASTA Y VENECIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TINOGASTA",
+    "nombreCalle_2": "VENECIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "071-078A-003b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 289,
+    "codCalle_2": 1875,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 105247.8438473247,
+    "coordenada_y": 105892.9139738504,
+    "direccion": "CAVIA Y GELLY",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CAVIA",
+    "nombreCalle_2": "GELLY",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "021-110-005",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

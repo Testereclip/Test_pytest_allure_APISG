@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 891,
+    "codCalle_2": 1300,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106366.6094720981,
+    "coordenada_y": 105013.8358490167,
+    "direccion": "AGOTE, LUIS DR. Y DEL LIBERTADOR AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AGOTE, LUIS DR.",
+    "nombreCalle_2": "DEL LIBERTADOR AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-156A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

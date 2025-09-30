@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": "Barrio 21-24",
+    "codCalle_1": 669,
+    "codCalle_2": 1832,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106110.4644072053,
+    "coordenada_y": 97384.073866331,
+    "direccion": "MONTESQUIEU Y PADRE DANIEL DE LA SIERRA PASEO",
+    "manzanaInf": "manzana inexistente",
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MONTESQUIEU",
+    "nombreCalle_2": "PADRE DANIEL DE LA SIERRA PASEO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": "parcela inexistente",
+    "sectorInf": "sector inexistente",
+    "smp": "026-001C-000",
+    "tipoCatastro": "informal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

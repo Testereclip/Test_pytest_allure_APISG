@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAAVEDRA",
+    "barrioInf": null,
+    "codCalle_1": 1098,
+    "codCalle_2": 1419,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 97544.5782236874,
+    "coordenada_y": 109081.8202230078,
+    "direccion": "PICO Y POSTA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PICO",
+    "nombreCalle_2": "POSTA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "043-012D-011a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

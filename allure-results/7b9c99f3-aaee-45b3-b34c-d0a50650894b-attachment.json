@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 94,
+    "codCalle_2": 729,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106438.6954095946,
+    "coordenada_y": 105129.1170990104,
+    "direccion": "BIBILONI, JUAN A. Y FIGUEROA ALCORTA, PRES. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BIBILONI, JUAN A.",
+    "nombreCalle_2": "FIGUEROA ALCORTA, PRES. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-156A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

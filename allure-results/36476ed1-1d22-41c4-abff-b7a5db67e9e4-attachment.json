@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 785,
+    "codCalle_2": 2231,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100659.773535614,
+    "coordenada_y": 107491.4686608806,
+    "direccion": "SAGASTA ISLA, JOSE MARIA Y JURAMENTO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAGASTA ISLA, JOSE MARIA",
+    "nombreCalle_2": "JURAMENTO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "025-004-014a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

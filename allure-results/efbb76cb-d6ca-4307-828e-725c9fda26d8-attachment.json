@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 1571,
+    "codCalle_2": 2079,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98657.359473269,
+    "coordenada_y": 105358.8905359637,
+    "direccion": "BERNA Y CADIZ",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BERNA",
+    "nombreCalle_2": "CADIZ",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-192-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE AVELLANEDA",
+    "barrioInf": null,
+    "codCalle_1": 866,
+    "codCalle_2": 1763,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 98291.6563477926,
+    "coordenada_y": 97462.7655367409,
+    "direccion": "OLIVERA AV. Y BILBAO, FRANCISCO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OLIVERA AV.",
+    "nombreCalle_2": "BILBAO, FRANCISCO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "062-163-032",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

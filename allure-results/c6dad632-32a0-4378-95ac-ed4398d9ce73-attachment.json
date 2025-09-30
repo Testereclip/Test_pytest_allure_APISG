@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NU\u00d1EZ",
+    "barrioInf": null,
+    "codCalle_1": 1764,
+    "codCalle_2": 2355,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99740.8985358563,
+    "coordenada_y": 109025.7342856621,
+    "direccion": "CUBA Y LARRALDE, CRISOLOGO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CUBA",
+    "nombreCalle_2": "LARRALDE, CRISOLOGO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "029-014A-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

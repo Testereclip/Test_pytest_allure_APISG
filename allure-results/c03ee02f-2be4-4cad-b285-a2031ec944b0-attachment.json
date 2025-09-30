@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 176,
+    "codCalle_2": 2004,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99645.3282230172,
+    "coordenada_y": 103799.1874111888,
+    "direccion": "BIELSA, RAFAEL, DR. Y YERUA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BIELSA, RAFAEL, DR.",
+    "nombreCalle_2": "YERUA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-010-028",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

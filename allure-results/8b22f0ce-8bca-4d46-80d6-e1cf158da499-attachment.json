@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 151,
+    "codCalle_2": 496,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102611.6094727825,
+    "coordenada_y": 106872.1483485743,
+    "direccion": "NEWBERY, JORGE Y SOLDADO DE LA INDEPENDENCIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NEWBERY, JORGE",
+    "nombreCalle_2": "SOLDADO DE LA INDEPENDENCIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-109-012",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

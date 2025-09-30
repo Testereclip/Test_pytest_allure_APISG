@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 614,
+    "codCalle_2": 2687,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107897.6049723645,
+    "coordenada_y": 99016.178076048,
+    "direccion": "BRANDSEN Y AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BRANDSEN",
+    "nombreCalle_2": "AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-139-006b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

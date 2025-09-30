@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE PATRICIOS",
+    "barrioInf": null,
+    "codCalle_1": 1324,
+    "codCalle_2": 2265,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 106087.8750967158,
+    "coordenada_y": 98703.9608496389,
+    "direccion": "CHUTRO, PEDRO, PROF., DR. Y COLONIA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CHUTRO, PEDRO, PROF., DR.",
+    "nombreCalle_2": "COLONIA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "024-060-027d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

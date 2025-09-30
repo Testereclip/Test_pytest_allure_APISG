@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 432,
+    "codCalle_2": 496,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102806.0469727433,
+    "coordenada_y": 106736.3827236006,
+    "direccion": "REPUBLICA DE ESLOVENIA Y SOLDADO DE LA INDEPENDENCIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "REPUBLICA DE ESLOVENIA",
+    "nombreCalle_2": "SOLDADO DE LA INDEPENDENCIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-106-030",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

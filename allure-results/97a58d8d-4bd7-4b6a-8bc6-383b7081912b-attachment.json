@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1144,
+    "codCalle_2": 1758,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 107739.3047839436,
+    "coordenada_y": 98260.3280372948,
+    "direccion": "QUINQUELA MARTIN, BENITO Y VIEYTES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "QUINQUELA MARTIN, BENITO",
+    "nombreCalle_2": "VIEYTES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "018-112-007a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

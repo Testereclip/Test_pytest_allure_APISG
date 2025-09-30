@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=PUENTE+PEATONAL+Y+SOTO%2C+ANTONIO&v2=true

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 95,
+    "codCalle_2": 827,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102547.9219726961,
+    "coordenada_y": 105456.8280362168,
+    "direccion": "NICARAGUA Y CARRANZA, ANGEL JUSTINIANO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NICARAGUA",
+    "nombreCalle_2": "CARRANZA, ANGEL JUSTINIANO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "035-074-016",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

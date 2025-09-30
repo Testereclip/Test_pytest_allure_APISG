@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COGHLAN",
+    "barrioInf": null,
+    "codCalle_1": 1696,
+    "codCalle_2": 1761,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 99273.4532233159,
+    "coordenada_y": 107409.0545982948,
+    "direccion": "RIVERA, PEDRO I., DR. Y SUPERI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIVERA, PEDRO I., DR.",
+    "nombreCalle_2": "SUPERI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "041-035-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 1006,
+    "codCalle_2": 2233,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96374.148535713,
+    "coordenada_y": 99442.7499114099,
+    "direccion": "MOLIERE Y SARACHAGA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MOLIERE",
+    "nombreCalle_2": "SARACHAGA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "095-055A-014c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1660,
+    "codCalle_2": 2292,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102247.8204099196,
+    "coordenada_y": 100692.4764741781,
+    "direccion": "FORMOSA Y BERTRES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FORMOSA",
+    "nombreCalle_2": "BERTRES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "040-038-041b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MONSERRAT",
+    "barrioInf": null,
+    "codCalle_1": 1603,
+    "codCalle_2": 720,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 108105.2891591583,
+    "coordenada_y": 102289.0702244095,
+    "direccion": "DE MAYO AV. Y PERU",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DE MAYO AV.",
+    "nombreCalle_2": "PERU",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "002-036-009",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

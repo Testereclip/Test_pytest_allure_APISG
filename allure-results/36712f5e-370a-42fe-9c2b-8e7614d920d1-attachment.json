@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NU\u00d1EZ",
+    "barrioInf": null,
+    "codCalle_1": 476,
+    "codCalle_2": 2365,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99300.2344734956,
+    "coordenada_y": 110130.7030355197,
+    "direccion": "VEDIA Y O'HIGGINS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VEDIA",
+    "nombreCalle_2": "O'HIGGINS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "029-065-017c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

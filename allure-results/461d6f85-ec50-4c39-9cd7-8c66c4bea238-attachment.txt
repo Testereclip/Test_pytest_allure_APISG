@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LINCOLN+AV.+Y+SAN+NICOLAS&v2=true

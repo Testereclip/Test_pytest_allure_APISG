@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NU\u00d1EZ",
+    "barrioInf": null,
+    "codCalle_1": 1764,
+    "codCalle_2": 1923,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 99337.7188484598,
+    "coordenada_y": 109687.3827230654,
+    "direccion": "CUBA Y RAMALLO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CUBA",
+    "nombreCalle_2": "RAMALLO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "029-035-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 373,
+    "codCalle_2": 510,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101305.9532226806,
+    "coordenada_y": 102479.8827239342,
+    "direccion": "RODRIGUEZ, MANUEL A., GENERAL Y SAN MARTIN AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RODRIGUEZ, MANUEL A., GENERAL",
+    "nombreCalle_2": "SAN MARTIN AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-014-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

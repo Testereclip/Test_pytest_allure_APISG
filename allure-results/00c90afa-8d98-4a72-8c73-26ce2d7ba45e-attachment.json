@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 87,
+    "codCalle_2": 1352,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108890.0547838177,
+    "coordenada_y": 98941.1483498023,
+    "direccion": "IRALA Y OLAVARRIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "IRALA",
+    "nombreCalle_2": "OLAVARRIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-076-020a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 2316,
+    "codCalle_2": 2368,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102788.382909695,
+    "coordenada_y": 98526.8749119329,
+    "direccion": "PICHEUTA Y DIEZ DE MEDINA, CLEMENTE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PICHEUTA",
+    "nombreCalle_2": "DIEZ DE MEDINA, CLEMENTE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-177-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 1022,
+    "codCalle_2": 2666,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99973.8282229277,
+    "coordenada_y": 103190.796786273,
+    "direccion": "DICKMAN, ADOLFO, DR. Y CUCHA CUCHA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DICKMAN, ADOLFO, DR.",
+    "nombreCalle_2": "CUCHA CUCHA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-099-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

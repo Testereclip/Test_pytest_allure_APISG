@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COLEGIALES",
+    "barrioInf": null,
+    "codCalle_1": 1483,
+    "codCalle_2": 1873,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101214.8204104222,
+    "coordenada_y": 105858.8514735842,
+    "direccion": "FREIRE, RAMON, CAP. GRAL. Y GARCIA, TEODORO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FREIRE, RAMON, CAP. GRAL.",
+    "nombreCalle_2": "GARCIA, TEODORO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "037-071-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

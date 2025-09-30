@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VARELA+AV.+Y+CHILAVERT%2C+MARTINIANO%2C+CORONEL&v2=true

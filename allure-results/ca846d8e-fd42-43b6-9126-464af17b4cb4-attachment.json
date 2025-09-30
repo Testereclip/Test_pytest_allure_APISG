@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEL PARQUE",
+    "barrioInf": null,
+    "codCalle_1": 116,
+    "codCalle_2": 2158,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 97883.5235357352,
+    "coordenada_y": 103128.6170986382,
+    "direccion": "BAIGORRIA Y GUTIERREZ, RICARDO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BAIGORRIA",
+    "nombreCalle_2": "GUTIERREZ, RICARDO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "069-047-015",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 1713,
+    "codCalle_2": 2594,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99364.3438480642,
+    "coordenada_y": 103893.2186611586,
+    "direccion": "BAUNESS Y PUNTA ARENAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BAUNESS",
+    "nombreCalle_2": "PUNTA ARENAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-013A-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

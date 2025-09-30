@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "SAN CRISTOBAL",
+    "barrioInf": null,
+    "codCalle_1": 681,
+    "codCalle_2": 2228,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 104811.5782219869,
+    "coordenada_y": 99904.2108494298,
+    "direccion": "GARAY, JUAN DE AV. Y DANEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GARAY, JUAN DE AV.",
+    "nombreCalle_2": "DANEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "030-030-025",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

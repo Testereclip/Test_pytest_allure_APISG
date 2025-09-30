@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 741,
+    "codCalle_2": 1816,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103674.1563469521,
+    "coordenada_y": 96878.6874121607,
+    "direccion": "RABANAL, FRANCISCO, INTENDENTE AV. Y EREZCANO AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RABANAL, FRANCISCO, INTENDENTE AV.",
+    "nombreCalle_2": "EREZCANO AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "046-120C-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

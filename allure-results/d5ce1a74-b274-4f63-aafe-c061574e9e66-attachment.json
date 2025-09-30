@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 756,
+    "codCalle_2": 814,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98068.9688485058,
+    "coordenada_y": 107538.1014731999,
+    "direccion": "DONADO Y PEDRAZA, MANUELA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DONADO",
+    "nombreCalle_2": "PEDRAZA, MANUELA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "053-098-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

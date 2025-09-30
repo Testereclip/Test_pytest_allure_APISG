@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BALVANERA",
+    "barrioInf": null,
+    "codCalle_1": 2582,
+    "codCalle_2": 2625,
+    "codPartido": "CABA",
+    "comuna": "Comuna 3",
+    "coordenada_x": 105801.6016594261,
+    "coordenada_y": 101181.4842868668,
+    "direccion": "INDEPENDENCIA AV. Y MATHEU",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "INDEPENDENCIA AV.",
+    "nombreCalle_2": "MATHEU",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "020-022-016b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

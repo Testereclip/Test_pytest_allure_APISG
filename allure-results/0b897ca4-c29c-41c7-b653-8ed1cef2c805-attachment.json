@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SANTA RITA",
+    "barrioInf": null,
+    "codCalle_1": 30,
+    "codCalle_2": 554,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 98129.0704105586,
+    "coordenada_y": 101057.0155363649,
+    "direccion": "CONCORDIA Y BELAUSTEGUI, LUIS, DR.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CONCORDIA",
+    "nombreCalle_2": "BELAUSTEGUI, LUIS, DR.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "079-118-023a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

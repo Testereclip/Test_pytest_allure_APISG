@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 1468,
+    "codCalle_2": 1712,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 102201.1485350191,
+    "coordenada_y": 102048.7655365381,
+    "direccion": "ACOYTE AV. Y VALLESE, FELIPE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ACOYTE AV.",
+    "nombreCalle_2": "VALLESE, FELIPE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "045-085-006b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

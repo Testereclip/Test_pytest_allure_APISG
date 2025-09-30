@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=VARELA%2C+JOSE+PEDRO+Y+GONZALEZ%2C+JOAQUIN+V.&v2=true

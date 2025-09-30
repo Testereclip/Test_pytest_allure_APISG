@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 1575,
+    "codCalle_2": 2030,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 102914.1094724558,
+    "coordenada_y": 102698.1561615189,
+    "direccion": "FRANKLIN Y RIO DE JANEIRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FRANKLIN",
+    "nombreCalle_2": "RIO DE JANEIRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "017-010-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

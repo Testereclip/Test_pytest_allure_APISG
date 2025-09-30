@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORESTA",
+    "barrioInf": null,
+    "codCalle_1": 1527,
+    "codCalle_2": 1918,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 99125.3907227888,
+    "coordenada_y": 99249.9999116172,
+    "direccion": "BONIFACIO, JOSE Y PERGAMINO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BONIFACIO, JOSE",
+    "nombreCalle_2": "PERGAMINO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "054-203-009a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

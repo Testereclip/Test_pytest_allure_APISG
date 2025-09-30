@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1297,
+    "codCalle_2": 2463,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108276.4452455663,
+    "coordenada_y": 98068.5594953786,
+    "direccion": "CALIFORNIA Y MONTES DE OCA, MANUEL AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CALIFORNIA",
+    "nombreCalle_2": "MONTES DE OCA, MANUEL AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-006-006",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

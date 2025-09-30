@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 30,
+    "codCalle_2": 2013,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95770.5938486199,
+    "coordenada_y": 104132.0233483917,
+    "direccion": "CONCORDIA Y MISTRAL, GABRIELA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CONCORDIA",
+    "nombreCalle_2": "MISTRAL, GABRIELA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-176-015c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 342,
+    "codCalle_2": 373,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99786.2977274256,
+    "coordenada_y": 103607.4768512432,
+    "direccion": "TRELLES, MANUEL R. AV. Y RODRIGUEZ, MANUEL A., GENERAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TRELLES, MANUEL R. AV.",
+    "nombreCalle_2": "RODRIGUEZ, MANUEL A., GENERAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-032-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

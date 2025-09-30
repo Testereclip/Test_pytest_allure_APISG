@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 1329,
+    "codCalle_2": 2485,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 95165.9844732108,
+    "coordenada_y": 96732.0624116054,
+    "direccion": "MONTIEL Y ZELADA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MONTIEL",
+    "nombreCalle_2": "ZELADA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "074-017A-017",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

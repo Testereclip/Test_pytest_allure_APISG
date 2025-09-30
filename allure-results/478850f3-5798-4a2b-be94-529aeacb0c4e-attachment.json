@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "ALMAGRO",
+    "barrioInf": null,
+    "codCalle_1": 1540,
+    "codCalle_2": 1676,
+    "codPartido": "CABA",
+    "comuna": "Comuna 5",
+    "coordenada_x": 103905.1549236537,
+    "coordenada_y": 102297.0989527492,
+    "direccion": "DIAZ VELEZ AV. Y LAREDO, PEDRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DIAZ VELEZ AV.",
+    "nombreCalle_2": "LAREDO, PEDRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "017-087B-005q",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

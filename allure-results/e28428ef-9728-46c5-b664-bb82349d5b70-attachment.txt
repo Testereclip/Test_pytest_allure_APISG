@@ -1,0 +1,1 @@
+https://api-serviciosgeo-dev.gcba.gob.ar/direcciones/geocoder?direccion=LISTA%2C+RAMON%2C+CORONEL+Y+BERMUDEZ&v2=true

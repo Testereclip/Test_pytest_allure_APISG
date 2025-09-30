@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 908,
+    "codCalle_2": 2535,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99966.398535444,
+    "coordenada_y": 103437.4608487464,
+    "direccion": "BELLA VISTA Y A\u00d1ASCO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BELLA VISTA",
+    "nombreCalle_2": "A\u00d1ASCO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-102-036",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

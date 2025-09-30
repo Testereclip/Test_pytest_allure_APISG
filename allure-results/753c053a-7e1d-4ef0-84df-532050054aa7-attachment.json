@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 852,
+    "codCalle_2": 901,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 95363.9141612176,
+    "coordenada_y": 104675.2499108097,
+    "direccion": "OBISPO SAN ALBERTO Y FAGNANO, JOSE AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OBISPO SAN ALBERTO",
+    "nombreCalle_2": "FAGNANO, JOSE AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-204B-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 1038,
+    "codCalle_2": 2439,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101444.4922851596,
+    "coordenada_y": 102485.7733489448,
+    "direccion": "ANTEZANA Y ROJAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ANTEZANA",
+    "nombreCalle_2": "ROJAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-014-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

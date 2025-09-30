@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 1776,
+    "codCalle_2": 1967,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94094.1094735175,
+    "coordenada_y": 98890.5780363125,
+    "direccion": "CUZCO Y SUAREZ, JOSE LEON",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CUZCO",
+    "nombreCalle_2": "SUAREZ, JOSE LEON",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "095-008-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

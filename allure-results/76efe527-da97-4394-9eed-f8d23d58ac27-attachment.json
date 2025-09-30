@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 1049,
+    "codCalle_2": 15,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98621.3125976047,
+    "coordenada_y": 95391.9217869733,
+    "direccion": "VILLA DE MASNOU Y DE SIMONE, VICENTE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VILLA DE MASNOU",
+    "nombreCalle_2": "DE SIMONE, VICENTE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "064-001C-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

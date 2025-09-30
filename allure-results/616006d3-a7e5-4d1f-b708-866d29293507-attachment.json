@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 434,
+    "codCalle_2": 884,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101485.3282229773,
+    "coordenada_y": 107298.5077234561,
+    "direccion": "PINO, VIRREY DEL Y 11 DE SEPTIEMBRE DE 1888",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PINO, VIRREY DEL",
+    "nombreCalle_2": "11 DE SEPTIEMBRE DE 1888",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-053-002",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

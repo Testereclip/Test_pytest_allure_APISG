@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 135,
+    "codCalle_2": 1016,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 105625.6641596811,
+    "coordenada_y": 104593.5389740096,
+    "direccion": "AGUERO Y PE\u00d1A",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AGUERO",
+    "nombreCalle_2": "PE\u00d1A",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-091-031",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

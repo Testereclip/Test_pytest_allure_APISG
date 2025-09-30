@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 746,
+    "codCalle_2": 2262,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103815.0782219906,
+    "coordenada_y": 97772.1327245803,
+    "direccion": "TILCARA AV. Y TABARE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TILCARA AV.",
+    "nombreCalle_2": "TABARE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-073A-001e",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

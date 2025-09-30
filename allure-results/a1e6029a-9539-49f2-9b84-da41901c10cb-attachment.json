@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PATERNAL",
+    "barrioInf": null,
+    "codCalle_1": 1367,
+    "codCalle_2": 1550,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 99464.8204105811,
+    "coordenada_y": 104335.4061611217,
+    "direccion": "HEREDIA Y BALBOA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HEREDIA",
+    "nombreCalle_2": "BALBOA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "049-025C-008",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

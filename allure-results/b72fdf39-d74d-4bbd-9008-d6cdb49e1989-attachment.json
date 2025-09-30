@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 649,
+    "codCalle_2": 2125,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103686.2032220286,
+    "coordenada_y": 98046.5077245436,
+    "direccion": "RIVERA, FRUCTUOSO, GENERAL Y LAS PALMAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIVERA, FRUCTUOSO, GENERAL",
+    "nombreCalle_2": "LAS PALMAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-079-011a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

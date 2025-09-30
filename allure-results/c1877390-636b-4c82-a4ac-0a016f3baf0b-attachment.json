@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "MATADEROS",
+    "barrioInf": null,
+    "codCalle_1": 448,
+    "codCalle_2": 750,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 95173.8204107236,
+    "coordenada_y": 96938.6874115834,
+    "direccion": "OLAVARRIETA, DIEGO DE Y PIZARRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "OLAVARRIETA, DIEGO DE",
+    "nombreCalle_2": "PIZARRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "074-033-005",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

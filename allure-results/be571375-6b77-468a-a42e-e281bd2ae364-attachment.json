@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LA BOCA",
+    "barrioInf": null,
+    "codCalle_1": 2343,
+    "codCalle_2": 2402,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108900.4899264735,
+    "coordenada_y": 99907.1532391592,
+    "direccion": "ESPORA, TOMAS, CORONEL DE MARINA Y RODRIGUEZ, MARTIN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ESPORA, TOMAS, CORONEL DE MARINA",
+    "nombreCalle_2": "RODRIGUEZ, MARTIN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "006-006I-000I",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

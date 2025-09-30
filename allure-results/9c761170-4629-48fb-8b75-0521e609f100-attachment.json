@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 410,
+    "codCalle_2": 625,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 100842.0547852133,
+    "coordenada_y": 101950.3592864579,
+    "direccion": "AMBERES Y GAONA AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AMBERES",
+    "nombreCalle_2": "GAONA AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "059-139-025",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

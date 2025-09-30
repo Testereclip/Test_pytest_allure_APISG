@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 441,
+    "codCalle_2": 1596,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 105375.7500972567,
+    "coordenada_y": 105173.601473932,
+    "direccion": "CABELLO Y ORTIZ DE OCAMPO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CABELLO",
+    "nombreCalle_2": "ORTIZ DE OCAMPO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-032-006h",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

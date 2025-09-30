@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 695,
+    "codCalle_2": 1535,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 100898.9922856696,
+    "coordenada_y": 108846.9764732559,
+    "direccion": "PRINS, ENRIQUE Y HERNANDEZ, RAFAEL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PRINS, ENRIQUE",
+    "nombreCalle_2": "HERNANDEZ, RAFAEL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "027-101-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

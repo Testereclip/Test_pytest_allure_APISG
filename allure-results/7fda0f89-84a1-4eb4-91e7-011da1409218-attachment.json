@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 1004,
+    "codCalle_2": 58,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108408.8594714478,
+    "coordenada_y": 99810.0936621804,
+    "direccion": "PI Y MARGALL Y RUY DIAZ DE GUZMAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "PI Y MARGALL",
+    "nombreCalle_2": "RUY DIAZ DE GUZMAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "008-076-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

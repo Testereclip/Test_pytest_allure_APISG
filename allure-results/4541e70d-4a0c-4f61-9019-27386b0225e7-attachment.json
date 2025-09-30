@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 1394,
+    "codCalle_2": 2268,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94348.7188487364,
+    "coordenada_y": 102695.5702234422,
+    "direccion": "LASTRA AV. Y HABANA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LASTRA AV.",
+    "nombreCalle_2": "HABANA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "089-005C-000E",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BELGRANO",
+    "barrioInf": null,
+    "codCalle_1": 640,
+    "codCalle_2": 1018,
+    "codPartido": "CABA",
+    "comuna": "Comuna 13",
+    "coordenada_x": 101560.7735355482,
+    "coordenada_y": 108510.9764733367,
+    "direccion": "TEMPERLEY Y ARTILLEROS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "TEMPERLEY",
+    "nombreCalle_2": "ARTILLEROS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "025-086-027",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

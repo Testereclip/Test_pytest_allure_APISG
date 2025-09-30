@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 838,
+    "codCalle_2": 2229,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94345.0157234401,
+    "coordenada_y": 98286.9139738912,
+    "direccion": "EL MIRASOL Y TUYUTI",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "EL MIRASOL",
+    "nombreCalle_2": "TUYUTI",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "072-053B-011",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

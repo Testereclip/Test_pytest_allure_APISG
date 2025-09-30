@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA SOLDATI",
+    "barrioInf": null,
+    "codCalle_1": 5,
+    "codCalle_2": 588,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 100991.7402970878,
+    "coordenada_y": 96250.9605773557,
+    "direccion": "AUTOPISTA PRESIDENTE HECTOR J. CAMPORA Y PLUMERILLO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "AUTOPISTA PRESIDENTE HECTOR J. CAMPORA",
+    "nombreCalle_2": "PLUMERILLO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "056-105A-021",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

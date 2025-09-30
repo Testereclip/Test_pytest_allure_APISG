@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 417,
+    "codCalle_2": 649,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 103866.7579095178,
+    "coordenada_y": 98270.2811620352,
+    "direccion": "LA PLATA AV. Y RIVERA, FRUCTUOSO, GENERAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "LA PLATA AV.",
+    "nombreCalle_2": "RIVERA, FRUCTUOSO, GENERAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-141-018a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

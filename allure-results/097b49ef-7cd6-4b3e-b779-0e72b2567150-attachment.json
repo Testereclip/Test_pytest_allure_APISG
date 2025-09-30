@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "RECOLETA",
+    "barrioInf": null,
+    "codCalle_1": 729,
+    "codCalle_2": 1051,
+    "codPartido": "CABA",
+    "comuna": "Comuna 2",
+    "coordenada_x": 106571.9922845706,
+    "coordenada_y": 105054.9686615266,
+    "direccion": "FIGUEROA ALCORTA, PRES. AV. Y GONZALEZ, JULIO VICTOR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "FIGUEROA ALCORTA, PRES. AV.",
+    "nombreCalle_2": "GONZALEZ, JULIO VICTOR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "015-175B-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

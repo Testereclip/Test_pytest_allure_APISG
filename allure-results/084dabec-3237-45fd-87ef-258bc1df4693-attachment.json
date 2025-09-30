@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 516,
+    "codCalle_2": 1913,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 100200.7325267152,
+    "coordenada_y": 97689.9200254536,
+    "direccion": "SANTANDER Y CAMBIESES, EUSTAQUIO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SANTANDER",
+    "nombreCalle_2": "CAMBIESES, EUSTAQUIO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "050-013B-014a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

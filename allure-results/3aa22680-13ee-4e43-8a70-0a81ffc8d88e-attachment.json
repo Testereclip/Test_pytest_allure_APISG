@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COGHLAN",
+    "barrioInf": null,
+    "codCalle_1": 254,
+    "codCalle_2": 782,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 99597.6172857737,
+    "coordenada_y": 107497.1483483067,
+    "direccion": "ROOSEVELT FRANKLIN D. Y BALBIN, RICARDO, DR. AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ROOSEVELT FRANKLIN D.",
+    "nombreCalle_2": "BALBIN, RICARDO, DR. AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "041-062-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

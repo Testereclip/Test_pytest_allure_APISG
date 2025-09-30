@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LURO",
+    "barrioInf": null,
+    "codCalle_1": 129,
+    "codCalle_2": 2138,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 95937.4688482535,
+    "coordenada_y": 99069.2030364203,
+    "direccion": "ECHENAGUCIA Y YERBAL",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ECHENAGUCIA",
+    "nombreCalle_2": "YERBAL",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "095-040-008c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

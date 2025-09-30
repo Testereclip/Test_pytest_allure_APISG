@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "CABALLITO",
+    "barrioInf": null,
+    "codCalle_1": 270,
+    "codCalle_2": 1860,
+    "codPartido": "CABA",
+    "comuna": "Comuna 6",
+    "coordenada_x": 100753.4610351969,
+    "coordenada_y": 101505.3514739977,
+    "direccion": "NEUQUEN Y BIEDMA, JOSE JUAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "NEUQUEN",
+    "nombreCalle_2": "BIEDMA, JOSE JUAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "057-064-003",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 906,
+    "codCalle_2": 2234,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98047.4766608166,
+    "coordenada_y": 104707.6249109879,
+    "direccion": "BURELA Y NAPOLES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BURELA",
+    "nombreCalle_2": "NAPOLES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-127-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

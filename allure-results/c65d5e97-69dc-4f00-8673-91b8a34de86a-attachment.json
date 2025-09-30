@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA LUGANO",
+    "barrioInf": null,
+    "codCalle_1": 196,
+    "codCalle_2": 2495,
+    "codPartido": "CABA",
+    "comuna": "Comuna 8",
+    "coordenada_x": 98516.1329100713,
+    "coordenada_y": 94667.5077245402,
+    "direccion": "RUCCI, JOSE IGNACIO Y AUTOPISTA DELLEPIANE LUIS TTE. GRAL.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RUCCI, JOSE IGNACIO",
+    "nombreCalle_2": "AUTOPISTA DELLEPIANE LUIS TTE. GRAL.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "080-078-041d",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

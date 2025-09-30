@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA CRESPO",
+    "barrioInf": null,
+    "codCalle_1": 493,
+    "codCalle_2": 659,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 101878.1641601103,
+    "coordenada_y": 102689.7420989508,
+    "direccion": "HIDALGO Y GANDHI, MAHATMA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "HIDALGO",
+    "nombreCalle_2": "GANDHI, MAHATMA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "047-091-016b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

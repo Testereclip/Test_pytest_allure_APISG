@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "FLORES",
+    "barrioInf": null,
+    "codCalle_1": 376,
+    "codCalle_2": 2049,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 101691.6094723483,
+    "coordenada_y": 98379.4061618784,
+    "direccion": "RIVA, GASTON Y LAUTARO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "RIVA, GASTON",
+    "nombreCalle_2": "LAUTARO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "044-048I-000W",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

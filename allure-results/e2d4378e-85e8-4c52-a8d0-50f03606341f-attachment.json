@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 313,
+    "codCalle_2": 1968,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 102642.8594727659,
+    "coordenada_y": 106707.4608485941,
+    "direccion": "MATIENZO, BENJAMIN, TENIENTE Y ARCE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MATIENZO, BENJAMIN, TENIENTE",
+    "nombreCalle_2": "ARCE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "023-092-005g",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

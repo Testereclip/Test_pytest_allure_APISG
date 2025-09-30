@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "COGHLAN",
+    "barrioInf": null,
+    "codCalle_1": 254,
+    "codCalle_2": 517,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98817.0547858523,
+    "coordenada_y": 106924.4686608133,
+    "direccion": "ROOSEVELT FRANKLIN D. Y TRONADOR",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ROOSEVELT FRANKLIN D.",
+    "nombreCalle_2": "TRONADOR",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "053-120-011c",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

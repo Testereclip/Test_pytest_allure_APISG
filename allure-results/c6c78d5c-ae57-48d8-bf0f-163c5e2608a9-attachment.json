@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 2068,
+    "codCalle_2": 2695,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96787.2579107068,
+    "coordenada_y": 100266.0077238573,
+    "direccion": "BERNALDES Y MURATURE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BERNALDES",
+    "nombreCalle_2": "MURATURE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-067-011b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

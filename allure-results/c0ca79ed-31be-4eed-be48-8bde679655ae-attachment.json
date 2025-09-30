@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 380,
+    "codCalle_2": 1517,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94803.8204112466,
+    "coordenada_y": 103850.882723355,
+    "direccion": "GUALEGUAYCHU Y GRIVEO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "GUALEGUAYCHU",
+    "nombreCalle_2": "GRIVEO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "083-038-001a",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

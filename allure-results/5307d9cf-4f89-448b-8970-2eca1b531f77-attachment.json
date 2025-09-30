@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PALERMO",
+    "barrioInf": null,
+    "codCalle_1": 220,
+    "codCalle_2": 2363,
+    "codPartido": "CABA",
+    "comuna": "Comuna 14",
+    "coordenada_x": 103431.9454099792,
+    "coordenada_y": 104185.8905364034,
+    "direccion": "SCALABRINI ORTIZ, RAUL AV. Y HONDURAS",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SCALABRINI ORTIZ, RAUL AV.",
+    "nombreCalle_2": "HONDURAS",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "019-030-007",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

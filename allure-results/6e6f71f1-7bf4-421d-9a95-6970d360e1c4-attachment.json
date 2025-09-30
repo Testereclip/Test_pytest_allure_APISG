@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA URQUIZA",
+    "barrioInf": null,
+    "codCalle_1": 756,
+    "codCalle_2": 842,
+    "codPartido": "CABA",
+    "comuna": "Comuna 12",
+    "coordenada_x": 98993.5391607732,
+    "coordenada_y": 106155.3514734041,
+    "direccion": "DONADO Y ECHEVERRIA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "DONADO",
+    "nombreCalle_2": "ECHEVERRIA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "051-095-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

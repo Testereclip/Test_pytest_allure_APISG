@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VELEZ SARSFIELD",
+    "barrioInf": null,
+    "codCalle_1": 911,
+    "codCalle_2": 2695,
+    "codPartido": "CABA",
+    "comuna": "Comuna 10",
+    "coordenada_x": 96461.6094732358,
+    "coordenada_y": 99972.9530363609,
+    "direccion": "CALDERON DE LA BARCA, PEDRO Y MURATURE",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "CALDERON DE LA BARCA, PEDRO",
+    "nombreCalle_2": "MURATURE",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "085-004A-023",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

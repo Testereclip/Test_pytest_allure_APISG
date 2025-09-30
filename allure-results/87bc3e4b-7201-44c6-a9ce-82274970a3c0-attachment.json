@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "VILLA DEVOTO",
+    "barrioInf": null,
+    "codCalle_1": 366,
+    "codCalle_2": 911,
+    "codPartido": "CABA",
+    "comuna": "Comuna 11",
+    "coordenada_x": 94275.4141611992,
+    "coordenada_y": 101994.6952235092,
+    "direccion": "MORAN, PEDRO Y CALDERON DE LA BARCA, PEDRO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "MORAN, PEDRO",
+    "nombreCalle_2": "CALDERON DE LA BARCA, PEDRO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "089-029A-008b",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

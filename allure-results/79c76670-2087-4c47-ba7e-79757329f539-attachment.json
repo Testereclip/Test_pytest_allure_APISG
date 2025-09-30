@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHAS",
+    "barrioInf": null,
+    "codCalle_1": 656,
+    "codCalle_2": 2234,
+    "codPartido": "CABA",
+    "comuna": "Comuna 15",
+    "coordenada_x": 98135.9688483104,
+    "coordenada_y": 104784.0467859844,
+    "direccion": "ALTOLAGUIRRE Y NAPOLES",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ALTOLAGUIRRE",
+    "nombreCalle_2": "NAPOLES",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "061-121-025",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

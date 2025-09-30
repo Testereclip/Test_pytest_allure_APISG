@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PARQUE CHACABUCO",
+    "barrioInf": null,
+    "codCalle_1": 242,
+    "codCalle_2": 1934,
+    "codPartido": "CABA",
+    "comuna": "Comuna 7",
+    "coordenada_x": 102722.1016597502,
+    "coordenada_y": 99218.2733493612,
+    "direccion": "BARCO CENTENERA DEL Y DIAZ, AVELINO",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "BARCO CENTENERA DEL",
+    "nombreCalle_2": "DIAZ, AVELINO",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-021-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

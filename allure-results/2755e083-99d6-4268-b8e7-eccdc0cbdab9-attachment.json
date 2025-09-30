@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "LINIERS",
+    "barrioInf": null,
+    "codCalle_1": 2500,
+    "codCalle_2": 742,
+    "codPartido": "CABA",
+    "comuna": "Comuna 9",
+    "coordenada_x": 94558.1094734566,
+    "coordenada_y": 99027.304598829,
+    "direccion": "VIEDMA, FRANCISCO DE Y BARRAGAN",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "VIEDMA, FRANCISCO DE",
+    "nombreCalle_2": "BARRAGAN",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "095-008-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

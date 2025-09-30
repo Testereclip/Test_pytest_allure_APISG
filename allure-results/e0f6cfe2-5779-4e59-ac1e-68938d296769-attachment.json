@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "NUEVA POMPEYA",
+    "barrioInf": null,
+    "codCalle_1": 1604,
+    "codCalle_2": 1932,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 102970.1563471672,
+    "coordenada_y": 98502.0467869481,
+    "direccion": "SOMELLERA Y DARACT AV.",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SOMELLERA",
+    "nombreCalle_2": "DARACT AV.",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "038-015B-026",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

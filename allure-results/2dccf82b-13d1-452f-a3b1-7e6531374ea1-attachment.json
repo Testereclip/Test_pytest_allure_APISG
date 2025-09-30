@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "PUERTO MADERO",
+    "barrioInf": null,
+    "codCalle_1": 1164,
+    "codCalle_2": 1910,
+    "codPartido": "CABA",
+    "comuna": "Comuna 1",
+    "coordenada_x": 109079.6051056306,
+    "coordenada_y": 102509.4101810077,
+    "direccion": "SAENZ, MANUELA Y DEALESSI, PIERINA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "SAENZ, MANUELA",
+    "nombreCalle_2": "DEALESSI, PIERINA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "098-005E-000",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}

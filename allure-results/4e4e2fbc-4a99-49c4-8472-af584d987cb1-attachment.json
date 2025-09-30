@@ -1,0 +1,26 @@
+{
+  "data": {
+    "altura": null,
+    "barrio": "BARRACAS",
+    "barrioInf": null,
+    "codCalle_1": 2520,
+    "codCalle_2": 2571,
+    "codPartido": "CABA",
+    "comuna": "Comuna 4",
+    "coordenada_x": 108499.4766588518,
+    "coordenada_y": 98559.2264748141,
+    "direccion": "ROCHA Y AZARA",
+    "manzanaInf": null,
+    "metodo_geocodificacion": "Interseccion entre Calles",
+    "nombreCalle_1": "ROCHA",
+    "nombreCalle_2": "AZARA",
+    "nombreLocalidad": "CABA",
+    "nombrePartido": "CABA",
+    "parcelaInf": null,
+    "sectorInf": null,
+    "smp": "010-031-001",
+    "tipoCatastro": "formal",
+    "tipoDireccion": "calle_calle"
+  },
+  "status_code": 200
+}
