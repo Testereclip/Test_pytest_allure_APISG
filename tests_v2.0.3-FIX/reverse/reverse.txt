@@ -1,0 +1,64 @@
+import requests
+import json
+import pandas as pd
+
+# Endpoints
+BASE_URL = "https://api-serviciosgeo-dev.gcba.gob.ar"  # <-- cámbialo por la URL real
+GEOCODER_ENDPOINT = f"{BASE_URL}/direcciones/geocoder"
+REVERSE_ENDPOINT = f"{BASE_URL}/coordenadas/reverse"
+
+# Cargar direcciones desde JSON
+with open("data/direcciones.json", encoding="utf-8") as f:
+    direcciones = json.load(f)
+
+resultados = []
+
+for item in direcciones:
+    direccion = item.get("direccion")
+    if not direccion:
+        continue
+
+    # 1. Llamar a geocoder
+    params_geo = {"direccion": direccion}
+    resp_geo = requests.get(GEOCODER_ENDPOINT, params=params_geo)
+
+    if resp_geo.status_code == 200:
+        data_geo = resp_geo.json().get("data", {})
+    else:
+        data_geo = {}
+
+    # Extraer coordenadas
+    x = data_geo.get("coordenada_x")
+    y = data_geo.get("coordenada_y")
+
+    # 2. Llamar a reverse si hay coordenadas
+    data_rev = {}
+    reverse_status = None
+    if x and y:
+        params_rev = {"x": x, "y": y}
+        resp_rev = requests.get(REVERSE_ENDPOINT, params=params_rev)
+        reverse_status = resp_rev.status_code
+        if reverse_status == 200:
+            data_rev = resp_rev.json().get("data", {})
+
+    # Guardar resultado consolidado
+    resultados.append({
+        "direccion_input": direccion,
+        "geocoder_status": resp_geo.status_code,
+        "geocoder_direccion": data_geo.get("direccion"),
+        "geocoder_barrio": data_geo.get("barrio"),
+        "geocoder_comuna": data_geo.get("comuna"),
+        "x": x,
+        "y": y,
+        "reverse_status": reverse_status,
+        "reverse_direccion": data_rev.get("direccion") if data_rev else None,
+        "reverse_barrio": data_rev.get("barrio") if data_rev else None,
+        "reverse_comuna": data_rev.get("comuna") if data_rev else None
+    })
+
+# Exportar resultados a Excel
+df = pd.DataFrame(resultados)
+df.to_excel("resultados_geocoder_reverse.xlsx", index=False)
+
+print("✅ Pruebas finalizadas. Resultados guardados en resultados_geocoder_reverse.xlsx")
+print(df.head())
