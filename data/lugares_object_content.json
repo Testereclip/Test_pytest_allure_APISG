@@ -11,7 +11,8 @@
         "telefonos": "4801-1698/3333",
         "designacion": "C2A",
         "nombre_anterior": "Comisaría 17"
-      }
+      },
+      "tipo_sitio": 16
     },
     {
       "id_objeto": "16-10",
@@ -24,7 +25,8 @@
         "telefonos": "4581-3155/ 4582-3333/4585-5458",
         "designacion": "C11A",
         "nombre_anterior": "Comisaría 41"
-      }
+      },
+      "tipo_sitio": 16
     },
     {
       "id_objeto": "12-63",
@@ -34,7 +36,8 @@
       "contenido": {
         "id": 63,
         "especialidades": "Pediatría - Odontología - Clínica Médica - Tocoginecología"
-      }
+      },
+      "tipo_sitio": 12
     },
     {
       "id_objeto": "6-1585",
@@ -44,7 +47,8 @@
       "contenido": {
         "id": 1585,
         "tipo": "PLAZA"
-      }
+      },
+      "tipo_sitio": 6
     },
     {
       "id_objeto": "1-30",
@@ -54,7 +58,8 @@
       "contenido": {
         "id": 30,
         "tipo": "Hospital General de Agudos"
-      }
+      },
+      "tipo_sitio": 1
     },
     {
       "id_objeto": "2-15",
@@ -64,7 +69,8 @@
       "contenido": {
         "id": 15,
         "tipo": "Hospital Especializado"
-      }
+      },
+      "tipo_sitio": 2
     },
     {
       "id_objeto": "3-2",
@@ -74,7 +80,8 @@
       "contenido": {
         "id": 2,
         "tipo": "Hospital de Niños"
-      }
+      },
+      "tipo_sitio": 3
     },
     {
       "id_objeto": "4-803",
@@ -84,7 +91,8 @@
       "contenido": {
         "id": 803,
         "tipo": "Institutos de Educación Superior de Formación Docente"
-      }
+      },
+      "tipo_sitio": 4
     },
     {
       "id_objeto": "5-156",
@@ -94,7 +102,8 @@
       "contenido": {
         "id": 156,
         "anclajes": 24
-      }
+      },
+      "tipo_sitio": 5
     },
     {
       "id_objeto": "6-82",
@@ -104,7 +113,8 @@
       "contenido": {
         "id": 82,
         "tipo": "CANTERO CENTRAL"
-      }
+      },
+      "tipo_sitio": 6
     },
     {
       "id_objeto": "7-628",
@@ -113,7 +123,8 @@
       "direccion_normalizada": "",     
       "contenido": {
         "id": 628
-      }
+      },
+      "tipo_sitio": 7
     },    
     {
       "id_objeto": "8-23",
@@ -123,7 +134,8 @@
       "contenido": {
         "id": 23,
         "cabeceras": "J. M. de Rosas - L. N. Alem"
-      }
+      },
+      "tipo_sitio": 8
     }
 
 
